@@ -1,18 +1,24 @@
-# Many Labs 1
+# Many Labs 2
 
-# Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Bahník, Š., Bernstein, M. J., … Nosek, B. a. (2014). Investigating Variation in Replicability. Social Psychology, 45(3), 142–152. https://doi.org/10.1027/1864-9335/a000178
+# Klein, R. A., Vianello, M., Hasselman, F., Adams, B. G., Adams, R. B., Alper, S., … Nosek, B. A. (2018). Many Labs 2: Investigating Variation in Replicability Across Samples and Settings. Advances in Methods and Practices in Psychological Science, 1(4), 443–490. https://doi.org/10.1177/2515245918810225
+
 
 # Packages ---------------------------------------
   if (!is.element("devtools", installed.packages()[,1]))  install.packages("devtools", dep = TRUE)
   if (!is.element("esci", installed.packages()[,1])) devtools::install_github(repo = "rcalinjageman/esci", dependencies = TRUE)
   if (!is.element("ggplot2", installed.packages()[,1])) install.packages("ggplot2", dep = TRUE)
   if (!is.element("metafor", installed.packages()[,1])) install.packages("metafor", dep = TRUE)
-  if (!is.element("foreign", installed.packages()[,1])) install.packages("foreign", dep = TRUE)
 
+  library(devtools)
   library(esci)
   library(ggplot2)
   library(metafor)
   library(foreign)
+
+
+library(devtools)
+devtools::source_url("https://raw.githubusercontent.com/ManyLabsOpenScience/manylabRs/master/R/manylabRs_SOURCE.R")
+1devtools::source_url("https://raw.githubusercontent.com/FredHasselman/invctr/master/R/invictor.R")
 
 
 # Parameters --------------------------
