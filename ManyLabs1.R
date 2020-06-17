@@ -1,5 +1,7 @@
 # Many Labs 1
 
+# Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Bahník, Š., Bernstein, M. J., … Nosek, B. a. (2014). Investigating Variation in Replicability. Social Psychology, 45(3), 142–152. https://doi.org/10.1027/1864-9335/a000178
+
 # Packages ---------------------------------------
   if (!is.element("devtools", installed.packages()[,1]))  install.packages("devtools", dep = TRUE)
   if (!is.element("esci", installed.packages()[,1])) devtools::install_github(repo = "rcalinjageman/esci", dependencies = TRUE)
