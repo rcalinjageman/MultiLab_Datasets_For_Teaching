@@ -1,0 +1,67 @@
+"","ResponseId","referrer","MindfulnessScale","SWBscale","sex","age","politics","party","armedservices","income","USresidency","RaceDichotomized","School_coded","EducationCoded","EducationDichotomized"
+"1","R_1mmHANqnUYq8Gxw","",3.73333333333333,3.66666666666667,NA,NA,"apolitical","democrat (2)",NA,NA,NA,NA,"",NA,NA
+"2","R_1QlwRZQj25rDCV1","",3.93333333333333,5.5,NA,NA,"liberal (2)","democrat (2)",NA,NA,NA,NA,"",NA,NA
+"32","R_1geEnXCe5qMGfZO","",4,4.16666666666667,"female",NA,"center (4)","conservative (6)",NA,"60-79,999","yes","Caucasian","","Not In College","no college"
+"33","R_2qf0JSUHc65wXdk","",4.26666666666667,2.5,"female",NA,"center (4)","middle (4)",NA,"40-59,999","no","Caucasian","","Not In College","some college"
+"34","R_3KOrlk5tCWhM3KO","",3.73333333333333,2.33333333333333,"male",NA,"liberal (2)","democrat (2)",NA,"20-39,999","yes","Caucasian","","Not In College","some college"
+"35","R_3JrUrPMQox4bula","",2.8,4.66666666666667,"male",NA,"liberal (2)","somewhat democrat (3)",NA,"under20,000","yes","Caucasian","","Not In College","some college"
+"65","R_2fcXjTkFaMIVioe","",2.66666666666667,5.5,"female",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"60-79,999","yes","Caucasian","McDaniel","Not In College","some college"
+"114","R_2ROCgN5HB4t5dFA","",2.53333333333333,3.16666666666667,"female",NA,"apolitical","independent",NA,"under20,000","yes","Caucasian","McDaniel","Currently In College","some college"
+"115","R_3GCh0yNP04oFxIJ","",4.86666666666667,5,"female",NA,"apolitical","democrat (2)",NA,"not say","yes","Other race/ethincity","McDaniel","Currently In College","some college"
+"116","R_3L0YmD1FVZvzrcA","",3.2,4.5,"female",NA,"apolitical","independent",NA,"not say","yes","Other race/ethincity","BallState","Currently In College","some college"
+"117","R_2QgLhCZzHeg4wfb","",3,4.16666666666667,"female",18,"apolitical","democrat (2)",NA,"not say","no","Other race/ethincity","GGwinnettC","Currently In College","some college"
+"118","R_3haV4DegsLuoZbH","",4.33333333333333,5.33333333333333,"female",19,"center (4)","somewhat democrat (3)",NA,"under20,000","yes","Caucasian","ParadiseVCC","Currently In College","some college"
+"119","R_1Iow2ggqjoOQNLD","",3.26666666666667,4.83333333333333,"female",20,"liberal (2)","somewhat democrat (3)",NA,"60-79,999","yes","Caucasian","NWNazarine","Currently In College","some college"
+"295","R_ANIm8rB487qLfIB","",3.13333333333333,5.16666666666667,"male",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"not say","yes","Caucasian","Bradley","Currently In College","some college"
+"679","R_1j9AE2WjinslqTb","",3.33333333333333,5.83333333333333,"female",NA,"conservative (6)","somewhat conservative (5)",NA,"100-199,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"680","R_3Gy4lgE7WgUep3O","",4,5,"female",NA,"somewhat conservative (5)","somewhat conservative (5)",NA,"100-199,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"681","R_10ID9IwsGTH8jKh","",4,2.33333333333333,"female",NA,"liberal (2)","democrat (2)",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"682","R_1Hd7MMP3FPcL7Bh","",4.73333333333333,5.83333333333333,"male",NA,"liberal (2)","democrat (2)",NA,"60-79,999","yes","Other race/ethincity","McDaniel","Currently In College","some college"
+"683","R_3ksKEHj1xjqiDrB","",4.46666666666667,3.83333333333333,"female",NA,"apolitical","independent",NA,"60-79,999","yes","Other race/ethincity","McDaniel","Currently In College","some college"
+"684","R_3GDSfqRUnItaHPu","",3.73333333333333,5.16666666666667,"female",NA,"liberal (2)","democrat (2)",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"685","R_1dEQbcs91OVCSCh","",3.73333333333333,5.16666666666667,"male",NA,"liberal (2)","democrat (2)",NA,"not say","no","Other race/ethincity","McDaniel","Currently In College","some college"
+"686","R_12F64OvWX2h8al3","",3,6,"female",NA,"center (4)","conservative (6)",NA,"under20,000","yes","Caucasian","McDaniel","Currently In College","some college"
+"687","R_2ZX4NN5eIfOo70T","",3.46666666666667,6.16666666666667,"female",NA,"liberal (2)","democrat (2)",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"688","R_3QFAmEJKFiSsJH4","",5.06666666666667,7,"female",NA,"liberal (2)","strongly democrat (1)",NA,"80-99,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"689","R_1mEhEACOJVQMVz9","",4.13333333333333,2.16666666666667,"female",NA,"apolitical","independent",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"690","R_2rnYv7kWx2WD4X1","",1.73333333333333,5,"female",NA,"strongly conservative (7)","strongly conservative (7)",NA,"80-99,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"691","R_6LNfYfEKADrYXqF","",3.53333333333333,4.33333333333333,"female",NA,"somewhat conservative (5)","conservative (6)",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"692","R_2U3okKMqEwmJsag","",1.33333333333333,3.16666666666667,"female",NA,"strongly liberal (1)","strongly democrat (1)",NA,"20-39,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"693","R_1DYF6fdTtLfPGT4","",3.93333333333333,5.5,"female",NA,"liberal (2)","strongly democrat (1)",NA,"80-99,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"694","R_vJlMJBV6y4VajjH","",4.86666666666667,3.16666666666667,"female",NA,"liberal (2)","democrat (2)",NA,"200-999,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"695","R_3oT0BJ91gQYDzLr","",4.2,4.16666666666667,"female",NA,"center (4)","middle (4)",NA,"not say","yes","Caucasian","McDaniel","Currently In College","some college"
+"696","R_2YA3bFWijTBt5vL","",3.73333333333333,6,"female",NA,"somewhat conservative (5)","conservative (6)",NA,"80-99,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"697","R_33xxnAIWYltFKLQ","",4.46666666666667,5.16666666666667,"female",NA,"center (4)","middle (4)",NA,"100-199,999","yes","Caucasian","McDaniel","Currently In College","some college"
+"2624","R_2fHZPsMceqcMNQ0","",3.6,5.16666666666667,"female",NA,"liberal (2)","democrat (2)",NA,"under20,000","yes","Caucasian","","Completed 2 year degree","some college"
+"2625","R_24eiFGMoEKXgfJV","",4.33333333333333,5.33333333333333,"female",NA,"liberal (2)","strongly democrat (1)",NA,"100-199,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2626","R_2ebztD05evtHR2c","",3.73333333333333,4.5,"male",NA,"center (4)","somewhat democrat (3)",NA,"80-99,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2627","R_3OdHCVuneJj8fPL","",4.26666666666667,6,"female",NA,"liberal (2)","somewhat democrat (3)",NA,"40-59,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2628","R_pfIlWSQgLvSIyJ3","",3.66666666666667,4.83333333333333,"female",NA,"liberal (2)","democrat (2)",NA,"20-39,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2629","R_2ZKZMA7rXxQoi2S","",3.66666666666667,6.5,"female",NA,"somewhat conservative (5)","conservative (6)",NA,"80-99,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2630","R_2wnRbjDh8GTWVUJ","",4.73333333333333,3.16666666666667,"female",NA,"center (4)","democrat (2)",NA,"100-199,999","yes","Other race/ethincity","","Completed 2 year degree","some college"
+"2631","R_1pRKOid6j4C5yTT","",2.6,3,"female",NA,"somewhat liberal (3)","democrat (2)",NA,"20-39,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2632","R_27yuoqIcXsYY3tl","",3.73333333333333,5.33333333333333,"female",NA,"somewhat conservative (5)","conservative (6)",NA,"100-199,999","yes","Caucasian","","Completed 2 year degree","some college"
+"2633","R_2qdU9n24Ti2XkJf","",3.93333333333333,4,"female",NA,"somewhat conservative (5)","somewhat conservative (5)",NA,"20-39,999","yes","Caucasian","BaltimoreCC","Completed 2 year degree","some college"
+"2669","R_3pbc87w1PIHYVAj","",3.93333333333333,4.5,"female",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"20-39,999","no","Caucasian","McDaniel","Completed 2 year degree","some college"
+"2803","R_0BRR4WuOgQsX7Zr","",2.73333333333333,4.16666666666667,"male",NA,"liberal (2)","somewhat democrat (3)",NA,"under20,000","yes","Other race/ethincity","Indiana","Completed 4 year degree","some college"
+"2804","R_30uz2LZr9cSBaHA","",4.26666666666667,5.66666666666667,"female",NA,"center (4)","somewhat democrat (3)",NA,"100-199,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2805","R_s83qscBROEGLD6p","",3.33333333333333,3.83333333333333,"female",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"40-59,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2806","R_Q68W4iyitSVOxq1","",5.46666666666667,5.66666666666667,"female",NA,"apolitical","conservative (6)",NA,"40-59,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2807","R_1HejK7J6PtwHNc5","",4.8,4,"female",NA,"center (4)","middle (4)",NA,"20-39,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2808","R_1re5uNvR8Cmvpto","",4.13333333333333,5,"female",NA,"somewhat liberal (3)","democrat (2)",NA,"under20,000","yes","Other race/ethincity","","Completed 4 year degree","some college"
+"2809","R_3rOftQIMTajEheL","",2.86666666666667,3.33333333333333,"male",NA,"somewhat liberal (3)","middle (4)",NA,"40-59,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2810","R_1Fh9c0RHPNan3VY","",3.13333333333333,3.66666666666667,"male",NA,"liberal (2)","somewhat democrat (3)",NA,"20-39,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2811","R_3oKKDwlr32EpfE6","",4.2,5.5,"female",NA,"apolitical","independent",NA,"20-39,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2812","R_2xWySWycXfxMLTj","",5.26666666666667,2.83333333333333,"female",NA,"apolitical","independent",NA,"not say","yes","Caucasian","","Completed 4 year degree","some college"
+"2813","R_1pGUWLGVawOxHUJ","",4.73333333333333,5.5,"male",NA,"strongly liberal (1)","strongly conservative (7)",NA,"60-79,999","yes","Caucasian","","Completed 4 year degree","some college"
+"2853","R_1gtqnTOd8h8RCMG","",3.6,6,"male",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"40-59,999","yes","Other race/ethincity","McDaniel","Completed 4 year degree","some college"
+"2940","R_3gYmhtC4EdtD8Yz","",4.46666666666667,5.33333333333333,"female",NA,"liberal (2)","democrat (2)",NA,"40-59,999","yes","Caucasian","","Graduate Education",NA
+"2941","R_29cA8MrCnsDzs7G","",3.66666666666667,6.33333333333333,"female",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"80-99,999","yes","Caucasian","","Graduate Education",NA
+"2942","R_5AReMDX307CEki9","",4.26666666666667,4.16666666666667,"female",NA,"liberal (2)","strongly democrat (1)",NA,"under20,000","yes","Caucasian","Illinois","Graduate Education",NA
+"2943","R_3Ge748SlAaui82Y","",3.93333333333333,5.83333333333333,"female",NA,"liberal (2)","democrat (2)",NA,"20-39,999","yes","Caucasian","Loyola-MD","Graduate Education",NA
+"2944","R_PvuHAg8HK0C0MG5","",3.53333333333333,4.33333333333333,"female",NA,"center (4)","democrat (2)",NA,"40-59,999","yes","Caucasian","","Graduate Education",NA
+"2945","R_vdgvyY8llNSDDEZ","",3.73333333333333,5.16666666666667,"female",NA,"strongly liberal (1)","strongly democrat (1)",NA,"not say","yes","Caucasian","","Graduate Education",NA
+"2946","R_2UawiHHao41RGQn","",3.46666666666667,6.83333333333333,"female",NA,"liberal (2)","strongly democrat (1)",NA,"60-79,999","yes","Caucasian","UofMiami","Graduate Education",NA
+"2947","R_3L73ERHXVTjkSB9","",3.66666666666667,4.83333333333333,"female",NA,"liberal (2)","democrat (2)",NA,"60-79,999","yes","Caucasian","","Graduate Education",NA
+"2948","R_3PFGleZRa3xtZsC","",3.8,5.33333333333333,"female",NA,"liberal (2)","somewhat democrat (3)",NA,"20-39,999","yes","Other race/ethincity","UofMiami","Graduate Education",NA
+"2949","R_1jNChEwStapm2fw","",3,4.5,"female",NA,"liberal (2)","democrat (2)",NA,"under20,000","yes","Caucasian","UofMiami","Graduate Education",NA

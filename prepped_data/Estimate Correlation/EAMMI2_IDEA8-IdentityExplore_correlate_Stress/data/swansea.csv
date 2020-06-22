@@ -1,0 +1,185 @@
+"","ResponseId","referrer","IDEA8_identity","Stress","sex","age","politics","party","armedservices","income","USresidency","RaceDichotomized","School_coded","EducationCoded","EducationDichotomized"
+"28","R_2uWYNk1lA4vG7gT","swansea",3.5,2.4,NA,NA,"apolitical","independent",NA,NA,NA,NA,"",NA,NA
+"30","R_dnGlAU4RqGrSNJb","swansea",4,3.2,NA,NA,"strongly liberal (1)","strongly democrat (1)",NA,NA,NA,NA,"",NA,NA
+"104","R_8e9RhfBQ11aXDAV","swansea",3,3.4,"male",NA,"liberal (2)","middle (4)",NA,"200-999,999","no","Caucasian","Swansea","Not In College","no college"
+"105","R_6GajKVUZeGW4oEB","swansea",4,2.9,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Not In College","no college"
+"2312","R_1mxzJfrWWuGgdBZ","swansea",4,3.3,"female",NA,"liberal (2)","somewhat democrat (3)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2313","R_1rqs1YbDEtnpuGz","swansea",3.5,3.1,"male",NA,"apolitical","independent",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2314","R_1dM5UPxM3Aba6E0","swansea",4,3,"female",NA,"somewhat liberal (3)","conservative (6)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2315","R_31vJx6wF0RMRIkQ","swansea",3.5,3.5,"female",NA,"somewhat liberal (3)","conservative (6)",NA,"100-199,999","no","Caucasian","Swansea","Currently In College","some college"
+"2316","R_3GuZXElKNcIc4ut","swansea",4,2,"female",NA,"center (4)","democrat (2)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2317","R_3OdIb8lfp118G4C","swansea",2,3.1,"female",NA,"center (4)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2318","R_r8rDOSPDzNPpBOp","swansea",4,3,"female",NA,"liberal (2)","strongly conservative (7)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2319","R_2zkGtkKhO9b9TwF","swansea",3.5,2.9,"male",NA,"center (4)",NA,NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2320","R_3Ed8i9raTwFWEkS","swansea",3.5,2.3,"female",NA,"liberal (2)","democrat (2)",NA,"100-199,999","no","Caucasian","","Currently In College","some college"
+"2321","R_1ib67dwq2LuoRDE","swansea",3.5,2.5,"male",NA,"conservative (6)","conservative (6)",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2322","R_s5cpwgYPZxz2HwB","swansea",3,2.5,"male",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2323","R_22Q9siinMP5OxO1","swansea",3.5,2.4,"female",NA,"liberal (2)","democrat (2)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2324","R_piUtNyNLEjoaK1b","swansea",3,3.1,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2325","R_s6Gk0mY6dgsgPFn","swansea",3.5,2.7,"female",NA,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2326","R_UapRCybZgVkQqNb","swansea",4,3.3,"female",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2327","R_2tmQ0F2kqMJTPGP","swansea",3.5,2.4,"male",NA,"apolitical","middle (4)",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2328","R_21u0VMFUVqlTu85","swansea",3.5,2.4,"female",NA,"strongly liberal (1)","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2329","R_3nrpVcP4br2sDGO","swansea",4,3.2,"female",NA,"strongly liberal (1)","middle (4)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2330","R_2sYhQD3m0wQc2lw","swansea",3,3.2,"female",NA,"conservative (6)","conservative (6)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2331","R_0wS0wVx2djmhoyx","swansea",4,2.5,"female",NA,"somewhat conservative (5)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2332","R_enuyuiY0BRmRYln","swansea",3.5,2.7,"female",NA,"center (4)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2333","R_21hQx8ieDi5WE0r","swansea",4,3.1,"female",NA,"center (4)","somewhat conservative (5)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2334","R_79sHpMajO1QJjPn","swansea",3.5,3.2,"female",NA,"center (4)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2335","R_3JznL8Un8o5G7wJ","swansea",4,2.6,"female",NA,"somewhat conservative (5)","democrat (2)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2336","R_8BXCMfCf54uv3dr","swansea",3,3.8,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2337","R_2c8FA3bUci5JtnS","swansea",3,3.2,"female",NA,"strongly liberal (1)","strongly democrat (1)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2338","R_d9XRar4SxhJu9ud","swansea",3.5,4.1,"female",NA,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2339","R_9Hc1DJtGJTRc7kN","swansea",3,2.8,"female",NA,"apolitical",NA,NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2340","R_0uouoAArB6DgFZr","swansea",3,3.1,"female",NA,"liberal (2)","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2341","R_9BIcfcFUElzBXlb","swansea",4,2.5,"male",NA,"conservative (6)","somewhat democrat (3)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2342","R_a2WkGm1rTtxOyjP","swansea",3,1.7,"female",NA,"apolitical","somewhat democrat (3)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2343","R_0SSfg5WWjL2Pv2l","swansea",3.5,2.2,"male",21,"conservative (6)","somewhat conservative (5)",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2344","R_2EuVXWhe54ei9ez","swansea",4,2.4,"female",21,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2345","R_3PYRD6KTKi6l6Gn","swansea",3,2.8,"female",19,"liberal (2)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2346","R_5jAaw0jfvuGNin3","swansea",3,3.6,"male",19,"strongly liberal (1)","strongly conservative (7)",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2347","R_0U2W1vrCUsbD3Tv","swansea",2,4.1,"female",19,"liberal (2)","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2348","R_ahjOFs8RQJV21Fz","swansea",4,2.6,"female",19,"liberal (2)","somewhat democrat (3)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2349","R_6JrImSxVFklhD7v","swansea",4,2.4,"female",19,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2350","R_00cbdktvaY86PbL","swansea",4,2.3,"female",21,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2351","R_6m1TuXvLcz1myLb","swansea",4,2.6,"male",19,"center (4)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2352","R_eIL5vl1fcGv3zo1","swansea",2.5,2.9,"male",19,"somewhat conservative (5)","independent",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2353","R_bvmGc3r6OV2EnfT","swansea",3,2.3,"male",19,"somewhat conservative (5)","middle (4)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2354","R_1o6HGlc2afW3lVL","swansea",4,3.5,"female",20,"apolitical","independent",NA,"60-79,999","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2355","R_cJhKbt8ERAndxBf","swansea",3,4.9,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2356","R_sz1qXSQQ6rVDDGh","swansea",3.5,2.8,"female",21,"somewhat conservative (5)","democrat (2)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2357","R_21vWu6UbjIt1fpq","swansea",2.5,3.2,"female",19,"apolitical","independent",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2358","R_2D2EVE9AzCukUNE","swansea",4,3.1,"female",20,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2359","R_erIbcGVlNK1s7FX","swansea",3,3.6,"female",19,"liberal (2)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2360","R_0DO7VdrACYNGD4x","swansea",4,4.5,"female",20,"liberal (2)","middle (4)",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2361","R_6iiIuQP5twUXQOx","swansea",2,2.9,"male",20,"liberal (2)","conservative (6)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2362","R_e4ZVTQUM2LzPbp3","swansea",4,3.3,"female",20,"liberal (2)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2363","R_1JW9QH2bGXzMF5K","swansea",3.5,2.5,"female",21,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2364","R_27q9FY5HsZM15m7","swansea",3,3.6,"female",20,"liberal (2)","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2365","R_1CEpgpuL7KJHYEi","swansea",3.5,2.7,"female",20,"liberal (2)","strongly democrat (1)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2366","R_73eoTiMsBqlA7FX","swansea",4,3.6,"female",19,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2367","R_74yxEHnkw7vDUrP","swansea",3.5,2.7,"female",19,"center (4)","democrat (2)",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2368","R_d6ZkKb9wcx0gN9z","swansea",3,3,"male",18,"somewhat conservative (5)","somewhat conservative (5)","yes","60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2369","R_dmw9mhc1JgbtdIh","swansea",4,2.4,"male",20,"liberal (2)","somewhat democrat (3)",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2370","R_bpfp6WShNh4sB33","swansea",4,3.1,"female",20,"center (4)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2371","R_8HwSi6mINvX8phz","swansea",4,2.9,"female",20,"conservative (6)","conservative (6)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2372","R_3MPxBg1W6Q0xsIL","swansea",4,4.5,"female",19,"apolitical","somewhat conservative (5)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2373","R_6nf3g2zCYG14oTj","swansea",4,3.3,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2374","R_0jkTKwF8erY09ed","swansea",3.5,2,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2375","R_6EkjQvb0OXJ3s4R","swansea",3,3.4,"female",19,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2376","R_6PYiG5vPZTFUAG9","swansea",3,3.5,"female",20,"center (4)","independent",NA,"under20,000","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2377","R_3IsVfMKFBMRgrq9","swansea",3.5,4.2,"female",19,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2378","R_6PBKU4S75EiNpYN","swansea",3,2.1,"female",19,"liberal (2)","strongly democrat (1)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2379","R_3Kv9n8Efa6gIbyJ","swansea",3,3.8,"female",19,"somewhat conservative (5)","somewhat conservative (5)",NA,"under20,000","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2380","R_56JkJNGXIv48ACh","swansea",3.5,2.4,"female",19,"liberal (2)","strongly democrat (1)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2381","R_4IQ2DufmbIOcLnD","swansea",3.5,3.1,"female",19,"liberal (2)","somewhat democrat (3)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2382","R_1QQkUR348XDxBEF","swansea",4,2.3,"male",18,"liberal (2)","strongly democrat (1)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2383","R_07h1OLlzcoZj7Q9","swansea",3.5,1.8,"male",20,"liberal (2)","middle (4)",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2384","R_7UGJp19c782lyjr","swansea",4,3.9,"female",20,"apolitical","independent",NA,"20-39,999","no","Caucasian","Swansea","Currently In College","some college"
+"2385","R_1OTbBBLJB5oq9vb","swansea",4,3.1,"female",20,"liberal (2)","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2386","R_Dc1W7DjgHHqklj3","swansea",3,3.4,"male",19,"liberal (2)","strongly democrat (1)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2387","R_ezb6GBMXhnMRpEF","swansea",3.5,2.7,"female",20,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2388","R_1Syyhi5OrLfM5gN","swansea",2.5,4.2,"male",18,"apolitical","independent",NA,"40-59,999","no","Caucasian","Swansea","Currently In College","some college"
+"2389","R_cSirjSVeXulBqkd","swansea",3,3.6,"female",20,"somewhat conservative (5)",NA,NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2390","R_5oM1cySug2N9K0R","swansea",4,3.4,"female",19,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2391","R_3PZCMvFuKiA1uGY","swansea",3.5,2.6,"female",19,"somewhat liberal (3)","middle (4)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2392","R_1eRDkVMrVWovIEh","swansea",3.5,3.2,"female",19,"center (4)","middle (4)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2393","R_vw1GVn3jYIKrn7X","swansea",3.5,4,"female",19,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2394","R_8Cjl6eSwg8MGSwJ","swansea",3.5,3.9,"female",19,"liberal (2)","strongly democrat (1)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2395","R_26bwHuXtA4vy7Br","swansea",4,2.4,"female",19,"liberal (2)","somewhat democrat (3)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2396","R_2wa7p1ctsPDDGW9","swansea",4,2.7,"female",19,"liberal (2)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2397","R_eLnGFpeWXAXeneR","swansea",4,2.5,"female",20,"center (4)","independent",NA,"under20,000","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2398","R_0HfQhzNjRXj43oF","swansea",3.5,3,"female",19,"liberal (2)","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Currently In College","some college"
+"2399","R_QfFU3ntEZuMRDbP","swansea",3,3.5,"female",20,NA,"independent",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2400","R_b2vwtgy69o8vmq9","swansea",4,4,"female",19,"somewhat liberal (3)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2401","R_4MwoEhbsQDonPQF","swansea",4,2.8,"female",22,"center (4)","middle (4)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2402","R_a48Dnb7THey8zTT","swansea",3,3.7,"female",19,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2403","R_0fuW0LxSw8UBdNb","swansea",4,1.3,"female",20,"somewhat conservative (5)","conservative (6)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2404","R_af1WR06HmKdTG1T","swansea",3,2.3,"male",19,"liberal (2)","democrat (2)",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2405","R_cHe5M2Kdc1bM8UR","swansea",2,2.6,"male",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2406","R_PvqqnpALEAKOAuJ","swansea",3,4.2,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2407","R_2OTFPwXVgcBKdHb","swansea",3,3.1,"male",20,"apolitical","independent",NA,"60-79,999","no","Caucasian","Swansea","Currently In College","some college"
+"2408","R_2tMd9dYOVKfEJza","swansea",3.5,2.1,"female",20,"apolitical","independent",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2409","R_e8ORFmQpEBOgXoV","swansea",4,3,"male",21,"liberal (2)","strongly democrat (1)",NA,"not say","no","Other race/ethincity","Swansea","Currently In College","some college"
+"2410","R_afuKasHJ7b8dnWl","swansea",4,4.5,"female",19,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2411","R_8zW3AkBdE4KTcWx","swansea",3,4.4,"female",21,"liberal (2)","independent",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2412","R_PtgnDQIV6cmkRdn","swansea",3.5,4.2,"female",19,"apolitical","middle (4)",NA,"80-99,999","no","Caucasian","Swansea","Currently In College","some college"
+"2413","R_0cVogNKh17252Lf","swansea",3.5,3.3,"female",19,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Currently In College","some college"
+"2787","R_3oSI5FB02TDZWGb","swansea",2,2,"female",NA,"center (4)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2788","R_21pRve8jNsKOjse","swansea",4,4.1,"female",NA,"center (4)","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2789","R_22JFUrUODLx4WRA","swansea",2.5,2.1,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2790","R_a8VEtJI0hLTLunj","swansea",3,3,"female",NA,"strongly liberal (1)","strongly democrat (1)",NA,"40-59,999","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2791","R_3kiW1KmPFXTs1Zy","swansea",4,3,"female",NA,"center (4)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2792","R_yUqMuFeWrmCoGgF","swansea",4,3.4,"female",NA,"liberal (2)","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2793","R_55ulXlPjHIrw9sp","swansea",3.5,2.2,"female",NA,"somewhat liberal (3)","middle (4)",NA,"not say","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2794","R_9SIEnauAGoBJt2t","swansea",3,4.4,"female",NA,"somewhat conservative (5)","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2795","R_24oB7oRqG0IEV7k","swansea",4,3.1,"female",22,"liberal (2)","middle (4)",NA,"under20,000","no","Other race/ethincity","Swansea","Completed 2 year degree","some college"
+"2796","R_eh45ae8dsC45x4x","swansea",4,2.9,"female",21,"somewhat conservative (5)","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2797","R_29najI8zvRsyacl","swansea",3,2.8,"female",20,"somewhat conservative (5)","independent",NA,"60-79,999","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2799","R_2VJjfH99SB0XfY3","swansea",2.5,2.9,"female",19,"apolitical",NA,NA,"not say","no","Other race/ethincity","Swansea","Completed 2 year degree","some college"
+"2800","R_6L6wojL16Kb7TRr","swansea",3,2.6,"male",20,"conservative (6)","middle (4)",NA,"100-199,999","no","Caucasian","Swansea","Completed 2 year degree","some college"
+"2931","R_9vJcN6ZwrYK469L","swansea",3.5,3,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Completed 4 year degree","some college"
+"2932","R_1IN5zdZz02mM3jd","swansea",3,2.9,"female",19,"center (4)","middle (4)",NA,NA,"no","Other race/ethincity","Swansea","Completed 4 year degree","some college"
+"2933","R_324jJF7DbO6KJJw","swansea",3.5,2.2,"other",24,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Completed 4 year degree","some college"
+"2934","R_3RkGHLx80XDkOie","swansea",3.5,3.4,"female",25,"somewhat liberal (3)","democrat (2)",NA,"20-39,999","no","Caucasian","Swansea","Completed 4 year degree","some college"
+"2935","R_1CwkvKOZlYs2hfH","swansea",3.5,2.1,"female",25,"liberal (2)","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Completed 4 year degree","some college"
+"3072","R_2qkiAgZRPTRrecd","swansea",3.5,3.1,"female",NA,"somewhat conservative (5)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3073","R_21dnTXIKIxe4ObJ","swansea",2.5,3.8,"female",NA,"liberal (2)","democrat (2)",NA,"60-79,999","no","Caucasian","Swansea","Graduate Education",NA
+"3074","R_2bNS854ENg0yvIk","swansea",3.5,3,"female",NA,"center (4)","somewhat conservative (5)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3075","R_2Ez6YhCstmUZ53L","swansea",3.5,3.3,"male",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3076","R_3EaGvztKO5ljJwq","swansea",4,3,"male",NA,"somewhat liberal (3)","somewhat democrat (3)",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3077","R_3g7wCmWNd8WbQIX","swansea",4,3.1,"female",NA,"liberal (2)","middle (4)",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3078","R_XgL6LNATJyhxjTH","swansea",3.5,3.8,"female",NA,"somewhat conservative (5)","independent",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3079","R_bmCYP0ANKJrnmnP","swansea",3,2.5,"female",NA,"apolitical","independent",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3080","R_3dCc1K8JeK60ZN3","swansea",4,4.6,"female",NA,"strongly liberal (1)","democrat (2)",NA,NA,"no","Caucasian","Swansea","Graduate Education",NA
+"3081","R_9zZSf2GpT2aRSM5","swansea",3.5,2.5,"male",NA,"apolitical","independent",NA,NA,"no","Caucasian","Swansea","Graduate Education",NA
+"3082","R_9tynDOrZuqSO5fL","swansea",3.5,4.5,"male",NA,"strongly conservative (7)","strongly conservative (7)",NA,"100-199,999","no","Caucasian","Swansea","Graduate Education",NA
+"3083","R_1ZkGmQLLqzME5kF","swansea",3,3.3,"female",NA,"apolitical","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3084","R_5hDRybkgC7sd55P","swansea",3.5,3.1,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","","Graduate Education",NA
+"3085","R_3yEKuCds84RwLsx","swansea",3,3.5,"female",NA,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3086","R_b3gztCIEZDnTULr","swansea",4,2.8,"female",NA,"somewhat conservative (5)","middle (4)",NA,"under20,000","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3087","R_eJcxFL8hEuFATid","swansea",4,2.7,"female",NA,"center (4)","somewhat democrat (3)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3088","R_0IhahecRrYVPWQZ","swansea",2.5,4,"male",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3089","R_3putlb1mJ8u99Yu","swansea",2.5,2.6,"female",NA,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3090","R_beh2S7qQsGfc7oV","swansea",4,2.3,"male",22,"liberal (2)","strongly democrat (1)",NA,"40-59,999","no","Caucasian","Swansea","Graduate Education",NA
+"3091","R_a5h2zrI5d4izXWR","swansea",4,2.6,"female",19,"center (4)","middle (4)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3092","R_3Wc9yYVWSHKirDD","swansea",3.5,3.6,"female",19,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3093","R_dhuzQpBGbRJEKRj","swansea",4,3,"female",20,"strongly liberal (1)","democrat (2)",NA,"200-999,999","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3094","R_2rIryucivA7dxvi","swansea",1.5,2.8,"female",20,"center (4)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3095","R_2OUYSvWCBDxCBYR","swansea",4,2.3,"male",21,"center (4)","somewhat conservative (5)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3096","R_qCqQZDAJ0CW5EmB","swansea",3.5,2.7,"male",19,"apolitical","independent",NA,"not say","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3097","R_4SkVIwj3c6WhdGp","swansea",3.5,2.8,"female",19,"liberal (2)","strongly democrat (1)",NA,"40-59,999","no","Caucasian","Swansea","Graduate Education",NA
+"3098","R_9XmDB6aGyYJ9Nhb","swansea",4,3.3,"female",20,"apolitical","independent",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3099","R_3IR3uBU6Ai5qTWF","swansea",4,3,"female",19,"somewhat liberal (3)","middle (4)",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3100","R_1TXfSlc3Y55YM5L","swansea",4,4,"female",19,"somewhat liberal (3)","conservative (6)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3101","R_d4Lks4ZR4tEpG0R","swansea",4,3.6,"male",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3102","R_0Ujo9ij5Prw5p5z","swansea",2.5,2.5,"male",23,"somewhat conservative (5)","somewhat conservative (5)",NA,"80-99,999","no","Caucasian","Swansea","Graduate Education",NA
+"3103","R_1B2ErY9UgFeBC9n","swansea",3,3.1,"female",20,"somewhat liberal (3)","somewhat democrat (3)",NA,"40-59,999","no","Caucasian","Swansea","Graduate Education",NA
+"3104","R_dfYPBXw2uoOlghv","swansea",4,4,"female",20,"liberal (2)","democrat (2)",NA,"80-99,999","no","Caucasian","Swansea","Graduate Education",NA
+"3105","R_6GnYmxRW1v4LLLL","swansea",3,2.2,"female",19,"strongly liberal (1)","strongly democrat (1)",NA,"100-199,999","no","Caucasian","Swansea","Graduate Education",NA
+"3106","R_0OIVG4OddeIkBA9","swansea",2,3.9,"female",19,"apolitical","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3107","R_bCa9abwZjivZn4p","swansea",3.5,3.6,"female",18,"somewhat liberal (3)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3108","R_1fkkdehLmm3RFdN","swansea",4,2.1,"male",19,"center (4)","middle (4)",NA,"60-79,999","no","Caucasian","Swansea","Graduate Education",NA
+"3109","R_1LVC2fsUGiuh17D","swansea",3.5,2.4,"female",19,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3110","R_1Lta2GAMFog36xX","swansea",3,4.6,"female",19,"apolitical","independent",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3111","R_895ijfB3dRiUb3f","swansea",3,3.6,"female",20,"somewhat conservative (5)","somewhat democrat (3)",NA,"20-39,999","no","Caucasian","Swansea","Graduate Education",NA
+"3112","R_6im3pZ4YhBgntJP","swansea",3,3,"male",20,"conservative (6)","independent",NA,"100-199,999","no","Caucasian","Swansea","Graduate Education",NA
+"3113","R_2bqd5qPMsMyEsWp","swansea",3.5,3.4,"female",21,"liberal (2)","strongly democrat (1)",NA,"60-79,999","no","Caucasian","Swansea","Graduate Education",NA
+"3114","R_e8rGzry75tktBqt","swansea",3.5,3.4,"female",20,"liberal (2)","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3115","R_0SMFGU1spnVkY4Z","swansea",3,2.8,"female",20,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3116","R_2PbzAtGS9chgtE5","swansea",4,3,"female",19,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3117","R_brRPtq8zCn2ONFj","swansea",3,3.4,"female",19,"apolitical","middle (4)",NA,"40-59,999","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3118","R_DohjT555aglFdgR","swansea",3,1.8,"male",29,"somewhat liberal (3)","somewhat democrat (3)",NA,"under20,000","no","Caucasian","","Graduate Education",NA
+"3119","R_NWQVbQ0NSCs63a9","swansea",4,3,"female",23,"apolitical","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3120","R_9ZHUe218AeH1HN3","swansea",2.5,3.3,"male",20,"apolitical","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3121","R_egtDtJy5XsE5rNj","swansea",3,4.1,"female",19,"apolitical","democrat (2)",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3122","R_6WmrTiKCpsqZT4F","swansea",4,3,"female",19,"apolitical","democrat (2)",NA,"not say","no","Caucasian","","Graduate Education",NA
+"3123","R_emoti2XniZuE3Tn","swansea",3.5,2.3,"male",20,"apolitical","independent",NA,"20-39,999","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3124","R_3dX8yeUYzJUwz9r","swansea",3,3.4,"female",19,"somewhat conservative (5)","somewhat democrat (3)",NA,"60-79,999","no","Caucasian","Swansea","Graduate Education",NA
+"3125","R_6JpcZFsR9H3Vh9X","swansea",3,3,"other",19,"center (4)","middle (4)",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3126","R_2vYvGc1Nfp1VzAn","swansea",4,3.2,"female",NA,"somewhat liberal (3)","independent",NA,"not say","no","Caucasian","Swansea","Graduate Education",NA
+"3127","R_33ll9Q8YNCQlRig","swansea",3,3.2,"female",21,"apolitical","independent",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3128","R_d45ErdaQ8N3IsXb","swansea",2.5,3,"female",19,"liberal (2)","independent",NA,"20-39,999","no","Other race/ethincity","Swansea","Graduate Education",NA
+"3129","R_2xxifLWEHcVsq9Z","swansea",3,2.8,"male",19,"apolitical","democrat (2)",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
+"3130","R_2zY0LlGxAYa5Z1W","swansea",2.5,2.4,"female",19,"somewhat liberal (3)","democrat (2)",NA,"80-99,999","no","Caucasian","Swansea","Graduate Education",NA
+"3131","R_1QAX3fq23TUxOTz","swansea",4,3.4,"male",22,"liberal (2)","strongly democrat (1)",NA,"under20,000","no","Caucasian","Swansea","Graduate Education",NA
