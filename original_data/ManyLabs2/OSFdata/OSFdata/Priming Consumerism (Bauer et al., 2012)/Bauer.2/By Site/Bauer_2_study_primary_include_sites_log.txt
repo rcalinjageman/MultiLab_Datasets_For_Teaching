@@ -1,0 +1,237 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~BAUER.2~~~~~~~
+	# 18 Bauer.2 - START
+
+	# 
+	# 18 Bauer.2 - aus: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - aus >> ES r is close to 0:  0
+	# 
+	# 18 Bauer.2 - badaniaon: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - bc: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - bilgi: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - brasilia: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - brasilia >> ES r is close to 0:  0
+	# 
+	# 18 Bauer.2 - cas: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - castab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - doshisha: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - doshisha >> ES r is close to 0:  0.03
+	# 
+	# 18 Bauer.2 - eindhoven not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - eindhoven not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - elte: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - eltetab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - grazvienna: var.equal set to: FALSE
+	# 
+	# 18 Bauer.2 - hawaiion: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - hawaiion >> ES r is close to 0:  0.03
+	# 
+	# 18 Bauer.2 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - hkust: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - hkust >> ES r is close to 0:  -0.05
+	# 
+	# 18 Bauer.2 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - hunancomp: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ithaca: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - johannesburg: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - koc: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - lausanne: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - lausanne >> ES r is close to 0:  0.04
+	# 
+	# 18 Bauer.2 - leuven not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - leuven not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - lundon: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - marian: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 18 Bauer.2 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - mturk: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - mturk >> ES r is close to 0:  0.04
+	# 
+	# 18 Bauer.2 - mturk_india: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - mturk_india >> ES r is close to 0:  0
+	# 
+	# 18 Bauer.2 - navarra: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ntnu: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ntnu >> ES r is close to 0:  0.02
+	# 
+	# 18 Bauer.2 - ntnutab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - occid: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - occidtab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ouhktab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - plu: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - poitiers: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - potsdam: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - pscio: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - psuabington: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - psuabingtontab >> ES r is close to 0:  0.05
+	# 
+	# 18 Bauer.2 - psumain: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - purkyne: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - santiagoon: var.equal set to: FALSE
+	# 
+	# 18 Bauer.2 - swps: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - tamu: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - tilburg not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - tilburg not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - tilburgcaf not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - tilburgcaf not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - tilburgcomm not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - tilburgcomm not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - toronto: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - tufts: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ubc: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ubc >> ES r is close to 0:  0.01
+	# 
+	# 18 Bauer.2 - ubctab: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ucron: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - ucron >> ES r is close to 0:  -0.02
+	# 
+	# 18 Bauer.2 - udd: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - udd >> ES r is close to 0:  0.04
+	# 
+	# 18 Bauer.2 - ufl: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - uiuc: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - uiuc >> ES r is close to 0:  0.01
+	# 
+	# 18 Bauer.2 - umich: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - unam: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - unam >> ES r is close to 0:  0.02
+	# 
+	# 18 Bauer.2 - unibelgrade: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - unibelgrade >> ES r is close to 0:  -0.04
+	# 
+	# 18 Bauer.2 - uniporto: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - uva: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - uva >> ES r is close to 0:  0
+	# 
+	# 18 Bauer.2 - vuamsterdam not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 18 Bauer.2 - vuamsterdam not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 18 Bauer.2 - vuw: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - washlee: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - williampat: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - winchester: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - wpi: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - wroclaw: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - wroclaw >> ES r is close to 0:  0.02
+	# 
+	# 18 Bauer.2 - zhejiang: var.equal set to: TRUE
+	# 
+	# 18 Bauer.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

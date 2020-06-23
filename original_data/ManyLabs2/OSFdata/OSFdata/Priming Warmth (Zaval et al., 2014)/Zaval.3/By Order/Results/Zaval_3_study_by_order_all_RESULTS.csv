@@ -1,0 +1,387 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:11:41.035217Z,26,Zaval,2,,1,Order,Zaval.3,297,151,146,Cold,as.numeric.ignore.,151,,,,,2.48344370860927,0.908143194551473,3,2.47933884297521,1,1,4,3,-0.138246855285078,2.20236123784327,0.073903645063756,Heat,as.numeric.ignore.,146,,,,,2.55479452054795,0.871232356811876,3,2.56779661016949,1,1,4,3,-0.137257236696436,2.35044783476058,0.0721037028838428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.55479452054795,2.48344370860927,0.690560893968911,0.490384498691031,295,-0.131992757976847,0.274694381854195, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 0.69056, df = 295, p-value = 0.4904
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1319928  0.2746944
+sample estimates:
+mean of x mean of y 
+ 2.554795  2.483444 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.690560893968911,-1.27077886659443,2.65073160647007,297,151,146,0.08015,0.01348,-0.1475,0.30767,53.19419,52.25984,0.0452,0.49056,0.07995,0.01341,-0.14712,0.30688,53.18608,52.2541,0.49056,0.04017,0.00337,-0.07379,0.15253,0.49124,0.0402,0.0034,-0.07392,0.15373,1.15648,0.76527,1.74725,0.49056,0.14538,-0.26753,0.55804,0.49056,,,,,,,,,,,,,,,,,,,,,,,,,54,54,54,22,51,11,297,1,110,297,297,0,85.5218855218855,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 114 180 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                       9                     114                     170                       1 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             124 
+Unable to verify (completed online) but likely mostly computers 
+                                                            170 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       294 ","analysis.type
+Order 
+  297 ","subset
+all 
+297 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.139600Z,26,Zaval,2,,2,Order,Zaval.3,285,147,138,Cold,as.numeric.ignore.,147,,,,,2.55102040816327,0.820822119362928,3,2.5546218487395,1,1,4,3,0.0223601038781043,2.46540538213874,0.0677002673672837,Heat,as.numeric.ignore.,138,,,,,2.57971014492754,0.878050213908353,3,2.59821428571429,1,1,4,3,-0.0495381060391754,2.30141920134567,0.0747445978923602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.57971014492754,2.55102040816327,0.285095625121375,0.775779411238472,283,-0.169392430265754,0.226771903794296, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 0.2851, df = 283, p-value = 0.7758
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1693924  0.2267719
+sample estimates:
+mean of x mean of y 
+  2.57971   2.55102 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.285095625121375,-1.67526066685342,2.24494850661167,285,147,138,0.03379,0.01405,-0.19857,0.26609,51.34785,50.95317,0.01906,0.77579,0.0337,0.01398,-0.19804,0.26539,51.34428,50.95064,0.77579,0.01694,0.00352,-0.09909,0.13228,0.77618,0.01695,0.00355,-0.09942,0.13306,1.06321,0.69756,1.62034,0.77579,0.06129,-0.36016,0.48264,0.77579,,,,,,,,,,,,,,,,,,,,,,,,,52,52,52,23,49,11,285,1,110,285,285,0,84.5614035087719,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 118 166 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                       9                     107                     167                       1 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             117 
+Unable to verify (completed online) but likely mostly computers 
+                                                            167 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       284 ","analysis.type
+Order 
+  285 ","subset
+all 
+285 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.243447Z,26,Zaval,2,,3,Order,Zaval.3,280,140,140,Cold,as.numeric.ignore.,140,,,,,2.51428571428571,0.885419173061362,3,2.51785714285714,1,1,4,3,-0.199402699885878,2.29559630308012,0.0748315781331015,Heat,as.numeric.ignore.,140,,,,,2.40714285714286,0.812637845054486,2,2.42857142857143,1,1,4,3,-0.142168725759579,2.41032354327614,0.0686804332301212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.40714285714286,2.51428571428571,-1.05485171269088,0.292409033982994,278,-0.30708978038173,0.0928040660960155, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -1.0549, df = 278, p-value = 0.2924
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.30708978  0.09280407
+sample estimates:
+mean of x mean of y 
+ 2.407143  2.514286 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.05485171269088,-3.0158277913553,0.908017132120785,280,140,140,-0.12608,0.01431,-0.36046,0.10853,44.98347,46.44809,-0.07104,0.29289,-0.12574,0.01424,-0.35949,0.10824,44.99695,46.45765,0.29289,-0.06314,0.00356,-0.17799,0.05438,0.2936,-0.06322,0.00361,-0.17991,0.05443,0.79558,0.52006,1.21756,0.29289,-0.22868,-0.6538,0.19685,0.29289,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,24,52,10,280,1,112,280,280,0,89.6428571428572,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 108 171 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                       9                     112                     153                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             126 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       279 ","analysis.type
+Order 
+  280 ","subset
+all 
+280 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.374366Z,26,Zaval,2,,4,Order,Zaval.3,293,144,149,Cold,as.numeric.ignore.,144,,,,,2.44444444444444,0.914359248902113,2,2.43103448275862,1,1,4,3,0.109702605297862,2.21074888406738,0.0761966040751761,Heat,as.numeric.ignore.,149,,,,,2.34228187919463,0.942766286710872,2,2.30578512396694,1,1,4,3,0.145228862973762,2.11751080799667,0.0772344235662752,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.34228187919463,2.44444444444444,-0.94114427961085,0.347411531980534,291,-0.315808030257978,0.11148289975835, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -0.94114, df = 291, p-value = 0.3474
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3158080  0.1114829
+sample estimates:
+mean of x mean of y 
+ 2.342282  2.444444 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.94114427961085,-2.90179083338813,1.0211163334722,293,144,149,-0.10998,0.01368,-0.3391,0.11933,45.62124,46.90063,-0.06199,0.34778,-0.1097,0.01361,-0.33822,0.11902,45.63249,46.90861,0.34778,-0.05509,0.0034,-0.1677,0.05975,0.34848,-0.05514,0.00345,-0.1693,0.05982,0.81915,0.54061,1.24164,0.34778,-0.19948,-0.61506,0.21643,0.34778,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,23,52,10,293,1,109,293,293,0,90.4436860068259,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1  97 195 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      12                     140                     139                       1 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             153 
+Unable to verify (completed online) but likely mostly computers 
+                                                            139 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       292 ","analysis.type
+Order 
+  293 ","subset
+all 
+293 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.488558Z,26,Zaval,2,,5,Order,Zaval.3,276,153,123,Cold,as.numeric.ignore.,153,,,,,2.4640522875817,0.917850347500025,2,2.45528455284553,1,1,4,3,-0.0218384419965626,2.17594620332363,0.074203802573578,Heat,as.numeric.ignore.,123,,,,,2.45528455284553,0.943068174789295,2,2.44444444444444,1,1,4,3,-0.0177468450642979,2.10059679405269,0.0850335936628746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.45528455284553,2.4640522875817,-0.0779182348975179,0.937949963619212,274,-0.230290789398175,0.212755319925833, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -0.077918, df = 274, p-value = 0.9379
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2302908  0.2127553
+sample estimates:
+mean of x mean of y 
+ 2.455285  2.464052 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0779182348975179,-2.03782201047296,1.88212766058152,276,153,123,-0.00944,0.01467,-0.24679,0.22793,49.62356,49.73381,-0.00532,0.93795,-0.00941,0.01459,-0.24611,0.22731,49.62459,49.73454,0.93795,-0.00471,0.00364,-0.12219,0.11298,0.93806,-0.00471,0.00366,-0.1228,0.11346,0.98303,0.63915,1.51198,0.93795,-0.01712,-0.44762,0.41342,0.93795,,,,,,,,,,,,,,,,,,,,,,,,,54,54,54,23,52,10,276,1,105,276,276,0,86.9565217391305,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1  98 177 ","Setting
+                   In a classroom         In a lab Online (at home) 
+               1                8              117              150 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             125 
+Unable to verify (completed online) but likely mostly computers 
+                                                            150 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       275 ","analysis.type
+Order 
+  276 ","subset
+all 
+276 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.618927Z,26,Zaval,2,,6,Order,Zaval.3,295,151,144,Cold,as.numeric.ignore.,151,,,,,2.59602649006623,0.939353025204191,3,2.6198347107438,1,1,4,3,-0.0858487429326173,2.12200261888516,0.0764434650622945,Heat,as.numeric.ignore.,144,,,,,2.57638888888889,0.873701723046659,3,2.5948275862069,1,1,4,3,-0.140254362987055,2.34741768101636,0.0728084769205549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.57638888888889,2.59602649006623,-0.185697818040869,0.852810227983419,293,-0.2277640870525,0.188488884697828, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -0.1857, df = 293, p-value = 0.8528
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2277641  0.1884889
+sample estimates:
+mean of x mean of y 
+ 2.576389  2.596026 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.185697818040869,-2.14556105422982,1.77448215517285,295,151,144,-0.02163,0.01357,-0.24991,0.20669,49.13717,49.38986,-0.0122,0.85281,-0.02157,0.0135,-0.24927,0.20616,49.13938,49.39143,0.85281,-0.01085,0.0034,-0.12437,0.10311,0.85306,-0.01085,0.00342,-0.12502,0.10348,0.96153,0.63554,1.45483,0.85281,-0.03923,-0.45329,0.37489,0.85281,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,25,54,11,295,1,104,295,295,0,87.4576271186441,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 110 183 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                       9                     126                     155                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             138 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       293 ","analysis.type
+Order 
+  295 ","subset
+all 
+295 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.763809Z,26,Zaval,2,,7,Order,Zaval.3,288,146,142,Cold,as.numeric.ignore.,146,,,,,2.57534246575342,0.861719343368795,3,2.59322033898305,1,1,4,3,-0.0394649412104728,2.34939144960472,0.0713164002894581,Heat,as.numeric.ignore.,142,,,,,2.42957746478873,0.894410438760494,2,2.41228070175439,1,1,4,3,0.123144373819326,2.27686846305123,0.0750572566873769,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.42957746478873,2.57534246575342,-1.40860371337612,0.160038575062784,286,-0.349447744042056,0.0579177421126717, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -1.4086, df = 286, p-value = 0.16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.34944774  0.05791774
+sample estimates:
+mean of x mean of y 
+ 2.429577  2.575342 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.40860371337612,-3.37073444489133,0.555980461062565,288,146,142,-0.16602,0.01394,-0.39728,0.06553,43.407,45.32735,-0.09345,0.16076,-0.16559,0.01387,-0.39624,0.06536,43.42415,45.33956,0.16076,-0.08301,0.00344,-0.19547,0.03286,0.16125,-0.0832,0.00351,-0.19802,0.03287,0.73998,0.48646,1.12621,0.16076,-0.30113,-0.72059,0.11886,0.16076,,,,,,,,,,,,,,,,,,,,,,,,,54,54,54,23,50,11,288,1,111,288,288,0,89.9305555555556,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 107 180 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                       8                     123                     153                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             134 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       287 ","analysis.type
+Order 
+  288 ","subset
+all 
+288 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:41.887573Z,26,Zaval,2,,8,Order,Zaval.3,284,139,145,Cold,as.numeric.ignore.,139,,,,,2.37410071942446,0.870393724792923,2,2.34513274336283,1,1,4,3,0.0594412295936067,2.30721539843844,0.0738258321832273,Heat,as.numeric.ignore.,145,,,,,2.51724137931035,0.943570702437334,3,2.52136752136752,1,1,4,3,-0.199139422320401,2.12149159649884,0.0783592817598389,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.51724137931035,2.37410071942446,1.32730747964686,0.185480558478657,282,-0.0691385464664404,0.355419866238209, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 1.3273, df = 282, p-value = 0.1855
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.06913855  0.35541987
+sample estimates:
+mean of x mean of y 
+ 2.517241  2.374101 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.32730747964686,-0.636885232495029,3.28915480469685,284,139,145,0.15756,0.01413,-0.0756,0.39044,56.25973,54.43544,0.08871,0.18616,0.15714,0.01406,-0.0754,0.3894,56.2432,54.42368,0.18616,0.07879,0.00349,-0.0379,0.19221,0.18672,0.07896,0.00356,-0.03792,0.19464,1.3308,0.87186,2.03029,0.18616,0.28578,-0.13713,0.70818,0.18616,,,,,,,,,,,,,,,,,,,,,,,,,53,53,53,22,50,10,264,1,109,284,284,0,85.2112676056338,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 114 169 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                       8                     101                     167                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             116 
+Unable to verify (completed online) but likely mostly computers 
+                                                            167 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       283 ","analysis.type
+Order 
+  284 ","subset
+all 
+284 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.004207Z,26,Zaval,2,,9,Order,Zaval.3,269,141,128,Cold,as.numeric.ignore.,141,,,,,2.47517730496454,0.914811145878817,3,2.46902654867257,1,1,4,3,-0.0669273243352505,2.18445250895532,0.0770409963914909,Heat,as.numeric.ignore.,128,,,,,2.5,0.904929631405269,3,2.5,1,1,4,3,-0.192011606385656,2.22485207100592,0.0799852348579136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.5,2.47517730496454,0.223401769631629,0.823393654557352,267,-0.193945141559727,0.243590531630649, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 0.2234, df = 267, p-value = 0.8234
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1939451  0.2435905
+sample estimates:
+mean of x mean of y 
+ 2.500000  2.475177 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.223401769631629,-1.73686278255758,2.18324820028536,269,141,128,0.02727,0.01491,-0.21204,0.26654,51.08794,50.76934,0.01539,0.8234,0.0272,0.01482,-0.21145,0.26579,51.08488,50.76717,0.8234,0.01367,0.00373,-0.1057,0.13244,0.82372,0.01367,0.00376,-0.1061,0.13322,1.05071,0.68072,1.62166,0.8234,0.04947,-0.38461,0.48345,0.8234,,,,,,,,,,,,,,,,,,,,,,,,,53,53,53,22,50,10,269,1,107,269,269,0,90.3345724907063,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 113 155 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      16                     103                     148                       1 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             120 
+Unable to verify (completed online) but likely mostly computers 
+                                                            148 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       268 ","analysis.type
+Order 
+  269 ","subset
+all 
+269 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.134316Z,26,Zaval,2,,10,Order,Zaval.3,268,142,126,Cold,as.numeric.ignore.,142,,,,,2.43661971830986,0.956239596762726,2,2.42105263157895,1,1,4,3,0.0594283479857663,2.07253998521834,0.0802458443668423,Heat,as.numeric.ignore.,126,,,,,2.33333333333333,0.995991967839099,2,2.29411764705882,1,1,4,3,0.027097641331945,1.8792924037461,0.088730016753159,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.33333333333333,2.43661971830986,-0.865458273871963,0.387567183470537,266,-0.338263477806578,0.131690707853527, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -0.86546, df = 266, p-value = 0.3876
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3382635  0.1316907
+sample estimates:
+mean of x mean of y 
+ 2.333333  2.436620 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.865458273871963,-2.82598829168582,1.096695608782,268,142,126,-0.10592,0.015,-0.34587,0.13422,45.78223,47.0148,-0.0597,0.3879,-0.10562,0.01492,-0.34489,0.13384,45.79409,47.02321,0.3879,-0.05299,0.00372,-0.17073,0.06709,0.38868,-0.05304,0.00377,-0.17242,0.06719,0.82521,0.53401,1.27565,0.3879,-0.19212,-0.62733,0.24345,0.3879,,,,,,,,,,,,,,,,,,,,,,,,,52,52,52,24,49,11,268,1,110,268,268,0,87.6865671641791,< table of extent 0 >,"SubjectPool
+ No Yes 
+ 93 175 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     16                     113                     138                       1 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            130                                                             138 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      268 ","analysis.type
+Order 
+  268 ","subset
+all 
+268 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.238096Z,26,Zaval,2,,11,Order,Zaval.3,306,152,154,Cold,as.numeric.ignore.,152,,,,,2.5,0.920696540237498,3,2.5,1,1,4,3,-0.0255404234973086,2.175537109375,0.0746783505937516,Heat,as.numeric.ignore.,154,,,,,2.51298701298701,0.937504774624969,3,2.51612903225806,1,1,4,3,-0.0854653848911337,2.12943911759951,0.0755462876276239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.51298701298701,2.5,0.122243096235922,0.902787265849475,304,-0.196070355455219,0.222044381429245, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 0.12224, df = 304, p-value = 0.9028
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1960704  0.2220444
+sample estimates:
+mean of x mean of y 
+ 2.512987  2.500000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.122243096235922,-1.83784544111926,2.08213066355861,306,152,154,0.01398,0.01307,-0.21013,0.23806,50.55757,50.39427,0.00789,0.90279,0.01394,0.01301,-0.20961,0.23747,50.55619,50.39329,0.90279,0.00701,0.00328,-0.10483,0.11858,0.90295,0.00701,0.0033,-0.10521,0.11914,1.02567,0.68309,1.54002,0.90279,0.02535,-0.38113,0.43179,0.90279,,,,,,,,,,,,,,,,,,,,,,,,,54,54,54,23,51,11,306,1,109,306,306,0,87.9084967320261,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 129 174 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      17                     112                     172                       2 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             131 
+Unable to verify (completed online) but likely mostly computers 
+                                                            172 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       303 ","analysis.type
+Order 
+  306 ","subset
+all 
+306 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.365713Z,26,Zaval,2,,12,Order,Zaval.3,285,147,138,Cold,as.numeric.ignore.,147,,,,,2.44897959183673,0.820822119362928,2,2.43697478991597,1,1,4,3,0.126769366708917,2.50261032007025,0.0677002673672837,Heat,as.numeric.ignore.,138,,,,,2.57246376811594,0.878682500470945,3,2.58928571428571,1,1,4,3,-0.157087199015741,2.33739001373941,0.0747984216989319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.57246376811594,2.44897959183673,1.22662940171098,0.220981471609915,283,-0.0746718601559839,0.321640212714398, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = 1.2266, df = 283, p-value = 0.221
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.07467186  0.32164021
+sample estimates:
+mean of x mean of y 
+ 2.572464  2.448980 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.22662940171098,-0.737016069086799,3.18811409124642,285,147,138,0.14539,0.01409,-0.08736,0.37788,55.77989,54.09419,0.08188,0.22159,0.14501,0.01401,-0.08713,0.37688,55.76467,54.08337,0.22159,0.07272,0.00348,-0.04377,0.1862,0.2222,0.07285,0.00355,-0.0438,0.1884,1.30175,0.85347,1.98458,0.22159,0.26371,-0.15845,0.68541,0.22159,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,24,52,11,285,1,109,285,285,0,88.421052631579,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 113 171 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      11                     112                     158                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             126 
+Unable to verify (completed online) but likely mostly computers 
+                                                            158 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       284 ","analysis.type
+Order 
+  285 ","subset
+all 
+285 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.464914Z,26,Zaval,2,,13,Order,Zaval.3,257,130,127,Cold,as.numeric.ignore.,130,,,,,2.51538461538462,0.899910550116561,3,2.51923076923077,1,1,4,3,-0.11021949393543,2.24665049163739,0.078927376463873,Heat,as.numeric.ignore.,127,,,,,2.37007874015748,0.82426638480279,2,2.36893203883495,1,1,4,3,-0.00683302999359868,2.4085191804453,0.0731418142047643,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.37007874015748,2.51538461538462,-1.34895398314997,0.178548391320412,255,-0.357434976382895,0.0668232259286247, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -1.349, df = 255, p-value = 0.1785
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.35743498  0.06682323
+sample estimates:
+mean of x mean of y 
+ 2.370079  2.515385 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.34895398314997,-3.31109060669811,0.615817420216789,257,130,127,-0.1683,0.01562,-0.41311,0.07683,43.31727,45.26346,-0.09473,0.17931,-0.16781,0.01553,-0.41189,0.07661,43.33676,45.27734,0.17931,-0.08417,0.00385,-0.20303,0.03854,0.17991,-0.08437,0.00394,-0.20589,0.03855,0.73693,0.4727,1.14954,0.17931,-0.30527,-0.7493,0.13936,0.17931,,,,,,,,,,,,,,,,,,,,,,,,,51,51,51,24,50,10,257,1,107,257,257,0,88.715953307393,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 102 154 ","Setting
+                   In a classroom         In a lab Online (at home) 
+               1                5              102              149 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             107 
+Unable to verify (completed online) but likely mostly computers 
+                                                            149 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       256 ","analysis.type
+Order 
+  257 ","subset
+all 
+257 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.561985Z,26,Zaval,2,,14,Order,Zaval.3,266,138,128,Cold,as.numeric.ignore.,138,,,,,2.60869565217391,0.796294177829521,3,2.625,1,1,4,3,-0.228578772139281,2.63877390904418,0.0677850619282548,Heat,as.numeric.ignore.,128,,,,,2.4453125,0.954133929340169,3,2.43269230769231,1,1,4,3,-0.061525891802163,2.05343846203907,0.0843343214495749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,-0.163383152173913,2.4453125,2.60869565217391,-1.51002016776363,0.132310751741256,248.106652881056,-0.37648944525673,0.0497231409089034,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Heat and Cold
+t = -1.51, df = 248.11, p-value = 0.1323
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.37648945  0.04972314
+sample estimates:
+mean of x mean of y 
+ 2.445312  2.608696 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.51002016776363,-3.47296342473277,0.455951430984528,266,138,128,-0.1853,0.01512,-0.42618,0.05595,42.64963,44.78766,-0.10425,0.13306,-0.18477,0.01504,-0.42497,0.05579,42.67029,44.8024,0.13306,-0.09254,0.00371,-0.20902,0.02805,0.13352,-0.0928,0.0038,-0.21215,0.02806,0.71455,0.46162,1.10681,0.13306,-0.3361,-0.77301,0.10149,0.13306,,,,,,,,,,,,,,,,,,,,,,,,,51,51,51,23,49,11,266,1,110,266,266,0,88.7218045112782,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 105 158 ","Setting
+                   In a classroom         In a lab Online (at home) 
+               3               16              106              141 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             122 
+Unable to verify (completed online) but likely mostly computers 
+                                                            141 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       263 ","analysis.type
+Order 
+  266 ","subset
+all 
+266 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:11:42.688051Z,26,Zaval,2,,15,Order,Zaval.3,255,131,124,Cold,as.numeric.ignore.,131,,,,,2.52671755725191,0.853303483525682,3,2.53333333333333,1,1,4,3,-0.0461643563403009,2.38580395421436,0.0745534715119384,Heat,as.numeric.ignore.,124,,,,,2.43548387096774,0.867122476921018,2,2.42,1,1,4,3,-0.0634348957958659,2.30697840271086,0.0778698971808023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.43548387096774,2.52671755725191,-0.846658268109385,0.397985752241353,253,-0.303449455229865,0.120982082661533, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Heat and Cold
+t = -0.84666, df = 253, p-value = 0.398
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3034495  0.1209821
+sample estimates:
+mean of x mean of y 
+ 2.435484  2.526718 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.846658268109385,-2.80717361457066,1.11552724111434,255,131,124,-0.10608,0.01572,-0.35172,0.13977,45.77596,47.01035,-0.05979,0.39832,-0.10576,0.01563,-0.35067,0.13935,45.78845,47.01921,0.39832,-0.05315,0.00391,-0.1738,0.06996,0.39914,-0.0532,0.00397,-0.17558,0.07008,0.82497,0.52838,1.28854,0.39832,-0.19241,-0.63794,0.25351,0.39832,,,,,,,,,,,,,,,,,,,,,,,,,52,52,52,25,50,11,255,1,104,255,255,0,84.7058823529412,< table of extent 0 >,"SubjectPool
+ No Yes 
+ 97 158 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     10                     110                     131                       4 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            124                                                             131 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      255 ","analysis.type
+Order 
+  255 ","subset
+all 
+255 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,1582 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:59:51.283463Z,17,Hauser,2,,amity,Secondary,Hauser.5,76,36,40,SideEffect.1,,36,25,0.694444444444445,0.328947368421053,Yes,0.694444444444445,,,,,,,,,,,SideEffect.2,,36,11,0.305555555555556,0.144736842105263,No,0.305555555555556,,,,,,,,,,,GreaterGood.1,,36,29,,0.725,0.381578947368421,Yes,0.725,,,,,,,,,,,GreaterGood.2,,36,11,,0.275,0.144736842105263,No,0.275,,,,,,,,,,,OR,0.863759861319536,,,,0.804575203266072,,0.2974,2.4909,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.8046
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.2974 2.4909
+sample estimates:
+odds ratio 
+ 0.8637599 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    25   11
+GreaterGood   29   11
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.863759861319536,0.2974,2.4909,72,36,36,-0.08075,0.07791,-0.66858,0.50317,46.78212,47.72338,-0.04553,0.77321,-0.07988,0.07624,-0.66139,0.49776,46.81665,47.74783,0.77321,-0.04034,0.01938,-0.31705,0.24398,0.73842,-0.04036,0.01449,-0.32836,0.249,0.86376,0.2974,2.4909,0.77321,-0.14646,-1.21268,0.91264,0.77321,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,76,15,52,76,76,0,0,< table of extent 0 >,"SubjectPool
+No 
+76 ","Setting
+In a lab 
+      76 ","Tablet
+Computers 
+       76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.410823Z,17,Hauser,2,,armstrong,Secondary,Hauser.5,42,18,24,SideEffect.1,,18,14,0.777777777777778,0.333333333333333,Yes,0.777777777777778,,,,,,,,,,,SideEffect.2,,18,4,0.222222222222222,0.0952380952380952,No,0.222222222222222,,,,,,,,,,,GreaterGood.1,,18,14,,0.583333333333333,0.333333333333333,Yes,0.583333333333333,,,,,,,,,,,GreaterGood.2,,18,10,,0.416666666666667,0.238095238095238,No,0.416666666666667,,,,,,,,,,,OR,2.4463225831787,,,,0.321410590981117,,0.5988,10.3359,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3214
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.5988 10.3359
+sample estimates:
+odds ratio 
+  2.446323 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    14    4
+GreaterGood   14   10
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.4463225831787,0.5988,10.3359,36,18,18,0.49321,0.14981,-0.28274,1.2877,68.90683,63.63626,0.27273,0.21121,0.48225,0.14323,-0.27645,1.25908,68.51861,63.34493,0.21121,0.23943,0.03137,-0.13998,0.54135,0.16978,0.24417,0.0303,-0.1409,0.60606,2.44632,0.5988,10.3359,0.21121,0.89459,-0.51283,2.33562,0.21121,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,42,15,37,42,42,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.503666Z,17,Hauser,2,,aus2,Secondary,Hauser.5,78,33,45,SideEffect.1,,33,15,0.454545454545455,0.192307692307692,Yes,0.454545454545455,,,,,,,,,,,SideEffect.2,,33,18,0.545454545454545,0.230769230769231,No,0.545454545454545,,,,,,,,,,,GreaterGood.1,,33,17,,0.377777777777778,0.217948717948718,Yes,0.377777777777778,,,,,,,,,,,GreaterGood.2,,33,28,,0.622222222222222,0.358974358974359,No,0.622222222222222,,,,,,,,,,,OR,1.36691538696499,,,,0.641666700736948,,0.5106,3.7236,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.6417
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5106 3.7236
+sample estimates:
+odds ratio 
+  1.366915 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    15   18
+GreaterGood   17   28
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.36691538696499,0.5106,3.7236,66,33,33,0.17232,0.06589,-0.37059,0.72483,56.84076,54.8491,0.09698,0.50442,0.17029,0.06435,-0.36623,0.7163,56.76106,54.79233,0.50442,0.08584,0.01611,-0.18219,0.34073,0.49705,0.08605,0.01587,-0.18425,0.35492,1.36692,0.5106,3.7236,0.50442,0.31256,-0.67217,1.31469,0.50442,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,78,15,55,78,78,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 78 ","Setting
+In a lab 
+      78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.604715Z,17,Hauser,2,,bogota,Secondary,Hauser.5,59,29,30,SideEffect.1,,29,22,0.758620689655172,0.372881355932203,Yes,0.758620689655172,,,,,,,,,,,SideEffect.2,,29,7,0.241379310344828,0.11864406779661,No,0.241379310344828,,,,,,,,,,,GreaterGood.1,,29,20,,0.666666666666667,0.338983050847458,Yes,0.666666666666667,,,,,,,,,,,GreaterGood.2,,29,10,,0.333333333333333,0.169491525423729,No,0.333333333333333,,,,,,,,,,,OR,1.55938445554589,,,,0.567489732503049,,0.4893,5.0236,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.5675
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4893 5.0236
+sample estimates:
+odds ratio 
+  1.559384 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    22    7
+GreaterGood   20   10
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.55938445554589,0.4893,5.0236,58,29,29,0.24495,0.10283,-0.39408,0.88993,59.67526,56.87553,0.13751,0.44816,0.24166,0.10009,-0.38878,0.87795,59.54763,56.78394,0.44816,0.12157,0.02459,-0.19332,0.40653,0.36879,0.12217,0.01818,-0.19579,0.43145,1.55938,0.4893,5.0236,0.44816,0.44429,-0.71478,1.61415,0.44816,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,59,15,47,59,59,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 59 ","Setting
+In a lab 
+      59 ","Tablet
+Computers 
+       59 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       59 ","analysis.type
+Secondary 
+       59 ","subset
+all 
+ 59 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.715431Z,17,Hauser,2,,brookcuny,Secondary,Hauser.5,93,53,40,SideEffect.1,,53,35,0.660377358490566,0.376344086021505,Yes,0.660377358490566,,,,,,,,,,,SideEffect.2,,53,18,0.339622641509434,0.193548387096774,No,0.339622641509434,,,,,,,,,,,GreaterGood.1,,53,20,,0.5,0.21505376344086,No,0.5,,,,,,,,,,,GreaterGood.2,,53,20,,0.5,0.21505376344086,No,0.5,,,,,,,,,,,OR,1.9302647142567,,,,0.139524454620279,,0.7825,4.57,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1395
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.7825 4.5700
+sample estimates:
+odds ratio 
+  1.930265 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    35   18
+GreaterGood   20   20
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.9302647142567,0.7825,4.57,106,53,53,0.36259,0.05597,-0.13522,0.83775,64.15427,60.11738,0.20235,0.1284,0.35996,0.05516,-0.13424,0.8317,64.05631,60.04582,0.1284,0.17838,0.0127,-0.06746,0.38635,0.07012,0.18031,0.00971,-0.06756,0.4075,1.93026,0.7825,4.57,0.1284,0.65766,-0.24526,1.51951,0.1284,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,93,15,64,93,93,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 93 ","Setting
+Online (at home) 
+              93 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             93 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       93 ","analysis.type
+Secondary 
+       93 ","subset
+all 
+ 93 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.802461Z,17,Hauser,2,,carleton,Secondary,Hauser.5,58,30,28,SideEffect.1,,30,16,0.533333333333333,0.275862068965517,Yes,0.533333333333333,,,,,,,,,,,SideEffect.2,,30,14,0.466666666666667,0.241379310344828,No,0.466666666666667,,,,,,,,,,,GreaterGood.1,,30,16,,0.571428571428571,0.275862068965517,Yes,0.571428571428571,,,,,,,,,,,GreaterGood.2,,30,12,,0.428571428571429,0.206896551724138,No,0.428571428571429,,,,,,,,,,,OR,0.859428155098883,,,,0.79756233250093,,0.282,2.6452,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.7976
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.2820 2.6452
+sample estimates:
+odds ratio 
+ 0.8594282 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16   14
+GreaterGood   16   12
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.859428155098883,0.282,2.6452,60,30,30,-0.08352,0.08504,-0.6979,0.5363,46.67191,47.64532,-0.04709,0.77559,-0.08244,0.08284,-0.68884,0.52934,46.71504,47.67587,0.77559,-0.04172,0.02115,-0.32947,0.259,0.75375,-0.04175,0.01754,-0.34223,0.26504,0.85943,0.282,2.6452,0.77559,-0.15149,-1.26585,0.97275,0.77559,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,58,15,46,58,58,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 58 ","Setting
+Online (at home) 
+              58 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             58 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       58 ","analysis.type
+Secondary 
+       58 ","subset
+all 
+ 58 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:51.887587Z,17,Hauser,2,,cas,Secondary,Hauser.5,43,21,22,SideEffect.1,,21,8,0.380952380952381,0.186046511627907,Yes,0.380952380952381,,,,,,,,,,,SideEffect.2,,21,13,0.619047619047619,0.302325581395349,No,0.619047619047619,,,,,,,,,,,GreaterGood.1,,21,5,,0.227272727272727,0.116279069767442,Yes,0.227272727272727,,,,,,,,,,,GreaterGood.2,,21,17,,0.772727272727273,0.395348837209302,No,0.772727272727273,,,,,,,,,,,OR,2.05618632054805,,,,0.331888880262254,,0.5417,7.97,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3319
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5417 7.9700
+sample estimates:
+odds ratio 
+  2.056186 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect     8   13
+GreaterGood    5   17
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.05618632054805,0.5417,7.97,42,21,21,0.39743,0.14005,-0.33799,1.14438,65.44737,61.06538,0.22131,0.29462,0.38993,0.13482,-0.33161,1.12279,65.17053,60.86188,0.29462,0.1949,0.03117,-0.16663,0.49664,0.2248,0.19743,0.02564,-0.1682,0.54483,2.05619,0.5417,7.97,0.29462,0.72085,-0.61304,2.07568,0.29462,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate2_Simplified_Chinese_Mainland_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,cas,1,1,1,1,1,1,43,15,38,43,43,0,0,< table of extent 0 >,"SubjectPool
+No 
+43 ","Setting
+In a lab 
+      43 ","Tablet
+Computers 
+       43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.037535Z,17,Hauser,2,,fmkbelgrade,Secondary,Hauser.5,71,34,37,SideEffect.1,,34,16,0.470588235294118,0.225352112676056,Yes,0.470588235294118,,,,,,,,,,,SideEffect.2,,34,18,0.529411764705882,0.253521126760563,No,0.529411764705882,,,,,,,,,,,GreaterGood.1,,34,18,,0.486486486486487,0.253521126760563,No,0.486486486486487,,,,,,,,,,,GreaterGood.2,,34,19,,0.513513513513514,0.267605633802817,No,0.513513513513514,,,,,,,,,,,OR,0.939126020609548,,,,1,,0.3558,2.5608,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3558 2.5608
+sample estimates:
+odds ratio 
+  0.939126 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16   18
+GreaterGood   18   19
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.939126020609548,0.3558,2.5608,68,34,34,-0.03463,0.06877,-0.56974,0.51843,48.61888,49.0233,-0.01953,0.89535,-0.03423,0.06721,-0.56324,0.51251,48.63462,49.03444,0.89535,-0.01731,0.01718,-0.27397,0.25092,0.88942,-0.01731,0.01538,-0.28115,0.25639,0.93913,0.3558,2.5608,0.89535,-0.06281,-1.03339,0.94032,0.89535,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,71,15,53,71,71,0,0,< table of extent 0 >,"SubjectPool
+No 
+71 ","Setting
+In a lab 
+      71 ","Tablet
+Computers 
+       71 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       71 ","analysis.type
+Secondary 
+       71 ","subset
+all 
+ 71 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.138901Z,17,Hauser,2,,georgefox,Secondary,Hauser.5,76,46,30,SideEffect.1,,46,34,0.739130434782609,0.447368421052632,Yes,0.739130434782609,,,,,,,,,,,SideEffect.2,,46,12,0.260869565217391,0.157894736842105,No,0.260869565217391,,,,,,,,,,,GreaterGood.1,,46,14,,0.466666666666667,0.184210526315789,Yes,0.466666666666667,,,,,,,,,,,GreaterGood.2,,46,16,,0.533333333333333,0.210526315789474,No,0.533333333333333,,,,,,,,,,,OR,3.18445968267145,,,,0.0276674045861398,,1.1071,9.3497,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.02767
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.1071 9.3497
+sample estimates:
+odds ratio 
+   3.18446 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    34   12
+GreaterGood   14   16
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,3.18445968267145,1.1071,9.3497,92,46,46,0.63859,0.07498,0.05609,1.23241,73.84567,67.42051,0.34841,0.02193,0.63326,0.07373,0.05563,1.22211,73.67175,67.28444,0.02193,0.30417,0.01401,0.02804,0.5246,0.00389,0.31411,0.01124,0.02804,0.58267,3.18446,1.1071,9.3497,0.02193,1.15828,0.10174,2.23534,0.02193,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,76,15,56,76,76,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 76 ","Setting
+Online (at home) 
+              76 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.220298Z,17,Hauser,2,,grazvienna,Secondary,Hauser.5,74,30,44,SideEffect.1,,30,13,0.433333333333333,0.175675675675676,Yes,0.433333333333333,,,,,,,,,,,SideEffect.2,,30,17,0.566666666666667,0.22972972972973,No,0.566666666666667,,,,,,,,,,,GreaterGood.1,,30,18,,0.409090909090909,0.243243243243243,Yes,0.409090909090909,,,,,,,,,,,GreaterGood.2,,30,26,,0.590909090909091,0.351351351351351,No,0.590909090909091,,,,,,,,,,,OR,1.10308723355576,,,,1,,0.4268,2.9377,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4268 2.9377
+sample estimates:
+odds ratio 
+  1.103087 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    13   17
+GreaterGood   18   26
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.10308723355576,0.4268,2.9377,60,30,30,0.05409,0.06984,-0.46942,0.59413,52.15692,51.52555,0.03051,0.83854,0.05339,0.06804,-0.46333,0.58641,52.12894,51.50574,0.83854,0.02704,0.01742,-0.2285,0.28476,0.83894,0.02704,0.01754,-0.23261,0.29286,1.10309,0.4268,2.9377,0.83854,0.09811,-0.85144,1.07763,0.83854,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,76,15,56,76,76,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 76 ","Setting
+Online (at home) 
+              76 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.312530Z,17,Hauser,2,,hawaiion,Secondary,Hauser.5,56,33,23,SideEffect.1,,33,24,0.727272727272727,0.428571428571429,Yes,0.727272727272727,,,,,,,,,,,SideEffect.2,,33,9,0.272727272727273,0.160714285714286,No,0.272727272727273,,,,,,,,,,,GreaterGood.1,,33,12,,0.521739130434783,0.214285714285714,Yes,0.521739130434783,,,,,,,,,,,GreaterGood.2,,33,11,,0.478260869565217,0.196428571428571,No,0.478260869565217,,,,,,,,,,,OR,2.40388138415959,,,,0.158369662220963,,0.7737,8.3935,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1584
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.7737 8.3935
+sample estimates:
+odds ratio 
+  2.403881 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    24    9
+GreaterGood   12   11
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.40388138415959,0.7737,8.3935,66,33,33,0.48356,0.0994,-0.14146,1.17293,68.56517,63.37982,0.2676,0.13002,0.47787,0.09708,-0.13979,1.15913,68.36298,63.22835,0.13002,0.23501,0.02096,-0.07055,0.50588,0.06183,0.23949,0.01587,-0.07067,0.55718,2.40388,0.7737,8.3935,0.13002,0.87708,-0.25657,2.12746,0.13002,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,56,15,43,56,56,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 56 ","Setting
+Online (at home) 
+              56 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             56 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       56 ","analysis.type
+Secondary 
+       56 ","subset
+all 
+ 56 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.430899Z,17,Hauser,2,,help,Secondary,Hauser.5,52,27,25,SideEffect.1,,27,21,0.777777777777778,0.403846153846154,Yes,0.777777777777778,,,,,,,,,,,SideEffect.2,,27,6,0.222222222222222,0.115384615384615,No,0.222222222222222,,,,,,,,,,,GreaterGood.1,,27,12,,0.48,0.230769230769231,Yes,0.48,,,,,,,,,,,GreaterGood.2,,27,13,,0.52,0.25,No,0.52,,,,,,,,,,,OR,3.68957333435389,,,,0.0429694385113702,,1.1134,14.339,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.04297
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  1.1134 14.3390
+sample estimates:
+odds ratio 
+  3.689573 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    21    6
+GreaterGood   12   13
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,3.68957333435389,1.1134,14.339,54,27,27,0.71977,0.11385,0.05922,1.46818,76.41654,69.46068,0.38921,0.03765,0.70933,0.11057,0.05836,1.4469,76.09415,69.20168,0.03765,0.33862,0.01975,0.0296,0.59176,0.01493,0.35254,0.01961,0.02961,0.68037,3.68957,1.1134,14.339,0.03765,1.30551,0.10742,2.66298,0.03765,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,52,14,43,52,52,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 52 ","Setting
+In a lab 
+      52 ","Tablet
+Computers 
+       52 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       52 ","analysis.type
+Secondary 
+       52 ","subset
+all 
+ 52 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.523323Z,17,Hauser,2,,isb,Secondary,Hauser.5,88,41,47,SideEffect.1,,41,29,0.707317073170732,0.329545454545455,Yes,0.707317073170732,,,,,,,,,,,SideEffect.2,,41,12,0.292682926829268,0.136363636363636,No,0.292682926829268,,,,,,,,,,,GreaterGood.1,,41,34,,0.723404255319149,0.386363636363636,Yes,0.723404255319149,,,,,,,,,,,GreaterGood.2,,41,13,,0.276595744680851,0.147727272727273,No,0.276595744680851,,,,,,,,,,,OR,0.924851263944991,,,,1,,0.3545,2.3623,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3545 2.3623
+sample estimates:
+odds ratio 
+ 0.9248513 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    29   12
+GreaterGood   34   13
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.924851263944991,0.3545,2.3623,82,41,41,-0.04307,0.06813,-0.57175,0.47394,48.28224,48.78517,-0.0243,0.86935,-0.04267,0.06686,-0.56638,0.46948,48.29839,48.7966,0.86935,-0.02153,0.01701,-0.27487,0.23059,0.8487,-0.02153,0.01266,-0.28212,0.23481,0.92485,0.3545,2.3623,0.86935,-0.07812,-1.03705,0.85964,0.86935,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,88,15,65,88,88,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.611946Z,17,Hauser,2,,jmu,Secondary,Hauser.5,46,22,24,SideEffect.1,,22,18,0.818181818181818,0.391304347826087,Yes,0.818181818181818,,,,,,,,,,,SideEffect.2,,22,4,0.181818181818182,0.0869565217391304,No,0.181818181818182,,,,,,,,,,,GreaterGood.1,,22,15,,0.625,0.326086956521739,Yes,0.625,,,,,,,,,,,GreaterGood.2,,22,9,,0.375,0.195652173913043,No,0.375,,,,,,,,,,,OR,2.64209975722476,,,,0.196808266008493,,0.656,11.0157,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1968
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.6560 11.0157
+sample estimates:
+odds ratio 
+    2.6421 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    18    4
+GreaterGood   15    9
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.64209975722476,0.656,11.0157,44,22,22,0.53566,0.14692,-0.23244,1.32282,70.39021,64.75694,0.29514,0.1696,0.52603,0.14168,-0.22826,1.29905,70.05678,64.50396,0.1696,0.25871,0.02984,-0.11544,0.55166,0.09746,0.26473,0.02439,-0.11596,0.62076,2.6421,0.656,11.0157,0.1696,0.97157,-0.42159,2.39932,0.1696,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,46,15,41,46,46,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 46 ","Setting
+Online (at home) 
+              46 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             46 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.734305Z,17,Hauser,2,,jos,Secondary,Hauser.5,33,16,17,SideEffect.1,,16,15,0.9375,0.454545454545455,Yes,0.9375,,,,,,,,,,,SideEffect.2,,16,1,0.0625,0.0303030303030303,No,0.0625,,,,,,,,,,,GreaterGood.1,,16,17,,1,0.515151515151515,Yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,OR,0,,,,0.484848484848485,,0,17.8824,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.4848
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.0000 17.8824
+sample estimates:
+odds ratio 
+         0 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    15    1
+GreaterGood   17    0
+===========  ===  ===",,,,,,,,,,,,,0,,0.484848484848485,,0,17.8824,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jos,jos,"University of Jos, Jos, Nigeria","Haruna Karick, Zubairu K. Dagona, Joshua C. Gandi, Evans Binan",ML2_Slate2_NigeriaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Nigeria,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jos,1,1,1,1,1,1,33,14,29,33,33,0,0,< table of extent 0 >,"SubjectPool
+No 
+33 ","Setting
+In a lab 
+      33 ","Tablet
+Computers 
+       33 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       33 ","analysis.type
+Secondary 
+       33 ","subset
+all 
+ 33 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.822237Z,17,Hauser,2,,kenyon,Secondary,Hauser.5,64,35,29,SideEffect.1,,35,24,0.685714285714286,0.375,Yes,0.685714285714286,,,,,,,,,,,SideEffect.2,,35,11,0.314285714285714,0.171875,No,0.314285714285714,,,,,,,,,,,GreaterGood.1,,35,15,,0.517241379310345,0.234375,Yes,0.517241379310345,,,,,,,,,,,GreaterGood.2,,35,14,,0.482758620689655,0.21875,No,0.482758620689655,,,,,,,,,,,OR,2.01330396195481,,,,0.204001878458665,,0.7029,5.8323,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.204
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.7029 5.8323
+sample estimates:
+odds ratio 
+  2.013304 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    24   11
+GreaterGood   15   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.01330396195481,0.7029,5.8323,70,35,35,0.38581,0.08227,-0.19437,0.97222,65.01803,60.74992,0.215,0.18308,0.38154,0.08046,-0.19221,0.96146,64.85974,60.63379,0.18308,0.18941,0.01843,-0.09673,0.43719,0.12121,0.19173,0.01493,-0.09703,0.46875,2.0133,0.7029,5.8323,0.18308,0.69978,-0.35254,1.76341,0.18308,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,64,15,50,64,64,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 64 ","Setting
+In a lab 
+      64 ","Tablet
+Computers 
+       64 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       64 ","analysis.type
+Secondary 
+       64 ","subset
+all 
+ 64 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:52.917554Z,17,Hauser,2,,krakowon,Secondary,Hauser.5,37,17,20,SideEffect.1,,17,6,0.352941176470588,0.162162162162162,Yes,0.352941176470588,,,,,,,,,,,SideEffect.2,,17,11,0.647058823529412,0.297297297297297,No,0.647058823529412,,,,,,,,,,,GreaterGood.1,,17,6,,0.3,0.162162162162162,Yes,0.3,,,,,,,,,,,GreaterGood.2,,17,14,,0.7,0.378378378378378,No,0.7,,,,,,,,,,,OR,1.26440601318057,,,,1,,0.288,5.4489,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.2880 5.4489
+sample estimates:
+odds ratio 
+  1.264406 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect     6   11
+GreaterGood    6   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.26440601318057,0.288,5.4489,34,17,17,0.12934,0.15067,-0.68629,0.93473,55.14569,53.64362,0.07287,0.74114,0.12629,0.14363,-0.67008,0.91265,55.02479,53.55778,0.74114,0.06454,0.0372,-0.32457,0.42341,0.72134,0.06463,0.03226,-0.33675,0.45183,1.26441,0.288,5.4489,0.74114,0.2346,-1.24479,1.69541,0.74114,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,37,14,31,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+Online (at home) 
+              37 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.031560Z,17,Hauser,2,,kwazulu,Secondary,Hauser.5,48,24,24,SideEffect.1,,24,16,0.666666666666667,0.333333333333333,Yes,0.666666666666667,,,,,,,,,,,SideEffect.2,,24,8,0.333333333333333,0.166666666666667,No,0.333333333333333,,,,,,,,,,,GreaterGood.1,,24,10,,0.416666666666667,0.208333333333333,Yes,0.416666666666667,,,,,,,,,,,GreaterGood.2,,24,14,,0.583333333333333,0.291666666666667,No,0.583333333333333,,,,,,,,,,,OR,2.73800142785504,,,,0.146806829667813,,0.8464,9.1334,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1468
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.8464 9.1334
+sample estimates:
+odds ratio 
+  2.738001 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16    8
+GreaterGood   10   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.73800142785504,0.8464,9.1334,48,24,24,0.55531,0.1091,-0.09194,1.21951,71.06601,65.2717,0.30543,0.0995,0.54621,0.10555,-0.09043,1.19951,70.75394,65.03365,0.0995,0.26754,0.02183,-0.04592,0.52061,0.07231,0.27421,0.02222,-0.04595,0.57717,2.738,0.8464,9.1334,0.0995,1.00723,-0.16676,2.21194,0.0995,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,48,14,36,48,48,0,0,< table of extent 0 >,"SubjectPool
+No 
+48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.142248Z,17,Hauser,2,,loyola,Secondary,Hauser.5,148,73,75,SideEffect.1,,73,49,0.671232876712329,0.331081081081081,Yes,0.671232876712329,,,,,,,,,,,SideEffect.2,,73,24,0.328767123287671,0.162162162162162,No,0.328767123287671,,,,,,,,,,,GreaterGood.1,,73,37,,0.493333333333333,0.25,Yes,0.493333333333333,,,,,,,,,,,GreaterGood.2,,73,38,,0.506666666666667,0.256756756756757,No,0.506666666666667,,,,,,,,,,,OR,2.08618392614338,,,,0.031546478606636,,1.0664,4.1467,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.03155
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0664 4.1467
+sample estimates:
+odds ratio 
+  2.086184 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    49   24
+GreaterGood   37   38
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.08618392614338,1.0664,4.1467,146,73,73,0.40541,0.03508,0.03544,0.78416,65.74128,61.28174,0.22563,0.03208,0.4033,0.03472,0.03526,0.78007,65.66352,61.22446,0.03208,0.19867,0.00777,0.01772,0.36503,0.01732,0.20134,0.00699,0.01772,0.38267,2.08618,1.0664,4.1467,0.03208,0.73534,0.06429,1.42231,0.03208,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,148,15,91,148,148,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+148 ","Setting
+In a lab 
+     148 ","Tablet
+Computers 
+      148 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      148 ","analysis.type
+Secondary 
+      148 ","subset
+all 
+148 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.226732Z,17,Hauser,2,,lse,Secondary,Hauser.5,60,25,35,SideEffect.1,,25,12,0.48,0.2,Yes,0.48,,,,,,,,,,,SideEffect.2,,25,13,0.52,0.216666666666667,No,0.52,,,,,,,,,,,GreaterGood.1,,25,16,,0.457142857142857,0.266666666666667,Yes,0.457142857142857,,,,,,,,,,,GreaterGood.2,,25,19,,0.542857142857143,0.316666666666667,No,0.542857142857143,,,,,,,,,,,OR,1.09447549788247,,,,1,,0.3546,3.3763,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3546 3.3763
+sample estimates:
+odds ratio 
+  1.094475 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    12   13
+GreaterGood   16   19
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.09447549788247,0.3546,3.3763,50,25,25,0.04977,0.08371,-0.5716,0.67085,51.98477,51.40373,0.02807,0.86414,0.04899,0.0811,-0.56262,0.66031,51.95362,51.38169,0.86414,0.02488,0.02089,-0.2748,0.31801,0.86526,0.02488,0.02128,-0.28204,0.32943,1.09448,0.3546,3.3763,0.86414,0.09028,-1.03676,1.21678,0.86414,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,60,15,43,60,60,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 60 ","Setting
+In a lab 
+      60 ","Tablet
+Computers 
+       60 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       60 ","analysis.type
+Secondary 
+       60 ","subset
+all 
+ 60 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.344599Z,17,Hauser,2,,mcdanielonline,Secondary,Hauser.5,74,37,37,SideEffect.1,,37,24,0.648648648648649,0.324324324324324,Yes,0.648648648648649,,,,,,,,,,,SideEffect.2,,37,13,0.351351351351351,0.175675675675676,No,0.351351351351351,,,,,,,,,,,GreaterGood.1,,37,22,,0.594594594594595,0.297297297297297,Yes,0.594594594594595,,,,,,,,,,,GreaterGood.2,,37,15,,0.405405405405405,0.202702702702703,No,0.405405405405405,,,,,,,,,,,OR,1.25481677297162,,,,0.810840464125023,,0.4658,3.2528,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.8108
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4658 3.2528
+sample estimates:
+odds ratio 
+  1.254817 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    24   13
+GreaterGood   22   15
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.25481677297162,0.4658,3.2528,74,37,37,0.12515,0.07013,-0.42121,0.6503,54.9796,53.5257,0.07051,0.63794,0.12384,0.06867,-0.41681,0.6435,54.92781,53.48894,0.63794,0.06245,0.01733,-0.20609,0.30922,0.59988,0.06253,0.01408,-0.20908,0.31968,1.25482,0.4658,3.2528,0.63794,0.22699,-0.764,1.17952,0.63794,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,74,15,55,74,74,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 74 ","Setting
+Online (at home) 
+              74 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             74 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       74 ","analysis.type
+Secondary 
+       74 ","subset
+all 
+ 74 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.433754Z,17,Hauser,2,,metu,Secondary,Hauser.5,59,28,31,SideEffect.1,,28,14,0.5,0.23728813559322,No,0.5,,,,,,,,,,,SideEffect.2,,28,14,0.5,0.23728813559322,No,0.5,,,,,,,,,,,GreaterGood.1,,28,14,,0.451612903225806,0.23728813559322,No,0.451612903225806,,,,,,,,,,,GreaterGood.2,,28,17,,0.548387096774194,0.288135593220339,No,0.548387096774194,,,,,,,,,,,OR,1.21028132844247,,,,0.796575877765236,,0.4043,3.7409,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.7966
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4043 3.7409
+sample estimates:
+odds ratio 
+  1.210281 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    14   14
+GreaterGood   14   17
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.21028132844247,0.4043,3.7409,56,28,28,0.10522,0.08302,-0.49928,0.72738,54.19004,52.96554,0.05931,0.71639,0.10375,0.08071,-0.49232,0.71723,54.13179,52.92424,0.71639,0.05254,0.02058,-0.24221,0.34179,0.70334,0.05259,0.01887,-0.24712,0.35612,1.21028,0.4043,3.7409,0.71639,0.19085,-0.9056,1.31933,0.71639,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,59,15,51,59,59,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 59 ","Setting
+Online (at home) 
+              59 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             59 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       59 ","analysis.type
+Secondary 
+       59 ","subset
+all 
+ 59 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.525593Z,17,Hauser,2,,moralsense,Secondary,Hauser.5,509,266,243,SideEffect.1,,266,203,0.763157894736842,0.398821218074656,Yes,0.763157894736842,,,,,,,,,,,SideEffect.2,,266,63,0.236842105263158,0.1237721021611,No,0.236842105263158,,,,,,,,,,,GreaterGood.1,,266,151,,0.621399176954733,0.296660117878193,Yes,0.621399176954733,,,,,,,,,,,GreaterGood.2,,266,92,,0.378600823045268,0.180746561886051,No,0.378600823045268,,,,,,,,,,,OR,1.96058911768674,,,,0.000713018789663971,,1.3213,2.9045,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.000713
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.3213 2.9045
+sample estimates:
+odds ratio 
+  1.960589 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   203   63
+GreaterGood  151   92
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.96058911768674,1.3213,2.9045,532,266,266,0.37118,0.01164,0.15361,0.58786,64.47481,60.35179,0.20704,0.00063,0.37065,0.01161,0.15339,0.58703,64.45523,60.33747,0.00063,0.18247,0.00263,0.07658,0.282,3e-05,0.18454,0.00189,0.07673,0.28985,1.96059,1.3213,2.9045,0.00063,0.67324,0.27862,1.06626,0.00063,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,509,15,120,509,509,0,100,< table of extent 0 >,"SubjectPool
+ No 
+509 ","Setting
+Online (at home) 
+             509 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            509 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      509 ","analysis.type
+Secondary 
+      509 ","subset
+all 
+509 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.614706Z,17,Hauser,2,,mturk,Secondary,Hauser.5,215,98,117,SideEffect.1,,98,62,0.63265306122449,0.288372093023256,Yes,0.63265306122449,,,,,,,,,,,SideEffect.2,,98,36,0.36734693877551,0.167441860465116,No,0.36734693877551,,,,,,,,,,,GreaterGood.1,,98,57,,0.487179487179487,0.265116279069767,Yes,0.487179487179487,,,,,,,,,,,GreaterGood.2,,98,60,,0.512820512820513,0.27906976744186,No,0.512820512820513,,,,,,,,,,,OR,1.80782866062355,,,,0.0390023784200198,,1.0199,3.1782,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.039
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0199 3.1782
+sample estimates:
+odds ratio 
+  1.807829 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    62   36
+GreaterGood   57   60
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.80782866062355,1.0199,3.1782,196,98,98,0.32646,0.02374,0.01086,0.63751,62.79605,59.12803,0.18256,0.0354,0.32519,0.02356,0.01082,0.63504,62.74824,59.09331,0.0354,0.1611,0.00549,0.00543,0.3037,0.02508,0.16251,0.00518,0.00543,0.31359,1.80783,1.0199,3.1782,0.0354,0.59213,0.0197,1.15631,0.0354,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,215,15,100,215,215,0,100,< table of extent 0 >,"SubjectPool
+ No 
+215 ","Setting
+Online (at home) 
+             215 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            215 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      215 ","analysis.type
+Secondary 
+      215 ","subset
+all 
+215 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.738217Z,17,Hauser,2,,mturk_india,Secondary,Hauser.5,208,96,112,SideEffect.1,,96,66,0.6875,0.317307692307692,Yes,0.6875,,,,,,,,,,,SideEffect.2,,96,30,0.3125,0.144230769230769,No,0.3125,,,,,,,,,,,GreaterGood.1,,96,73,,0.651785714285714,0.350961538461538,Yes,0.651785714285714,,,,,,,,,,,GreaterGood.2,,96,39,,0.348214285714286,0.1875,No,0.348214285714286,,,,,,,,,,,OR,1.17442850442573,,,,0.658235111994344,,0.6386,2.1079,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.6582
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6386 2.1079
+sample estimates:
+odds ratio 
+  1.174429 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    66   30
+GreaterGood   73   39
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.17442850442573,0.6386,2.1079,192,96,96,0.08864,0.0267,-0.24726,0.41112,53.53174,52.49895,0.04998,0.58809,0.08829,0.02648,-0.24628,0.4095,53.51782,52.48909,0.58809,0.04428,0.00663,-0.1227,0.20135,0.54317,0.04431,0.00529,-0.12332,0.20414,1.17443,0.6386,2.1079,0.58809,0.16078,-0.44848,0.74569,0.58809,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,134,15,83,208,208,0,0,< table of extent 0 >,"SubjectPool
+ No 
+208 ","Setting
+Online (at home) 
+             208 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            208 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      208 ","analysis.type
+Secondary 
+      208 ","subset
+all 
+208 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.819789Z,17,Hauser,2,,munich,Secondary,Hauser.5,62,32,30,SideEffect.1,,32,16,0.5,0.258064516129032,No,0.5,,,,,,,,,,,SideEffect.2,,32,16,0.5,0.258064516129032,No,0.5,,,,,,,,,,,GreaterGood.1,,32,13,,0.433333333333333,0.209677419354839,Yes,0.433333333333333,,,,,,,,,,,GreaterGood.2,,32,17,,0.566666666666667,0.274193548387097,No,0.566666666666667,,,,,,,,,,,OR,1.30201599984765,,,,0.620885587410279,,0.4624,3.8475,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.6209
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4624 3.8475
+sample estimates:
+odds ratio 
+  1.302016 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16   16
+GreaterGood   13   17
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.30201599984765,0.4624,3.8475,64,32,32,0.1455,0.07926,-0.42525,0.74287,55.78433,54.09734,0.08195,0.60711,0.14374,0.07734,-0.42009,0.73385,55.71456,54.04775,0.60711,0.07256,0.0195,-0.20798,0.34819,0.57228,0.07269,0.01639,-0.21106,0.36339,1.30202,0.4624,3.8475,0.60711,0.26391,-0.77132,1.34742,0.60711,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,62,15,52,62,62,0,100,< table of extent 0 >,"SubjectPool
+No 
+62 ","Setting
+In a classroom 
+            62 ","Tablet
+Computers 
+       62 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       62 ","analysis.type
+Secondary 
+       62 ","subset
+all 
+ 62 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:53.892256Z,17,Hauser,2,,munichon,Secondary,Hauser.5,141,72,69,SideEffect.1,,72,39,0.541666666666667,0.276595744680851,Yes,0.541666666666667,,,,,,,,,,,SideEffect.2,,72,33,0.458333333333333,0.234042553191489,No,0.458333333333333,,,,,,,,,,,GreaterGood.1,,72,33,,0.478260869565217,0.234042553191489,No,0.478260869565217,,,,,,,,,,,GreaterGood.2,,72,36,,0.521739130434783,0.25531914893617,No,0.521739130434783,,,,,,,,,,,OR,1.28691343689381,,,,0.502156551277256,,0.6521,2.5821,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.5022
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6521 2.5821
+sample estimates:
+odds ratio 
+  1.286913 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    39   33
+GreaterGood   33   36
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.28691343689381,0.6521,2.5821,144,72,72,0.13907,0.03466,-0.23572,0.52299,55.53029,53.9168,0.07834,0.45629,0.13834,0.03429,-0.23448,0.52023,55.50122,53.89615,0.45629,0.06937,0.00854,-0.11705,0.25299,0.41074,0.06948,0.00709,-0.11759,0.2586,1.28691,0.6521,2.5821,0.45629,0.25225,-0.42756,0.9486,0.45629,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,62,15,52,62,62,0,100,< table of extent 0 >,"SubjectPool
+No 
+62 ","Setting
+In a classroom 
+            62 ","Tablet
+Computers 
+       62 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       62 ","analysis.type
+Secondary 
+       62 ","subset
+all 
+ 62 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.029777Z,17,Hauser,2,,osnabruck,Secondary,Hauser.5,69,43,26,SideEffect.1,,43,20,0.465116279069768,0.289855072463768,Yes,0.465116279069768,,,,,,,,,,,SideEffect.2,,43,23,0.534883720930233,0.333333333333333,No,0.534883720930233,,,,,,,,,,,GreaterGood.1,,43,12,,0.461538461538462,0.173913043478261,Yes,0.461538461538462,,,,,,,,,,,GreaterGood.2,,43,14,,0.538461538461538,0.202898550724638,No,0.538461538461538,,,,,,,,,,,OR,1.0142835774287,,,,1,,0.3737,2.8283,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3737 2.8283
+sample estimates:
+odds ratio 
+  1.014284 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    20   23
+GreaterGood   12   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.0142835774287,0.3737,2.8283,86,43,43,0.00782,0.07546,-0.54267,0.5732,50.31194,50.22058,0.00441,0.97736,0.00775,0.07411,-0.53781,0.56807,50.30915,50.2186,0.97736,0.00391,0.01886,-0.26187,0.27551,0.97167,0.00391,0.01205,-0.26811,0.28282,1.01428,0.3737,2.8283,0.97736,0.01418,-0.9843,1.03968,0.97736,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,69,15,50,69,69,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 69 ","Setting
+In a classroom 
+            69 ","Tablet
+Computers 
+       69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.115648Z,17,Hauser,2,,ouhk,Secondary,Hauser.5,35,18,17,SideEffect.1,,18,9,0.5,0.257142857142857,No,0.5,,,,,,,,,,,SideEffect.2,,18,9,0.5,0.257142857142857,No,0.5,,,,,,,,,,,GreaterGood.1,,18,5,,0.294117647058824,0.142857142857143,Yes,0.294117647058824,,,,,,,,,,,GreaterGood.2,,18,12,,0.705882352941177,0.342857142857143,No,0.705882352941177,,,,,,,,,,,OR,2.33926854916957,,,,0.305266721477971,,0.568,9.9662,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3053
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5680 9.9662
+sample estimates:
+odds ratio 
+  2.339269 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect     9    9
+GreaterGood    5   12
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.33926854916957,0.568,9.9662,36,18,18,0.46854,0.15367,-0.31185,1.26762,68.03009,62.97941,0.25959,0.24027,0.45813,0.14692,-0.30492,1.23945,67.65699,62.70104,0.24027,0.22809,0.03273,-0.15406,0.53534,0.19115,0.23218,0.0303,-0.1553,0.5976,2.33927,0.568,9.9662,0.24027,0.84984,-0.56563,2.2992,0.24027,,,,,,,,ouhk,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate2_Traditional_ChineseHong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ouhk,1,1,1,1,1,1,35,14,27,35,35,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 35 ","Setting
+In a lab 
+      35 ","Tablet
+Computers 
+       35 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       35 ","analysis.type
+Secondary 
+       35 ","subset
+all 
+ 35 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.240478Z,17,Hauser,2,,pascal,Secondary,Hauser.5,50,27,23,SideEffect.1,,27,13,0.481481481481482,0.26,Yes,0.481481481481482,,,,,,,,,,,SideEffect.2,,27,14,0.518518518518519,0.28,No,0.518518518518519,,,,,,,,,,,GreaterGood.1,,27,16,,0.695652173913044,0.32,Yes,0.695652173913044,,,,,,,,,,,GreaterGood.2,,27,7,,0.304347826086957,0.14,No,0.304347826086957,,,,,,,,,,,OR,0.413810624678151,,,,0.157840288337057,,0.1265,1.3365,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1578
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.1265 1.3365
+sample estimates:
+odds ratio 
+ 0.4138106 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    13   14
+GreaterGood   16    7
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.413810624678151,0.1265,1.3365,54,27,27,-0.48646,0.10751,-1.13988,0.15992,31.33194,36.54301,-0.26914,0.14395,-0.47941,0.10442,-1.12336,0.1576,31.58224,36.73063,0.14395,-0.23634,0.02262,-0.49516,0.0797,0.09132,-0.2409,0.01961,-0.54288,0.07987,0.41381,0.1265,1.3365,0.14395,-0.88235,-2.06751,0.29005,0.14395,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,50,13,38,50,50,0,100,< table of extent 0 >,"SubjectPool
+No 
+50 ","Setting
+Online (at home) 
+              50 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             50 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       50 ","analysis.type
+Secondary 
+       50 ","subset
+all 
+ 50 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.331164Z,17,Hauser,2,,psualtoona,Secondary,Hauser.5,55,26,29,SideEffect.1,,26,17,0.653846153846154,0.309090909090909,Yes,0.653846153846154,,,,,,,,,,,SideEffect.2,,26,9,0.346153846153846,0.163636363636364,No,0.346153846153846,,,,,,,,,,,GreaterGood.1,,26,19,,0.655172413793103,0.345454545454545,Yes,0.655172413793103,,,,,,,,,,,GreaterGood.2,,26,10,,0.344827586206897,0.181818181818182,No,0.344827586206897,,,,,,,,,,,OR,0.994257606823234,,,,1,,0.3153,3.2354,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3153 3.2354
+sample estimates:
+odds ratio 
+ 0.9942576 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    17    9
+GreaterGood   19   10
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.994257606823234,0.3153,3.2354,52,26,26,-0.00318,0.09805,-0.63636,0.64734,49.87333,49.91043,-0.00179,0.99195,-0.00313,0.09511,-0.62677,0.63759,49.87524,49.91178,0.99195,-0.00159,0.02451,-0.3032,0.30794,0.99118,-0.00159,0.02041,-0.31304,0.31827,0.99426,0.3153,3.2354,0.99195,-0.00576,-1.15423,1.17415,0.99195,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,55,15,42,55,55,0,100,< table of extent 0 >,"SubjectPool
+No 
+55 ","Setting
+In a lab 
+      55 ","Tablet
+Computers 
+       55 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       55 ","analysis.type
+Secondary 
+       55 ","subset
+all 
+ 55 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.468518Z,17,Hauser,2,,puc,Secondary,Hauser.5,45,28,17,SideEffect.1,,28,17,0.607142857142857,0.377777777777778,Yes,0.607142857142857,,,,,,,,,,,SideEffect.2,,28,11,0.392857142857143,0.244444444444444,No,0.392857142857143,,,,,,,,,,,GreaterGood.1,,28,9,,0.529411764705882,0.2,Yes,0.529411764705882,,,,,,,,,,,GreaterGood.2,,28,8,,0.470588235294118,0.177777777777778,No,0.470588235294118,,,,,,,,,,,OR,1.36395923218764,,,,0.757360782243159,,0.386,4.8353,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.7574
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3860 4.8353
+sample estimates:
+odds ratio 
+  1.363959 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    17   11
+GreaterGood    9    8
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.36395923218764,0.386,4.8353,56,28,28,0.17113,0.11728,-0.52482,0.86886,56.79384,54.81567,0.09631,0.61932,0.16874,0.11403,-0.5175,0.85674,56.69994,54.7488,0.61932,0.08525,0.02869,-0.25382,0.39846,0.53646,0.08546,0.01887,-0.25949,0.42181,1.36396,0.386,4.8353,0.61932,0.31039,-0.95192,1.57594,0.61932,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,45,15,39,45,45,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 45 ","Setting
+Online (at home) 
+              45 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             45 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       45 ","analysis.type
+Secondary 
+       45 ","subset
+all 
+ 45 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.561610Z,17,Hauser,2,,queensland2,Secondary,Hauser.5,64,36,28,SideEffect.1,,36,27,0.75,0.421875,Yes,0.75,,,,,,,,,,,SideEffect.2,,36,9,0.25,0.140625,No,0.25,,,,,,,,,,,GreaterGood.1,,36,17,,0.607142857142857,0.265625,Yes,0.607142857142857,,,,,,,,,,,GreaterGood.2,,36,11,,0.392857142857143,0.171875,No,0.392857142857143,,,,,,,,,,,OR,1.92066138743981,,,,0.280732189488318,,0.6101,5.8852,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.2807
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6101 5.8852
+sample estimates:
+odds ratio 
+  1.920661 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    27    9
+GreaterGood   17   11
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.92066138743981,0.6101,5.8852,72,36,36,0.35984,0.09054,-0.27243,0.9772,64.0515,60.0423,0.20085,0.2358,0.35597,0.08861,-0.2695,0.96669,63.90671,59.93659,0.2358,0.17707,0.02057,-0.13497,0.439,0.14162,0.17896,0.01449,-0.1358,0.47099,1.92066,0.6101,5.8852,0.2358,0.65267,-0.49413,1.77244,0.2358,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,64,15,50,64,64,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 64 ","Setting
+In a lab 
+      64 ","Tablet
+Computers 
+       64 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       64 ","analysis.type
+Secondary 
+       64 ","subset
+all 
+ 64 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.657184Z,17,Hauser,2,,ritonline,Secondary,Hauser.5,43,15,28,SideEffect.1,,15,10,0.666666666666667,0.232558139534884,Yes,0.666666666666667,,,,,,,,,,,SideEffect.2,,15,5,0.333333333333333,0.116279069767442,No,0.333333333333333,,,,,,,,,,,GreaterGood.1,,15,14,,0.5,0.325581395348837,No,0.5,,,,,,,,,,,GreaterGood.2,,15,14,,0.5,0.325581395348837,No,0.5,,,,,,,,,,,OR,1.96804220978759,,,,0.348699178408813,,0.4854,7.4451,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3487
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4854 7.4451
+sample estimates:
+odds ratio 
+  1.968042 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    10    5
+GreaterGood   14   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.96804220978759,0.4854,7.4451,30,15,15,0.37327,0.13461,-0.39849,1.10682,64.55267,60.4088,0.20818,0.31768,0.36318,0.12743,-0.38772,1.07691,64.17659,60.13369,0.31768,0.18347,0.03037,-0.1954,0.48421,0.34318,0.18557,0.03704,-0.19795,0.52847,1.96804,0.4854,7.4451,0.31768,0.67704,-0.72278,2.00756,0.31768,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,43,15,39,43,43,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 43 ","Setting
+Online (at home) 
+              43 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.771076Z,17,Hauser,2,,rotterdam,Secondary,Hauser.5,44,22,22,SideEffect.1,,22,18,0.818181818181818,0.409090909090909,Yes,0.818181818181818,,,,,,,,,,,SideEffect.2,,22,4,0.181818181818182,0.0909090909090909,No,0.181818181818182,,,,,,,,,,,GreaterGood.1,,22,10,,0.454545454545455,0.227272727272727,Yes,0.454545454545455,,,,,,,,,,,GreaterGood.2,,22,12,,0.545454545454545,0.272727272727273,No,0.545454545454545,,,,,,,,,,,OR,5.18004902975256,,,,0.0267518008090662,,1.2158,21.8472,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.02675
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  1.2158 21.8472
+sample estimates:
+odds ratio 
+  5.180049 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    18    4
+GreaterGood   10   12
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,5.18004902975256,1.2158,21.8472,44,22,22,0.90683,0.1486,0.10773,1.70034,81.77526,73.93128,0.47863,0.02341,0.89054,0.14331,0.1058,1.66979,81.34129,73.55576,0.02341,0.41295,0.0212,0.05379,0.64772,0.00745,0.43916,0.02439,0.05384,0.77137,5.18005,1.2158,21.8472,0.02341,1.64481,0.1954,3.08407,0.02341,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,44,14,36,44,44,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 44 ","Setting
+In a lab 
+      44 ","Tablet
+Computers 
+       44 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       44 ","analysis.type
+Secondary 
+       44 ","subset
+all 
+ 44 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.857290Z,17,Hauser,2,,salford,Secondary,Hauser.5,33,17,16,SideEffect.1,,17,10,0.588235294117647,0.303030303030303,No,0.588235294117647,,,,,,,,,,,SideEffect.2,,17,7,0.411764705882353,0.212121212121212,No,0.411764705882353,,,,,,,,,,,GreaterGood.1,,17,6,,0.375,0.181818181818182,Yes,0.375,,,,,,,,,,,GreaterGood.2,,17,10,,0.625,0.303030303030303,No,0.625,,,,,,,,,,,OR,2.31728817621124,,,,0.302829060851578,,0.5504,9.8372,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3028
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5504 9.8372
+sample estimates:
+odds ratio 
+  2.317288 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    10    7
+GreaterGood    6   10
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.31728817621124,0.5504,9.8372,34,17,17,0.46334,0.15488,-0.3292,1.26043,67.8438,62.84034,0.25681,0.24774,0.45239,0.14765,-0.32143,1.23066,67.45062,62.54735,0.24774,0.22569,0.0331,-0.16242,0.53317,0.21023,0.22964,0.03226,-0.16387,0.59456,2.31729,0.5504,9.8372,0.24774,0.8404,-0.59711,2.28617,0.24774,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,33,15,30,33,33,0,100,< table of extent 0 >,"SubjectPool
+No 
+33 ","Setting
+In a classroom 
+            33 ","Tablet
+Computers 
+       33 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       33 ","analysis.type
+Secondary 
+       33 ","subset
+all 
+ 33 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:54.949377Z,17,Hauser,2,,seznam,Secondary,Hauser.5,56,30,26,SideEffect.1,,30,18,0.6,0.321428571428571,Yes,0.6,,,,,,,,,,,SideEffect.2,,30,12,0.4,0.214285714285714,No,0.4,,,,,,,,,,,GreaterGood.1,,30,14,,0.538461538461538,0.25,Yes,0.538461538461538,,,,,,,,,,,GreaterGood.2,,30,12,,0.461538461538462,0.214285714285714,No,0.461538461538462,,,,,,,,,,,OR,1.27992125140041,,,,0.787536848015262,,0.4127,3.8021,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.7875
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4127 3.8021
+sample estimates:
+odds ratio 
+  1.279921 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    18   12
+GreaterGood   14   12
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.27992125140041,0.4127,3.8021,60,30,30,0.13607,0.08926,-0.48795,0.73633,55.41159,53.83247,0.07665,0.6505,0.1343,0.08696,-0.48161,0.72677,55.34174,53.78285,0.6505,0.06788,0.02201,-0.23702,0.34549,0.60973,0.06798,0.01754,-0.24161,0.36032,1.27992,0.4127,3.8021,0.6505,0.2468,-0.88503,1.33555,0.6505,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,56,14,43,56,56,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 56 ","Setting
+In a lab 
+      56 ","Tablet
+Computers 
+       56 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       56 ","analysis.type
+Secondary 
+       56 ","subset
+all 
+ 56 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.068325Z,17,Hauser,2,,seznamon,Secondary,Hauser.5,80,46,34,SideEffect.1,,46,30,0.652173913043478,0.375,Yes,0.652173913043478,,,,,,,,,,,SideEffect.2,,46,16,0.347826086956522,0.2,No,0.347826086956522,,,,,,,,,,,GreaterGood.1,,46,21,,0.617647058823529,0.2625,Yes,0.617647058823529,,,,,,,,,,,GreaterGood.2,,46,13,,0.382352941176471,0.1625,No,0.382352941176471,,,,,,,,,,,OR,1.15854132828893,,,,0.81614326173385,,0.4464,3.1592,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.8161
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4464 3.1592
+sample estimates:
+odds ratio 
+  1.158541 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    30   16
+GreaterGood   21   13
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.15854132828893,0.4464,3.1592,92,46,46,0.08113,0.06699,-0.44467,0.6342,53.23325,52.28751,0.04575,0.75464,0.08046,0.06587,-0.44095,0.6289,53.20629,52.26841,0.75464,0.04053,0.01666,-0.21703,0.30227,0.70291,0.04056,0.01124,-0.22054,0.31201,1.15854,0.4464,3.1592,0.75464,0.14716,-0.80654,1.15032,0.75464,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,80,14,62,80,80,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 80 ","Setting
+Online (at home) 
+              80 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             80 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       80 ","analysis.type
+Secondary 
+       80 ","subset
+all 
+ 80 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.154803Z,17,Hauser,2,,simmons,Secondary,Hauser.5,32,15,17,SideEffect.1,,15,10,0.666666666666667,0.3125,Yes,0.666666666666667,,,,,,,,,,,SideEffect.2,,15,5,0.333333333333333,0.15625,No,0.333333333333333,,,,,,,,,,,GreaterGood.1,,15,6,,0.352941176470588,0.1875,Yes,0.352941176470588,,,,,,,,,,,GreaterGood.2,,15,11,,0.647058823529412,0.34375,No,0.647058823529412,,,,,,,,,,,OR,3.51051336950081,,,,0.155613477924309,,0.7812,18.5326,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1556
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  0.7812 18.5326
+sample estimates:
+odds ratio 
+  3.510513 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    10    5
+GreaterGood    6   11
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,3.51051336950081,0.7812,18.5326,30,15,15,0.69234,0.16948,-0.13614,1.60962,75.56375,68.77763,0.37555,0.10374,0.67363,0.16045,-0.13246,1.56612,74.97255,68.30788,0.10374,0.32712,0.03017,-0.06791,0.62698,0.08853,0.3396,0.03704,-0.06802,0.73642,3.51051,0.7812,18.5326,0.10374,1.25576,-0.24692,2.91953,0.10374,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,32,15,29,32,32,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 32 ","Setting
+In a lab 
+      32 ","Tablet
+Computers 
+       32 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       32 ","analysis.type
+Secondary 
+       32 ","subset
+all 
+ 32 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.236055Z,17,Hauser,2,,swps,Secondary,Hauser.5,30,15,15,SideEffect.1,,15,5,0.333333333333333,0.166666666666667,Yes,0.333333333333333,,,,,,,,,,,SideEffect.2,,15,10,0.666666666666667,0.333333333333333,No,0.666666666666667,,,,,,,,,,,GreaterGood.1,,15,8,,0.533333333333333,0.266666666666667,Yes,0.533333333333333,,,,,,,,,,,GreaterGood.2,,15,7,,0.466666666666667,0.233333333333333,No,0.466666666666667,,,,,,,,,,,OR,0.450057067106992,,,,0.462137352376443,,0.0885,2.2645,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.4621
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.0885 2.2645
+sample estimates:
+odds ratio 
+ 0.4500571 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect     5   10
+GreaterGood    8    7
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.450057067106992,0.0885,2.2645,30,15,15,-0.44017,0.17261,-1.33684,0.45063,32.99068,37.78062,-0.24439,0.29844,-0.42827,0.1634,-1.30071,0.43845,33.42258,38.10076,0.29844,-0.21494,0.03744,-0.55571,0.21981,0.26618,-0.21835,0.03704,-0.6266,0.22345,0.45006,0.0885,2.2645,0.29844,-0.79838,-2.42475,0.81735,0.29844,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,swps,1,1,1,1,1,1,30,14,27,30,30,0,100,< table of extent 0 >,"SubjectPool
+No 
+30 ","Setting
+In a lab 
+      30 ","Tablet
+Computers 
+       30 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       30 ","analysis.type
+Secondary 
+       30 ","subset
+all 
+ 30 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.322922Z,17,Hauser,2,,tamu,Secondary,Hauser.5,37,15,22,SideEffect.1,,15,12,0.8,0.324324324324324,Yes,0.8,,,,,,,,,,,SideEffect.2,,15,3,0.2,0.0810810810810811,No,0.2,,,,,,,,,,,GreaterGood.1,,15,16,,0.727272727272727,0.432432432432432,Yes,0.727272727272727,,,,,,,,,,,GreaterGood.2,,15,6,,0.272727272727273,0.162162162162162,No,0.272727272727273,,,,,,,,,,,OR,1.48396389306497,,,,0.71105414778123,,0.3008,8.1576,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.7111
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3008 8.1576
+sample estimates:
+odds ratio 
+  1.483964 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    12    3
+GreaterGood   16    6
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.48396389306497,0.3008,8.1576,30,15,15,0.21762,0.19631,-0.66232,1.15721,58.61369,56.11477,0.1223,0.62714,0.21174,0.18584,-0.64442,1.12594,58.3844,55.95076,0.62714,0.10817,0.04737,-0.31437,0.50081,0.57706,0.1086,0.03704,-0.32539,0.55039,1.48396,0.3008,8.1576,0.62714,0.39472,-1.20131,2.09895,0.62714,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,37,14,34,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+In a lab 
+      37 ","Tablet
+Computers 
+       37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.447130Z,17,Hauser,2,,tanzania,Secondary,Hauser.5,42,22,20,SideEffect.1,,22,19,0.863636363636364,0.452380952380952,Yes,0.863636363636364,,,,,,,,,,,SideEffect.2,,22,3,0.136363636363636,0.0714285714285714,No,0.136363636363636,,,,,,,,,,,GreaterGood.1,,22,16,,0.8,0.380952380952381,Yes,0.8,,,,,,,,,,,GreaterGood.2,,22,4,,0.2,0.0952380952380952,No,0.2,,,,,,,,,,,OR,1.56601104194589,,,,0.690896337237801,,0.2972,9.0689,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.6909
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.2972 9.0689
+sample estimates:
+odds ratio 
+  1.566011 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    19    3
+GreaterGood   16    4
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.56601104194589,0.2972,9.0689,44,22,22,0.24729,0.21231,-0.66895,1.2156,59.76575,56.94049,0.13881,0.59432,0.24285,0.20475,-0.65694,1.19376,59.59377,56.81704,0.59432,0.12271,0.05072,-0.3172,0.51939,0.43414,0.12333,0.02439,-0.32854,0.5755,1.56601,0.2972,9.0689,0.59432,0.44853,-1.21335,2.20485,0.59432,,,,,,,,tanzania,tanzania,Open University of Tanzania,Winfrida Malingumu,ML2_Slate2_TanzaniaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Tanzania,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tanzania,1,1,1,1,1,1,42,14,39,42,42,0,0,< table of extent 0 >,"SubjectPool
+No 
+42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.538927Z,17,Hauser,2,,tilburg,Secondary,Hauser.5,64,40,24,SideEffect.1,,40,24,0.6,0.375,Yes,0.6,,,,,,,,,,,SideEffect.2,,40,16,0.4,0.25,No,0.4,,,,,,,,,,,GreaterGood.1,,40,14,,0.583333333333333,0.21875,Yes,0.583333333333333,,,,,,,,,,,GreaterGood.2,,40,10,,0.416666666666667,0.15625,No,0.416666666666667,,,,,,,,,,,OR,1.07027155233111,,,,1,,0.3674,3.2321,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.3674 3.2321
+sample estimates:
+odds ratio 
+  1.070272 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    24   16
+GreaterGood   14   10
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.07027155233111,0.3674,3.2321,80,40,40,0.03744,0.08377,-0.55205,0.64678,51.49337,51.0561,0.02112,0.8974,0.03708,0.08216,-0.54672,0.64054,51.47897,51.04591,0.8974,0.01872,0.02092,-0.26607,0.3077,0.86995,0.01872,0.01299,-0.27263,0.318,1.07027,0.3674,3.2321,0.8974,0.06791,-1.0013,1.17313,0.8974,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,64,15,52,64,64,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 64 ","Setting
+In a lab 
+      64 ","Tablet
+Computers 
+       64 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       64 ","analysis.type
+Secondary 
+       64 ","subset
+all 
+ 64 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.634367Z,17,Hauser,2,,ulatina,Secondary,Hauser.5,87,48,39,SideEffect.1,,48,36,0.75,0.413793103448276,Yes,0.75,,,,,,,,,,,SideEffect.2,,48,12,0.25,0.137931034482759,No,0.25,,,,,,,,,,,GreaterGood.1,,48,25,,0.641025641025641,0.28735632183908,Yes,0.641025641025641,,,,,,,,,,,GreaterGood.2,,48,14,,0.358974358974359,0.160919540229885,No,0.358974358974359,,,,,,,,,,,OR,1.66979361531331,,,,0.347441739371658,,0.613,4.2471,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3474
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6130 4.2471
+sample estimates:
+odds ratio 
+  1.669794 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    36   12
+GreaterGood   25   14
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.66979361531331,0.613,4.2471,96,48,48,0.28267,0.06764,-0.26982,0.79735,61.12837,57.92109,0.15842,0.27989,0.28041,0.06657,-0.26766,0.79097,61.04166,57.85855,0.27989,0.13994,0.01594,-0.1337,0.37033,0.17757,0.14087,0.01075,-0.1345,0.38881,1.66979,0.613,4.2471,0.27989,0.5127,-0.48939,1.44624,0.27989,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,87,15,62,87,87,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.756564Z,17,Hauser,2,,umich,Secondary,Hauser.5,45,23,22,SideEffect.1,,23,11,0.478260869565217,0.244444444444444,Yes,0.478260869565217,,,,,,,,,,,SideEffect.2,,23,12,0.521739130434783,0.266666666666667,No,0.521739130434783,,,,,,,,,,,GreaterGood.1,,23,13,,0.590909090909091,0.288888888888889,Yes,0.590909090909091,,,,,,,,,,,GreaterGood.2,,23,9,,0.409090909090909,0.2,No,0.409090909090909,,,,,,,,,,,OR,0.641130603880421,,,,0.554443566604303,,0.184,2.2225,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.5544
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.1840 2.2225
+sample estimates:
+odds ratio 
+ 0.6411306 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    11   12
+GreaterGood   13    9
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,0.641130603880421,0.184,2.2225,46,23,23,-0.24508,0.11012,-0.9333,0.44031,40.31981,43.12093,-0.13758,0.46411,-0.24088,0.10638,-0.9173,0.43276,40.48254,43.23771,0.46411,-0.12163,0.02633,-0.42287,0.21501,0.42712,-0.12223,0.02326,-0.45119,0.21841,0.64113,0.184,2.2225,0.46411,-0.44452,-1.69282,0.79863,0.46411,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,45,14,40,45,45,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 45 ","Setting
+In a lab 
+      45 ","Tablet
+Computers 
+       45 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       45 ","analysis.type
+Secondary 
+       45 ","subset
+all 
+ 45 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.841797Z,17,Hauser,2,,uned,Secondary,Hauser.5,73,38,35,SideEffect.1,,38,31,0.81578947368421,0.424657534246575,Yes,0.81578947368421,,,,,,,,,,,SideEffect.2,,38,7,0.184210526315789,0.0958904109589041,No,0.184210526315789,,,,,,,,,,,GreaterGood.1,,38,24,,0.685714285714286,0.328767123287671,Yes,0.685714285714286,,,,,,,,,,,GreaterGood.2,,38,11,,0.314285714285714,0.150684931506849,No,0.314285714285714,,,,,,,,,,,OR,2.00996828148413,,,,0.277973490741579,,0.6102,6.2758,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.278
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6102 6.2758
+sample estimates:
+odds ratio 
+  2.009968 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    31    7
+GreaterGood   24   11
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.00996828148413,0.6102,6.2758,76,38,38,0.38489,0.09353,-0.27234,1.01263,64.98417,60.72507,0.2145,0.21215,0.38098,0.09163,-0.26957,1.00233,64.83906,60.61863,0.21215,0.18898,0.02097,-0.13492,0.45171,0.10645,0.19128,0.0137,-0.13575,0.48685,2.00997,0.6102,6.2758,0.21215,0.69812,-0.49397,1.8367,0.21215,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,73,15,53,73,73,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 73 ","Setting
+Online (at home) 
+              73 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             73 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       73 ","analysis.type
+Secondary 
+       73 ","subset
+all 
+ 73 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:55.925866Z,17,Hauser,2,,unswonline,Secondary,Hauser.5,55,25,30,SideEffect.1,,25,16,0.64,0.290909090909091,Yes,0.64,,,,,,,,,,,SideEffect.2,,25,9,0.36,0.163636363636364,No,0.36,,,,,,,,,,,GreaterGood.1,,25,15,,0.5,0.272727272727273,No,0.5,,,,,,,,,,,GreaterGood.2,,25,15,,0.5,0.272727272727273,No,0.5,,,,,,,,,,,OR,1.75913870508763,,,,0.413740164755789,,0.5373,5.6353,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.4137
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5373 5.6353
+sample estimates:
+odds ratio 
+  1.759139 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16    9
+GreaterGood   15   15
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.75913870508763,0.5373,5.6353,50,25,25,0.3114,0.0933,-0.34248,0.95328,62.22532,58.71407,0.17428,0.31308,0.30651,0.09039,-0.33711,0.9383,62.03929,58.57935,0.31308,0.15385,0.02171,-0.16879,0.43026,0.29302,0.15508,0.02128,-0.17042,0.46022,1.75914,0.5373,5.6353,0.31308,0.56482,-0.6212,1.72905,0.31308,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,55,15,44,55,55,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 55 ","Setting
+Online (at home) 
+              55 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             55 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       55 ","analysis.type
+Secondary 
+       55 ","subset
+all 
+ 55 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:56.039529Z,17,Hauser,2,,vcu,Secondary,Hauser.5,65,29,36,SideEffect.1,,29,16,0.551724137931035,0.246153846153846,Yes,0.551724137931035,,,,,,,,,,,SideEffect.2,,29,13,0.448275862068966,0.2,No,0.448275862068966,,,,,,,,,,,GreaterGood.1,,29,18,,0.5,0.276923076923077,No,0.5,,,,,,,,,,,GreaterGood.2,,29,18,,0.5,0.276923076923077,No,0.5,,,,,,,,,,,OR,1.22683154175558,,,,0.803727710486192,,0.4529,3.4571,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.8037
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4529 3.4571
+sample estimates:
+odds ratio 
+  1.226832 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    16   13
+GreaterGood   18   18
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.22683154175558,0.4529,3.4571,58,29,29,0.11271,0.07615,-0.4367,0.68388,54.48701,53.17615,0.06352,0.68451,0.11119,0.07412,-0.43082,0.67468,54.4269,53.13351,0.68451,0.05627,0.01886,-0.21332,0.32355,0.67775,0.05633,0.01818,-0.21665,0.33561,1.22683,0.4529,3.4571,0.68451,0.20443,-0.79208,1.24043,0.68451,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,65,15,47,65,65,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 65 ","Setting
+In a lab 
+      65 ","Tablet
+Computers 
+       65 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       65 ","analysis.type
+Secondary 
+       65 ","subset
+all 
+ 65 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:56.128144Z,17,Hauser,2,,vuw,Secondary,Hauser.5,66,32,34,SideEffect.1,,32,25,0.78125,0.378787878787879,Yes,0.78125,,,,,,,,,,,SideEffect.2,,32,7,0.21875,0.106060606060606,No,0.21875,,,,,,,,,,,GreaterGood.1,,32,15,,0.441176470588235,0.227272727272727,Yes,0.441176470588235,,,,,,,,,,,GreaterGood.2,,32,19,,0.558823529411765,0.287878787878788,No,0.558823529411765,,,,,,,,,,,OR,4.41397414348885,,,,0.0060013081557435,,1.502,13.5428,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.006001
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  1.5020 13.5428
+sample estimates:
+odds ratio 
+  4.413974 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    25    7
+GreaterGood   15   19
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,4.41397414348885,1.502,13.5428,64,32,32,0.8186,0.09184,0.22428,1.43668,79.34926,71.86505,0.4373,0.0089,0.80866,0.08963,0.22156,1.41923,79.06438,71.62736,0.0089,0.3788,0.01443,0.11144,0.58342,0.0028,0.39866,0.01639,0.11191,0.66763,4.41397,1.502,13.5428,0.0089,1.48478,0.4068,2.60586,0.0089,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,66,15,55,66,66,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 66 ","Setting
+Online (at home) 
+              66 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             66 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       66 ","analysis.type
+Secondary 
+       66 ","subset
+all 
+ 66 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:56.209259Z,17,Hauser,2,,westernkentucky,Secondary,Hauser.5,61,30,31,SideEffect.1,,30,25,0.833333333333333,0.409836065573771,Yes,0.833333333333333,,,,,,,,,,,SideEffect.2,,30,5,0.166666666666667,0.0819672131147541,No,0.166666666666667,,,,,,,,,,,GreaterGood.1,,30,22,,0.709677419354839,0.360655737704918,Yes,0.709677419354839,,,,,,,,,,,GreaterGood.2,,30,9,,0.290322580645161,0.147540983606557,No,0.290322580645161,,,,,,,,,,,OR,2.0216656387312,,,,0.362725289128231,,0.5434,7.1314,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.3627
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5434 7.1314
+sample estimates:
+odds ratio 
+  2.021666 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    25    5
+GreaterGood   22    9
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.0216656387312,0.5434,7.1314,60,30,30,0.38809,0.12054,-0.33626,1.08309,65.10262,60.81201,0.21624,0.26826,0.38305,0.11743,-0.33189,1.06902,64.91595,60.67502,0.26826,0.19049,0.02697,-0.1658,0.4762,0.15079,0.19285,0.01754,-0.16735,0.51806,2.02167,0.5434,7.1314,0.26826,0.70392,-0.60991,1.96451,0.26826,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,61,15,49,61,61,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 61 ","Setting
+In a lab 
+      61 ","Tablet
+Computers 
+       61 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       61 ","analysis.type
+Secondary 
+       61 ","subset
+all 
+ 61 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:56.303485Z,17,Hauser,2,,yale,Secondary,Hauser.5,270,142,128,SideEffect.1,,142,98,0.690140845070423,0.362962962962963,Yes,0.690140845070423,,,,,,,,,,,SideEffect.2,,142,44,0.309859154929577,0.162962962962963,No,0.309859154929577,,,,,,,,,,,GreaterGood.1,,142,76,,0.59375,0.281481481481482,Yes,0.59375,,,,,,,,,,,GreaterGood.2,,142,52,,0.40625,0.192592592592593,No,0.40625,,,,,,,,,,,OR,1.52148923867833,,,,0.126376545465951,,0.9066,2.546,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1264
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.9066 2.5460
+sample estimates:
+odds ratio 
+  1.521489 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect    98   44
+GreaterGood   76   52
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.52148923867833,0.9066,2.546,284,142,142,0.23139,0.01985,-0.05406,0.51523,59.14929,56.4983,0.12997,0.10168,0.23077,0.01975,-0.05392,0.51386,59.12537,56.48116,0.10168,0.11493,0.00477,-0.02702,0.24947,0.05398,0.11544,0.00356,-0.02703,0.25485,1.52149,0.9066,2.546,0.10168,0.41969,-0.09805,0.93452,0.10168,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,270,15,108,270,270,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+270 ","Setting
+Online (at home) 
+             270 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            270 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      270 ","analysis.type
+Secondary 
+      270 ","subset
+all 
+270 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,191 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~INBAR.2A~~~~~~~
+	# 29 Inbar.2a - START
+
+	# 
+	# 29 Inbar.2a - aus not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - aus not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 29 Inbar.2a - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 29 Inbar.2a - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 29 Inbar.2a - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+ListIT = FALSE
+
+	# 
+	# 29 Inbar.2a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

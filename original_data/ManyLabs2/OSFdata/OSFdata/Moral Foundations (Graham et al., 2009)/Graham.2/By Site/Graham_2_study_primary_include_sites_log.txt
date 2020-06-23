@@ -1,0 +1,103 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GRAHAM.2~~~~~~~
+	# 15 Graham.2 - START
+
+	# 
+	# 15 Graham.2 - aus >> ES r is close to 0:  -0.03
+	# 
+	# 15 Graham.2 - badaniaon >> ES r is close to 0:  0.04
+	# 
+	# 15 Graham.2 - castab >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - eltetab >> ES r is close to 0:  -0.02
+	# 
+	# 15 Graham.2 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - hawaiion >> ES r is close to 0:  0.03
+	# 
+	# 15 Graham.2 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - hkust >> ES r is close to 0:  -0.05
+	# 
+	# 15 Graham.2 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - hunancomp >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - koc >> ES r is close to 0:  0.03
+	# 
+	# 15 Graham.2 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 15 Graham.2 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 15 Graham.2 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 15 Graham.2 - mturk_india >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - occidtab >> ES r is close to 0:  -0.04
+	# 
+	# 15 Graham.2 - pscio >> ES r is close to 0:  0.03
+	# 
+	# 15 Graham.2 - psuabington >> ES r is close to 0:  0.04
+	# 
+	# 15 Graham.2 - purkyne >> ES r is close to 0:  0.04
+	# 
+	# 15 Graham.2 - sandiegosu >> ES r is close to 0:  -0.03
+	# 
+	# 15 Graham.2 - tamu >> ES r is close to 0:  -0.02
+	# 
+	# 15 Graham.2 - tilburg >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - tilburgcomm >> ES r is close to 0:  -0.04
+	# 
+	# 15 Graham.2 - toronto >> ES r is close to 0:  -0.01
+	# 
+	# 15 Graham.2 - tufts >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - ubctab >> ES r is close to 0:  -0.01
+	# 
+	# 15 Graham.2 - ucron >> ES r is close to 0:  0.01
+	# 
+	# 15 Graham.2 - udd >> ES r is close to 0:  -0.01
+	# 
+	# 15 Graham.2 - ufl >> ES r is close to 0:  -0.01
+	# 
+	# 15 Graham.2 - wilfredlaur >> ES r is close to 0:  0.02
+	# 
+	# 15 Graham.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

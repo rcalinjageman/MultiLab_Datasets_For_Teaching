@@ -1,0 +1,101 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SAVANI.3B~~~~~~~
+	# 58 Savani.3b - START
+
+	# 
+	# 58 Savani.3b - amity >> ES r is close to 0:  -0.03
+	# 
+	# 58 Savani.3b - aus2 >> ES r is close to 0:  0.03
+	# 
+	# 58 Savani.3b - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 58 Savani.3b - bogota >> ES r is close to 0:  0.01
+	# 
+	# 58 Savani.3b - brookcuny >> ES r is close to 0:  -0.03
+	# 
+	# 58 Savani.3b - cas >> ES r is close to 0:  -0.04
+	# 
+	# 58 Savani.3b - csunorthonline >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - fmkbelgrade >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - grazvienna >> ES r is close to 0:  -0.01
+	# 
+	# 58 Savani.3b - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 58 Savani.3b - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 58 Savani.3b - loyola >> ES r is close to 0:  -0.04
+	# 
+	# 58 Savani.3b - lse >> ES r is close to 0:  -0.03
+	# 
+	# 58 Savani.3b - mcdanielonline >> ES r is close to 0:  -0.02
+	# 
+	# 58 Savani.3b - metu >> ES r is close to 0:  -0.04
+	# 
+	# 58 Savani.3b - moralsense >> ES r is close to 0:  -0.01
+	# 
+	# 58 Savani.3b - mturk >> ES r is close to 0:  -0.04
+	# 
+	# 58 Savani.3b - mturk_india >> ES r is close to 0:  0.01
+	# 
+	# 58 Savani.3b - munich >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - munichon >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - northumbria >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - ouhk >> ES r is close to 0:  -0.03
+	# 
+	# 58 Savani.3b - padua >> ES r is close to 0:  0.01
+	# 
+	# 58 Savani.3b - puc >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - queensland2 >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 58 Savani.3b - ritonline >> ES r is close to 0:  0.02
+	# 
+	# 58 Savani.3b - salford >> ES r is close to 0:  0.03
+	# 
+	# 58 Savani.3b - seznam >> ES r is close to 0:  0.03
+	# 
+	# 58 Savani.3b - simmons >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - swps >> ES r is close to 0:  0.02
+	# 
+	# 58 Savani.3b - tamucc >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - tanzania >> ES r is close to 0:  0.03
+	# 
+	# 58 Savani.3b - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 58 Savani.3b - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 58 Savani.3b - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 58 Savani.3b - tilburg >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - tilburgcaf >> ES r is close to 0:  0.02
+	# 
+	# 58 Savani.3b - umich >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - uned >> ES r is close to 0:  -0.04
+	# 
+	# 58 Savani.3b - unswonline >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - vuw >> ES r is close to 0:  -0.05
+	# 
+	# 58 Savani.3b - westernkentucky >> ES r is close to 0:  0.03
+	# 
+	# 58 Savani.3b - yale >> ES r is close to 0:  0
+	# 
+	# 58 Savani.3b - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~

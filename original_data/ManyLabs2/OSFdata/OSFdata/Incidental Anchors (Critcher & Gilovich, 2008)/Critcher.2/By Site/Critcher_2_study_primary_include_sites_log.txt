@@ -1,0 +1,75 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~CRITCHER.2~~~~~~~
+	# 37 Critcher.2 - START
+
+	# 
+	# 37 Critcher.2 - bc: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - bc >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - plu: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - plu >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - poitiers not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 37 Critcher.2 - sandiegosu: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - sandiegosu >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - tufts: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - tufts >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - ufl: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - ufl >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - uiuc: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - uiuc >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - uva: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - uva >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - washlee: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - washlee >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - wilfredlaur >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - wpi: var.equal set to: TRUE
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 37 Critcher.2 - wpi >> ES r is close to 0:  0
+	# 
+	# 37 Critcher.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

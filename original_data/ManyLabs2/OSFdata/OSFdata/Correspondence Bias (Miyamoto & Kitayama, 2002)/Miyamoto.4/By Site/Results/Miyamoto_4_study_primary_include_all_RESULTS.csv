@@ -1,0 +1,2341 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:49:48.038696Z,7,Miyamoto,1,,aus,Secondary,Miyamoto.4,90,48,42,CapitalCon,Condition,48,,,,,,,,,,,,,,,,CapitalPro,Condition,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.22908470652105,0.2224317633796,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.8194 -2.5759  0.0706  2.5606  7.7187 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.07001    0.47863   8.503 5.46e-13 ***
+Constraint                    -0.06352    0.16943  -0.375    0.709    
+Moderator                     -0.12093    0.28359  -0.426    0.671    
+ConditionCapitalPro            8.08195    0.71274  11.339  < 2e-16 ***
+Moderator:ConditionCapitalPro  0.55003    0.44751   1.229    0.222    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.206 on 85 degrees of freedom
+Multiple R-squared:  0.635,	Adjusted R-squared:  0.6178 
+F-statistic: 36.97 on 4 and 85 DF,  p-value: < 2.2e-16
+",,,,,85,,,,,,,,,,,,,,,,,,,,,1.22908470652105,-0.743121972710432,3.19413277016745,86,43,43,0.26507,0.04692,-0.16027,0.68886,60.45227,57.43397,0.14868,0.22448,0.2627,0.04608,-0.15883,0.6827,60.36081,57.36816,0.22448,0.13291,0.01135,-0.08082,0.3291,0.22659,0.13371,0.01205,-0.08099,0.34181,1.61735,0.74775,3.48846,0.22448,0.48079,-0.29069,1.24946,0.22448,,,,,,,,aus,aus,"American University of Sharjah, United Arab Emirates",Angela Maitner,ML2_Slate1_UAEEng_Inlab_execution_legal_r.csv,DO.BR.FL_6,DO.BR.FL_7,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,aus,1,1,1,1,1,1,90,12,59,90,90,0,0,"Execution
+legal 
+   90 ","SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.163676Z,7,Miyamoto,1,,bc,Secondary,Miyamoto.4,76,37,39,CapitalCon,Condition,37,,,,,,,,,,,,,,,,CapitalPro,Condition,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.74339499588194,0.0855934216428732,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.6172  -1.6020  -0.0794   2.2910   8.6335 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.82121    0.51338   9.391 4.46e-14 ***
+Constraint                     0.01286    0.21769   0.059   0.9531    
+Moderator                     -0.65427    0.34585  -1.892   0.0626 .  
+ConditionCapitalPro            6.56138    0.72106   9.100 1.54e-13 ***
+Moderator:ConditionCapitalPro  0.77373    0.44381   1.743   0.0856 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.102 on 71 degrees of freedom
+Multiple R-squared:  0.5567,	Adjusted R-squared:  0.5317 
+F-statistic: 22.29 on 4 and 71 DF,  p-value: 5.949e-12
+",,,,,71,,,,,,,,,,,,,,,,,,,,,1.74339499588194,-0.243365708815702,3.71814480786384,72,36,36,0.41092,0.05673,-0.05736,0.87638,65.94352,61.43083,0.22862,0.08889,0.4065,0.05551,-0.05675,0.86695,65.78137,61.31128,0.08889,0.20399,0.01294,-0.02908,0.40611,0.09011,0.2069,0.01449,-0.02908,0.43094,2.10714,0.90119,4.90163,0.08889,0.74533,-0.10404,1.58957,0.08889,,,,,,,,bc,bc,"Boston College, Chestnut Hill, MA","Jordan Theriault, Liane Young",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,bc,1,1,1,1,1,1,76,13,72,76,76,0,100,"Execution
+legal 
+   76 ","SubjectPool
+Yes 
+ 76 ","Setting
+In a lab 
+      76 ","Tablet
+Computers 
+       76 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.261209Z,7,Miyamoto,1,,bilgi,Secondary,Miyamoto.4,153,86,67,CapitalCon,Condition,86,,,,,,,,,,,,,,,,CapitalPro,Condition,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.62573845136243,0.00955467522946841,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.2429 -2.4521 -0.7681  2.4957 11.9384 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.6371     0.4037   9.010 9.62e-16 ***
+Constraint                      0.4088     0.1646   2.483  0.01413 *  
+Moderator                      -0.5390     0.2657  -2.028  0.04431 *  
+ConditionCapitalPro             6.4580     0.6159  10.486  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.9840     0.3747   2.626  0.00955 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.712 on 148 degrees of freedom
+Multiple R-squared:  0.4392,	Adjusted R-squared:  0.4241 
+F-statistic: 28.98 on 4 and 148 DF,  p-value: < 2.2e-16
+",,,,,148,,,,,,,,,,,,,,,,,,,,,2.62573845136243,0.638782330363309,4.60402296618194,149,74.5,74.5,0.43022,0.02747,0.10466,0.75435,66.64814,61.9516,0.23903,0.01039,0.42802,0.02719,0.10413,0.7505,66.56814,61.89237,0.01039,0.21166,0.00616,0.05261,0.355,0.01037,0.21491,0.00685,0.05266,0.37115,2.18219,1.20905,3.92845,0.01039,0.78033,0.18984,1.36824,0.01039,,,,,,,,bilgi,bilgi,"Bilgi University, Istanbul, Turkey",Serdar Karabati,ML2_Slate1_Turkish_execution_illegal_Bilgi_r.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,bilgi,1,1,1,1,1,1,153,13,134,153,153,0,0,"Execution
+illegal 
+    153 ","SubjectPool
+ No 
+153 ","Setting
+Online (at home) 
+             153 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      153 ","analysis.type
+Secondary 
+      153 ","subset
+all 
+153 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.352186Z,7,Miyamoto,1,,brasilia,Secondary,Miyamoto.4,101,50,51,CapitalCon,Condition,50,,,,,,,,,,,,,,,,CapitalPro,Condition,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.26457078673968,0.209086655702771,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.2487 -2.8083 -0.3817  2.7477 10.0139 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    5.53352    0.52230  10.594  < 2e-16 ***
+Constraint                     0.15523    0.19429   0.799    0.426    
+Moderator                     -0.07007    0.34293  -0.204    0.839    
+ConditionCapitalPro            5.46366    0.74255   7.358 6.32e-11 ***
+Moderator:ConditionCapitalPro  0.58271    0.46080   1.265    0.209    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.551 on 96 degrees of freedom
+Multiple R-squared:  0.422,	Adjusted R-squared:  0.3979 
+F-statistic: 17.52 on 4 and 96 DF,  p-value: 7.93e-11
+",,,,,96,,,,,,,,,,,,,,,,,,,,,1.26457078673968,-0.706780094972329,3.2293957145366,97,48.5,48.5,0.2568,0.04158,-0.14353,0.65579,60.13316,57.20445,0.14409,0.21097,0.25476,0.04092,-0.14239,0.6506,60.05468,57.14804,0.21097,0.12866,0.01007,-0.07232,0.31451,0.21278,0.12938,0.01064,-0.07245,0.32555,1.59325,0.7708,3.28535,0.21097,0.46578,-0.26033,1.18947,0.21097,,,,,,,,brasilia,brasilia,"Social and Work Psychology Department, University of Brasilia, DF, Brazil","Ronaldo Pilati, Victor Keller",ML2_Slate1_Brazil__Portuguese_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Brazil,Portuguese,0,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,brasilia,1,1,1,1,1,1,101,13,96,101,101,0,0,"Execution
+illegal 
+    101 ","SubjectPool
+ No 
+101 ","Setting
+In a classroom 
+           101 ","Tablet
+Computers 
+      101 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      101 ","analysis.type
+Secondary 
+      101 ","subset
+all 
+101 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.438116Z,7,Miyamoto,1,,cas,Secondary,Miyamoto.4,69,35,34,CapitalCon,Condition,35,,,,,,,,,,,,,,,,CapitalPro,Condition,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.51203923318963,0.135446345750343,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-5.184 -1.760  0.048  1.519  7.343 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     2.6414     0.4068   6.494 1.43e-08 ***
+Constraint                      0.1921     0.1573   1.222    0.226    
+Moderator                      -0.3922     0.4036  -0.972    0.335    
+ConditionCapitalPro            10.6324     0.5796  18.343  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.8307     0.5494   1.512    0.135    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.377 on 64 degrees of freedom
+Multiple R-squared:  0.8443,	Adjusted R-squared:  0.8345 
+F-statistic: 86.75 on 4 and 64 DF,  p-value: < 2.2e-16
+",,,,,64,,,,,,,,,,,,,,,,,,,,,1.51203923318963,-0.471078948617695,3.48356523357185,65,32.5,32.5,0.37509,0.06262,-0.11686,0.86417,64.62035,60.45836,0.20917,0.13889,0.37061,0.06113,-0.11546,0.85384,64.45351,60.33621,0.13889,0.18713,0.01455,-0.05925,0.40189,0.14094,0.18937,0.01613,-0.05932,0.4259,1.97455,0.809,4.79428,0.13889,0.68034,-0.21196,1.56742,0.13889,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r__Revised_by_Huajian.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,cas,1,1,1,1,1,1,69,13,68,69,69,0,0,"Execution
+legal 
+   69 ","SubjectPool
+No 
+69 ","Setting
+In a lab 
+      69 ","Tablet
+Computers 
+       69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.559930Z,7,Miyamoto,1,,castab,Secondary,Miyamoto.4,66,37,29,CapitalCon,Condition,37,,,,,,,,,,,,,,,,CapitalPro,Condition,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.1148141729383,0.269303047287198,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.4964 -1.7093  0.4234  1.4226  6.4692 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.5310     0.4601   7.674  1.6e-10 ***
+Constraint                     -0.1555     0.1862  -0.835   0.4068    
+Moderator                      -0.7827     0.3810  -2.054   0.0442 *  
+ConditionCapitalPro            10.3785     0.7202  14.410  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.6393     0.5735   1.115   0.2693    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.605 on 61 degrees of freedom
+Multiple R-squared:  0.7955,	Adjusted R-squared:  0.7821 
+F-statistic: 59.34 on 4 and 61 DF,  p-value: < 2.2e-16
+",,,,,61,,,,,,,,,,,,,,,,,,,,,1.1148141729383,-0.859582069211981,3.08017933282507,62,31,31,0.28316,0.06516,-0.21833,0.78237,61.14741,57.93483,0.1587,0.27174,0.27961,0.06354,-0.21559,0.77255,61.01111,57.83653,0.27174,0.14245,0.01573,-0.11029,0.36951,0.27499,0.14343,0.01695,-0.11075,0.38785,1.6713,0.673,4.13322,0.27174,0.5136,-0.39601,1.41906,0.27174,,,,,,,,castab,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r__Revised_by_Huajian.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,castab,1,1,1,1,1,1,66,13,60,66,66,0,0,"Execution
+legal 
+   66 ","SubjectPool
+No 
+66 ","Setting
+In a lab 
+      66 ","Tablet
+Tablets 
+     66 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       66 ","analysis.type
+Secondary 
+       66 ","subset
+all 
+ 66 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.654229Z,7,Miyamoto,1,,doshisha,Secondary,Miyamoto.4,112,48,64,CapitalCon,Condition,48,,,,,,,,,,,,,,,,CapitalPro,Condition,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.11521239371389,0.00235959850404849,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.2938 -2.1252  0.0375  1.7299  6.6296 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.6422     0.4412  12.789  < 2e-16 ***
+Constraint                     -0.2377     0.1857  -1.280  0.20331    
+Moderator                      -0.5138     0.3162  -1.625  0.10708    
+ConditionCapitalPro             3.9727     0.5827   6.818 5.68e-10 ***
+Moderator:ConditionCapitalPro   1.3814     0.4434   3.115  0.00236 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.022 on 107 degrees of freedom
+Multiple R-squared:  0.3544,	Adjusted R-squared:  0.3303 
+F-statistic: 14.68 on 4 and 107 DF,  p-value: 1.359e-09
+",,,,,107,,,,,,,,,,,,,,,,,,,,,3.11521239371389,1.10443249746478,5.11205202462462,108,54,54,0.59952,0.0387,0.21255,0.98381,72.55879,66.41904,0.32838,0.00291,0.59527,0.03815,0.21104,0.97684,72.41688,66.30933,0.00291,0.28961,0.00784,0.10666,0.44472,0.00285,0.29814,0.00952,0.10707,0.4781,2.96659,1.47038,5.95626,0.00291,1.08741,0.38552,1.78444,0.00291,,,,,,,,doshisha,doshisha,"Doshisha University, Kyoto, Japan","Masanori Oikawa, Haruka Oikawa",ML2_Slate1_Japanese_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Japan,Japanese,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,doshisha,1,1,1,1,1,1,112,13,105,112,112,0,0,"Execution
+legal 
+  112 ","SubjectPool
+Yes 
+112 ","Setting
+In a lab 
+     112 ","Tablet
+Computers 
+      112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.749145Z,7,Miyamoto,1,,eindhoven,Secondary,Miyamoto.4,98,53,45,CapitalCon,Condition,53,,,,,,,,,,,,,,,,CapitalPro,Condition,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.42249871632895,0.0173519287705788,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.1529 -2.1936 -0.6786  2.0974  9.2315 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.1282     0.4583   9.007 2.58e-14 ***
+Constraint                      0.1309     0.1633   0.802   0.4247    
+Moderator                      -0.5689     0.3365  -1.691   0.0942 .  
+ConditionCapitalPro             5.9897     0.6768   8.850 5.53e-14 ***
+Moderator:ConditionCapitalPro   1.0717     0.4424   2.422   0.0174 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.32 on 93 degrees of freedom
+Multiple R-squared:  0.4776,	Adjusted R-squared:  0.4551 
+F-statistic: 21.26 on 4 and 93 DF,  p-value: 1.789e-12
+",,,,,93,,,,,,,,,,,,,,,,,,,,,2.42249871632895,0.425623602866176,4.40674573567929,94,47,47,0.49972,0.04388,0.0878,0.90904,69.1365,63.80899,0.27618,0.0191,0.49564,0.04317,0.08708,0.90161,68.99252,63.70067,0.0191,0.24487,0.0095,0.04433,0.41748,0.01916,0.24995,0.01099,0.04436,0.44464,2.47539,1.17263,5.20084,0.0191,0.9064,0.15925,1.64882,0.0191,,,,,,,,eindhoven,eindhoven,"Eindhoven University of Technology, Eindhoven, Netherlands","Daniël Lakens, Karin Smolders",ML2_Slate1_Dutch_execution_illegal_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,eindhoven,1,1,2,1,1,1,98,13,89,98,98,0,100,"Execution
+illegal 
+     98 ","SubjectPool
+No 
+98 ","Setting
+         In a classroom Other (please indicate) 
+                     43                      55 ","Tablet
+Computers   Tablets 
+       55        43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       98 ","analysis.type
+Secondary 
+       98 ","subset
+all 
+ 98 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.848485Z,7,Miyamoto,1,,elte,Secondary,Miyamoto.4,94,43,51,CapitalCon,Condition,43,,,,,,,,,,,,,,,,CapitalPro,Condition,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.4659765292493,0.146178974383849,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-5.938 -3.068 -0.122  2.965  7.314 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.9746     0.5376   9.254 1.12e-14 ***
+Constraint                      0.2154     0.1692   1.273    0.206    
+Moderator                      -0.1121     0.3188  -0.352    0.726    
+ConditionCapitalPro             5.2986     0.7281   7.277 1.29e-10 ***
+Moderator:ConditionCapitalPro   0.6335     0.4321   1.466    0.146    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.412 on 89 degrees of freedom
+Multiple R-squared:  0.4253,	Adjusted R-squared:  0.3995 
+F-statistic: 16.47 on 4 and 89 DF,  p-value: 3.923e-10
+",,,,,89,,,,,,,,,,,,,,,,,,,,,1.4659765292493,-0.509815958048268,3.43363824155701,90,45,45,0.30905,0.04498,-0.10748,0.72387,62.13602,58.64938,0.17299,0.14859,0.30641,0.04421,-0.10656,0.71769,62.03551,58.57661,0.14859,0.1544,0.01071,-0.05427,0.34373,0.15013,0.15564,0.01149,-0.05432,0.35831,1.75166,0.82288,3.71717,0.14859,0.56056,-0.19494,1.31296,0.14859,,,,,,,,elte,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,elte,1,1,1,1,1,1,94,13,86,94,94,0,100,"Execution
+illegal 
+     94 ","SubjectPool
+Yes 
+ 94 ","Setting
+In a lab 
+      94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:48.980741Z,7,Miyamoto,1,,eltetab,Secondary,Miyamoto.4,84,37,47,CapitalCon,Condition,37,,,,,,,,,,,,,,,,CapitalPro,Condition,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.503755521709578,0.615835103785623,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.8578 -2.5288 -0.2706  2.4144  9.4287 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.3268     0.4820   6.903 1.15e-09 ***
+Constraint                      0.2688     0.1480   1.816   0.0731 .  
+Moderator                      -0.2128     0.2615  -0.814   0.4182    
+ConditionCapitalPro             8.2439     0.6437  12.807  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.1868     0.3709   0.504   0.6158    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.898 on 79 degrees of freedom
+Multiple R-squared:  0.6904,	Adjusted R-squared:  0.6747 
+F-statistic: 44.04 on 4 and 79 DF,  p-value: < 2.2e-16
+",,,,,79,,,,,,,,,,,,,,,,,,,,,0.503755521709578,-1.45936598045668,2.46369867291977,80,40,40,0.11264,0.05008,-0.32632,0.5509,54.48433,53.17425,0.06348,0.61613,0.11156,0.04912,-0.32318,0.54559,54.44125,53.14369,0.61613,0.05695,0.01258,-0.16303,0.2687,0.61831,0.05701,0.01299,-0.1645,0.27546,1.22668,0.55328,2.71617,0.61613,0.20431,-0.59189,0.99922,0.61613,,,,,,,,eltetab,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,eltetab,1,1,1,1,1,1,84,13,80,84,84,0,100,"Execution
+illegal 
+     84 ","SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Tablets 
+     84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.069140Z,7,Miyamoto,1,,grazvienna,Secondary,Miyamoto.4,124,59,65,CapitalCon,Condition,59,,,,,,,,,,,,,,,,CapitalPro,Condition,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.8786269135118,0.0627422987841933,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.6443 -1.9156 -0.1638  2.1057  6.2556 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.1032     0.4088  12.483  < 2e-16 ***
+Constraint                      0.3317     0.1865   1.778 0.077910 .  
+Moderator                      -0.9646     0.2624  -3.676 0.000357 ***
+ConditionCapitalPro             3.8174     0.5651   6.755 5.58e-10 ***
+Moderator:ConditionCapitalPro   0.6829     0.3635   1.879 0.062742 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.067 on 119 degrees of freedom
+Multiple R-squared:  0.3736,	Adjusted R-squared:  0.3526 
+F-statistic: 17.74 on 4 and 119 DF,  p-value: 1.897e-11
+",,,,,119,,,,,,,,,,,,,,,,,,,,,1.8786269135118,-0.099672823132563,3.84915111392838,120,60,60,0.34299,0.03382,-0.0182,0.70276,63.41965,59.58151,0.19163,0.06467,0.3408,0.03339,-0.01808,0.69828,63.33745,59.52166,0.06467,0.17041,0.00792,-0.00918,0.33399,0.06517,0.17209,0.00855,-0.00918,0.34732,1.86286,0.96753,3.57748,0.06467,0.62211,-0.03301,1.27466,0.06467,,,,,,,,eltetab,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,eltetab,1,1,1,1,1,1,84,13,80,84,84,0,100,"Execution
+illegal 
+     84 ","SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Tablets 
+     84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.166649Z,7,Miyamoto,1,,hawaiion,Secondary,Miyamoto.4,102,54,48,CapitalCon,Condition,54,,,,,,,,,,,,,,,,CapitalPro,Condition,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.42225566274893,0.158159779865004,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.8609 -2.8921 -0.1735  3.1428  6.4534 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.6294     0.4707   9.836 3.03e-16 ***
+Constraint                      0.2934     0.2000   1.467    0.146    
+Moderator                      -0.4989     0.3478  -1.434    0.155    
+ConditionCapitalPro             5.8811     0.6868   8.563 1.68e-13 ***
+Moderator:ConditionCapitalPro   0.7294     0.5129   1.422    0.158    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.447 on 97 degrees of freedom
+Multiple R-squared:  0.4471,	Adjusted R-squared:  0.4243 
+F-statistic: 19.61 on 4 and 97 DF,  p-value: 7.47e-12
+",,,,,97,,,,,,,,,,,,,,,,,,,,,1.42225566274893,-0.551498529250924,3.38876004965496,98,49,49,0.28734,0.04124,-0.11142,0.68463,61.30736,58.05026,0.16101,0.16031,0.28509,0.04059,-0.11055,0.67927,61.22118,57.98805,0.16031,0.14365,0.00989,-0.0562,0.32687,0.1618,0.14465,0.01053,-0.05626,0.33932,1.68401,0.81702,3.46179,0.16031,0.52118,-0.20209,1.24179,0.16031,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate1_USEng_execution_legal_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,hawaiion,1,1,1,1,1,1,102,13,95,102,102,0,100,"Execution
+legal 
+  102 ","SubjectPool
+Yes 
+102 ","Setting
+Online (at home) 
+             102 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.269349Z,7,Miyamoto,1,,hkust,Secondary,Miyamoto.4,105,48,57,CapitalCon,Condition,48,,,,,,,,,,,,,,,,CapitalPro,Condition,57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.136043515528048,0.892060373475361,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.0929  -2.2009   0.0645   2.0661   7.4166 
+
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    3.851817   0.482783   7.978 2.53e-12 ***
+Constraint                     0.274647   0.160348   1.713   0.0898 .  
+Moderator                      0.004661   0.391661   0.012   0.9905    
+ConditionCapitalPro            7.610650   0.656488  11.593  < 2e-16 ***
+Moderator:ConditionCapitalPro -0.076074   0.559192  -0.136   0.8921    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.333 on 100 degrees of freedom
+Multiple R-squared:  0.588,	Adjusted R-squared:  0.5715 
+F-statistic: 35.68 on 4 and 100 DF,  p-value: < 2.2e-16
+",,,,,100,,,,,,,,,,,,,,,,,,,,,-0.136043515528048,-2.09575831387785,1.82435057994917,101,50.5,50.5,-0.02707,0.03961,-0.41707,0.36306,48.92005,49.23631,-0.01527,0.89207,-0.02687,0.03901,-0.4139,0.3603,48.92825,49.24211,0.89207,-0.01367,0.01,-0.20611,0.18035,0.89261,-0.01367,0.0102,-0.2091,0.18234,0.95208,0.46931,1.93192,0.89207,-0.04911,-0.75648,0.65852,0.89207,,,,,,,,hkust,hkust,"Division of Social Science, The Hong Kong University of Science and Technology, Hong Kong, China",Eva Chen,ML2_Slate1_Chinese_Inlab_execution_illegal_DEPLOY__Hong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,hkust,1,1,1,1,1,1,105,13,94,105,105,0,0,"Execution
+illegal 
+    105 ","SubjectPool
+Yes 
+105 ","Setting
+In a classroom 
+           105 ","Tablet
+Computers 
+      105 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      105 ","analysis.type
+Secondary 
+      105 ","subset
+all 
+105 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.374965Z,7,Miyamoto,1,,hunancomp,Secondary,Miyamoto.4,150,74,76,CapitalCon,Condition,74,,,,,,,,,,,,,,,,CapitalPro,Condition,76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.518341450994947,0.605010121710211,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.8038 -3.0611 -0.0993  3.0809 10.5476 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.0601     0.4767  10.614  < 2e-16 ***
+Constraint                      0.7469     0.2216   3.370 0.000963 ***
+Moderator                      -0.1778     0.4430  -0.401 0.688802    
+ConditionCapitalPro             6.1560     0.6698   9.191 3.78e-16 ***
+Moderator:ConditionCapitalPro  -0.2981     0.5752  -0.518 0.605010    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.089 on 145 degrees of freedom
+Multiple R-squared:  0.3986,	Adjusted R-squared:  0.382 
+F-statistic: 24.03 on 4 and 145 DF,  p-value: 2.916e-15
+",,,,,145,,,,,,,,,,,,,,,,,,,,,-0.518341450994947,-2.47831945447024,1.44342081304473,146,73,73,-0.0858,0.02742,-0.41021,0.23892,46.58141,47.58121,-0.04838,0.60518,-0.08535,0.02714,-0.40807,0.23767,46.5992,47.59381,0.60518,-0.04315,0.00687,-0.20226,0.11942,0.60638,-0.04318,0.00699,-0.20509,0.12,0.85589,0.47519,1.54241,0.60518,-0.15562,-0.74405,0.43335,0.60518,,,,,,,,hunancomp,hunancomp,"Guangdong Literature & Art Vocational College, Guangzhou, China",Zeng Zhijia,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,hunancomp,1,1,1,1,1,1,150,13,135,150,150,0,0,"Execution
+legal 
+  150 ","SubjectPool
+ No 
+150 ","Setting
+Online (at home) 
+             150 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            150 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      150 ","analysis.type
+Secondary 
+      150 ","subset
+all 
+150 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.502660Z,7,Miyamoto,1,,ithaca,Secondary,Miyamoto.4,79,42,37,CapitalCon,Condition,42,,,,,,,,,,,,,,,,CapitalPro,Condition,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.38963512418685,0.168806550765637,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.5664 -2.4420 -0.9337  2.6830 10.2498 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.1093     0.5667   9.016 1.55e-13 ***
+Constraint                      0.1265     0.2203   0.574    0.567    
+Moderator                      -0.4365     0.4019  -1.086    0.281    
+ConditionCapitalPro             5.3258     0.8363   6.368 1.44e-08 ***
+Moderator:ConditionCapitalPro   0.7485     0.5386   1.390    0.169    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.64 on 74 degrees of freedom
+Multiple R-squared:  0.3669,	Adjusted R-squared:  0.3327 
+F-statistic: 10.72 on 4 and 74 DF,  p-value: 6.578e-07
+",,,,,74,,,,,,,,,,,,,,,,,,,,,1.38963512418685,-0.587660082157256,3.35767194845314,75,37.5,37.5,0.32092,0.05402,-0.13571,0.77542,62.58654,58.97595,0.17952,0.17156,0.31761,0.05291,-0.13432,0.76743,62.46111,58.88497,0.17156,0.16054,0.01283,-0.06862,0.36576,0.17362,0.16194,0.01389,-0.06873,0.38351,1.78977,0.7818,4.08147,0.17156,0.58209,-0.24616,1.40646,0.17156,,,,,,,,ithaca,ithaca,"Department of Psychology, Ithaca College, Ithaca, NY 14850",Leigh Ann Vaughn,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ithaca,1,1,1,1,1,1,79,13,77,79,79,0,100,"Execution
+legal 
+   79 ","SubjectPool
+Yes 
+ 79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.596649Z,7,Miyamoto,1,,johannesburg,Secondary,Miyamoto.4,52,25,27,CapitalCon,Condition,25,,,,,,,,,,,,,,,,CapitalPro,Condition,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.297432225627946,0.767447259170352,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-8.060 -2.769 -1.028  2.677 10.230 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.0134     0.8239   4.871 1.30e-05 ***
+Constraint                      0.3503     0.3426   1.022    0.312    
+Moderator                       0.4705     0.5360   0.878    0.385    
+ConditionCapitalPro             7.8450     1.1445   6.854 1.36e-08 ***
+Moderator:ConditionCapitalPro   0.3243     1.0905   0.297    0.767    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.115 on 47 degrees of freedom
+Multiple R-squared:  0.5189,	Adjusted R-squared:  0.478 
+F-statistic: 12.67 on 4 and 47 DF,  p-value: 4.496e-07
+",,,,,47,,,,,,,,,,,,,,,,,,,,,0.297432225627946,-1.66502522795909,2.25673697655991,48,24,24,0.08586,0.08341,-0.48065,0.65146,53.42117,52.42062,0.04841,0.76758,0.08445,0.0807,-0.47277,0.64078,53.36522,52.38098,0.76758,0.04381,0.02119,-0.23842,0.31572,0.77001,0.04384,0.02222,-0.24309,0.32689,1.16852,0.4182,3.25967,0.76758,0.15574,-0.87181,1.18162,0.76758,,,,,,,,johannesburg,johannesburg,"University of Johannesburg, Johanneburg, South Africa",Byron Adams,ML2_Slate1_South_Africa_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,johannesburg,1,1,1,1,1,1,52,13,51,52,52,0,0,"Execution
+illegal 
+     52 ","SubjectPool
+Yes 
+ 52 ","Setting
+Online (at home) 
+              52 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             52 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       52 ","analysis.type
+Secondary 
+       52 ","subset
+all 
+ 52 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.690861Z,7,Miyamoto,1,,koc,Secondary,Miyamoto.4,87,46,41,CapitalCon,Condition,46,,,,,,,,,,,,,,,,CapitalPro,Condition,41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.45037148472444,0.150769423641943,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-5.689 -2.019 -0.327  2.066  6.884 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.3038     0.4744   6.964 7.53e-10 ***
+Constraint                      0.3182     0.1807   1.761   0.0820 .  
+Moderator                      -0.6315     0.3114  -2.028   0.0458 *  
+ConditionCapitalPro             6.9818     0.6963  10.027 6.60e-16 ***
+Moderator:ConditionCapitalPro   0.6305     0.4347   1.450   0.1508    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.181 on 82 degrees of freedom
+Multiple R-squared:  0.5667,	Adjusted R-squared:  0.5456 
+F-statistic: 26.81 on 4 and 82 DF,  p-value: 3.104e-14
+",,,,,82,,,,,,,,,,,,,,,,,,,,,1.45037148472444,-0.526445884091678,3.41846521548668,83,41.5,41.5,0.3184,0.0488,-0.11557,0.75045,62.49084,58.90653,0.17813,0.15336,0.31544,0.0479,-0.1145,0.74348,62.37864,58.82518,0.15336,0.1591,0.01159,-0.05839,0.35508,0.15507,0.16046,0.0125,-0.05846,0.37124,1.7816,0.81089,3.90074,0.15336,0.57751,-0.20962,1.36117,0.15336,,,,,,,,koc,koc,"Koç University, Istanbul, Turkey","Zeynep Cemalcilar, Roza Kamiloglu",ML2_Slate1_Turkish_execution_illegal_Koc_r.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,koc,1,1,1,1,1,1,87,13,82,87,87,0,0,"Execution
+illegal 
+     87 ","SubjectPool
+Yes 
+ 87 ","Setting
+Online (at home) 
+              87 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.795769Z,7,Miyamoto,1,,lausanne,Secondary,Miyamoto.4,113,59,54,CapitalCon,Condition,59,,,,,,,,,,,,,,,,CapitalPro,Condition,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.5669628534988,0.0116281123125971,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.8184 -2.5882 -0.5089  2.8671  8.0178 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.3477     0.4321  10.061  < 2e-16 ***
+Constraint                      0.4645     0.1608   2.889  0.00467 ** 
+Moderator                      -0.7713     0.2804  -2.751  0.00697 ** 
+ConditionCapitalPro             4.9900     0.6254   7.979 1.68e-12 ***
+Moderator:ConditionCapitalPro   1.0015     0.3901   2.567  0.01163 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.27 on 108 degrees of freedom
+Multiple R-squared:  0.4354,	Adjusted R-squared:  0.4144 
+F-statistic: 20.82 on 4 and 108 DF,  p-value: 9.667e-13
+",,,,,108,,,,,,,,,,,,,,,,,,,,,2.5669628534988,0.571628525085597,4.55076101361667,109,54.5,54.5,0.49174,0.03781,0.1095,0.87177,68.85487,63.59723,0.27194,0.0129,0.48829,0.03728,0.10873,0.86564,68.73264,63.50544,0.0129,0.24085,0.00822,0.05518,0.40269,0.01288,0.24568,0.00943,0.05523,0.42686,2.43981,1.21972,4.86084,0.0129,0.89192,0.19862,1.58121,0.0129,,,,,,,,lausanne,lausanne,"University of Lausanne, Switzerland",Eva Green,ML2_Slate1_French_Inlab_execution_illegal__swiss_r.csv,DO.BR.FL_5,DO.BR.FL_6,Switzerland,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,lausanne,1,1,1,1,1,1,113,13,104,113,113,0,100,"Execution
+illegal 
+    113 ","SubjectPool
+ No 
+113 ","Setting
+Online (at home) 
+             113 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            113 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      113 ","analysis.type
+Secondary 
+      113 ","subset
+all 
+113 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:49.925090Z,7,Miyamoto,1,,leuven,Secondary,Miyamoto.4,109,44,65,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.81410560375962,0.0725446791362243,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.2420  -2.2411  -0.2612   1.6401   9.8505 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.0749     0.5757   5.341 5.47e-07 ***
+Constraint                      0.2034     0.1850   1.100   0.2740    
+Moderator                      -0.1118     0.3405  -0.328   0.7434    
+ConditionCapitalPro             6.1035     0.7530   8.105 1.08e-12 ***
+Moderator:ConditionCapitalPro   0.7905     0.4357   1.814   0.0725 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.663 on 104 degrees of freedom
+Multiple R-squared:  0.415,	Adjusted R-squared:  0.3925 
+F-statistic: 18.44 on 4 and 104 DF,  p-value: 1.763e-11
+",,,,,104,,,,,,,,,,,,,,,,,,,,,1.81410560375962,-0.165556698021429,3.78518583091219,105,52.5,52.5,0.35408,0.03869,-0.03231,0.73879,63.83595,59.88495,0.1977,0.07478,0.35149,0.03813,-0.03208,0.7334,63.73906,59.81428,0.07478,0.17596,0.00903,-0.01631,0.34945,0.07546,0.17781,0.0098,-0.01631,0.36482,1.90071,0.94307,3.81913,0.07478,0.64222,-0.05861,1.34002,0.07478,,,,,,,,leuven,leuven,"University of Leuven, Belgium","Jeroen Stouten, Leander De Schutter",ML2_Slate1_Dutch_execution_illegal_DEPLOY__belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,leuven,1,1,1,1,1,1,109,13,107,109,109,0,100,"Execution
+illegal 
+    109 ","SubjectPool
+Yes 
+109 ","Setting
+In a lab 
+     109 ","Tablet
+Computers 
+      109 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      109 ","analysis.type
+Secondary 
+      109 ","subset
+all 
+109 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.026791Z,7,Miyamoto,1,,lundon,Secondary,Miyamoto.4,113,56,57,CapitalCon,Condition,56,,,,,,,,,,,,,,,,CapitalPro,Condition,57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.87731398031195,0.0631733670792264,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-7.630 -2.198 -0.285  2.585  7.958 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.7907     0.5179   7.320 4.66e-11 ***
+Constraint                      0.3732     0.1829   2.040  0.04374 *  
+Moderator                      -0.9168     0.2953  -3.105  0.00243 ** 
+ConditionCapitalPro             4.4836     0.7373   6.081 1.84e-08 ***
+Moderator:ConditionCapitalPro   0.8301     0.4422   1.877  0.06317 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.632 on 108 degrees of freedom
+Multiple R-squared:  0.3689,	Adjusted R-squared:  0.3455 
+F-statistic: 15.78 on 4 and 108 DF,  p-value: 3.352e-10
+",,,,,108,,,,,,,,,,,,,,,,,,,,,1.87731398031195,-0.102812356594234,3.84889169216195,109,54.5,54.5,0.35963,0.03729,-0.0197,0.73731,64.04374,60.03664,0.20073,0.0653,0.3571,0.03677,-0.01956,0.73213,63.94921,59.96761,0.0653,0.17857,0.00868,-0.00994,0.34873,0.06586,0.1805,0.00943,-0.00994,0.364,1.91994,0.96491,3.8089,0.0653,0.65229,-0.03572,1.33734,0.0653,,,,,,,,lundon,lundon,"Lund University, Lund, Sweden","Åse Innes-Ker, Oskar Sundfelt, Anna Cabak Rédei",ML2_Slate1_Swedish_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Sweden,Swedish,1,,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,lundon,1,1,1,1,1,1,113,13,103,113,113,0,100,"Execution
+illegal 
+    113 ","SubjectPool
+    
+113 ","Setting
+Online (at home) 
+             113 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            113 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      113 ","analysis.type
+Secondary 
+      113 ","subset
+all 
+113 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.131741Z,7,Miyamoto,1,,marian,Secondary,Miyamoto.4,78,38,40,CapitalCon,Condition,38,,,,,,,,,,,,,,,,CapitalPro,Condition,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.099139131957436,0.921299542466933,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.6515 -3.1144  0.1394  3.3001  9.0435 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.86826    0.61622   7.900 2.17e-11 ***
+Constraint                     0.10717    0.25532   0.420    0.676    
+Moderator                      0.01691    0.55365   0.031    0.976    
+ConditionCapitalPro            6.33637    0.86259   7.346 2.37e-10 ***
+Moderator:ConditionCapitalPro  0.06857    0.69166   0.099    0.921    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.779 on 73 degrees of freedom
+Multiple R-squared:  0.426,	Adjusted R-squared:  0.3945 
+F-statistic: 13.54 on 4 and 73 DF,  p-value: 2.632e-08
+",,,,,73,,,,,,,,,,,,,,,,,,,,,0.099139131957436,-1.86122949998926,2.05882995475471,74,37,37,0.02305,0.05406,-0.43273,0.47867,50.91946,50.65018,0.013,0.92131,0.02281,0.05293,-0.4282,0.47366,50.90985,50.64339,0.92131,0.01168,0.01369,-0.21425,0.23579,0.92185,0.01168,0.01408,-0.21763,0.24032,1.04269,0.45617,2.38264,0.92131,0.04181,-0.78488,0.86821,0.92131,,,,,,,,marian,marian,"Marian University, Indianapolis, IN",Brian Collisson,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,marian,1,1,1,1,1,1,78,13,72,78,78,0,100,"Execution
+legal 
+   78 ","SubjectPool
+No 
+78 ","Setting
+In a classroom 
+            78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.267091Z,7,Miyamoto,1,,mturk,Secondary,Miyamoto.4,330,179,151,CapitalCon,Condition,179,,,,,,,,,,,,,,,,CapitalPro,Condition,151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,6.26237907541535,1.19992465673413e-09,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.3041 -2.6585 -0.3609  2.4796  8.6231 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.57028    0.26659  17.143  < 2e-16 ***
+Constraint                    -0.08402    0.08903  -0.944 0.345993    
+Moderator                     -0.53720    0.16114  -3.334 0.000956 ***
+ConditionCapitalPro            6.47410    0.39482  16.398  < 2e-16 ***
+Moderator:ConditionCapitalPro  1.46022    0.23317   6.262  1.2e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.543 on 325 degrees of freedom
+Multiple R-squared:  0.4963,	Adjusted R-squared:  0.4901 
+F-statistic: 80.07 on 4 and 325 DF,  p-value: < 2.2e-16
+",,,,,325,,,,,,,,,,,,,,,,,,,,,6.26237907541535,4.23964309175074,8.27600402450675,326,163,163,0.69368,0.01301,0.46962,0.91673,75.60592,68.81125,0.37623,0,0.69208,0.01295,0.46854,0.91461,75.5555,68.77105,0,0.32859,0.00245,0.22926,0.41774,0,0.34125,0.0031,0.23341,0.44495,3.51908,2.34387,5.27388,0,1.2582,0.8518,1.66277,0,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate1_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,mturk,1,1,1,1,1,1,330,13,266,330,330,0,100,"Execution
+legal 
+  330 ","SubjectPool
+ No 
+330 ","Setting
+Online (at home) 
+             330 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            330 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      330 ","analysis.type
+Secondary 
+      330 ","subset
+all 
+330 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.372504Z,7,Miyamoto,1,,mturk_india,Secondary,Miyamoto.4,359,186,173,CapitalCon,Condition,186,,,,,,,,,,,,,,,,CapitalPro,Condition,173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.244058409005962,0.807326968308099,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.6428  -3.3761   0.2353   2.5713   9.9157 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    5.41962    0.29602  18.309   <2e-16 ***
+Constraint                     0.16366    0.14718   1.112    0.267    
+Moderator                      0.18939    0.22667   0.836    0.404    
+ConditionCapitalPro            6.78163    0.42730  15.871   <2e-16 ***
+Moderator:ConditionCapitalPro -0.08237    0.33749  -0.244    0.807    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.028 on 354 degrees of freedom
+Multiple R-squared:  0.4252,	Adjusted R-squared:  0.4187 
+F-statistic: 65.48 on 4 and 354 DF,  p-value: < 2.2e-16
+",,,,,354,,,,,,,,,,,,,,,,,,,,,-0.244058409005962,-2.20393249788083,1.71616024549657,355,177.5,177.5,-0.02591,0.01127,-0.23395,0.18217,48.96659,49.26923,-0.01462,0.80734,-0.02585,0.01122,-0.23345,0.18178,48.96879,49.27078,0.80734,-0.01299,0.00282,-0.1165,0.09096,0.8076,-0.01299,0.00284,-0.11704,0.09122,0.9541,0.65421,1.39155,0.80734,-0.04699,-0.42433,0.33042,0.80734,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate1_IndiaEng_execution_legal_MTurk_r.csv,DO.BR.FL_eDp84FUKYplaCwd,DO.BR.FL_0qZ2pBW0Kp8oO5D,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,mturk_india,1,1,1,1,1,1,224,13,194,359,359,0,0,"Execution
+legal 
+  359 ","SubjectPool
+ No 
+359 ","Setting
+Online (at home) 
+             359 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            359 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      359 ","analysis.type
+Secondary 
+      359 ","subset
+all 
+359 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.473950Z,7,Miyamoto,1,,navarra,Secondary,Miyamoto.4,54,29,25,CapitalCon,Condition,29,,,,,,,,,,,,,,,,CapitalPro,Condition,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-1.72266493081894,0.0912558626260864,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.7307 -1.9281 -0.0823  2.9233  6.9219 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.1154     0.7084   5.810 4.59e-07 ***
+Constraint                      0.1287     0.2619   0.492   0.6253    
+Moderator                       0.5712     0.4477   1.276   0.2081    
+ConditionCapitalPro             6.3503     1.0590   5.996 2.37e-07 ***
+Moderator:ConditionCapitalPro  -1.0777     0.6256  -1.723   0.0913 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.746 on 49 degrees of freedom
+Multiple R-squared:  0.4702,	Adjusted R-squared:  0.427 
+F-statistic: 10.87 on 4 and 49 DF,  p-value: 2.178e-06
+",,,,,49,,,,,,,,,,,,,,,,,,,,,-1.72266493081894,-3.70341193172413,0.275122432424392,50,25,25,-0.48724,0.08237,-1.04748,0.07782,31.3043,36.52227,-0.26955,0.09605,-0.47959,0.07981,-1.03103,0.07659,31.57594,36.72591,0.09605,-0.2413,0.0181,-0.47142,0.03968,0.09799,-0.24615,0.02128,-0.51189,0.0397,0.41323,0.14958,1.15159,0.09605,-0.88376,-1.89992,0.14114,0.09605,,,,,,,,navarra,navarra,"University of Navarra, Spain",Austin Lee Nichols,ML2_Slate1_EngSpain_Inlab_execution_illegal__navarra_r.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,navarra,1,1,1,1,1,1,54,13,53,54,54,0,100,"Execution
+illegal 
+     54 ","SubjectPool
+No 
+54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.567054Z,7,Miyamoto,1,,ntnu,Secondary,Miyamoto.4,84,44,40,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.49612073579835,0.138606672993255,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.0065  -1.7681  -0.3794   2.3092   9.9606 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.0394     0.5054   7.992 9.04e-12 ***
+Constraint                     -0.2996     0.2153  -1.392    0.168    
+Moderator                       0.1984     0.5194   0.382    0.704    
+ConditionCapitalPro             7.7265     0.7324  10.550  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.9916     0.6628   1.496    0.139    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.264 on 79 degrees of freedom
+Multiple R-squared:  0.6183,	Adjusted R-squared:  0.599 
+F-statistic: 31.99 on 4 and 79 DF,  p-value: 7.634e-16
+",,,,,79,,,,,,,,,,,,,,,,,,,,,1.49612073579835,-0.482297980735497,3.46521123463221,80,40,40,0.33454,0.0507,-0.10785,0.77484,63.1015,59.34999,0.187,0.14137,0.33132,0.04973,-0.1068,0.76737,62.9797,59.26145,0.14137,0.16702,0.01196,-0.05453,0.36525,0.14304,0.1686,0.01299,-0.05458,0.38293,1.83454,0.82233,4.07721,0.14137,0.60679,-0.19561,1.40541,0.14137,,,,,,,,ntnu,ntnu,"Academia Sinica, Taiwan National Taiwan Normal University, Taiwan",Jen-Ho Chang,ML2_Slate1_Taiwan_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Taiwan,Chinese (traditional),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ntnu,1,1,1,1,1,1,84,13,78,84,84,0,0,"Execution
+legal 
+   84 ","SubjectPool
+No 
+84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.684288Z,7,Miyamoto,1,,ntnutab,Secondary,Miyamoto.4,50,28,22,CapitalCon,Condition,28,,,,,,,,,,,,,,,,CapitalPro,Condition,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.4479566740044,0.656333749759591,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.0452 -2.4801  0.0604  1.9160  8.1060 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.7408     0.7625   7.529 1.69e-09 ***
+Constraint                      0.4052     0.2981   1.359    0.181    
+Moderator                       0.9088     0.5435   1.672    0.101    
+ConditionCapitalPro             5.2442     1.2187   4.303 8.97e-05 ***
+Moderator:ConditionCapitalPro  -0.4240     0.9465  -0.448    0.656    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.724 on 45 degrees of freedom
+Multiple R-squared:  0.4637,	Adjusted R-squared:  0.416 
+F-statistic: 9.727 on 4 and 45 DF,  p-value: 9.33e-06
+",,,,,45,,,,,,,,,,,,,,,,,,,,,-0.4479566740044,-2.4076158950047,1.51665509243918,46,23,23,-0.1321,0.08715,-0.70997,0.44724,44.74545,46.27907,-0.07442,0.65673,-0.12983,0.08418,-0.6978,0.43957,44.83502,46.34268,0.65673,-0.06738,0.02202,-0.34118,0.22289,0.66029,-0.06748,0.02326,-0.35543,0.2267,0.78695,0.27589,2.2506,0.65673,-0.23959,-1.28774,0.8112,0.65673,,,,,,,,ntnutab,ntnu,"Academia Sinica, Taiwan National Taiwan Normal University, Taiwan",Jen-Ho Chang,ML2_Slate1_Taiwan_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Taiwan,Chinese (traditional),0,No,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ntnutab,1,1,1,1,1,1,50,13,48,50,50,0,0,"Execution
+legal 
+   50 ","SubjectPool
+No 
+50 ","Setting
+In a lab 
+      50 ","Tablet
+Tablets 
+     50 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       50 ","analysis.type
+Secondary 
+       50 ","subset
+all 
+ 50 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.798736Z,7,Miyamoto,1,,occid,Secondary,Miyamoto.4,67,35,32,CapitalCon,Condition,35,,,,,,,,,,,,,,,,CapitalPro,Condition,32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.37708770618495,0.173436984778891,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.4932 -2.6401  0.1094  2.4184  6.6982 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.79078    0.58499   8.190 1.86e-11 ***
+Constraint                     0.49010    0.25070   1.955   0.0551 .  
+Moderator                     -0.07299    0.38130  -0.191   0.8488    
+ConditionCapitalPro            5.32248    0.86045   6.186 5.39e-08 ***
+Moderator:ConditionCapitalPro  0.77170    0.56038   1.377   0.1734    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.411 on 62 degrees of freedom
+Multiple R-squared:  0.4737,	Adjusted R-squared:  0.4397 
+F-statistic: 13.95 on 4 and 62 DF,  p-value: 3.58e-08
+",,,,,62,,,,,,,,,,,,,,,,,,,,,1.37708770618495,-0.603207938976485,3.34645972367367,63,31.5,31.5,0.34699,0.06445,-0.15199,0.84323,63.57019,59.69117,0.19382,0.17669,0.34271,0.06287,-0.15012,0.83282,63.40915,59.57387,0.17669,0.17364,0.01517,-0.077,0.39384,0.17922,0.17542,0.01667,-0.07716,0.41634,1.87644,0.75905,4.61563,0.17669,0.62938,-0.27569,1.52945,0.17669,,,,,,,,occid,occid,"Department of Cognitive Science, Occidental College, Los Angeles, CA",Carmel Levitan,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,occid,1,1,2,1,1,1,67,13,63,67,67,0,100,"Execution
+legal 
+   67 ","SubjectPool
+Yes 
+ 67 ","Setting
+In a lab 
+      67 ","Tablet
+Computers   Tablets 
+       66         1 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       67 ","analysis.type
+Secondary 
+       67 ","subset
+all 
+ 67 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.889965Z,7,Miyamoto,1,,occidtab,Secondary,Miyamoto.4,81,50,31,CapitalCon,Condition,50,,,,,,,,,,,,,,,,CapitalPro,Condition,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.777774377031218,0.439116575384209,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.8993 -2.6170 -0.1107  2.9614  7.9022 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.65255    0.52129   8.925 1.86e-13 ***
+Constraint                     0.02957    0.21438   0.138    0.891    
+Moderator                     -0.40092    0.32291  -1.242    0.218    
+ConditionCapitalPro            6.38428    0.84312   7.572 7.23e-11 ***
+Moderator:ConditionCapitalPro  0.44183    0.56807   0.778    0.439    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.684 on 76 degrees of freedom
+Multiple R-squared:  0.4383,	Adjusted R-squared:  0.4087 
+F-statistic: 14.82 on 4 and 76 DF,  p-value: 5.363e-09
+",,,,,76,,,,,,,,,,,,,,,,,,,,,0.777774377031218,-1.18861755576267,2.73907719757158,77,38.5,38.5,0.17727,0.05215,-0.27091,0.62429,57.03523,54.98766,0.09975,0.44004,0.17549,0.05111,-0.26819,0.61803,56.96537,54.93788,0.44004,0.08945,0.01295,-0.13597,0.30156,0.44281,0.08969,0.01351,-0.13682,0.31123,1.37924,0.61178,3.10292,0.44004,0.32153,-0.49138,1.13234,0.44004,,,,,,,,occidtab,occid,"Department of Cognitive Science, Occidental College, Los Angeles, CA",Carmel Levitan,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,occidtab,1,1,2,1,1,1,81,13,79,81,81,0,100,"Execution
+legal 
+   81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers   Tablets 
+       42        39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:50.989358Z,7,Miyamoto,1,,ouhktab,Secondary,Miyamoto.4,37,15,22,CapitalCon,Condition,15,,,,,,,,,,,,,,,,CapitalPro,Condition,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.630428376753221,0.532891009771713,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.0483 -2.9510  0.7295  2.7295  9.8126 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.8625     1.1412   4.261 0.000167 ***
+Constraint                     -0.5233     0.3923  -1.334 0.191629    
+Moderator                       0.8103     0.6996   1.158 0.255322    
+ConditionCapitalPro             6.4712     1.4728   4.394 0.000114 ***
+Moderator:ConditionCapitalPro   0.6019     0.9547   0.630 0.532891    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.248 on 32 degrees of freedom
+Multiple R-squared:  0.4196,	Adjusted R-squared:  0.347 
+F-statistic: 5.783 on 4 and 32 DF,  p-value: 0.001279
+",,,,,32,,,,,,,,,,,,,,,,,,,,,0.630428376753221,-1.34043998679577,2.59154427338228,33,16.5,16.5,0.21949,0.12194,-0.46668,0.90226,58.68646,56.16685,0.12334,0.53426,0.21413,0.11607,-0.4553,0.88025,58.47786,56.0176,0.53426,0.11251,0.03046,-0.23406,0.42198,0.54053,0.11299,0.03333,-0.23848,0.4501,1.489,0.42893,5.13725,0.53426,0.39811,-0.84647,1.63652,0.53426,,,,,,,,ouhktab,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate1_Chinese_Inlab_execution_illegal_DEPLOY__Hong_Kong_r__For_Andrew_Tang.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,Other (please indicate),Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ouhktab,1,1,1,1,1,1,37,13,36,37,37,0,0,"Execution
+illegal 
+     37 ","SubjectPool
+Yes 
+ 37 ","Setting
+Other (please indicate) 
+                     37 ","Tablet
+Tablets 
+     37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.112487Z,7,Miyamoto,1,,plu,Secondary,Miyamoto.4,96,51,45,CapitalCon,Condition,51,,,,,,,,,,,,,,,,CapitalPro,Condition,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.50025450855134,0.137010136093183,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.3136 -2.3102 -0.5451  2.2339  9.4941 
+
+Coefficients:
+                               Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.008441   0.444521   9.017  2.9e-14 ***
+Constraint                    -0.002353   0.174289  -0.014    0.989    
+Moderator                     -0.182453   0.276269  -0.660    0.511    
+ConditionCapitalPro            7.165143   0.651686  10.995  < 2e-16 ***
+Moderator:ConditionCapitalPro  0.622806   0.415134   1.500    0.137    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.129 on 91 degrees of freedom
+Multiple R-squared:  0.5899,	Adjusted R-squared:  0.5719 
+F-statistic: 32.72 on 4 and 91 DF,  p-value: < 2.2e-16
+",,,,,91,,,,,,,,,,,,,,,,,,,,,1.50025450855134,-0.475826258793206,3.46819923518697,92,46,46,0.31282,0.04401,-0.09922,0.72317,62.27931,58.75318,0.17506,0.13942,0.31021,0.04328,-0.09839,0.71713,62.17996,58.68121,0.13942,0.1562,0.01046,-0.05009,0.34336,0.14084,0.15749,0.01124,-0.05014,0.35789,1.76368,0.8353,3.71242,0.13942,0.5674,-0.17996,1.31168,0.13942,,,,,,,,plu,plu,"Pacific Lutheran University, Tacoma, WA",Jon Grahe,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,plu,1,1,1,1,1,1,96,13,88,96,96,0,100,"Execution
+legal 
+   96 ","SubjectPool
+Yes 
+ 96 ","Setting
+In a lab 
+      96 ","Tablet
+Computers 
+       96 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               96 ","analysis.type
+Secondary 
+       96 ","subset
+all 
+ 96 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.200099Z,7,Miyamoto,1,,poitiers,Secondary,Miyamoto.4,43,24,19,CapitalCon,Condition,24,,,,,,,,,,,,,,,,CapitalPro,Condition,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.9816155494536,0.00498258058443183,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.5665 -2.6869  0.9946  2.6237  6.2183 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.5188     0.7708   7.160 1.50e-08 ***
+Constraint                      0.2289     0.2654   0.862  0.39387    
+Moderator                      -1.4631     0.5269  -2.777  0.00847 ** 
+ConditionCapitalPro             5.9207     1.1641   5.086 1.01e-05 ***
+Moderator:ConditionCapitalPro   2.2437     0.7525   2.982  0.00498 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.754 on 38 degrees of freedom
+Multiple R-squared:  0.499,	Adjusted R-squared:  0.4463 
+F-statistic: 9.463 on 4 and 38 DF,  p-value: 2.075e-05
+",,,,,38,,,,,,,,,,,,,,,,,,,,,2.9816155494536,0.893324180645754,5.03472851195143,39,19.5,19.5,0.95488,0.11425,0.28609,1.6124,83.01811,75.02266,0.50045,0.00758,0.93539,0.10964,0.28025,1.5795,82.52073,74.58296,0.00758,0.44014,0.01711,0.1453,0.63762,0.00739,0.47241,0.02778,0.14634,0.75416,5.65174,1.6802,18.62634,0.00758,1.73196,0.51891,2.92458,0.00758,,,,,,,,poitiers,poitiers,"Université de Poitiers, France",Armand Chatard,ML2_Slate1_French_Inlab_execution_illegal_pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",illegal,Slate1,poitiers,1,1,1,1,1,1,43,13,43,43,43,0,100,"Execution
+illegal 
+     43 ","SubjectPool
+No 
+43 ","Setting
+In a lab 
+      43 ","Tablet
+Computers 
+       43 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.302201Z,7,Miyamoto,1,,potsdam,Secondary,Miyamoto.4,92,50,42,CapitalCon,Condition,50,,,,,,,,,,,,,,,,CapitalPro,Condition,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.13757284170876,0.00232533616114988,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.7718 -2.0791 -0.3787  2.4544  6.9015 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.6245     0.4701   9.838 8.67e-16 ***
+Constraint                      0.5597     0.2028   2.761  0.00703 ** 
+Moderator                      -0.8908     0.2937  -3.034  0.00319 ** 
+ConditionCapitalPro             3.8563     0.7125   5.412 5.43e-07 ***
+Moderator:ConditionCapitalPro   1.4542     0.4635   3.138  0.00233 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.128 on 87 degrees of freedom
+Multiple R-squared:  0.3838,	Adjusted R-squared:  0.3555 
+F-statistic: 13.55 on 4 and 87 DF,  p-value: 1.259e-08
+",,,,,87,,,,,,,,,,,,,,,,,,,,,3.13757284170876,1.11453919224813,5.14351808152246,88,44,44,0.66893,0.048,0.23762,1.0966,74.82308,68.18959,0.36379,0.00301,0.66308,0.04716,0.23554,1.08701,74.6361,68.04187,0.00301,0.32049,0.00925,0.11933,0.48503,0.00293,0.33219,0.01176,0.1199,0.52954,3.3646,1.53879,7.30834,0.00301,1.21331,0.431,1.98902,0.00301,,,,,,,,potsdam,potsdam,"University of Potsdam, Germany",Robert Busching,Slate_1_Deutsch_germany_Revised_Version_2__potsdam_r_manuallyrecode_vanp21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,potsdam,1,1,1,1,1,1,92,13,87,92,92,0,100,"Execution
+illegal 
+     92 ","SubjectPool
+Yes 
+ 92 ","Setting
+Online (at home) 
+              92 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             92 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       92 ","analysis.type
+Secondary 
+       92 ","subset
+all 
+ 92 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.413680Z,7,Miyamoto,1,,pscio,Secondary,Miyamoto.4,87,43,44,CapitalCon,Condition,43,,,,,,,,,,,,,,,,CapitalPro,Condition,44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.97711164538055,0.00382430142854577,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.1676  -1.9271   0.6286   1.8324   6.3288 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.1745     0.4864  10.639  < 2e-16 ***
+Constraint                      0.1797     0.1878   0.956  0.34168    
+Moderator                      -1.3864     0.3374  -4.109 9.37e-05 ***
+ConditionCapitalPro             7.6582     0.7058  10.851  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.3007     0.4369   2.977  0.00382 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.067 on 82 degrees of freedom
+Multiple R-squared:  0.669,	Adjusted R-squared:  0.6529 
+F-statistic: 41.43 on 4 and 82 DF,  p-value: < 2.2e-16
+",,,,,82,,,,,,,,,,,,,,,,,,,,,2.97711164538055,0.956420543802284,4.98056214625187,83,41.5,41.5,0.65356,0.05077,0.20996,1.09338,74.33026,67.80086,0.35602,0.00479,0.64749,0.04983,0.20801,1.08322,74.13428,67.64681,0.00479,0.31405,0.00991,0.10567,0.4842,0.0047,0.32504,0.0125,0.10607,0.52845,3.27209,1.4635,7.26569,0.00479,1.18543,0.38083,1.98316,0.00479,,,,,,,,pscio,pscio,"University of the Republic, Montevideo, Uruguay",Alejandro Vasquez Echeverría,ML2_Slate1_Spanish_execution_illegal__Uruguay_r.csv,DO.BR.FL_5,DO.BR.FL_6,Uruguay,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,pscio,1,1,1,1,1,1,87,14,82,87,87,0,0,"Execution
+illegal 
+     87 ","SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.558652Z,7,Miyamoto,1,,psuabington,Secondary,Miyamoto.4,91,42,49,CapitalCon,Condition,42,,,,,,,,,,,,,,,,CapitalPro,Condition,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.310456859170557,0.756964711293531,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.5510  -3.1546   0.1033   3.3395   9.6856 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.42406    0.57111   7.746 1.72e-11 ***
+Constraint                     0.04174    0.22434   0.186    0.853    
+Moderator                      0.31320    0.43238   0.724    0.471    
+ConditionCapitalPro            6.92726    0.78908   8.779 1.39e-13 ***
+Moderator:ConditionCapitalPro -0.17087    0.55039  -0.310    0.757    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.616 on 86 degrees of freedom
+Multiple R-squared:  0.501,	Adjusted R-squared:  0.4778 
+F-statistic: 21.59 on 4 and 86 DF,  p-value: 2.342e-12
+",,,,,86,,,,,,,,,,,,,,,,,,,,,-0.310456859170557,-2.27006763343589,1.65095526817009,87,43.5,43.5,-0.06657,0.046,-0.48675,0.354,47.34624,48.12282,-0.03754,0.75704,-0.06598,0.04519,-0.48245,0.35087,47.36969,48.13942,0.75704,-0.03365,0.0116,-0.23908,0.17627,0.75841,-0.03367,0.0119,-0.2438,0.17813,0.88626,0.41359,1.90045,0.75704,-0.12074,-0.88287,0.64209,0.75704,,,,,,,,psuabington,psuabington,"Department of Psychology, Pennsylvania State University Abington, Abington, PA 19001",Michael J. Bernstein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psuabington,1,1,1,1,1,1,91,13,87,91,91,0,100,"Execution
+legal 
+   91 ","SubjectPool
+Yes 
+ 91 ","Setting
+In a lab 
+      91 ","Tablet
+Computers 
+       91 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       91 ","analysis.type
+Secondary 
+       91 ","subset
+all 
+ 91 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.656367Z,7,Miyamoto,1,,psuabingtontab,Secondary,Miyamoto.4,78,41,37,CapitalCon,Condition,41,,,,,,,,,,,,,,,,CapitalPro,Condition,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.94926889540307,0.3456160015352,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.8854 -2.8521  0.3446  2.9544  6.6849 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.2147     0.5386   9.681 9.94e-15 ***
+Constraint                      0.1348     0.2109   0.639    0.525    
+Moderator                       0.5293     0.3891   1.360    0.178    
+ConditionCapitalPro             5.8009     0.7857   7.383 2.02e-10 ***
+Moderator:ConditionCapitalPro  -0.5122     0.5396  -0.949    0.346    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.431 on 73 degrees of freedom
+Multiple R-squared:  0.452,	Adjusted R-squared:  0.422 
+F-statistic: 15.05 on 4 and 73 DF,  p-value: 5.109e-09
+",,,,,73,,,,,,,,,,,,,,,,,,,,,-0.94926889540307,-2.9120249228962,1.01993974749648,74,37,37,-0.2207,0.05438,-0.67703,0.23713,41.26628,43.79933,-0.12401,0.34711,-0.21839,0.05325,-0.66996,0.23465,41.35612,43.86363,0.34711,-0.11118,0.01336,-0.3246,0.11934,0.35,-0.11164,0.01408,-0.33678,0.11991,0.67011,0.29288,1.53742,0.34711,-0.40031,-1.228,0.43011,0.34711,,,,,,,,psuabingtontab,psuabington,"Department of Psychology, Pennsylvania State University Abington, Abington, PA 19001",Michael J. Bernstein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psuabingtontab,1,1,1,1,1,1,78,13,74,78,78,0,100,"Execution
+legal 
+   78 ","SubjectPool
+Yes 
+ 78 ","Setting
+In a lab 
+      78 ","Tablet
+Tablets 
+     78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.760859Z,7,Miyamoto,1,,psumain,Secondary,Miyamoto.4,82,44,38,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.43458910882218,0.0172236877983691,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.7926 -2.3132 -0.2907  2.2186  7.6353 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.51760    0.47436   9.524 1.18e-14 ***
+Constraint                     0.02151    0.19941   0.108   0.9144    
+Moderator                     -0.49041    0.33725  -1.454   0.1500    
+ConditionCapitalPro            6.73392    0.69858   9.639 7.07e-15 ***
+Moderator:ConditionCapitalPro  1.20177    0.49362   2.435   0.0172 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.137 on 77 degrees of freedom
+Multiple R-squared:  0.5656,	Adjusted R-squared:  0.5431 
+F-statistic: 25.07 on 4 and 77 DF,  p-value: 2.599e-13
+",,,,,77,,,,,,,,,,,,,,,,,,,,,2.43458910882218,0.429771148422322,4.42418094762908,78,39,39,0.55133,0.05323,0.09732,1.00188,70.92948,65.16749,0.30335,0.01935,0.54587,0.05218,0.09636,0.99196,70.74214,65.02466,0.01935,0.26897,0.01118,0.04924,0.45255,0.01942,0.27576,0.01333,0.04928,0.4879,2.71827,1.19307,6.15466,0.01935,0.99999,0.17653,1.81721,0.01935,,,,,,,,psumain,psumain,The Pennsylvania State University,"Reginald B. Adams, Jr, Anthony J. Nelson, Troy G. Steiner",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psumain,1,1,1,1,1,1,82,13,80,82,82,0,100,"Execution
+legal 
+   82 ","SubjectPool
+Yes 
+ 82 ","Setting
+In a lab 
+      82 ","Tablet
+Computers 
+       82 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       82 ","analysis.type
+Secondary 
+       82 ","subset
+all 
+ 82 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.861089Z,7,Miyamoto,1,,purkyne,Secondary,Miyamoto.4,139,65,74,CapitalCon,Condition,65,,,,,,,,,,,,,,,,CapitalPro,Condition,74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.80241710902482,0.00582478430061026,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.0437 -2.0475 -0.3406  1.6372  8.5161 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    3.17273    0.35370   8.970 2.29e-15 ***
+Constraint                     0.04948    0.11653   0.425  0.67182    
+Moderator                     -0.23398    0.21515  -1.088  0.27876    
+ConditionCapitalPro            8.99077    0.48372  18.587  < 2e-16 ***
+Moderator:ConditionCapitalPro  0.83682    0.29861   2.802  0.00582 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.768 on 134 degrees of freedom
+Multiple R-squared:  0.7419,	Adjusted R-squared:  0.7342 
+F-statistic:  96.3 on 4 and 134 DF,  p-value: < 2.2e-16
+",,,,,134,,,,,,,,,,,,,,,,,,,,,2.80241710902482,0.808913643573014,4.78575615379871,135,67.5,67.5,0.48239,0.03049,0.13924,0.82378,68.52346,63.34856,0.26697,0.00655,0.47966,0.03015,0.13845,0.81913,68.42661,63.276,0.00655,0.23613,0.00665,0.06997,0.38329,0.0065,0.24067,0.00758,0.07008,0.40391,2.39876,1.28731,4.45568,0.00655,0.87495,0.25255,1.49418,0.00655,,,,,,,,purkyne,purkyne,"The University of J. E. Purkyně, Ústí nad Labem, Czech Republic",Petr Houdek,ML2_Slate1_Czech_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,purkyne,1,1,1,1,1,1,139,13,129,139,139,0,100,"Execution
+illegal 
+    139 ","SubjectPool
+Yes 
+139 ","Setting
+In a lab 
+     139 ","Tablet
+Computers 
+      139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:51.982539Z,7,Miyamoto,1,,sandiegosu,Secondary,Miyamoto.4,173,79,94,CapitalCon,Condition,79,,,,,,,,,,,,,,,,CapitalPro,Condition,94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.974645095374645,0.331137618341174,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.9771 -2.9199 -0.1584  2.7150 10.5179 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.16837    0.37251  11.190   <2e-16 ***
+Constraint                    -0.05601    0.12884  -0.435    0.664    
+Moderator                      0.12656    0.25317   0.500    0.618    
+ConditionCapitalPro            7.40959    0.50551  14.658   <2e-16 ***
+Moderator:ConditionCapitalPro  0.31357    0.32173   0.975    0.331    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.301 on 168 degrees of freedom
+Multiple R-squared:  0.5713,	Adjusted R-squared:  0.5611 
+F-statistic: 55.97 on 4 and 168 DF,  p-value: < 2.2e-16
+",,,,,168,,,,,,,,,,,,,,,,,,,,,0.974645095374645,-0.989528790705731,2.9359281833668,169,84.5,84.5,0.14995,0.02374,-0.15224,0.45168,55.95962,54.22197,0.08444,0.33182,0.14927,0.02352,-0.15155,0.44965,55.93301,54.20305,0.33182,0.07521,0.00589,-0.07635,0.22154,0.33305,0.07535,0.00602,-0.0765,0.22528,1.31255,0.75872,2.26882,0.33182,0.27197,-0.27612,0.81926,0.33182,,,,,,,,sandiegosu,sandiegosu,"Department of Psychology, San Diego State University, San Diego, CA 92182",Thierry Devos,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,sandiegosu,1,1,1,1,1,1,173,13,153,173,173,0,100,"Execution
+legal 
+  173 ","SubjectPool
+Yes 
+173 ","Setting
+In a lab 
+     173 ","Tablet
+Computers 
+      173 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              173 ","analysis.type
+Secondary 
+      173 ","subset
+all 
+173 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.087077Z,7,Miyamoto,1,,santiagoon,Secondary,Miyamoto.4,59,25,34,CapitalCon,Condition,25,,,,,,,,,,,,,,,,CapitalPro,Condition,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.82692099812426,0.00657770783029796,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.3537 -2.1662 -0.3537  2.0566  6.8022 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.07831    0.65295   6.246 6.86e-08 ***
+Constraint                     0.09845    0.25862   0.381  0.70494    
+Moderator                     -0.53411    0.42185  -1.266  0.21091    
+ConditionCapitalPro            6.80623    0.85975   7.917 1.35e-10 ***
+Moderator:ConditionCapitalPro  1.46262    0.51739   2.827  0.00658 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.25 on 54 degrees of freedom
+Multiple R-squared:  0.5789,	Adjusted R-squared:  0.5477 
+F-statistic: 18.56 on 4 and 54 DF,  p-value: 1.201e-09
+",,,,,54,,,,,,,,,,,,,,,,,,,,,2.82692099812426,0.783866028249863,4.84557937609792,55,27.5,27.5,0.76236,0.07801,0.21139,1.30676,77.70786,70.50816,0.41016,0.00859,0.75152,0.07581,0.20839,1.28818,77.38315,70.2432,0.00859,0.36198,0.01398,0.10705,0.55408,0.00848,0.37916,0.01923,0.10747,0.62425,3.98595,1.4673,10.69945,0.00859,1.38278,0.38342,2.37019,0.00859,,,,,,,,santiagoon,santiagoon,"Santiago, Chile","David Sirlopú, Francisco Ceric",ML2_Slate1_Spanish_execution_illegal__Chile_r.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,santiagoon,1,1,1,1,1,1,59,13,58,59,59,0,100,"Execution
+illegal 
+     59 ","SubjectPool
+Yes 
+ 59 ","Setting
+Online (at home) 
+              59 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             59 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       59 ","analysis.type
+Secondary 
+       59 ","subset
+all 
+ 59 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.189645Z,7,Miyamoto,1,,swps,Secondary,Miyamoto.4,95,41,54,CapitalCon,Condition,41,,,,,,,,,,,,,,,,CapitalPro,Condition,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.981850757380827,0.328805459347397,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.7629 -2.6644  0.1141  2.4184 11.8185 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.0462     0.5784   8.724 1.29e-13 ***
+Constraint                      0.5615     0.1948   2.882  0.00494 ** 
+Moderator                      -0.4834     0.4044  -1.196  0.23499    
+ConditionCapitalPro             6.3200     0.7696   8.212 1.49e-12 ***
+Moderator:ConditionCapitalPro   0.4797     0.4886   0.982  0.32881    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.688 on 90 degrees of freedom
+Multiple R-squared:  0.4807,	Adjusted R-squared:  0.4577 
+F-statistic: 20.83 on 4 and 90 DF,  p-value: 3.522e-12
+",,,,,90,,,,,,,,,,,,,,,,,,,,,0.981850757380827,-0.986049836225645,2.94433191594473,91,45.5,45.5,0.20585,0.04419,-0.20673,0.6173,58.15467,55.78653,0.11573,0.33011,0.20411,0.04345,-0.20499,0.61208,58.08671,55.73797,0.33011,0.10352,0.01087,-0.10395,0.29793,0.33242,0.10389,0.01136,-0.10433,0.30724,1.45263,0.68731,3.06381,0.33011,0.37337,-0.37497,1.11966,0.33011,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate1_Polish_Inlab_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,swps,1,1,1,1,1,1,95,13,86,95,95,0,100,"Execution
+illegal 
+     95 ","SubjectPool
+No 
+95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.286067Z,7,Miyamoto,1,,tamu,Secondary,Miyamoto.4,98,41,57,CapitalCon,Condition,41,,,,,,,,,,,,,,,,CapitalPro,Condition,57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.40752194290885,0.0180353119030312,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-11.896  -2.239   0.288   2.104   8.584 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.4314     0.5403   8.201 1.29e-12 ***
+Constraint                      0.2097     0.1774   1.182    0.240    
+Moderator                      -0.4720     0.3468  -1.361    0.177    
+ConditionCapitalPro             7.2922     0.7052  10.341  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.1045     0.4588   2.408    0.018 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.263 on 93 degrees of freedom
+Multiple R-squared:  0.588,	Adjusted R-squared:  0.5703 
+F-statistic: 33.19 on 4 and 93 DF,  p-value: < 2.2e-16
+",,,,,93,,,,,,,,,,,,,,,,,,,,,2.40752194290885,0.411057908797113,4.39143145898617,94,47,47,0.49663,0.04387,0.08479,0.90588,69.02764,63.72708,0.27454,0.01981,0.49257,0.04315,0.0841,0.89848,68.88433,63.61935,0.01981,0.24345,0.00952,0.04282,0.41628,0.01988,0.24844,0.01099,0.04284,0.44319,2.46156,1.16626,5.17113,0.01981,0.90079,0.1538,1.64309,0.01981,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,tamu,1,1,1,1,1,1,98,13,92,98,98,0,100,"Execution
+legal 
+   98 ","SubjectPool
+Yes 
+ 98 ","Setting
+In a lab 
+      98 ","Tablet
+Computers 
+       98 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       98 ","analysis.type
+Secondary 
+       98 ","subset
+all 
+ 98 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.401838Z,7,Miyamoto,1,,tilburg,Secondary,Miyamoto.4,97,46,51,CapitalCon,Condition,46,,,,,,,,,,,,,,,,CapitalPro,Condition,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,4.07668766382413,9.69093318776244e-05,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.0710 -1.7508 -0.1526  2.0283  9.3860 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.1097     0.4432   7.016 3.78e-10 ***
+Constraint                      0.2989     0.1596   1.873  0.06429 .  
+Moderator                      -0.8632     0.2843  -3.036  0.00312 ** 
+ConditionCapitalPro             6.6283     0.6253  10.600  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.4718     0.3610   4.077 9.69e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.917 on 92 degrees of freedom
+Multiple R-squared:  0.5866,	Adjusted R-squared:  0.5686 
+F-statistic: 32.64 on 4 and 92 DF,  p-value: < 2.2e-16
+",,,,,92,,,,,,,,,,,,,,,,,,,,,4.07668766382413,2.0201634487927,6.1128301420762,93,46.5,46.5,0.84547,0.04685,0.41896,1.26774,80.10745,72.50248,0.45005,0.00018,0.83848,0.04608,0.4155,1.25726,79.91189,72.33739,0.00018,0.39297,0.00777,0.20718,0.53953,0.00016,0.41531,0.01111,0.21022,0.60349,4.63439,2.13809,9.96849,0.00018,1.53351,0.75991,2.29943,0.00018,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate1_Dutch_execution_illegal_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,tilburg,1,1,1,1,1,1,97,13,91,97,97,0,100,"Execution
+illegal 
+     97 ","SubjectPool
+Yes 
+ 97 ","Setting
+In a lab 
+      97 ","Tablet
+Computers 
+       97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.506732Z,7,Miyamoto,1,,tilburgcaf,Secondary,Miyamoto.4,79,42,37,CapitalCon,Condition,42,,,,,,,,,,,,,,,,CapitalPro,Condition,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.80322277245135,0.0754239854666266,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-8.757 -2.045 -0.521  1.803  9.989 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.3809     0.5093   6.638 4.62e-09 ***
+Constraint                      0.2372     0.2080   1.140   0.2579    
+Moderator                      -0.2018     0.3290  -0.613   0.5415    
+ConditionCapitalPro             6.9952     0.7445   9.396 2.99e-14 ***
+Moderator:ConditionCapitalPro   0.8135     0.4511   1.803   0.0754 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.295 on 74 degrees of freedom
+Multiple R-squared:  0.565,	Adjusted R-squared:  0.5415 
+F-statistic: 24.03 on 4 and 74 DF,  p-value: 9.231e-13
+",,,,,74,,,,,,,,,,,,,,,,,,,,,1.80322277245135,-0.184039382359799,3.77857085405037,75,37.5,37.5,0.41644,0.05449,-0.0425,0.87262,66.14547,61.57987,0.2316,0.07858,0.41214,0.05337,-0.04206,0.86363,65.98828,61.46385,0.07858,0.2065,0.01239,-0.02154,0.40446,0.0796,0.20952,0.01389,-0.02154,0.42897,2.12832,0.92581,4.86839,0.07858,0.75533,-0.07709,1.58276,0.07858,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate1_Dutch_execution_illegal_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,tilburgcaf,1,1,1,1,1,1,79,13,72,79,79,0,100,"Execution
+illegal 
+     79 ","SubjectPool
+No 
+79 ","Setting
+Other (please indicate) 
+                     79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.591387Z,7,Miyamoto,1,,tilburgcomm,Secondary,Miyamoto.4,102,54,48,CapitalCon,Condition,54,,,,,,,,,,,,,,,,CapitalPro,Condition,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.49143692830602,0.00072486633953848,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.1625 -1.6213 -0.3206  1.4694  7.3773 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.3207     0.3667   9.055 1.47e-14 ***
+Constraint                      0.1125     0.1403   0.802 0.424516    
+Moderator                      -0.5631     0.2104  -2.677 0.008725 ** 
+ConditionCapitalPro             6.7317     0.5359  12.562  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.1217     0.3213   3.491 0.000725 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.688 on 97 degrees of freedom
+Multiple R-squared:  0.637,	Adjusted R-squared:  0.6221 
+F-statistic: 42.56 on 4 and 97 DF,  p-value: < 2.2e-16
+",,,,,97,,,,,,,,,,,,,,,,,,,,,3.49143692830602,1.46250648756179,5.50340432579223,98,49,49,0.70538,0.04335,0.29547,1.11186,75.97121,69.10316,0.38206,0.00102,0.69985,0.04268,0.29316,1.10315,75.799,68.9654,0.00102,0.33567,0.00812,0.14763,0.48972,0.00097,0.3492,0.01053,0.14872,0.5357,3.59453,1.70903,7.51336,0.00102,1.27941,0.53592,2.01668,0.00102,,,,,,,,tilburgcomm,tilburgcomm,"Department of Communication and Information Sciences, P.O. Box 90153, Tilburg, 5000 LE, Netherlands",M.M.H. Pollmann,ML2_Slate1_Dutch_execution_illegal_DEPLOY__netherlands_tilburgcomm_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,tilburgcomm,1,1,1,1,1,1,102,13,92,102,102,0,100,"Execution
+illegal 
+    102 ","SubjectPool
+Yes 
+102 ","Setting
+Online (at home) 
+             102 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.688212Z,7,Miyamoto,1,,toronto,Secondary,Miyamoto.4,351,155,196,CapitalCon,Condition,155,,,,,,,,,,,,,,,,CapitalPro,Condition,196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.22104752089346,0.0269946721713985,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.8505  -2.6804   0.2551   2.6282  10.7877 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.2805     0.2921  14.655   <2e-16 ***
+Constraint                      0.1861     0.1020   1.825   0.0689 .  
+Moderator                      -0.3016     0.1980  -1.524   0.1285    
+ConditionCapitalPro             6.8426     0.3916  17.474   <2e-16 ***
+Moderator:ConditionCapitalPro   0.5941     0.2675   2.221   0.0270 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.623 on 346 degrees of freedom
+Multiple R-squared:  0.4826,	Adjusted R-squared:  0.4766 
+F-statistic: 80.67 on 4 and 346 DF,  p-value: < 2.2e-16
+",,,,,346,,,,,,,,,,,,,,,,,,,,,2.22104752089346,0.252521538378934,4.18638659431464,347,173.5,173.5,0.23846,0.01161,0.02711,0.44947,59.42394,56.69521,0.1339,0.02754,0.23795,0.01156,0.02705,0.4485,59.40383,56.68078,0.02754,0.11873,0.00281,0.01359,0.21987,0.02758,0.11929,0.00291,0.01359,0.22352,1.54115,1.05041,2.25975,0.02754,0.43253,0.04918,0.81526,0.02754,,,,,,,,toronto,toronto,"University of Toronto, Scarborough",Yoel Inbar,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,toronto,1,1,1,1,1,1,351,13,285,351,351,0,100,"Execution
+illegal 
+    351 ","SubjectPool
+Yes 
+351 ","Setting
+In a lab 
+     351 ","Tablet
+Computers 
+      351 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      351 ","analysis.type
+Secondary 
+      351 ","subset
+all 
+351 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.848559Z,7,Miyamoto,1,,tufts,Secondary,Miyamoto.4,88,43,45,CapitalCon,Condition,43,,,,,,,,,,,,,,,,CapitalPro,Condition,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.82490527733847,0.000252342048227541,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.0675 -2.4914  0.4399  2.3944  6.3764 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.9121     0.5127  11.531  < 2e-16 ***
+Constraint                      0.4731     0.2098   2.255 0.026775 *  
+Moderator                      -1.0245     0.3159  -3.243 0.001706 ** 
+ConditionCapitalPro             4.5147     0.7187   6.282 1.47e-08 ***
+Moderator:ConditionCapitalPro   1.7192     0.4495   3.825 0.000252 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.354 on 83 degrees of freedom
+Multiple R-squared:  0.4309,	Adjusted R-squared:  0.4035 
+F-statistic: 15.71 on 4 and 83 DF,  p-value: 1.305e-09
+",,,,,83,,,,,,,,,,,,,,,,,,,,,3.82490527733847,1.77003191623678,5.85854576195743,84,42,42,0.83466,0.05177,0.38625,1.27844,79.80462,72.24703,0.44494,0.00043,0.82701,0.05082,0.38271,1.26671,79.5883,72.06525,0.00043,0.3891,0.00868,0.19184,0.5432,0.00039,0.41074,0.01235,0.19424,0.60868,4.54447,2.01493,10.1638,0.00043,1.51391,0.70058,2.31883,0.00043,,,,,,,,tufts,tufts,Tufts,Satia Marotta,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,tufts,1,1,1,1,1,1,88,13,84,88,88,0,100,"Execution
+legal 
+   88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:52.954430Z,7,Miyamoto,1,,ubc,Secondary,Miyamoto.4,81,44,37,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,4.58373575322792,1.7612489870394e-05,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.6061 -1.8705 -0.0157  1.9660  8.5842 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.4868     0.4698   9.551 1.18e-14 ***
+Constraint                     -0.1818     0.1967  -0.924   0.3584    
+Moderator                      -0.8365     0.3186  -2.625   0.0105 *  
+ConditionCapitalPro             6.1043     0.6963   8.767 3.74e-13 ***
+Moderator:ConditionCapitalPro   2.0282     0.4425   4.584 1.76e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.109 on 76 degrees of freedom
+Multiple R-squared:  0.5654,	Adjusted R-squared:  0.5425 
+F-statistic: 24.71 on 4 and 76 DF,  p-value: 3.987e-13
+",,,,,76,,,,,,,,,,,,,,,,,,,,,4.58373575322792,2.47980431831648,6.66104345301739,77,38.5,38.5,1.04473,0.05904,0.5652,1.51819,85.19262,76.99663,0.53993,5e-05,1.03425,0.05786,0.55953,1.50296,84.94899,76.77093,5e-05,0.4678,0.00803,0.27528,0.60967,4e-05,0.50725,0.01351,0.28257,0.7084,6.65209,2.78754,15.70057,5e-05,1.89493,1.02516,2.7537,5e-05,,,,,,,,ubc,ubc,"University of British Columbia, Vancouver, Canada",Chris NH Street,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ubc,1,1,1,1,1,1,81,13,77,81,81,0,100,"Execution
+illegal 
+     81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.056998Z,7,Miyamoto,1,,ubctab,Secondary,Miyamoto.4,74,40,34,CapitalCon,Condition,40,,,,,,,,,,,,,,,,CapitalPro,Condition,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.0497924933496371,0.960431605011746,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.1195 -2.5091 -0.4753  2.9699  8.0857 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.24701    0.55521   7.649 8.75e-11 ***
+Constraint                     0.06416    0.21984   0.292    0.771    
+Moderator                      0.10405    0.36484   0.285    0.776    
+ConditionCapitalPro            5.99274    0.81917   7.316 3.55e-10 ***
+Moderator:ConditionCapitalPro  0.02996    0.60162   0.050    0.960    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.511 on 69 degrees of freedom
+Multiple R-squared:  0.4375,	Adjusted R-squared:  0.4049 
+F-statistic: 13.42 on 4 and 69 DF,  p-value: 3.859e-08
+",,,,,69,,,,,,,,,,,,,,,,,,,,,0.0497924933496371,-1.91036910495058,2.00959394808528,70,35,35,0.0119,0.05714,-0.45667,0.48038,50.47484,50.33576,0.00672,0.96043,0.01177,0.05589,-0.45161,0.47507,50.46958,50.33205,0.96043,0.00604,0.01449,-0.22569,0.23677,0.96073,0.00604,0.01493,-0.22964,0.24135,1.02182,0.43679,2.39007,0.96043,0.02159,-0.8283,0.87132,0.96043,,,,,,,,ubctab,ubc,"University of British Columbia, Vancouver, Canada",Chris NH Street,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ubctab,1,1,1,1,1,1,74,13,69,74,74,0,100,"Execution
+illegal 
+     74 ","SubjectPool
+Yes 
+ 74 ","Setting
+In a lab 
+      74 ","Tablet
+Tablets 
+     74 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       74 ","analysis.type
+Secondary 
+       74 ","subset
+all 
+ 74 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.151706Z,7,Miyamoto,1,,ucron,Secondary,Miyamoto.4,101,47,54,CapitalCon,Condition,47,,,,,,,,,,,,,,,,CapitalPro,Condition,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.216380193129773,0.82915053774935,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.1103  -2.8817  -0.3452   2.9539   8.9227 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.39498    0.51540   8.527 2.15e-13 ***
+Constraint                     0.34030    0.17778   1.914   0.0586 .  
+Moderator                     -0.07234    0.37777  -0.191   0.8485    
+ConditionCapitalPro            6.75214    0.70432   9.587 1.15e-15 ***
+Moderator:ConditionCapitalPro  0.10071    0.46542   0.216   0.8292    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.522 on 96 degrees of freedom
+Multiple R-squared:  0.5012,	Adjusted R-squared:  0.4804 
+F-statistic: 24.12 on 4 and 96 DF,  p-value: 7.924e-14
+",,,,,96,,,,,,,,,,,,,,,,,,,,,0.216380193129773,-1.74438475027562,2.17601990332585,97,48.5,48.5,0.04394,0.04125,-0.35423,0.44188,51.75239,51.23933,0.02479,0.82918,0.04359,0.0406,-0.35143,0.43838,51.73853,51.22952,0.82918,0.02219,0.01041,-0.17617,0.21789,0.83006,0.0222,0.01064,-0.17803,0.22144,1.08296,0.52597,2.22885,0.82918,0.0797,-0.6425,0.80149,0.82918,,,,,,,,ucron,ucron,"Universidad de Costa Rica, Costa Rica","Vanessa Smith-Castro, Rolando Pérez, David Torres",ML2_Slate1_Spanish_execution_illegal__Costa_Rica_r.csv,DO.BR.FL_6,DO.BR.FL_7,Costa Rica,Spanish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ucron,1,1,1,1,1,1,101,13,94,101,101,0,0,"Execution
+illegal 
+    101 ","SubjectPool
+ No 
+101 ","Setting
+Online (at home) 
+             101 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            101 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      101 ","analysis.type
+Secondary 
+      101 ","subset
+all 
+101 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.276538Z,7,Miyamoto,1,,udd,Secondary,Miyamoto.4,93,54,39,CapitalCon,Condition,54,,,,,,,,,,,,,,,,CapitalPro,Condition,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.10630321376848,0.0380255146870487,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.1708  -2.4346   0.1827   2.2999   8.5271 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.7126     0.4851   9.714 1.39e-15 ***
+Constraint                      0.2185     0.2297   0.951   0.3442    
+Moderator                      -0.7727     0.3150  -2.453   0.0161 *  
+ConditionCapitalPro             6.2742     0.7518   8.346 9.09e-13 ***
+Moderator:ConditionCapitalPro   1.0720     0.5089   2.106   0.0380 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.555 on 88 degrees of freedom
+Multiple R-squared:  0.4736,	Adjusted R-squared:  0.4497 
+F-statistic:  19.8 on 4 and 88 DF,  p-value: 1.192e-11
+",,,,,88,,,,,,,,,,,,,,,,,,,,,2.10630321376848,0.116024385004384,4.08491116479521,89,44.5,44.5,0.44654,0.04606,0.0246,0.866,67.23947,62.39032,0.24781,0.04042,0.44267,0.04527,0.02438,0.85851,67.09995,62.28667,0.04042,0.22027,0.01029,0.01244,0.40116,0.04077,0.22394,0.01163,0.01244,0.42503,2.24774,1.04562,4.81025,0.04042,0.80993,0.04461,1.57075,0.04042,,,,,,,,udd,udd,"Concepción, Chile","David Sirlopú, Francisco Ceric",ML2_Slate1_Spanish_execution_illegal__Chile_r.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,udd,1,1,1,1,1,1,93,13,90,93,93,0,100,"Execution
+illegal 
+     93 ","SubjectPool
+Yes 
+ 93 ","Setting
+In a lab 
+      93 ","Tablet
+Computers 
+       93 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       93 ","analysis.type
+Secondary 
+       93 ","subset
+all 
+ 93 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.383759Z,7,Miyamoto,1,,ufl,Secondary,Miyamoto.4,115,54,61,CapitalCon,Condition,54,,,,,,,,,,,,,,,,CapitalPro,Condition,61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.40846497986265,0.000913821507336181,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.8888 -2.1308  0.0961  1.9202  6.1771 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.9196     0.3958  12.431  < 2e-16 ***
+Constraint                      0.2382     0.1566   1.521 0.131215    
+Moderator                      -0.2360     0.2598  -0.908 0.365659    
+ConditionCapitalPro             6.0220     0.5455  11.040  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.2285     0.3604   3.408 0.000914 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.887 on 110 degrees of freedom
+Multiple R-squared:  0.5888,	Adjusted R-squared:  0.5738 
+F-statistic: 39.37 on 4 and 110 DF,  p-value: < 2.2e-16
+",,,,,110,,,,,,,,,,,,,,,,,,,,,3.40846497986265,1.39016292822776,5.41202963402336,111,55.5,55.5,0.64703,0.03792,0.2639,1.02737,74.11951,67.63522,0.3527,0.00121,0.64257,0.0374,0.26208,1.02029,73.97491,67.52177,0.00121,0.31035,0.00742,0.13199,0.46022,0.00117,0.32093,0.00926,0.13276,0.49759,3.23358,1.6139,6.44594,0.00121,1.17359,0.47866,1.86345,0.00121,,,,,,,,ufl,ufl,"University of Florida, Florida",Richard A. Klein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,ufl,1,1,1,1,1,1,115,13,108,115,115,0,100,"Execution
+legal 
+  115 ","SubjectPool
+Yes 
+115 ","Setting
+In a lab 
+     115 ","Tablet
+Computers 
+      115 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              115 ","analysis.type
+Secondary 
+      115 ","subset
+all 
+115 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.477134Z,7,Miyamoto,1,,uiuc,Secondary,Miyamoto.4,204,109,95,CapitalCon,Condition,109,,,,,,,,,,,,,,,,CapitalPro,Condition,95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.55539112857334,0.0113537410420136,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.1261 -2.6726 -0.5151  2.5848  9.8495 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    5.19703    0.33293  15.610   <2e-16 ***
+Constraint                    -0.02952    0.12825  -0.230   0.8182    
+Moderator                     -0.28689    0.21753  -1.319   0.1887    
+ConditionCapitalPro            6.10525    0.48821  12.505   <2e-16 ***
+Moderator:ConditionCapitalPro  0.78838    0.30851   2.555   0.0114 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.467 on 199 degrees of freedom
+Multiple R-squared:  0.454,	Adjusted R-squared:  0.443 
+F-statistic: 41.36 on 4 and 199 DF,  p-value: < 2.2e-16
+",,,,,199,,,,,,,,,,,,,,,,,,,,,2.55539112857334,0.576274873149602,4.52818917933118,200,100,100,0.36139,0.02033,0.0815,0.64038,64.10949,60.08466,0.20169,0.01202,0.36002,0.02017,0.08119,0.63795,64.05825,60.04724,0.01202,0.17868,0.00471,0.04092,0.30633,0.01201,0.18062,0.00508,0.04094,0.31649,1.92607,1.1593,3.1948,0.01202,0.65548,0.14782,1.16153,0.01202,,,,,,,,uiuc,uiuc,"University of Illinois at Urbana-Champaign, Champaign, IL","Erika Salomon, Marie Heffernan",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uiuc,1,1,1,1,1,1,204,13,178,204,204,0,100,"Execution
+legal 
+  204 ","SubjectPool
+Yes 
+204 ","Setting
+In a lab 
+     204 ","Tablet
+Computers 
+      204 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              204 ","analysis.type
+Secondary 
+      204 ","subset
+all 
+204 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.578846Z,7,Miyamoto,1,,umich,Secondary,Miyamoto.4,88,46,42,CapitalCon,Condition,46,,,,,,,,,,,,,,,,CapitalPro,Condition,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.604636500655225,0.547069942936073,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.4802 -2.5314  0.0353  2.5901  6.5828 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    5.19496    0.53090   9.785 1.76e-15 ***
+Constraint                     0.01468    0.21491   0.068    0.946    
+Moderator                      0.23850    0.34123   0.699    0.487    
+ConditionCapitalPro            5.35482    0.77457   6.913 9.01e-10 ***
+Moderator:ConditionCapitalPro  0.29997    0.49612   0.605    0.547    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.564 on 83 degrees of freedom
+Multiple R-squared:  0.3935,	Adjusted R-squared:  0.3642 
+F-statistic: 13.46 on 4 and 83 DF,  p-value: 1.689e-08
+",,,,,83,,,,,,,,,,,,,,,,,,,,,0.604636500655225,-1.35929260812487,2.56493637444134,84,42,42,0.13194,0.04772,-0.29662,0.55972,55.24851,53.71664,0.07433,0.54752,0.13073,0.04685,-0.2939,0.55458,55.20063,53.68264,0.54752,0.06662,0.01194,-0.14845,0.27253,0.54983,0.06672,0.01235,-0.14955,0.27959,1.27038,0.58391,2.75994,0.54752,0.23932,-0.53801,1.01521,0.54752,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,umich,1,1,1,1,1,1,88,13,83,88,88,0,100,"Execution
+legal 
+   88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.679230Z,7,Miyamoto,1,,unam,Secondary,Miyamoto.4,144,66,78,CapitalCon,Condition,66,,,,,,,,,,,,,,,,CapitalPro,Condition,78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.20185937583852,0.0293240435218714,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.3899  -3.0446   0.3716   2.6882   9.5863 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    5.05616    0.43134  11.722   <2e-16 ***
+Constraint                    -0.03906    0.15388  -0.254   0.8000    
+Moderator                     -0.29968    0.26898  -1.114   0.2671    
+ConditionCapitalPro            6.79212    0.59283  11.457   <2e-16 ***
+Moderator:ConditionCapitalPro  0.80105    0.36381   2.202   0.0293 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.452 on 139 degrees of freedom
+Multiple R-squared:  0.5053,	Adjusted R-squared:  0.491 
+F-statistic: 35.49 on 4 and 139 DF,  p-value: < 2.2e-16
+",,,,,139,,,,,,,,,,,,,,,,,,,,,2.20185937583852,0.221017260523875,4.17491713996043,140,70,70,0.37218,0.02907,0.03736,0.70569,64.51214,60.37912,0.20758,0.03072,0.37016,0.02875,0.03716,0.70185,64.43668,60.32389,0.03072,0.18423,0.00671,0.01881,0.33487,0.03086,0.18635,0.0073,0.01881,0.34831,1.96416,1.07011,3.59657,0.03072,0.67506,0.06776,1.27998,0.03072,,,,,,,,unam,unam,National Autonomous University of Mexico in Mexico City,"Anja Eller, Miguel-Ángel Freyre",ML2_Slate1_Spanish_execution_illegal__Mexico_unam_r.csv,DO.BR.FL_5,DO.BR.FL_6,Mexico,Spanish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,unam,1,1,1,1,1,1,144,13,128,144,144,0,0,"Execution
+illegal 
+    144 ","SubjectPool
+ No 
+144 ","Setting
+Online (at home) 
+             144 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            144 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      144 ","analysis.type
+Secondary 
+      144 ","subset
+all 
+144 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.804751Z,7,Miyamoto,1,,unibelgrade,Secondary,Miyamoto.4,81,38,43,CapitalCon,Condition,38,,,,,,,,,,,,,,,,CapitalPro,Condition,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,4.77515087062163,8.53828455823259e-06,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.1892 -2.1294 -0.1224  1.6115  8.1991 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.6479     0.5111   9.094 8.81e-14 ***
+Constraint                      0.2822     0.1841   1.533  0.12940    
+Moderator                      -0.9768     0.3029  -3.225  0.00186 ** 
+ConditionCapitalPro             6.0349     0.7007   8.613 7.37e-13 ***
+Moderator:ConditionCapitalPro   1.9546     0.4093   4.775 8.54e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.086 on 76 degrees of freedom
+Multiple R-squared:  0.588,	Adjusted R-squared:  0.5664 
+F-statistic: 27.12 on 4 and 76 DF,  p-value: 5.399e-14
+",,,,,76,,,,,,,,,,,,,,,,,,,,,4.77515087062163,2.66003410882318,6.86280122062218,77,38.5,38.5,1.08836,0.05964,0.60628,1.56418,86.17814,77.9227,0.55845,3e-05,1.07744,0.05845,0.60019,1.54848,85.93577,77.69293,3e-05,0.48285,0.00774,0.29362,0.62108,2e-05,0.5267,0.01351,0.30252,0.72676,7.19987,3.00316,17.06627,3e-05,1.97406,1.09967,2.8371,3e-05,,,,,,,,unibelgrade,unibelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate1_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate1,unibelgrade,1,1,1,1,1,1,81,13,76,81,81,0,0,"Execution
+   
+81 ","SubjectPool
+No 
+81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:53.910825Z,7,Miyamoto,1,,uva,Secondary,Miyamoto.4,86,41,45,CapitalCon,Condition,41,,,,,,,,,,,,,,,,CapitalPro,Condition,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.22814711224039,0.0286431423156805,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.2911 -2.2546 -0.0107  2.8340  6.3651 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                    4.88981    0.53599   9.123 4.54e-14 ***
+Constraint                     0.02239    0.19337   0.116   0.9081    
+Moderator                     -0.55499    0.37439  -1.482   0.1421    
+ConditionCapitalPro            6.17272    0.73715   8.374 1.38e-12 ***
+Moderator:ConditionCapitalPro  1.06031    0.47587   2.228   0.0286 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.259 on 81 degrees of freedom
+Multiple R-squared:  0.5013,	Adjusted R-squared:  0.4767 
+F-statistic: 20.36 on 4 and 81 DF,  p-value: 1.231e-11
+",,,,,81,,,,,,,,,,,,,,,,,,,,,2.22814711224039,0.231797261894271,4.21115310552628,82,41,41,0.49212,0.05026,0.0512,0.93009,68.86811,63.60717,0.27214,0.03105,0.48749,0.04932,0.05071,0.92134,68.70435,63.48421,0.03105,0.24173,0.01095,0.02591,0.42597,0.03129,0.24661,0.01266,0.02591,0.45496,2.44147,1.09731,5.40321,0.03105,0.8926,0.09286,1.68699,0.03105,,,,,,,,uva,uva,"University of Virginia, VA",Charles Ebersole,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uva,1,1,1,1,1,1,86,13,81,86,86,0,100,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.012970Z,7,Miyamoto,1,,vuamsterdam,Secondary,Miyamoto.4,95,46,49,CapitalCon,Condition,46,,,,,,,,,,,,,,,,CapitalPro,Condition,49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.07645465263125,0.284601058434436,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.9066 -2.4920 -0.6375  2.2472 10.4534 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.4816     0.5287   6.586 2.96e-09 ***
+Constraint                      0.2848     0.1850   1.540    0.127    
+Moderator                       0.2679     0.3313   0.809    0.421    
+ConditionCapitalPro             6.3666     0.7455   8.540 3.11e-13 ***
+Moderator:ConditionCapitalPro   0.4856     0.4511   1.076    0.285    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.45 on 90 degrees of freedom
+Multiple R-squared:  0.501,	Adjusted R-squared:  0.4788 
+F-statistic: 22.59 on 4 and 90 DF,  p-value: 6.105e-13
+",,,,,90,,,,,,,,,,,,,,,,,,,,,1.07645465263125,-0.892758082273637,3.03973184570877,91,45.5,45.5,0.22569,0.04424,-0.18717,0.6373,58.92773,56.33957,0.12679,0.28615,0.22378,0.04349,-0.18559,0.63192,58.85354,56.28644,0.28615,0.11337,0.01083,-0.09421,0.30668,0.28837,0.11386,0.01136,-0.09449,0.31688,1.50584,0.71213,3.177,0.28615,0.40935,-0.33949,1.15594,0.28615,,,,,,,,vuamsterdam,vuamsterdam,"Department of Experimental and Applied Psychology, VU Amsterdam, 1081BT, Amsterdam, The Netherlands","Josh Tybur, Paul van Lange",ML2_Slate1_Dutch_execution_illegal_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,vuamsterdam,1,1,1,1,1,1,95,13,90,95,95,0,100,"Execution
+illegal 
+     95 ","SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.139987Z,7,Miyamoto,1,,vuw,Secondary,Miyamoto.4,101,48,53,CapitalCon,Condition,48,,,,,,,,,,,,,,,,CapitalPro,Condition,53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.31504375569578,0.191627781896554,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.9169 -2.6624  0.1642  2.8952  8.3376 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.1053     0.5214   9.792 4.16e-16 ***
+Constraint                      0.0319     0.2008   0.159    0.874    
+Moderator                      -0.5700     0.3692  -1.544    0.126    
+ConditionCapitalPro             5.7552     0.7206   7.987 3.03e-12 ***
+Moderator:ConditionCapitalPro   0.6830     0.5194   1.315    0.192    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.587 on 96 degrees of freedom
+Multiple R-squared:  0.4184,	Adjusted R-squared:  0.3942 
+F-statistic: 17.27 on 4 and 96 DF,  p-value: 1.061e-10
+",,,,,96,,,,,,,,,,,,,,,,,,,,,1.31504375569578,-0.657095162923579,3.28040058362457,97,48.5,48.5,0.26704,0.0416,-0.13344,0.66615,60.52827,57.48867,0.14977,0.19362,0.26493,0.04095,-0.13238,0.66088,60.44687,57.43008,0.19362,0.13371,0.01005,-0.06726,0.31898,0.19533,0.13451,0.01064,-0.06737,0.33051,1.62315,0.78504,3.34765,0.19362,0.48437,-0.24203,1.20826,0.19362,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate1_New_ZealandEng_online_execution_illegal_DEPLOY__vuw_r.csv,DO.BR.FL_6,DO.BR.FL_7,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,vuw,1,1,1,1,1,1,101,13,99,101,101,0,100,"Execution
+illegal 
+    101 ","SubjectPool
+Yes 
+101 ","Setting
+Online (at home) 
+             101 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            101 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      101 ","analysis.type
+Secondary 
+      101 ","subset
+all 
+101 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.247511Z,7,Miyamoto,1,,washlee,Secondary,Miyamoto.4,95,44,51,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.31377692369138,0.0229575805693901,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.7322 -2.4636 -0.2527  2.6978  6.6639 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     5.5795     0.5205  10.720  < 2e-16 ***
+Constraint                      0.3727     0.1859   2.005    0.048 *  
+Moderator                      -0.4952     0.3365  -1.471    0.145    
+ConditionCapitalPro             4.6790     0.7104   6.586 2.95e-09 ***
+Moderator:ConditionCapitalPro   1.0691     0.4621   2.314    0.023 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.447 on 90 degrees of freedom
+Multiple R-squared:  0.3763,	Adjusted R-squared:  0.3485 
+F-statistic: 13.57 on 4 and 90 DF,  p-value: 1.068e-08
+",,,,,90,,,,,,,,,,,,,,,,,,,,,2.31377692369138,0.318718310944148,4.29635197515334,91,45.5,45.5,0.4851,0.04525,0.06682,0.90076,68.61971,63.42072,0.26841,0.02497,0.481,0.04449,0.06626,0.89315,68.47418,63.31163,0.02497,0.2382,0.00989,0.03376,0.41446,0.0251,0.24287,0.01136,0.03378,0.44098,2.41059,1.12885,5.1233,0.02497,0.87987,0.1212,1.6338,0.02497,,,,,,,,washlee,washlee,"Department of Psychology, Washington and Lee University, Lexington, VA 24450",Julie A. Woodzicka,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,washlee,1,1,1,1,1,1,95,13,90,95,95,0,100,"Execution
+legal 
+   95 ","SubjectPool
+No 
+95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.342408Z,7,Miyamoto,1,,wilfredlaur,Secondary,Miyamoto.4,88,45,43,CapitalCon,Condition,45,,,,,,,,,,,,,,,,CapitalPro,Condition,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,3.30971292287059,0.00138317790066176,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.1199 -2.0067 -0.1867  1.9658  7.5382 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.2360     0.4604   9.201 2.58e-14 ***
+Constraint                      0.1069     0.1682   0.635  0.52697    
+Moderator                      -0.8480     0.3296  -2.573  0.01187 *  
+ConditionCapitalPro             7.1283     0.6593  10.812  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.5184     0.4588   3.310  0.00138 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.059 on 83 degrees of freedom
+Multiple R-squared:  0.6104,	Adjusted R-squared:  0.5917 
+F-statistic: 32.51 on 4 and 83 DF,  p-value: 2.69e-16
+",,,,,83,,,,,,,,,,,,,,,,,,,,,3.30971292287059,1.27693640593144,5.32375470366639,84,42,42,0.72224,0.05072,0.27865,1.16174,76.49261,69.52194,0.39044,0.00191,0.71561,0.0498,0.27609,1.15108,76.28847,69.35768,0.00191,0.34329,0.00938,0.13963,0.50681,0.00184,0.35781,0.01235,0.14055,0.55843,3.70616,1.65767,8.22485,0.00191,1.31,0.50542,2.10716,0.00191,,,,,,,,wilfredlaur,wilfredlaur,"Wilfrid Laurier University, Waterloo, Ontario, Canada","Grant Packard, Tripat Gill",ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY__pencilpapercritcher_wilfredlaur_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",illegal,Slate1,wilfredlaur,1,1,1,1,1,1,88,13,81,88,88,0,100,"Execution
+illegal 
+     88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.454052Z,7,Miyamoto,1,,williampat,Secondary,Miyamoto.4,123,59,64,CapitalCon,Condition,59,,,,,,,,,,,,,,,,CapitalPro,Condition,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,1.75254175361857,0.0822780928588049,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-10.998  -2.948   0.002   2.629  10.681 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.6730     0.5041   9.270 1.07e-15 ***
+Constraint                     -0.1298     0.1765  -0.735   0.4635    
+Moderator                      -0.1854     0.2946  -0.629   0.5303    
+ConditionCapitalPro             7.3255     0.6993  10.475  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.7695     0.4391   1.753   0.0823 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.868 on 118 degrees of freedom
+Multiple R-squared:  0.4895,	Adjusted R-squared:  0.4722 
+F-statistic: 28.29 on 4 and 118 DF,  p-value: < 2.2e-16
+",,,,,118,,,,,,,,,,,,,,,,,,,,,1.75254175361857,-0.223771698465528,3.72152768456538,119,59.5,59.5,0.32131,0.03405,-0.04103,0.6823,62.60124,58.98662,0.17973,0.08425,0.31925,0.03361,-0.04076,0.67792,62.52302,58.92987,0.08425,0.15994,0.00805,-0.02068,0.32534,0.08493,0.16132,0.00862,-0.02069,0.33761,1.79103,0.92829,3.4472,0.08425,0.58279,-0.07441,1.23756,0.08425,,,,,,,,williampat,williampat,"William Paterson University, Wayne, NJ",Elizabeth Haines,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,williampat,1,1,1,1,1,1,123,13,112,123,123,0,100,"Execution
+legal 
+  123 ","SubjectPool
+Yes 
+123 ","Setting
+In a lab 
+     123 ","Tablet
+Computers 
+      123 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      123 ","analysis.type
+Secondary 
+      123 ","subset
+all 
+123 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.576263Z,7,Miyamoto,1,,winchester,Secondary,Miyamoto.4,142,65,77,CapitalCon,Condition,65,,,,,,,,,,,,,,,,CapitalPro,Condition,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,2.61418406806657,0.00994468771898932,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.2175 -1.9696 -0.4894  1.8468  9.1843 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.1045     0.3919  10.473  < 2e-16 ***
+Constraint                      0.5023     0.1517   3.310  0.00119 ** 
+Moderator                      -0.6184     0.2606  -2.373  0.01901 *  
+ConditionCapitalPro             7.0721     0.5316  13.303  < 2e-16 ***
+Moderator:ConditionCapitalPro   0.9124     0.3490   2.614  0.00994 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.13 on 137 degrees of freedom
+Multiple R-squared:  0.5936,	Adjusted R-squared:  0.5818 
+F-statistic: 50.03 on 4 and 137 DF,  p-value: < 2.2e-16
+",,,,,137,,,,,,,,,,,,,,,,,,,,,2.61418406806657,0.625316805041591,4.59373961094823,138,69,69,0.44507,0.0297,0.10646,0.78209,67.18648,62.35094,0.24702,0.01087,0.44261,0.02938,0.10587,0.77777,67.09758,62.2849,0.01087,0.21874,0.00662,0.05354,0.3665,0.01084,0.22233,0.00741,0.05359,0.38437,2.24177,1.213,4.13115,0.01087,0.80726,0.1931,1.41855,0.01087,,,,,,,,winchester,winchester,"University of Winchester, Winchester, Hampshire, England","Manuela Thomae, Michael Wood",ML2_Slate1_Inlab_execution_illegal_DEPLOY__UK_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,winchester,1,1,1,1,1,1,142,13,132,142,142,0,100,"Execution
+illegal 
+    142 ","SubjectPool
+Yes 
+142 ","Setting
+In a lab 
+     142 ","Tablet
+Computers 
+      142 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      142 ","analysis.type
+Secondary 
+      142 ","subset
+all 
+142 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.674463Z,7,Miyamoto,1,,wpi,Secondary,Miyamoto.4,86,41,45,CapitalCon,Condition,41,,,,,,,,,,,,,,,,CapitalPro,Condition,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.347100365440232,0.729416130658001,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.3737 -2.1566 -0.1497  2.2766  9.4743 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.2710     0.5097   8.379 1.34e-12 ***
+Constraint                      0.3770     0.1697   2.222   0.0291 *  
+Moderator                      -0.2462     0.3153  -0.781   0.4372    
+ConditionCapitalPro             6.3745     0.7042   9.052 6.28e-14 ***
+Moderator:ConditionCapitalPro   0.1497     0.4312   0.347   0.7294    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.12 on 81 degrees of freedom
+Multiple R-squared:  0.5416,	Adjusted R-squared:  0.519 
+F-statistic: 23.93 on 4 and 81 DF,  p-value: 4.365e-13
+",,,,,81,,,,,,,,,,,,,,,,,,,,,0.347100365440232,-1.61465889189938,2.30672188924949,82,41,41,0.07666,0.04882,-0.35662,0.50947,53.05536,52.16153,0.04323,0.72952,0.07594,0.0479,-0.35326,0.50468,53.02669,52.14122,0.72952,0.03878,0.01231,-0.17765,0.24973,0.73112,0.0388,0.01266,-0.17956,0.25512,1.14918,0.5237,2.51954,0.72952,0.13905,-0.64683,0.92408,0.72952,,,,,,,,wpi,wpi,"Social Science and Policy Studies Department, Worcester Polytechnic Institute, Worcester, MA 01609","Jeanine L. M. Skorinko, Melissa-Sue John",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,wpi,1,1,1,1,1,1,86,13,80,86,86,0,100,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.779841Z,7,Miyamoto,1,,wroclaw,Secondary,Miyamoto.4,97,49,48,CapitalCon,Condition,49,,,,,,,,,,,,,,,,CapitalPro,Condition,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,4.53046666892023,1.76356850541972e-05,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.8199 -1.8323 -0.4671  1.9895 10.9819 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     3.0937     0.4600   6.726 1.45e-09 ***
+Constraint                      0.2948     0.1678   1.757  0.08220 .  
+Moderator                      -0.7019     0.2441  -2.875  0.00501 ** 
+ConditionCapitalPro             7.7215     0.6749  11.442  < 2e-16 ***
+Moderator:ConditionCapitalPro   1.5689     0.3463   4.530 1.76e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.111 on 92 degrees of freedom
+Multiple R-squared:  0.6329,	Adjusted R-squared:  0.6169 
+F-statistic: 39.65 on 4 and 92 DF,  p-value: < 2.2e-16
+",,,,,92,,,,,,,,,,,,,,,,,,,,,4.53046666892023,2.45323939387188,6.58545336897617,93,46.5,46.5,0.93958,0.04776,0.50878,1.36576,82.62822,74.67764,0.49355,4e-05,0.93181,0.04697,0.50457,1.35447,82.42826,74.50165,4e-05,0.429,0.00724,0.24907,0.56812,4e-05,0.45867,0.01111,0.25442,0.64474,5.49699,2.51638,11.90804,4e-05,1.7042,0.92282,2.47721,4e-05,,,,,,,,wroclaw,wroclaw,"University of Social Sciences and Humanities, Wroclaw, Poland","Katarzyna Cantarero, Agata Sobków, Jakub Traczyk",ML2_Slate1_Polish_execution_illegal__Wroclaw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,wroclaw,1,1,1,1,1,1,97,13,92,97,97,0,100,"Execution
+illegal 
+     97 ","SubjectPool
+Yes 
+ 97 ","Setting
+In a lab 
+      97 ","Tablet
+Computers 
+       97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:49:54.875386Z,7,Miyamoto,1,,zhejiang,Secondary,Miyamoto.4,86,44,42,CapitalCon,Condition,44,,,,,,,,,,,,,,,,CapitalPro,Condition,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,0.798793428435549,0.426746205333436,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Moderator * Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-7.6870 -3.2686 -0.2849  2.3931  9.6565 
+
+Coefficients:
+                              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     4.6483     0.6002   7.745 2.39e-11 ***
+Constraint                      0.1749     0.2569   0.681    0.498    
+Moderator                       0.5314     0.4744   1.120    0.266    
+ConditionCapitalPro             6.2689     0.8614   7.278 1.95e-10 ***
+Moderator:ConditionCapitalPro   0.5665     0.7091   0.799    0.427    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.932 on 81 degrees of freedom
+Multiple R-squared:  0.4578,	Adjusted R-squared:  0.4311 
+F-statistic:  17.1 on 4 and 81 DF,  p-value: 3.334e-10
+",,,,,81,,,,,,,,,,,,,,,,,,,,,0.798793428435549,-1.16746702420949,2.76014914431111,82,41,41,0.17642,0.04897,-0.25785,0.60961,57.00196,54.96395,0.09928,0.42767,0.17476,0.04805,-0.25543,0.60388,56.93678,54.9175,0.42767,0.08895,0.01215,-0.12943,0.29487,0.43028,0.08919,0.01266,-0.13016,0.30389,1.37712,0.62645,3.0214,0.42767,0.32,-0.46769,1.10572,0.42767,,,,,,,,zhejiang,zhejiang,"Shanghai International Studies University, SISU Intercultural Institute, Shanghai, China",Alex English,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,Yes,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,zhejiang,1,1,1,1,1,1,86,13,80,86,86,0,0,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+Other (please indicate) 
+                     86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

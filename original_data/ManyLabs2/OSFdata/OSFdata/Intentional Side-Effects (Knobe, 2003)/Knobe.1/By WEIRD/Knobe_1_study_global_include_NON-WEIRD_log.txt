@@ -1,0 +1,15 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~KNOBE.1~~~~~~~
+	# 79 Knobe.1 - START
+
+	# 
+	# 79 Knobe.1 - all: var.equal set to: FALSE
+	# 
+	# 79 Knobe.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

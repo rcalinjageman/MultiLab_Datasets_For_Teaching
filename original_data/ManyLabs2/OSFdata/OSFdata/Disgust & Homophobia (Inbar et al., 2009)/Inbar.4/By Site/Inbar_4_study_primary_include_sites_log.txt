@@ -1,0 +1,235 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~INBAR.4~~~~~~~
+	# 35 Inbar.4 - START
+
+	# 
+	# 35 Inbar.4 - aus not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - aus not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - badaniaon: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - bc: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - bc >> ES r is close to 0:  0.04
+	# 
+	# 35 Inbar.4 - bilgi: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - brasilia: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - cas: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - castab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - doshisha: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - eindhoven: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - elte: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - eltetab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - grazvienna: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - grazvienna >> ES r is close to 0:  0.03
+	# 
+	# 35 Inbar.4 - hawaiion: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - hkust: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - hunancomp: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - hunancomp >> ES r is close to 0:  0.01
+	# 
+	# 35 Inbar.4 - ithaca: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - johannesburg: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - koc: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - lausanne: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - lausanne >> ES r is close to 0:  0.02
+	# 
+	# 35 Inbar.4 - leuven: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - leuven >> ES r is close to 0:  0
+	# 
+	# 35 Inbar.4 - lundon: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - lundon >> ES r is close to 0:  -0.01
+	# 
+	# 35 Inbar.4 - marian: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 35 Inbar.4 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 35 Inbar.4 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 35 Inbar.4 - mturk: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - mturk >> ES r is close to 0:  0.05
+	# 
+	# 35 Inbar.4 - mturk_india: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - navarra: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - ntnu: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - ntnu >> ES r is close to 0:  -0.01
+	# 
+	# 35 Inbar.4 - ntnutab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - occid: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - occidtab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - ouhktab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - plu: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - poitiers: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - potsdam: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - potsdam >> ES r is close to 0:  -0.05
+	# 
+	# 35 Inbar.4 - pscio: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - psuabington: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - psumain: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - purkyne: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - purkyne >> ES r is close to 0:  -0.02
+	# 
+	# 35 Inbar.4 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - sandiegosu >> ES r is close to 0:  -0.05
+	# 
+	# 35 Inbar.4 - santiagoon: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - swps: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - tamu: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - tilburg: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - tilburg >> ES r is close to 0:  -0.04
+	# 
+	# 35 Inbar.4 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - tilburgcomm: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - toronto: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - toronto >> ES r is close to 0:  0.01
+	# 
+	# 35 Inbar.4 - tufts: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - tufts >> ES r is close to 0:  -0.04
+	# 
+	# 35 Inbar.4 - ubc: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - ubctab: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - ucron: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - udd: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - udd >> ES r is close to 0:  -0.04
+	# 
+	# 35 Inbar.4 - ufl: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - uiuc: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - uiuc >> ES r is close to 0:  -0.01
+	# 
+	# 35 Inbar.4 - umich: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - umich >> ES r is close to 0:  0.01
+	# 
+	# 35 Inbar.4 - unam: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - unam >> ES r is close to 0:  0.03
+	# 
+	# 35 Inbar.4 - unibelgrade: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - uniporto: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - uva: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - vuamsterdam: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - vuw: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - vuw >> ES r is close to 0:  -0.01
+	# 
+	# 35 Inbar.4 - washlee: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - williampat: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - williampat >> ES r is close to 0:  0.01
+	# 
+	# 35 Inbar.4 - winchester: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - wpi: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - wpi >> ES r is close to 0:  -0.03
+	# 
+	# 35 Inbar.4 - wroclaw: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - zhejiang: var.equal set to: TRUE
+	# 
+	# 35 Inbar.4 - zhejiang >> ES r is close to 0:  0.03
+	# 
+	# 35 Inbar.4 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

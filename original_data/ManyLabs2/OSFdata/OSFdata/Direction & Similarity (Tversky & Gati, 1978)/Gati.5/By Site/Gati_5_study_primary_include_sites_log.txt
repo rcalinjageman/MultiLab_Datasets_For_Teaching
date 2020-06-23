@@ -1,0 +1,451 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.5~~~~~~~
+	# 87 Gati.5 - START
+
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - amity >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - amity not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - armstrong >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - armstrong not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - aus2 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - aus2 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - bogota >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - bogota not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - brookcuny >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - brookcuny not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - carleton >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - carleton not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - csunorthonline >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - csunorthonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - fmkbelgrade >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - fmkbelgrade not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - georgefox >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - georgefox not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - grazvienna >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - grazvienna not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - hawaiion >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - hawaiion not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - help >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - help not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - isb >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - isb not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - jmu >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - jmu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - jos >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - kenyon >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - kenyon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - krakowon >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - krakowon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - kwazulu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - louvain >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - louvain not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - loyola >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - loyola not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - lse >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - lse not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - mcdanielonline >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - mcdanielonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - metu >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - metu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - moralsense >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - moralsense not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - mturk >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - mturk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - mturk_india >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - mturk_india not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - munich >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - munich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - munichon >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - munichon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - northumbria >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - northumbria not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - osnabruck >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - osnabruck not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - ouhk >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - padua >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - padua not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - pascal >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - pascal not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - psualtoona >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - psualtoona not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - puc >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - puc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - queensland2 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - queensland2 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - ritonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - rotterdam >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - rotterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - salford >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - salford not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - seznam >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - seznam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - seznamon >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - seznamon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - simmons >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - simmons not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - swps >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - swps not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - tamu >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - tamu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - tamucc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 87 Gati.5 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 87 Gati.5 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - tilburg >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - tilburg not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - tilburgcaf >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - tilburgcaf not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - ulatina >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - ulatina not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - umich >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - umich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - uned >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - uned not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - unswonline >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - unswonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - vcu >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - vcu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - vuw >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - vuw not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - westernkentucky >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - westernkentucky not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - yale >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - yale not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

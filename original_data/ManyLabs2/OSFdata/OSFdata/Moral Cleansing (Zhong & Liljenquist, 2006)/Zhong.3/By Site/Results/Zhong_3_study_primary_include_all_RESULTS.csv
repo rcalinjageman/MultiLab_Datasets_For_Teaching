@@ -1,0 +1,1249 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:09:18.640808Z,23,Zhong,2,,amity,Secondary,Zhong.3,146,70,76,Ethical,as.numeric.ignore.,70,,,,,3.89428571428571,1.07983972432382,3.8,3.90714285714286,0.600000000000001,1,6.4,5.4,-0.171863536589608,3.39564839911419,0.129065533200759,Unethical,as.numeric.ignore.,76,,,,,3.71578947368421,0.913462662120198,3.8,3.74193548387097,0.4,1,5.4,4.4,-0.44968321430808,3.7078507553496,0.104781353496831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.89428571428571,3.71578947368421,1.08109243700022,0.28146320706199,144,-0.147850708505246,0.504843189708253, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.0811, df = 144, p-value = 0.2815
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1478507  0.5048432
+sample estimates:
+mean of x mean of y 
+ 3.894286  3.715789 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.08109243700022,-0.884705622958684,3.04315438554174,146,70,76,0.17909,0.02755,-0.14656,0.50413,57.10684,55.0387,0.10077,0.28242,0.17816,0.02727,-0.1458,0.5015,57.07016,55.01256,0.28242,0.08973,0.00679,-0.07353,0.24582,0.28378,0.08997,0.00699,-0.07366,0.25095,1.38381,0.76657,2.49527,0.28242,0.32484,-0.26583,0.9144,0.28242,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,146,15,89,146,146,0,0,< table of extent 0 >,"SubjectPool
+ No 
+146 ","Setting
+In a lab 
+     146 ","Tablet
+Computers 
+      146 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      146 ","analysis.type
+Secondary 
+      146 ","subset
+all 
+146 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:18.787571Z,23,Zhong,2,,amityon,Secondary,Zhong.3,40,22,18,Ethical,as.numeric.ignore.,22,,,,,4.18181818181818,1.19348882877704,4.5,4.2,0.7,1.8,6.2,4.4,-0.40780931513564,2.32703390345993,0.254452673257683,Unethical,as.numeric.ignore.,18,,,,,4.04444444444444,0.997775303139718,4,4.1125,0.6,1.4,5.6,4.2,-0.644577703687694,4.02363335039898,0.235177894316853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.18181818181818,4.04444444444444,0.389329918016031,0.699205470609219,38,-0.576926857944803,0.851674332692278, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.38933, df = 38, p-value = 0.6992
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5769269  0.8516743
+sample estimates:
+mean of x mean of y 
+ 4.181818  4.044444 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.389329918016031,-1.5751224103879,2.34868662708849,40,22,18,0.12374,0.1012,-0.50061,0.74646,54.92383,53.48611,0.06972,0.69948,0.12128,0.09722,-0.49066,0.73163,54.82649,53.41702,0.69948,0.06303,0.02544,-0.24756,0.35604,0.70318,0.06312,0.02703,-0.25282,0.37234,1.25161,0.40333,3.87262,0.69948,0.22443,-0.908,1.35393,0.69948,,,,,,,,amityon,amityon,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amityon,1,1,1,1,1,1,40,14,34,40,40,0,0,< table of extent 0 >,"SubjectPool
+No 
+40 ","Setting
+Online (at home) 
+              40 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:18.899062Z,23,Zhong,2,,armstrong,Secondary,Zhong.3,81,35,46,Ethical,as.numeric.ignore.,35,,,,,2.84,0.89941157234638,3,2.86206896551724,0.6,1,4.4,3.4,-0.243411149290277,2.27513307282228,0.152028303424122,Unethical,as.numeric.ignore.,46,,,,,2.70434782608696,0.892177491493987,2.6,2.6421052631579,0.6,1,5,4,0.624618564541079,3.32922590998763,0.131544394583242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.84,2.70434782608696,0.675506518135244,0.501326554324493,79,-0.264061064722698,0.535365412548784, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.67551, df = 79, p-value = 0.5013
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2640611  0.5353654
+sample estimates:
+mean of x mean of y 
+ 2.840000  2.704348 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.675506518135244,-1.28940504006407,2.63616127714879,81,35,46,0.15152,0.05045,-0.28921,0.59129,56.02157,54.26603,0.08532,0.50193,0.15007,0.0495,-0.28646,0.58566,55.96466,54.22555,0.50193,0.07578,0.01236,-0.14357,0.28435,0.50445,0.07593,0.01282,-0.14457,0.29241,1.31629,0.59181,2.92263,0.50193,0.27482,-0.52458,1.07248,0.50193,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,81,15,59,81,81,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.047251Z,23,Zhong,2,,aus2,Secondary,Zhong.3,174,71,103,Ethical,as.numeric.ignore.,71,,,,,3.55211267605634,1.20686833876887,3.6,3.56491228070175,0.8,1,6,5,-0.079954907452676,2.45805153326786,0.143228920830578,Unethical,as.numeric.ignore.,103,,,,,3.39611650485437,1.04711764326773,3.4,3.3710843373494,0.8,1.4,5.6,4.2,0.137079400957397,2.45533532216632,0.103175567159409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.55211267605634,3.39611650485437,0.907093204509576,0.365626580384337,172,-0.183454482191821,0.49544682459576, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.90709, df = 172, p-value = 0.3656
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1834545  0.4954468
+sample estimates:
+mean of x mean of y 
+ 3.552113  3.396117 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.907093204509576,-1.05652449913602,2.86808190782295,174,71,103,0.13992,0.02385,-0.16297,0.4424,55.56383,53.94063,0.07881,0.36619,0.13931,0.02364,-0.16226,0.44047,55.53969,53.92348,0.36619,0.069,0.00573,-0.0803,0.21364,0.3674,0.06911,0.00585,-0.08047,0.21698,1.2889,0.74409,2.23096,0.36619,0.25379,-0.29559,0.80243,0.36619,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,174,15,99,174,174,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+174 ","Setting
+In a lab 
+     174 ","Tablet
+Computers 
+      174 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      174 ","analysis.type
+Secondary 
+      174 ","subset
+all 
+174 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.194160Z,23,Zhong,2,,brookcuny,Secondary,Zhong.3,163,87,76,Ethical,as.numeric.ignore.,87,,,,,2.83218390804598,0.882319123419634,2.8,2.82535211267606,0.6,1.2,5,3.8,0.0421751009301462,2.18210731130542,0.0945945391945285,Unethical,as.numeric.ignore.,76,,,,,2.75789473684211,0.988097587339056,2.6,2.74193548387097,0.8,1,5.4,4.4,0.250530780607352,2.58620705696747,0.11334256656756,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.83218390804598,2.75789473684211,0.50707892330733,0.612793271897454,161,-0.215028427457241,0.363606769864985, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.50708, df = 161, p-value = 0.6128
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2150284  0.3636068
+sample estimates:
+mean of x mean of y 
+ 2.832184  2.757895 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.50707892330733,-1.45445241661544,2.46703790802437,163,87,76,0.07962,0.02467,-0.22836,0.38735,53.17289,52.24475,0.0449,0.61293,0.07925,0.02444,-0.2273,0.38554,53.15811,52.23429,0.61293,0.03993,0.00615,-0.11388,0.19086,0.61399,0.03995,0.00625,-0.11438,0.19323,1.15536,0.66086,2.01894,0.61293,0.14441,-0.41421,0.70257,0.61293,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,163,15,85,163,163,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+163 ","Setting
+Online (at home) 
+             163 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            163 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      163 ","analysis.type
+Secondary 
+      163 ","subset
+all 
+163 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.338684Z,23,Zhong,2,,carleton,Secondary,Zhong.3,106,54,52,Ethical,as.numeric.ignore.,54,,,,,2.73333333333333,0.880822942823229,2.8,2.68636363636364,0.6,1.2,5.4,4.2,0.589479435200692,3.38401035594786,0.119864820202977,Unethical,as.numeric.ignore.,52,,,,,2.67307692307692,0.973394179796107,2.6,2.62380952380952,0.6,1,5.4,4.4,0.51010857371146,3.34950081420321,0.134985485634349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.73333333333333,2.67307692307692,0.334421388762264,0.738735075610582,104,-0.297049452242131,0.417562272754952, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.33442, df = 104, p-value = 0.7387
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2970495  0.4175623
+sample estimates:
+mean of x mean of y 
+ 2.733333  2.673077 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.334421388762264,-1.62687068425778,2.29410844222933,106,54,52,0.06498,0.03777,-0.31609,0.44573,52.59032,51.83228,0.03665,0.7388,0.06451,0.03723,-0.3138,0.4425,52.57162,51.81904,0.7388,0.03278,0.0095,-0.15754,0.21947,0.73999,0.03279,0.00971,-0.15886,0.2231,1.12508,0.56365,2.24444,0.7388,0.11785,-0.57332,0.80846,0.7388,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,106,15,74,106,106,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+Online (at home) 
+             106 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.452972Z,23,Zhong,2,,cas,Secondary,Zhong.3,47,20,27,Ethical,as.numeric.ignore.,20,,,,,3.86,1.27006008975125,4.1,3.8625,0.8,1.6,6.2,4.6,-0.112626507410857,2.18303981429982,0.283994069619327,Unethical,as.numeric.ignore.,27,,,,,3.93333333333333,1.33012434352235,4,3.94782608695652,0.8,1.2,7,5.8,-0.182006048506922,3.18546238185255,0.255982549262768,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.86,3.93333333333333,-0.1904606316718,0.849804830327536,45,-0.848826483220143,0.702159816553476, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.19046, df = 45, p-value = 0.8498
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8488265  0.7021598
+sample estimates:
+mean of x mean of y 
+ 3.860000  3.933333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.1904606316718,-2.14976266302781,1.77095077655066,47,20,27,-0.05619,0.08707,-0.63422,0.52247,47.75953,48.41533,-0.03169,0.84983,-0.05525,0.08418,-0.62359,0.51371,47.79704,48.44188,0.84983,-0.02838,0.0217,-0.30518,0.25525,0.85148,-0.02839,0.02273,-0.31522,0.26102,0.9031,0.31652,2.57964,0.84983,-0.10192,-1.15035,0.94765,0.84983,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate2_Simplified_Chinese_Mainland_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,cas,1,1,1,1,1,1,47,15,42,47,47,0,0,< table of extent 0 >,"SubjectPool
+No 
+47 ","Setting
+In a lab 
+      47 ","Tablet
+Computers 
+       47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.558637Z,23,Zhong,2,,csunorthonline,Secondary,Zhong.3,85,42,43,Ethical,as.numeric.ignore.,42,,,,,2.85714285714286,0.84770647737115,3,2.89411764705882,0.6,1,4.2,3.2,-0.372278316206543,2.27499050568726,0.130803949242933,Unethical,as.numeric.ignore.,43,,,,,2.81395348837209,0.944553660112955,2.6,2.75428571428571,0.6,1.4,5.8,4.4,0.807985016520452,3.68350157480818,0.144043082769655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.85714285714286,2.81395348837209,0.221687063019327,0.825102027318433,83,-0.344302423696683,0.430681161238211, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.22169, df = 83, p-value = 0.8251
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3443024  0.4306812
+sample estimates:
+mean of x mean of y 
+ 2.857143  2.813953 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.221687063019327,-1.73923267362532,2.18127374155917,85,42,43,0.04809,0.04708,-0.37732,0.47322,51.91793,51.35645,0.02713,0.82513,0.04766,0.04623,-0.3739,0.46893,51.90056,51.34416,0.82513,0.02433,0.01189,-0.18752,0.23285,0.82616,0.02433,0.0122,-0.18976,0.2372,1.09115,0.5044,2.3592,0.82513,0.08723,-0.68438,0.85832,0.82513,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,85,15,59,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+Online (at home) 
+              85 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.701969Z,23,Zhong,2,,fmkbelgrade,Secondary,Zhong.3,103,45,58,Ethical,as.numeric.ignore.,45,,,,,3.18222222222222,1.09030623072955,3,3.1027027027027,0.6,1.4,6,4.6,0.694102486836773,2.65614581563044,0.162533256546856,Unethical,as.numeric.ignore.,58,,,,,2.86551724137931,1.09312873419469,2.8,2.8125,0.8,1,5.8,4.8,0.448022959960989,2.55856084950167,0.143534834743568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.18222222222222,2.86551724137931,1.46006993652749,0.147374456747457,101,-0.113587756217848,0.746997717903672, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.4601, df = 101, p-value = 0.1474
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1135878  0.7469977
+sample estimates:
+mean of x mean of y 
+ 3.182222  2.865517 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.46006993652749,-0.513757207334011,3.42674974301763,103,45,58,0.29005,0.03987,-0.10206,0.68074,61.41108,58.12514,0.1625,0.14944,0.28789,0.03928,-0.1013,0.67567,61.32846,58.06549,0.14944,0.14377,0.0094,-0.05105,0.32273,0.15078,0.14478,0.01,-0.0511,0.33469,1.6923,0.83101,3.43743,0.14944,0.52609,-0.18512,1.23472,0.14944,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,103,15,66,103,103,0,0,< table of extent 0 >,"SubjectPool
+ No 
+103 ","Setting
+In a lab 
+     103 ","Tablet
+Computers 
+      103 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      103 ","analysis.type
+Secondary 
+      103 ","subset
+all 
+103 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.808500Z,23,Zhong,2,,georgefox,Secondary,Zhong.3,126,66,60,Ethical,as.numeric.ignore.,66,,,,,2.91818181818182,0.866453264025971,2.9,2.88888888888889,0.7,1.4,5.4,4,0.449331995164358,3.09326577934619,0.106653024132866,Unethical,as.numeric.ignore.,60,,,,,2.80333333333333,0.94060324434739,2.8,2.775,0.6,1,5,4,0.21816479452279,2.64292859225571,0.121431356691537,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.91818181818182,2.80333333333333,0.713416399896942,0.47692867956782,124,-0.203783554610709,0.433480524307678, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.71342, df = 124, p-value = 0.4769
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2037836  0.4334805
+sample estimates:
+mean of x mean of y 
+ 2.918182  2.803333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.713416399896942,-1.24998775489326,2.67395239597615,126,66,60,0.12726,0.03188,-0.22297,0.47697,55.06314,53.58501,0.0717,0.47737,0.12649,0.0315,-0.22162,0.47408,55.03262,53.56334,0.47737,0.06394,0.00793,-0.11155,0.23349,0.47901,0.06402,0.00813,-0.11202,0.23788,1.25963,0.66736,2.37531,0.47737,0.23082,-0.40442,0.86513,0.47737,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,126,15,82,126,126,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+126 ","Setting
+Online (at home) 
+             126 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            126 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      126 ","analysis.type
+Secondary 
+      126 ","subset
+all 
+126 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:19.941448Z,23,Zhong,2,,grazvienna,Secondary,Zhong.3,98,57,41,Ethical,as.numeric.ignore.,57,,,,,3.73333333333333,1.03048763306736,3.8,3.74893617021277,0.8,1,6.4,5.4,-0.180998088759699,3.16381005047357,0.136491421355308,Unethical,as.numeric.ignore.,41,,,,,3.40487804878049,0.933260740498655,3.4,3.40606060606061,0.6,1,5.4,4.4,-0.0694332444615236,2.93059691542711,0.145750840666621,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.73333333333333,3.40487804878049,1.61830075823459,0.108878816814504,96,-0.0744232184426598,0.731333787548351, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.6183, df = 96, p-value = 0.1089
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.07442322  0.73133379
+sample estimates:
+mean of x mean of y 
+ 3.733333  3.404878 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.61830075823459,-0.359105153044301,3.58739684504865,98,57,41,0.33139,0.04249,-0.07354,0.73462,62.98261,59.26356,0.18527,0.11121,0.3288,0.04183,-0.07296,0.72887,62.88454,59.1923,0.11121,0.16296,0.00977,-0.03663,0.34382,0.1123,0.16443,0.01053,-0.03664,0.35841,1.82409,0.87513,3.79033,0.11121,0.60108,-0.13338,1.33245,0.11121,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,126,15,82,126,126,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+126 ","Setting
+Online (at home) 
+             126 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            126 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      126 ","analysis.type
+Secondary 
+      126 ","subset
+all 
+126 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.053963Z,23,Zhong,2,,hawaiion,Secondary,Zhong.3,108,54,54,Ethical,as.numeric.ignore.,54,,,,,2.61111111111111,1.01566349104614,2.6,2.55454545454545,0.8,1,5.6,4.6,0.486456154579776,3.00264679639935,0.138214294635381,Unethical,as.numeric.ignore.,54,,,,,2.78888888888889,0.930341115502786,2.8,2.74545454545455,0.6,1,5.8,4.8,0.566904236479102,3.96778512686058,0.126603389984085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.61111111111111,2.78888888888889,-0.94848059316921,0.345042242543187,106,-0.549384469536518,0.193828913980962, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.94848, df = 106, p-value = 0.345
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5493845  0.1938289
+sample estimates:
+mean of x mean of y 
+ 2.611111  2.788889 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.94848059316921,-2.9103635289853,1.01785302279247,108,54,54,-0.18254,0.03719,-0.5601,0.19589,42.75814,44.86504,-0.1027,0.34604,-0.18124,0.03667,-0.55613,0.1945,42.80894,44.90126,0.34604,-0.09174,0.00919,-0.27202,0.09838,0.348,-0.09199,0.00952,-0.27904,0.0987,0.71815,0.36207,1.42661,0.34604,-0.33108,-1.01591,0.3553,0.34604,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,108,15,68,108,108,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+108 ","Setting
+Online (at home) 
+             108 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            108 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      108 ","analysis.type
+Secondary 
+      108 ","subset
+all 
+108 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.162961Z,23,Zhong,2,,help,Secondary,Zhong.3,87,40,47,Ethical,as.numeric.ignore.,40,,,,,3.44,1.1907334520564,3.3,3.36875,0.9,1.4,6,4.6,0.414213724106347,2.4150993441358,0.188271489732657,Unethical,as.numeric.ignore.,47,,,,,3.45957446808511,0.99206845277235,3.6,3.46153846153846,0.6,1.6,6,4.4,-0.000479735427849339,2.87877336758892,0.144708056428968,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.44,3.45957446808511,-0.0836539112441598,0.933528302384608,85,-0.484816153987412,0.445667217817198, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.083654, df = 85, p-value = 0.9335
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4848162  0.4456672
+sample estimates:
+mean of x mean of y 
+ 3.440000  3.459574 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0836539112441598,-2.04341245263166,1.8765959494158,87,40,47,-0.018,0.04628,-0.43958,0.40369,49.28212,49.49237,-0.01015,0.93353,-0.01784,0.04546,-0.43569,0.40012,49.28847,49.49686,0.93353,-0.00907,0.01163,-0.21639,0.19946,0.93392,-0.00907,0.0119,-0.21986,0.20217,0.96789,0.45054,2.07969,0.93353,-0.03264,-0.79731,0.73222,0.93353,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,87,14,61,87,87,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.312580Z,23,Zhong,2,,isb,Secondary,Zhong.3,104,49,55,Ethical,as.numeric.ignore.,49,,,,,3.95102040816327,1.07666972051546,4,3.94146341463415,1,1.8,6.2,4.4,0.00522465202529548,2.08319642279543,0.153809960073637,Unethical,as.numeric.ignore.,55,,,,,4.05090909090909,1.2160763754147,4,4.08444444444444,0.8,1,6.4,5.4,-0.22642214543278,2.51680436949222,0.163975705009878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.95102040816327,4.05090909090909,-0.441173679062131,0.660021011160318,102,-0.548983309224061,0.34920594373241, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.44117, df = 102, p-value = 0.66
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5489833  0.3492059
+sample estimates:
+mean of x mean of y 
+ 3.951020  4.050909 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.441173679062131,-2.40099114565207,1.5208017643007,104,49,55,-0.08667,0.03863,-0.47166,0.29875,46.54686,47.55674,-0.04887,0.66017,-0.08603,0.03806,-0.46818,0.29655,46.57226,47.57472,0.66017,-0.04364,0.00967,-0.23129,0.1489,0.66169,-0.04367,0.0099,-0.23555,0.15002,0.85454,0.42507,1.71923,0.66017,-0.15719,-0.85549,0.54188,0.66017,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,104,15,67,104,104,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+104 ","Setting
+In a lab 
+     104 ","Tablet
+Computers 
+      104 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      104 ","analysis.type
+Secondary 
+      104 ","subset
+all 
+104 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.418738Z,23,Zhong,2,,jmu,Secondary,Zhong.3,77,39,38,Ethical,as.numeric.ignore.,39,,,,,2.98974358974359,0.825831278739592,3,2.94545454545455,0.4,1.6,5,3.4,0.518671748416606,3.00860820445539,0.132238838019065,Unethical,as.numeric.ignore.,38,,,,,2.86315789473684,0.990883049425456,2.8,2.8375,0.6,1,5.2,4.2,0.257292820984993,2.82962383364831,0.160742456452181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.98974358974359,2.86315789473684,0.609598855864565,0.543970005142934,75,-0.287082462770828,0.540253852784324, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.6096, df = 75, p-value = 0.544
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2870825  0.5402539
+sample estimates:
+mean of x mean of y 
+ 2.989744  2.863158 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.609598855864565,-1.35480708464776,2.56995723343712,77,39,38,0.13895,0.05208,-0.30882,0.5858,55.5256,53.91347,0.07827,0.54445,0.13756,0.05104,-0.30572,0.57992,55.47051,53.87433,0.54445,0.07022,0.01303,-0.15456,0.28449,0.54699,0.07033,0.01351,-0.15581,0.29256,1.28664,0.57114,2.89365,0.54445,0.25203,-0.56013,1.06252,0.54445,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,77,15,62,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+Online (at home) 
+              77 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.582461Z,23,Zhong,2,,kenyon,Secondary,Zhong.3,106,58,48,Ethical,as.numeric.ignore.,58,,,,,2.83448275862069,0.984182218925132,2.8,2.78333333333333,0.8,1.2,5.2,4,0.357882283411117,2.35675754462633,0.129229456451026,Unethical,as.numeric.ignore.,48,,,,,2.85,0.814235054148527,2.8,2.845,0.6,1,4.6,3.6,0.0391939959687213,2.51774847118108,0.11752470692407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.83448275862069,2.85,-0.0872627324190486,0.930630473634121,104,-0.368145117101907,0.337110634343286, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.087263, df = 104, p-value = 0.9306
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3681451  0.3371106
+sample estimates:
+mean of x mean of y 
+ 2.834483  2.850000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0872627324190486,-2.04705300697031,1.87294654971201,106,58,48,-0.01703,0.03808,-0.39944,0.36546,49.32074,49.51968,-0.00961,0.93063,-0.0169,0.03753,-0.39655,0.36282,49.32565,49.52315,0.93063,-0.00856,0.00952,-0.1968,0.18064,0.93096,-0.00856,0.00971,-0.19941,0.18264,0.96959,0.48457,1.94037,0.93063,-0.03088,-0.7245,0.66288,0.93063,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,106,15,68,106,106,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+In a lab 
+     106 ","Tablet
+Computers 
+      106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.709717Z,23,Zhong,2,,kwazulu,Secondary,Zhong.3,65,34,31,Ethical,as.numeric.ignore.,34,,,,,3.50588235294118,1.15809173668938,3.5,3.55,0.9,1,5.8,4.8,-0.248790948063054,2.51804461131079,0.19861109430746,Unethical,as.numeric.ignore.,31,,,,,3.66451612903226,1.05247276674087,3.6,3.616,0.8,2,5.8,3.8,0.267159412374209,2.14230545205013,0.189029689145449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.50588235294118,3.66451612903226,-0.575979887328721,0.566680739777743,63,-0.709007692177228,0.391740139995065, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.57598, df = 63, p-value = 0.5667
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7090077  0.3917401
+sample estimates:
+mean of x mean of y 
+ 3.505882  3.664516 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.575979887328721,-2.53623681939319,1.38882765049555,65,34,31,-0.14304,0.06183,-0.62983,0.34489,44.31311,45.97191,-0.08056,0.56717,-0.14133,0.06036,-0.62231,0.34077,44.38063,46.0199,0.56717,-0.07238,0.01546,-0.30437,0.17236,0.57011,-0.0725,0.01613,-0.31433,0.1741,0.77149,0.31905,1.86931,0.56717,-0.25944,-1.14239,0.62557,0.56717,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,65,15,47,65,65,0,0,< table of extent 0 >,"SubjectPool
+No 
+65 ","Setting
+In a lab 
+      65 ","Tablet
+Computers 
+       65 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       65 ","analysis.type
+Secondary 
+       65 ","subset
+all 
+ 65 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.855582Z,23,Zhong,2,,louvain,Secondary,Zhong.3,101,60,41,Ethical,as.numeric.ignore.,60,,,,,3.06,0.944062623605095,3,3.025,0.6,1,5.8,4.8,0.341801540680838,3.11947011143258,0.121877960633314,Unethical,as.numeric.ignore.,41,,,,,2.53170731707317,0.779242909621334,2.6,2.52121212121212,0.4,1,4.6,3.6,0.206973818896909,3.18325993201125,0.121697296620587,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.06,2.53170731707317,2.95878061472656,0.00386375683626988,99,0.174009133938741,0.882576231914918, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 2.9588, df = 99, p-value = 0.003864
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1740091 0.8825762
+sample estimates:
+mean of x mean of y 
+ 3.060000  2.531707 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.95878061472656,0.948902269304263,4.95433560565919,101,60,41,0.59952,0.04284,0.19227,1.00387,72.55879,66.41904,0.32838,0.00464,0.59497,0.04219,0.19081,0.99625,72.40681,66.30155,0.00464,0.28503,0.00844,0.09494,0.44573,0.00457,0.29315,0.0102,0.09522,0.47936,2.96659,1.41728,6.17694,0.00464,1.08741,0.34874,1.82082,0.00464,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,101,15,73,101,101,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+101 ","Setting
+In a lab 
+     101 ","Tablet
+Computers 
+      101 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      101 ","analysis.type
+Secondary 
+      101 ","subset
+all 
+101 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:20.966207Z,23,Zhong,2,,loyola,Secondary,Zhong.3,288,143,145,Ethical,as.numeric.ignore.,143,,,,,3.16923076923077,0.926999610224538,3.2,3.15130434782609,0.6,1.2,5.4,4.2,0.175477975440996,2.56345364623037,0.0775196017329958,Unethical,as.numeric.ignore.,145,,,,,3.01379310344828,0.894941081988018,3,3.02735042735043,0.6,1,5.4,4.4,-0.0843556790596387,2.52904151414613,0.0743208115945202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.16923076923077,3.01379310344828,1.44775145324193,0.148781864914084,286,-0.0558879098095166,0.366763241374503, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.4478, df = 286, p-value = 0.1488
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.05588791  0.36676324
+sample estimates:
+mean of x mean of y 
+ 3.169231  3.013793 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.44775145324193,-0.517057649279506,3.4100393927825,288,143,145,0.17062,0.01394,-0.06094,0.40189,56.774,54.80154,0.09603,0.14952,0.17018,0.01387,-0.06078,0.40083,56.75639,54.789,0.14952,0.0853,0.00343,-0.03056,0.19766,0.14999,0.0855,0.00351,-0.03057,0.2003,1.36271,0.89536,2.07289,0.14952,0.30948,-0.11053,0.72894,0.14952,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,288,15,112,288,288,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+288 ","Setting
+In a lab 
+     288 ","Tablet
+Computers 
+      288 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      288 ","analysis.type
+Secondary 
+      288 ","subset
+all 
+288 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:21.110831Z,23,Zhong,2,,lse,Secondary,Zhong.3,109,51,58,Ethical,as.numeric.ignore.,51,,,,,3.21960784313726,0.984889761921229,3,3.19024390243902,0.6,1.6,5.2,3.6,0.322106679417482,2.07597564590795,0.137912151858139,Unethical,as.numeric.ignore.,58,,,,,3.12068965517241,0.931280691605798,3,3.13333333333333,0.4,1,5.4,4.4,0.000856634833257081,2.97744070250131,0.122283145605893,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.21960784313726,3.12068965517241,0.538621470452471,0.591266874494975,107,-0.26514782422863,0.462984200158312, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.53862, df = 107, p-value = 0.5913
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2651478  0.4629842
+sample estimates:
+mean of x mean of y 
+ 3.219608  3.120690 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.538621470452471,-1.42392283871722,2.4986550659174,109,51,58,0.10339,0.0369,-0.27334,0.47965,54.11751,52.91411,0.05828,0.59151,0.10267,0.03638,-0.27142,0.47628,54.08868,52.89367,0.59151,0.052,0.00921,-0.13637,0.2348,0.59317,0.05205,0.00943,-0.13722,0.23926,1.20627,0.6091,2.38687,0.59151,0.18754,-0.49578,0.86998,0.59151,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,109,15,66,109,109,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+109 ","Setting
+In a lab 
+     109 ","Tablet
+Computers 
+      109 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      109 ","analysis.type
+Secondary 
+      109 ","subset
+all 
+109 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:21.225283Z,23,Zhong,2,,mcdanielonline,Secondary,Zhong.3,148,71,77,Ethical,as.numeric.ignore.,71,,,,,2.97746478873239,0.989400566446832,2.8,2.96842105263158,0.8,1,5.2,4.2,0.0992508511213264,2.0900982951917,0.117420244486571,Unethical,as.numeric.ignore.,77,,,,,3.1948051948052,0.911317164717916,3.2,3.16190476190476,0.6,1.2,5.4,4.2,0.271440588566949,2.79611942683358,0.103854229428817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.97746478873239,3.1948051948052,-1.39111670839665,0.166306344117234,146,-0.526113756660118,0.091432944514517, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.3911, df = 146, p-value = 0.1663
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.52611376  0.09143294
+sample estimates:
+mean of x mean of y 
+ 2.977465  3.194805 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.39111670839665,-3.35518848176213,0.577685290608185,148,71,77,-0.22889,0.02725,-0.55204,0.09505,40.94786,43.57131,-0.12857,0.16768,-0.22771,0.02697,-0.5492,0.09456,40.99364,43.60411,0.16768,-0.11437,0.00663,-0.26755,0.04776,0.16868,-0.11488,0.0069,-0.27423,0.04779,0.66024,0.3674,1.18815,0.16768,-0.41515,-1.0013,0.1724,0.16768,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,148,15,79,148,148,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+148 ","Setting
+Online (at home) 
+             148 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            148 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      148 ","analysis.type
+Secondary 
+      148 ","subset
+all 
+148 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:21.335844Z,23,Zhong,2,,metu,Secondary,Zhong.3,115,56,59,Ethical,as.numeric.ignore.,56,,,,,2.77857142857143,0.975092403213764,2.8,2.71739130434783,0.6,1,5.8,4.8,0.647842054166891,3.51126647060267,0.130302203331141,Unethical,as.numeric.ignore.,59,,,,,3.06101694915254,1.03140629626915,2.8,3.00408163265306,0.6,1,6.2,5.2,0.608913223369067,3.45641947204901,0.134277662490045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.77857142857143,3.06101694915254,-1.50731085171655,0.134521639240592,113,-0.65368647419244,0.0887954330302127, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.5073, df = 113, p-value = 0.1345
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.65368647  0.08879543
+sample estimates:
+mean of x mean of y 
+ 2.778571  3.061017 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.50731085171655,-3.47378068952434,0.465758031823479,115,56,59,-0.28121,0.03515,-0.64808,0.08689,38.92744,42.11916,-0.15762,0.13642,-0.27934,0.03468,-0.64377,0.08632,38.99919,42.1709,0.13642,-0.14039,0.00843,-0.31062,0.04377,0.13753,-0.14132,0.00893,-0.32123,0.0438,0.60046,0.30867,1.17071,0.13642,-0.51006,-1.17549,0.15761,0.13642,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,115,15,74,115,115,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+115 ","Setting
+Online (at home) 
+             115 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            115 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      115 ","analysis.type
+Secondary 
+      115 ","subset
+all 
+115 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:21.496846Z,23,Zhong,2,,moralsense,Secondary,Zhong.3,720,363,357,Ethical,as.numeric.ignore.,363,,,,,2.80661157024793,1.09178769240184,2.8,2.76013745704467,0.8,1,6.4,5.4,0.451950090035426,2.97559322603991,0.0573039925551018,Unethical,as.numeric.ignore.,357,,,,,2.80280112044818,0.984311198848472,2.8,2.7609756097561,0.8,1,5.8,4.8,0.404133900550921,2.82349523634538,0.0520952729936907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.80661157024793,2.80280112044818,0.0491598908178283,0.960805546524507,718,-0.148365538767317,0.155986438366826, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.04916, df = 718, p-value = 0.9608
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1483655  0.1559864
+sample estimates:
+mean of x mean of y 
+ 2.806612  2.802801 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0491598908178283,-1.91082284811804,2.00910840182932,720,363,357,0.00366,0.00556,-0.14243,0.14976,50.14618,50.10337,0.00207,0.96081,0.00366,0.00554,-0.14228,0.1496,50.14603,50.10326,0.96081,0.00183,0.00139,-0.07113,0.07477,0.96083,0.00183,0.00139,-0.07125,0.07491,1.00667,0.77233,1.3121,0.96081,0.00665,-0.25834,0.27163,0.96081,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,720,15,120,720,720,0,100,< table of extent 0 >,"SubjectPool
+ No 
+720 ","Setting
+Online (at home) 
+             720 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            720 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      720 ","analysis.type
+Secondary 
+      720 ","subset
+all 
+720 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:21.604609Z,23,Zhong,2,,mturk,Secondary,Zhong.3,335,179,156,Ethical,as.numeric.ignore.,179,,,,,3.15418994413408,0.966356406969794,3.2,3.15034482758621,0.8,1,6.2,5.2,0.0828394920857933,2.70357249917431,0.0722288690674895,Unethical,as.numeric.ignore.,156,,,,,3.33717948717949,1.05458861869133,3.4,3.29206349206349,0.6,1.2,7,5.8,0.513205661454983,3.63467644436487,0.0844346642674497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.15418994413408,3.33717948717949,-1.65678339701179,0.0985051249880741,333,-0.400254630954133,0.0342755448633148, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.6568, df = 333, p-value = 0.09851
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.40025463  0.03427554
+sample estimates:
+mean of x mean of y 
+ 3.154190  3.337179 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.65678339701179,-3.61954068906045,0.308450941929076,335,179,156,-0.18147,0.01205,-0.39645,0.03378,42.80002,44.8949,-0.1021,0.09919,-0.18106,0.01199,-0.39556,0.03371,42.81608,44.90635,0.09919,-0.09042,0.00295,-0.19456,0.0169,0.09947,-0.09067,0.00301,-0.19707,0.0169,0.71954,0.4872,1.0632,0.09919,-0.32915,-0.71908,0.06128,0.09919,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,335,15,110,335,335,0,100,< table of extent 0 >,"SubjectPool
+ No 
+335 ","Setting
+Online (at home) 
+             335 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            335 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      335 ","analysis.type
+Secondary 
+      335 ","subset
+all 
+335 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.190497Z,23,Zhong,2,,mturk_india,Secondary,Zhong.3,313,154,159,Ethical,as.numeric.ignore.,154,,,,,4.15064935064935,1.02983257432622,4.2,4.16612903225806,0.6,1,6.8,5.8,-0.260934530120957,3.14911399304968,0.0829862737493441,Unethical,as.numeric.ignore.,159,,,,,4.11446540880503,1.11887355638977,4.2,4.12093023255814,0.8,1.2,7,5.8,-0.0515343120353758,2.78489997560812,0.0887324448113003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.15064935064935,4.11446540880503,0.297436582557125,0.766331796139034,311,-0.203182339354636,0.275550223043274, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.29744, df = 311, p-value = 0.7663
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2031823  0.2755502
+sample estimates:
+mean of x mean of y 
+ 4.150649  4.114465 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.297436582557125,-1.66290563975714,2.2573008684522,313,154,159,0.03363,0.01278,-0.18801,0.25521,51.34133,50.94855,0.01897,0.76635,0.03355,0.01272,-0.18756,0.2546,51.33809,50.94626,0.76635,0.01686,0.0032,-0.09388,0.12696,0.76671,0.01687,0.00323,-0.09416,0.12765,1.06289,0.71105,1.58868,0.76635,0.061,-0.34101,0.46291,0.76635,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,192,15,98,313,313,0,0,< table of extent 0 >,"SubjectPool
+ No 
+313 ","Setting
+Online (at home) 
+             313 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            313 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      313 ","analysis.type
+Secondary 
+      313 ","subset
+all 
+313 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.295446Z,23,Zhong,2,,munich,Secondary,Zhong.3,82,40,42,Ethical,as.numeric.ignore.,40,,,,,3.665,1.03318030297792,3.6,3.63125,0.9,2.2,5.8,3.6,0.241644987312709,1.99056879220284,0.163360149551653,Unethical,as.numeric.ignore.,42,,,,,3.50952380952381,1.05756497207074,3.4,3.5,0.6,1,5.8,4.8,0.0238293788734987,3.15816678681448,0.163185817993082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.665,3.50952380952381,0.672952427446968,0.502916894688147,80,-0.304299964454224,0.615252345406605, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.67295, df = 80, p-value = 0.5029
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3043000  0.6152523
+sample estimates:
+mean of x mean of y 
+ 3.665000  3.509524 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.672952427446968,-1.29186863496904,2.6335854766021,82,40,42,0.14867,0.04894,-0.28541,0.58183,55.90948,54.18632,0.08373,0.5035,0.14728,0.04803,-0.28273,0.57636,55.85431,54.14709,0.5035,0.07503,0.01221,-0.14295,0.28245,0.50599,0.07517,0.01266,-0.14394,0.29035,1.30953,0.5959,2.87293,0.5035,0.26967,-0.51768,1.05533,0.5035,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,82,15,67,82,82,0,100,< table of extent 0 >,"SubjectPool
+No 
+82 ","Setting
+In a classroom 
+            82 ","Tablet
+Computers 
+       82 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       82 ","analysis.type
+Secondary 
+       82 ","subset
+all 
+ 82 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.389836Z,23,Zhong,2,,munichon,Secondary,Zhong.3,200,90,110,Ethical,as.numeric.ignore.,90,,,,,3.51111111111111,1.06975209187802,3.6,3.49444444444444,0.8,1.2,7,5.8,0.344884787990975,3.2766703478985,0.112761771402142,Unethical,as.numeric.ignore.,110,,,,,3.44181818181818,0.99396175310666,3.4,3.45681818181818,0.6,1,5.8,4.8,-0.128296388308412,2.80795155793087,0.0947705346728165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.51111111111111,3.44181818181818,0.473908225659389,0.636087505907113,198,-0.219047429150952,0.357633287736811, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.47391, df = 198, p-value = 0.6361
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2190474  0.3576333
+sample estimates:
+mean of x mean of y 
+ 3.511111  3.441818 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.473908225659389,-1.48720843484547,2.43382954787,200,90,110,0.06736,0.02021,-0.21138,0.34593,52.68518,51.89943,0.03799,0.63618,0.0671,0.02006,-0.21058,0.34462,52.67501,51.89223,0.63618,0.03366,0.00501,-0.10511,0.17043,0.637,0.03367,0.00508,-0.1055,0.17211,1.12995,0.68154,1.87282,0.63618,0.12217,-0.38341,0.62745,0.63618,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,82,15,67,82,82,0,100,< table of extent 0 >,"SubjectPool
+No 
+82 ","Setting
+In a classroom 
+            82 ","Tablet
+Computers 
+       82 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       82 ","analysis.type
+Secondary 
+       82 ","subset
+all 
+ 82 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.516705Z,23,Zhong,2,,northumbria,Secondary,Zhong.3,78,41,37,Ethical,as.numeric.ignore.,41,,,,,3.10731707317073,1.01695384455305,3.2,3.04848484848485,0.6,1.4,5.8,4.4,0.461072282349866,3.18213543915816,0.15882150757093,Unethical,as.numeric.ignore.,37,,,,,2.91891891891892,1.04185673941549,2.8,2.90322580645161,0.8,1,5,4,0.25451381559602,2.16387044354558,0.171280192877167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.10731707317073,2.91891891891892,0.807570756724517,0.42185810627036,76,-0.276239080822,0.653035389325626, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.80757, df = 76, p-value = 0.4219
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2762391  0.6530354
+sample estimates:
+mean of x mean of y 
+ 3.107317  2.918919 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.807570756724517,-1.15922079971381,2.76907979353027,78,41,37,0.18312,0.05163,-0.26286,0.6279,57.2648,55.15131,0.10303,0.42282,0.18131,0.05061,-0.26026,0.62168,57.19366,55.10059,0.42282,0.09224,0.01277,-0.13181,0.30273,0.42557,0.0925,0.01333,-0.13258,0.31252,1.39395,0.62078,3.12328,0.42282,0.33214,-0.47677,1.13888,0.42282,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,78,15,54,78,78,0,100,< table of extent 0 >,"SubjectPool
+No 
+78 ","Setting
+In a lab 
+      78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.622166Z,23,Zhong,2,,osnabruck,Secondary,Zhong.3,84,44,40,Ethical,as.numeric.ignore.,44,,,,,3.31363636363636,0.700030201704253,3.3,3.3,0.5,1.8,4.8,3,0.128913593659164,2.78002613792596,0.105533523680446,Unethical,as.numeric.ignore.,40,,,,,3.4,0.832666399786453,3.4,3.45,0.6,1.2,5,3.8,-0.485784574559321,2.90466020097336,0.131656117720877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.31363636363636,3.4,-0.516093812658221,0.607177790677234,82,-0.419258122339102,0.24653084961183, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.51609, df = 82, p-value = 0.6072
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4192581  0.2465308
+sample estimates:
+mean of x mean of y 
+ 3.313636  3.400000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.516093812658221,-2.47607526730701,1.44702483769965,84,44,40,-0.11275,0.0478,-0.54094,0.31613,45.51149,46.82278,-0.06354,0.60746,-0.11171,0.04693,-0.53597,0.31323,45.55249,46.85187,0.60746,-0.0569,0.01197,-0.26375,0.1578,0.60957,-0.05696,0.01235,-0.27014,0.15912,0.81505,0.37488,1.77427,0.60746,-0.2045,-0.98115,0.57339,0.60746,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,84,15,58,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+In a classroom 
+            84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.743949Z,23,Zhong,2,,padua,Secondary,Zhong.3,79,42,37,Ethical,as.numeric.ignore.,42,,,,,2.86666666666667,0.890783887909604,3,2.85882352941177,0.6,1,4.8,3.8,0.0058983817788447,2.49260010749798,0.137450937996708,Unethical,as.numeric.ignore.,37,,,,,3.07027027027027,0.900883783621168,3.2,3,0.6,1.6,5.6,4,0.688813358812288,3.31986257163556,0.148104381707139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.86666666666667,3.07027027027027,-1.00837503710736,0.316432769963441,77,-0.605662912564288,0.19845570535708, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.0084, df = 77, p-value = 0.3164
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6056629  0.1984557
+sample estimates:
+mean of x mean of y 
+ 2.866667  3.070270 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.00837503710736,-2.97152971900981,0.961275921356564,79,42,37,-0.22736,0.05116,-0.66999,0.21674,41.00727,43.61387,-0.12772,0.31797,-0.22514,0.05017,-0.66344,0.21462,41.09367,43.67575,0.31797,-0.11416,0.01249,-0.32075,0.1089,0.32063,-0.11466,0.01316,-0.33248,0.10933,0.66207,0.29664,1.4816,0.31797,-0.41238,-1.21523,0.39312,0.31797,,,,,,,,padua,padua,"Department FISPPA, Applied Psychology, University of Padua, 35131 Padua, Italy","Elisa Maria Galliani, Anna Dalla Rosa",ML2_Slate2_Italian_r.csv,DO.BR.FL_5,DO.BR.FL_6,Italy,Italian,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,padua,1,1,1,1,1,1,79,15,59,79,79,0,100,< table of extent 0 >,"SubjectPool
+No 
+79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.877056Z,23,Zhong,2,,pascal,Secondary,Zhong.3,157,86,71,Ethical,as.numeric.ignore.,86,,,,,2.60232558139535,1.08616722189823,2.4,2.55714285714286,0.8,1,5.2,4.2,0.393445833209779,2.23281872341702,0.117124423699961,Unethical,as.numeric.ignore.,71,,,,,2.59154929577465,0.948042566686484,2.4,2.51578947368421,0.6,1.2,6.4,5.2,1.09878631285425,5.09053294180994,0.112511952933054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.60232558139535,2.59154929577465,0.0654954008958487,0.947863966090918,155,-0.314244030989893,0.335796602231295, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.065495, df = 155, p-value = 0.9479
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3142440  0.3357966
+sample estimates:
+mean of x mean of y 
+ 2.602326  2.591549 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0654954008958487,-1.89458767285992,2.02536737369179,157,86,71,0.0105,0.02571,-0.3038,0.32477,50.41897,50.29626,0.00593,0.94786,0.01045,0.02546,-0.30233,0.3232,50.41694,50.29482,0.94786,0.00526,0.00641,-0.15044,0.16057,0.94803,0.00526,0.00649,-0.1516,0.16197,1.01923,0.57636,1.80231,0.94786,0.01905,-0.55103,0.58907,0.94786,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,157,15,87,157,157,0,100,< table of extent 0 >,"SubjectPool
+ No 
+157 ","Setting
+Online (at home) 
+             157 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            157 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      157 ","analysis.type
+Secondary 
+      157 ","subset
+all 
+157 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:22.985747Z,23,Zhong,2,,psualtoona,Secondary,Zhong.3,173,88,85,Ethical,as.numeric.ignore.,88,,,,,2.80909090909091,0.876728029446735,2.8,2.78055555555556,0.6,1,5.4,4.4,0.353788300842814,2.79116808464775,0.0934595219635433,Unethical,as.numeric.ignore.,85,,,,,2.76470588235294,0.914526403892948,2.6,2.73333333333333,0.8,1,5,4,0.264950020158857,2.34886807042696,0.0991943157418732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.80909090909091,2.76470588235294,0.325912521701435,0.744889028138926,171,-0.22443898430175,0.313209037777686, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.32591, df = 171, p-value = 0.7449
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.224439  0.313209
+sample estimates:
+mean of x mean of y 
+ 2.809091  2.764706 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.325912521701435,-1.63483134675587,2.28570441190795,173,88,85,0.04956,0.02314,-0.24863,0.34761,51.97654,51.39791,0.02796,0.74493,0.04935,0.02293,-0.24753,0.34608,51.96787,51.39177,0.74493,0.02492,0.00581,-0.12405,0.17218,0.74564,0.02492,0.00588,-0.1247,0.17391,1.09407,0.63702,1.87854,0.74493,0.0899,-0.45096,0.63049,0.74493,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,173,15,95,173,173,0,100,< table of extent 0 >,"SubjectPool
+ No 
+173 ","Setting
+In a lab 
+     173 ","Tablet
+Computers 
+      173 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      173 ","analysis.type
+Secondary 
+      173 ","subset
+all 
+173 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.095443Z,23,Zhong,2,,puc,Secondary,Zhong.3,77,31,46,Ethical,as.numeric.ignore.,31,,,,,2.87096774193548,1.13319417235444,2.6,2.848,0.8,1,5.2,4.2,0.263477153098084,2.03319156764905,0.2035276815807,Unethical,as.numeric.ignore.,46,,,,,2.9304347826087,1.1686401528115,3,2.90526315789474,0.8,1,5.4,4.4,0.0708560801482994,2.3899061166095,0.172306590171685,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.87096774193548,2.9304347826087,-0.221647098701897,0.825191006223881,75,-0.593940176171239,0.475006094824816, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.22165, df = 75, p-value = 0.8252
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5939402  0.4750061
+sample estimates:
+mean of x mean of y 
+ 2.870968  2.930435 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.221647098701897,-2.18119359826473,1.73937408483025,77,31,46,-0.0515,0.05401,-0.50685,0.40418,47.94616,48.5474,-0.02905,0.82522,-0.05099,0.05294,-0.50176,0.40013,47.96675,48.56197,0.82522,-0.02559,0.01314,-0.24424,0.19691,0.82636,-0.02559,0.01351,-0.24927,0.19952,0.91081,0.39879,2.08154,0.82522,-0.09342,-0.91932,0.73311,0.82522,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,77,15,58,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+Online (at home) 
+              77 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.225211Z,23,Zhong,2,,queensland2,Secondary,Zhong.3,135,63,72,Ethical,as.numeric.ignore.,63,,,,,2.8952380952381,0.915710295684241,2.8,2.85098039215686,0.6,1.2,5.4,4.2,0.477092316406685,3.03867182103126,0.115368653112473,Unethical,as.numeric.ignore.,72,,,,,2.80555555555556,0.972276099557897,2.8,2.75172413793103,0.6,1,5.8,4.8,0.614073681218663,3.40970472327617,0.114583837197166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.8952380952381,2.80555555555556,0.549333268036525,0.583697925141918,133,-0.233233620480644,0.412598699845724, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.54933, df = 133, p-value = 0.5837
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2332336  0.4125987
+sample estimates:
+mean of x mean of y 
+ 2.895238  2.805556 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.549333268036525,-1.41277054986989,2.50937610301665,135,63,72,0.09477,0.0298,-0.24373,0.43291,53.77508,52.67138,0.05343,0.58391,0.09423,0.02946,-0.24235,0.43046,53.75382,52.65631,0.58391,0.04758,0.00743,-0.12159,0.21262,0.58526,0.04762,0.00758,-0.1222,0.21591,1.18755,0.6427,2.19287,0.58391,0.17189,-0.44207,0.78521,0.58391,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,135,15,81,135,135,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+135 ","Setting
+In a lab 
+     135 ","Tablet
+Computers 
+      135 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      135 ","analysis.type
+Secondary 
+      135 ","subset
+all 
+135 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.343608Z,23,Zhong,2,,ritonline,Secondary,Zhong.3,73,36,37,Ethical,as.numeric.ignore.,36,,,,,2.92777777777778,0.97763887902322,3,2.92666666666667,0.7,1,4.8,3.8,-0.0295985245543735,2.24468741816569,0.162939813170537,Unethical,as.numeric.ignore.,37,,,,,3.33513513513514,1.04568324718982,3.4,3.30322580645161,0.6,1.6,5.6,4,0.102608883585058,2.5746144593526,0.171909266880185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.92777777777778,3.33513513513514,-1.71822637946476,0.0901136303181427,71,-0.880081738005527,0.0653670232908119, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.7182, df = 71, p-value = 0.09011
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.88008174  0.06536702
+sample estimates:
+mean of x mean of y 
+ 2.927778  3.335135 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.71822637946476,-3.69246656951964,0.267858075662732,73,36,37,-0.40224,0.05591,-0.86442,0.06271,34.37522,38.80406,-0.22392,0.0933,-0.39798,0.05473,-0.85526,0.06204,34.53224,38.91963,0.0933,-0.1998,0.0128,-0.40137,0.03177,0.09456,-0.20253,0.01429,-0.42528,0.03178,0.48211,0.20848,1.12046,0.0933,-0.72959,-1.56789,0.11374,0.0933,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,73,15,57,73,73,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 73 ","Setting
+Online (at home) 
+              73 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             73 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       73 ","analysis.type
+Secondary 
+       73 ","subset
+all 
+ 73 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.444417Z,23,Zhong,2,,rotterdam,Secondary,Zhong.3,74,35,39,Ethical,as.numeric.ignore.,35,,,,,2.94857142857143,0.992137155061628,3,3.00689655172414,0.8,1,4.4,3.4,-0.454423641779557,2.24920337952985,0.167701787574916,Unethical,as.numeric.ignore.,39,,,,,2.87179487179487,0.948669072673234,3,2.87878787878788,0.6,1,4.8,3.8,-0.168505485028735,2.450975001819,0.151908627179149,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.94857142857143,2.87179487179487,0.340140855796142,0.734740809208173,72,-0.373187821508953,0.526740935062066, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.34014, df = 72, p-value = 0.7347
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3731878  0.5267409
+sample estimates:
+mean of x mean of y 
+ 2.948571  2.871795 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.340140855796142,-1.62178563651208,2.29971123275889,74,35,39,0.0792,0.05425,-0.37761,0.53545,53.1562,52.23294,0.04466,0.73484,0.07837,0.05313,-0.37366,0.52986,53.12328,52.20962,0.73484,0.04005,0.01365,-0.18773,0.26159,0.73659,0.04008,0.01408,-0.18998,0.26781,1.15448,0.50414,2.64113,0.73484,0.14365,-0.68491,0.97121,0.73484,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,74,15,56,74,74,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 74 ","Setting
+In a lab 
+      74 ","Tablet
+Computers 
+       74 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       74 ","analysis.type
+Secondary 
+       74 ","subset
+all 
+ 74 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.570147Z,23,Zhong,2,,salford,Secondary,Zhong.3,99,39,60,Ethical,as.numeric.ignore.,39,,,,,2.93333333333333,0.909983612730799,3,2.95151515151515,0.4,1,5,4,-0.408959812024893,3.32418701522551,0.145713995899466,Unethical,as.numeric.ignore.,60,,,,,3.00333333333333,0.924610163691845,3,2.99166666666667,0.8,1.2,4.8,3.6,0.0494655167258598,2.00291316681377,0.119366658857088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.93333333333333,3.00333333333333,-0.370353437540168,0.711926640614935,97,-0.445129832582991,0.305129832582991, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.37035, df = 97, p-value = 0.7119
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4451298  0.3051298
+sample estimates:
+mean of x mean of y 
+ 2.933333  3.003333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.370353437540168,-2.3300557449612,1.59125413640893,99,39,60,-0.07618,0.04234,-0.47927,0.3273,46.9639,47.85211,-0.04296,0.71202,-0.07559,0.04168,-0.47555,0.32477,46.98739,47.86875,0.71202,-0.03758,0.01018,-0.23023,0.1595,0.71341,-0.03759,0.01042,-0.23443,0.16087,0.87095,0.41925,1.8106,0.71202,-0.13817,-0.86929,0.59366,0.71202,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,99,15,66,99,99,0,100,< table of extent 0 >,"SubjectPool
+No 
+99 ","Setting
+In a classroom 
+            99 ","Tablet
+Computers 
+       99 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       99 ","analysis.type
+Secondary 
+       99 ","subset
+all 
+ 99 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.676570Z,23,Zhong,2,,seznam,Secondary,Zhong.3,83,41,42,Ethical,as.numeric.ignore.,41,,,,,2.99024390243902,1.21651240808485,2.8,2.92727272727273,0.8,1,5.6,4.6,0.418233622606703,2.35834337747119,0.189987319154778,Unethical,as.numeric.ignore.,42,,,,,2.9047619047619,1.00848893991357,2.9,2.90588235294118,0.7,1,5.2,4.2,0.0365419350461896,2.6014529443062,0.155613221828382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.99024390243902,2.9047619047619,0.34886673833493,0.728094584434422,81,-0.402046169931259,0.573010165285498, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.34887, df = 81, p-value = 0.7281
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4020462  0.5730102
+sample estimates:
+mean of x mean of y 
+ 2.990244  2.904762 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.34886673833493,-1.61290536137271,2.30849024122607,83,41,42,0.07659,0.04824,-0.3541,0.50682,53.05258,52.15956,0.04319,0.72819,0.07588,0.04734,-0.35082,0.50211,53.02429,52.13952,0.72819,0.03873,0.01216,-0.1764,0.24846,0.72978,0.03875,0.0125,-0.17827,0.25377,1.14903,0.52609,2.50744,0.72819,0.13892,-0.64227,0.91926,0.72819,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,83,15,61,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.780018Z,23,Zhong,2,,seznamon,Secondary,Zhong.3,115,50,65,Ethical,as.numeric.ignore.,50,,,,,2.8,1.11976673955802,2.8,2.775,0.8,1,5.6,4.6,0.204384250567617,2.38393147786458,0.158358930977726,Unethical,as.numeric.ignore.,65,,,,,2.79692307692308,0.97114127943126,2.8,2.77358490566038,0.8,1,4.8,3.8,0.260314750800524,2.28730664059076,0.120455250842881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.8,2.79692307692308,0.0157552781232243,0.987457410939406,113,-0.383837196734375,0.389991042888221, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.015755, df = 113, p-value = 0.9875
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3838372  0.3899910
+sample estimates:
+mean of x mean of y 
+ 2.800000  2.796923 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0157552781232243,-1.94424460030104,1.9756855209607,115,50,65,0.00296,0.03538,-0.36573,0.37164,50.11823,50.0836,0.00167,0.98746,0.00294,0.03492,-0.3633,0.36917,50.11745,50.08305,0.98746,0.00148,0.00877,-0.17991,0.18273,0.98751,0.00148,0.00893,-0.18189,0.1848,1.00539,0.51512,1.96224,0.98746,0.00538,-0.66336,0.67408,0.98746,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,115,15,79,115,115,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+115 ","Setting
+Online (at home) 
+             115 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            115 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      115 ","analysis.type
+Secondary 
+      115 ","subset
+all 
+115 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:23.911010Z,23,Zhong,2,,simmons,Secondary,Zhong.3,89,41,48,Ethical,as.numeric.ignore.,41,,,,,3.11219512195122,0.82103444566937,3,3.06666666666667,0.4,1.6,5,3.4,0.554380443106237,3.12095941879036,0.128224038020312,Unethical,as.numeric.ignore.,48,,,,,3.12083333333333,0.982172653135576,3.2,3.09,0.7,1.6,5.2,3.6,0.158673186157589,2.23155174154128,0.141764411419628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.11219512195122,3.12083333333333,-0.0445576862439857,0.964561983266064,87,-0.393967476173643,0.376691053409416, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.044558, df = 87, p-value = 0.9646
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3939675  0.3766911
+sample estimates:
+mean of x mean of y 
+ 3.112195  3.120833 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0445576862439857,-2.00440496917018,1.91554528655664,89,41,48,-0.00948,0.04522,-0.42625,0.40736,49.62199,49.7327,-0.00535,0.96456,-0.00939,0.04445,-0.42257,0.40383,49.62525,49.73501,0.96456,-0.00478,0.01136,-0.2101,0.20117,0.96477,-0.00478,0.01163,-0.21327,0.20395,0.98296,0.46156,2.09355,0.96456,-0.01719,-0.77314,0.73886,0.96456,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,89,15,65,89,89,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.031387Z,23,Zhong,2,,tamu,Secondary,Zhong.3,85,40,45,Ethical,as.numeric.ignore.,40,,,,,3.34,0.859576520661072,3.4,3.34375,0.6,1.8,5.2,3.4,-0.0387799844034494,2.34187158038242,0.135910981424589,Unethical,as.numeric.ignore.,45,,,,,3.01777777777778,0.844040307333744,3,3.02162162162162,0.4,1,5.2,4.2,0.0565706646986083,3.66486440120524,0.125822100196538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.34,3.01777777777778,1.74165043972539,0.0852744566648163,83,-0.0457546264384725,0.690199070882916, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.7417, df = 83, p-value = 0.08527
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.04575463  0.69019907
+sample estimates:
+mean of x mean of y 
+ 3.340000  3.017778 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.74165043972539,-0.24123456129502,3.71423848045033,85,40,45,0.37847,0.04806,-0.05242,0.80713,64.74602,60.55042,0.21101,0.08801,0.37504,0.0472,-0.05195,0.79981,64.61854,60.45703,0.08801,0.18777,0.01108,-0.02647,0.37752,0.08902,0.19003,0.0122,-0.02648,0.39717,1.9867,0.9093,4.32309,0.08801,0.68647,-0.09508,1.46397,0.08801,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,85,15,62,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.139531Z,23,Zhong,2,,tamucc,Secondary,Zhong.3,87,41,46,Ethical,as.numeric.ignore.,41,,,,,3.07804878048781,1.01378306237625,3,3.06666666666667,0.6,1,5.2,4.2,0.0882947047534011,2.7400832149814,0.158326314590251,Unethical,as.numeric.ignore.,46,,,,,3.21739130434783,0.710337743714163,3.3,3.23684210526316,0.5,1.8,4.6,2.8,-0.240768299024602,2.25971296721814,0.104733586463872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.07804878048781,3.21739130434783,-0.748752762816183,0.456073205414512,85,-0.509358211409176,0.230673163689134, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.74875, df = 85, p-value = 0.4561
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5093582  0.2306732
+sample estimates:
+mean of x mean of y 
+ 3.078049  3.217391 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.748752762816183,-2.70974430228948,1.21662288026515,87,41,46,-0.16082,0.04628,-0.58199,0.2613,43.61195,45.47324,-0.09054,0.4568,-0.15939,0.04546,-0.57684,0.25899,43.668,45.51313,0.4568,-0.08095,0.01148,-0.28199,0.13083,0.45922,-0.08112,0.0119,-0.28984,0.13158,0.747,0.34798,1.60633,0.4568,-0.29169,-1.05562,0.47395,0.4568,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,87,15,60,87,87,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.279009Z,23,Zhong,2,,tilburg,Secondary,Zhong.3,95,43,52,Ethical,as.numeric.ignore.,43,,,,,3.38604651162791,0.829681922801296,3.4,3.4,0.6,1.4,5.4,4,-0.0370199961115275,3.26626075192678,0.126525307058004,Unethical,as.numeric.ignore.,52,,,,,3.07307692307692,0.93559572814108,3,3.04285714285714,0.8,1.4,5.4,4,0.246998345072895,2.45949111599062,0.129743783496836,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.38604651162791,3.07307692307692,1.70731931118421,0.0910993000519779,93,-0.0510487721085316,0.676987949210499, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 1.7073, df = 93, p-value = 0.0911
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.05104877  0.67698795
+sample estimates:
+mean of x mean of y 
+ 3.386047  3.073077 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.70731931118421,-0.272417843634258,3.67802434471571,95,43,52,0.35192,0.04314,-0.05615,0.75812,63.75499,59.82589,0.19652,0.09354,0.34907,0.04244,-0.0557,0.75199,63.64822,59.74805,0.09354,0.17433,0.01,-0.02824,0.35636,0.0945,0.17613,0.01087,-0.02824,0.3727,1.89327,0.90317,3.95542,0.09354,0.63831,-0.10185,1.37509,0.09354,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,95,15,65,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.388078Z,23,Zhong,2,,tilburgcaf,Secondary,Zhong.3,78,36,42,Ethical,as.numeric.ignore.,36,,,,,3.30555555555556,0.8491826135238,3.4,3.34666666666667,0.5,1.4,4.8,3.4,-0.45250601825896,2.55059278741755,0.1415304355873,Unethical,as.numeric.ignore.,42,,,,,3.36190476190476,0.933117612369071,3.4,3.35882352941177,0.8,1.2,5.4,4.2,-0.0252119389646178,2.38848199035523,0.143983173497176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.30555555555556,3.36190476190476,-0.277063503735804,0.782483536647446,76,-0.461415804250701,0.348717391552288, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.27706, df = 76, p-value = 0.7825
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4614158  0.3487174
+sample estimates:
+mean of x mean of y 
+ 3.305556  3.361905 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.277063503735804,-2.23661127308954,1.68430313042166,78,36,42,-0.06293,0.05161,-0.508,0.38255,47.49115,48.22539,-0.03549,0.78254,-0.06231,0.0506,-0.50297,0.37877,47.51596,48.24295,0.78254,-0.03177,0.01296,-0.24851,0.18969,0.78392,-0.03178,0.01333,-0.25382,0.19202,0.89213,0.39796,2.00146,0.78254,-0.11414,-0.92141,0.69387,0.78254,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,78,15,60,78,78,0,100,< table of extent 0 >,"SubjectPool
+No 
+78 ","Setting
+Other (please indicate) 
+                     78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.502550Z,23,Zhong,2,,ulatina,Secondary,Zhong.3,160,85,75,Ethical,as.numeric.ignore.,85,,,,,2.86823529411765,0.945945201864237,2.8,2.87536231884058,0.6,1,4.8,3.8,-0.00766203571519882,2.34405438259312,0.102602162855885,Unethical,as.numeric.ignore.,75,,,,,2.88266666666667,1.18645205064026,2.8,2.82622950819672,0.8,1,5.8,4.8,0.457891181401819,2.63988094306406,0.136999682163547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.86823529411765,2.88266666666667,-0.08550425943241,0.931968762006161,158,-0.347786572735918,0.318923827637879, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.085504, df = 158, p-value = 0.932
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3477866  0.3189238
+sample estimates:
+mean of x mean of y 
+ 2.868235  2.882667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.08550425943241,-2.04535570015248,1.87461754269098,160,85,75,-0.01355,0.0251,-0.32403,0.29698,49.45961,49.61788,-0.00764,0.93197,-0.01348,0.02486,-0.32249,0.29557,49.46218,49.6197,0.93197,-0.0068,0.00629,-0.16061,0.14751,0.93218,-0.0068,0.00637,-0.16201,0.14859,0.97573,0.55559,1.71372,0.93197,-0.02457,-0.58773,0.53867,0.93197,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,160,15,88,160,160,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+160 ","Setting
+In a lab 
+     160 ","Tablet
+Computers 
+      160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      160 ","analysis.type
+Secondary 
+      160 ","subset
+all 
+160 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.630734Z,23,Zhong,2,,umich,Secondary,Zhong.3,83,41,42,Ethical,as.numeric.ignore.,41,,,,,2.9609756097561,1.06603894131042,3,2.84848484848485,0.4,1.2,6.2,5,1.01544733318278,4.42263189160743,0.166487311784195,Unethical,as.numeric.ignore.,42,,,,,2.96666666666667,0.86212066007046,3,2.96470588235294,0.6,1.2,4.6,3.4,0.00619827376570785,2.32128543253074,0.133028105920402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.9609756097561,2.96666666666667,-0.0267734111826425,0.978706313017945,81,-0.428626260188501,0.417244146367362, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.026773, df = 81, p-value = 0.9787
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4286263  0.4172441
+sample estimates:
+mean of x mean of y 
+ 2.960976  2.966667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0267734111826425,-1.98665921453926,1.93327739872051,83,41,42,-0.00588,0.0482,-0.43616,0.42444,49.7655,49.83419,-0.00332,0.97871,-0.00582,0.04731,-0.43211,0.4205,49.76768,49.83573,0.97871,-0.00297,0.01219,-0.21555,0.21002,0.97884,-0.00297,0.0125,-0.21899,0.21319,0.9894,0.45334,2.15944,0.97871,-0.01066,-0.79111,0.76985,0.97871,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,83,15,67,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.739126Z,23,Zhong,2,,uned,Secondary,Zhong.3,83,52,31,Ethical,as.numeric.ignore.,52,,,,,2.04230769230769,0.937528280116445,1.8,1.90476190476191,0.4,1,4.8,3.8,1.35881513624197,4.33305459811715,0.130011780236823,Unethical,as.numeric.ignore.,31,,,,,2.08387096774194,0.707623616618114,2,2.016,0.4,1,4.2,3.2,1.07430190869866,4.52971971377322,0.127092953383975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.04230769230769,2.08387096774194,-0.213092326640517,0.831790358300684,81,-0.429648017824317,0.34652146695583, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.21309, df = 81, p-value = 0.8318
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4296480  0.3465215
+sample estimates:
+mean of x mean of y 
+ 2.042308  2.083871 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.213092326640517,-2.17267363999916,1.74780195988406,83,52,31,-0.04835,0.0515,-0.493,0.3966,48.07174,48.63625,-0.02728,0.83181,-0.0479,0.05055,-0.48843,0.39291,48.08964,48.64891,0.83181,-0.02367,0.01218,-0.23467,0.19064,0.83283,-0.02367,0.0125,-0.23912,0.193,0.91603,0.40893,2.05309,0.83181,-0.0877,-0.89421,0.71935,0.83181,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,83,15,59,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+Online (at home) 
+              83 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.846046Z,23,Zhong,2,,unswonline,Secondary,Zhong.3,94,46,48,Ethical,as.numeric.ignore.,46,,,,,3.03478260869565,0.926934587481015,3,3.0421052631579,0.6,1,4.8,3.8,-0.00509135325276808,2.55481128965364,0.136669048805833,Unethical,as.numeric.ignore.,48,,,,,2.95,0.770189255548078,2.9,2.92,0.6,1.6,5.2,3.6,0.52014250008501,3.05976422832842,0.11116724350441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.03478260869565,2.95,0.483148583055213,0.630138057358753,92,-0.263734565836997,0.433299783228301, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.48315, df = 92, p-value = 0.6301
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2637346  0.4332998
+sample estimates:
+mean of x mean of y 
+ 3.034783  2.950000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.483148583055213,-1.47936439922608,2.44304253215831,94,46,48,0.09969,0.04263,-0.30524,0.50408,53.97042,52.80983,0.0562,0.63035,0.09887,0.04193,-0.30274,0.49995,53.93807,52.7869,0.63035,0.05031,0.0107,-0.15243,0.24682,0.63215,0.05035,0.01099,-0.15363,0.25203,1.19819,0.57485,2.49501,0.63035,0.18081,-0.55364,0.91429,0.63035,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,94,15,68,94,94,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 94 ","Setting
+Online (at home) 
+              94 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:24.969325Z,23,Zhong,2,,vcu,Secondary,Zhong.3,94,54,40,Ethical,as.numeric.ignore.,54,,,,,2.91851851851852,1.00076839800378,2.8,2.83636363636364,0.6,1.4,6,4.6,0.834776245129031,3.58504727062214,0.136187329211767,Unethical,as.numeric.ignore.,40,,,,,3.145,0.968199492052261,3.1,3.1125,0.7,1.4,5.4,4,0.284250735216913,2.82861464987457,0.153085781215162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.91851851851852,3.145,-1.09986015594631,0.274262730175297,92,-0.635453266650093,0.18249030368713, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -1.0999, df = 92, p-value = 0.2743
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6354533  0.1824903
+sample estimates:
+mean of x mean of y 
+ 2.918519  3.145000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.09986015594631,-3.06327275451402,0.869484631103088,94,54,40,-0.22944,0.0438,-0.63903,0.18138,40.92624,43.55582,-0.12888,0.27579,-0.22757,0.04309,-0.63381,0.1799,40.99913,43.60804,0.27579,-0.11392,0.01048,-0.30423,0.09028,0.27791,-0.11442,0.01099,-0.31417,0.09053,0.65957,0.31378,1.38957,0.27579,-0.41616,-1.15908,0.32899,0.27579,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,94,15,61,94,94,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 94 ","Setting
+In a lab 
+      94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:25.076795Z,23,Zhong,2,,vuw,Secondary,Zhong.3,96,47,49,Ethical,as.numeric.ignore.,47,,,,,3.26382978723404,1.04682242419098,3.2,3.27179487179487,0.8,1.2,5.4,4.2,-0.140542181926424,2.14740607279605,0.152694744004423,Unethical,as.numeric.ignore.,49,,,,,3.28979591836735,0.911099358366763,3.2,3.29268292682927,0.8,1.4,5.2,3.8,-0.0156192938004616,2.08043288911622,0.130157051195252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.26382978723404,3.28979591836735,-0.129792835070706,0.897007668781834,94,-0.423186532642153,0.371254270375545, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.12979, df = 94, p-value = 0.897
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4231865  0.3712543
+sample estimates:
+mean of x mean of y 
+ 3.263830  3.289796 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.129792835070706,-2.08949970607364,1.83060343466761,96,47,49,-0.0265,0.04169,-0.42661,0.37375,48.94294,49.2525,-0.01495,0.89701,-0.02629,0.04102,-0.4232,0.37076,48.9514,49.25848,0.89701,-0.01339,0.01052,-0.21068,0.18553,0.89756,-0.01339,0.01075,-0.21388,0.18771,0.95307,0.46126,1.96976,0.89701,-0.04806,-0.77378,0.67791,0.89701,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,96,15,69,96,96,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 96 ","Setting
+Online (at home) 
+              96 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             96 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       96 ","analysis.type
+Secondary 
+       96 ","subset
+all 
+ 96 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:25.187699Z,23,Zhong,2,,westernkentucky,Secondary,Zhong.3,153,74,79,Ethical,as.numeric.ignore.,74,,,,,3.07027027027027,1.01572967627633,3,3.05,0.6,1,5.6,4.6,0.235654713531655,2.82623376562174,0.118076176469147,Unethical,as.numeric.ignore.,79,,,,,3.0126582278481,0.97156589026692,3,2.96,0.6,1,6.2,5.2,0.656107342988428,3.99605403939842,0.109309702809173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.07027027027027,3.0126582278481,0.358572465763667,0.720415776808001,151,-0.259840696661538,0.375064781505876, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = 0.35857, df = 151, p-value = 0.7204
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2598407  0.3750648
+sample estimates:
+mean of x mean of y 
+ 3.070270  3.012658 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.358572465763667,-1.60240092943376,2.3183600052703,153,74,79,0.05801,0.02618,-0.25923,0.37506,52.31292,51.63594,0.03272,0.72047,0.05772,0.02592,-0.25794,0.37319,52.30142,51.6278,0.72047,0.02917,0.00657,-0.12931,0.18539,0.72134,0.02918,0.00667,-0.13003,0.18756,1.11095,0.62488,1.97443,0.72047,0.10522,-0.47019,0.68028,0.72047,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,153,15,92,153,153,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+153 ","Setting
+In a lab 
+     153 ","Tablet
+Computers 
+      153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      153 ","analysis.type
+Secondary 
+      153 ","subset
+all 
+153 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:25.314726Z,23,Zhong,2,,yale,Secondary,Zhong.3,275,138,137,Ethical,as.numeric.ignore.,138,,,,,2.9695652173913,0.880909342349298,3,2.95,0.6,1,5.2,4.2,0.188172548798762,3.05259191557277,0.0749879830681235,Unethical,as.numeric.ignore.,137,,,,,2.97518248175183,0.796479479989156,3,2.97657657657658,0.6,1.4,4.6,3.2,-0.0392382313446176,2.11337802830852,0.0680478342942999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.9695652173913,2.97518248175183,-0.0554530307084542,0.955818109355434,273,-0.205041193611076,0.193806664890034, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Ethical and Unethical
+t = -0.055453, df = 273, p-value = 0.9558
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2050412  0.1938067
+sample estimates:
+mean of x mean of y 
+ 2.969565  2.975182 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0554530307084542,-2.01537177573075,1.90456722938224,275,138,137,-0.00669,0.01455,-0.24306,0.2297,49.73319,49.81134,-0.00377,0.95582,-0.00667,0.01447,-0.2424,0.22907,49.73393,49.81186,0.95582,-0.00336,0.00365,-0.12108,0.11451,0.9559,-0.00336,0.00368,-0.12168,0.11502,0.98794,0.64348,1.51684,0.95582,-0.01213,-0.44087,0.41663,0.95582,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,275,15,107,275,275,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+275 ","Setting
+Online (at home) 
+             275 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            275 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      275 ","analysis.type
+Secondary 
+      275 ","subset
+all 
+275 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

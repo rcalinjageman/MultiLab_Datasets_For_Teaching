@@ -1,0 +1,103 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~MIYAMOTO.3~~~~~~~
+	# 24 Miyamoto.3 - START
+
+	# 
+	# 24 Miyamoto.3 - aus >> ES r is close to 0:  0
+	# 
+	# 24 Miyamoto.3 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - brasilia >> ES r is close to 0:  0
+	# 
+	# 24 Miyamoto.3 - cas >> ES r is close to 0:  0.05
+	# 
+	# 24 Miyamoto.3 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - eltetab >> ES r is close to 0:  -0.03
+	# 
+	# 24 Miyamoto.3 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - hunancomp >> ES r is close to 0:  0.02
+	# 
+	# 24 Miyamoto.3 - ithaca >> ES r is close to 0:  0.04
+	# 
+	# 24 Miyamoto.3 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - lausanne >> ES r is close to 0:  -0.04
+	# 
+	# 24 Miyamoto.3 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 24 Miyamoto.3 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 24 Miyamoto.3 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - mturk >> ES r is close to 0:  -0.01
+	# 
+	# 24 Miyamoto.3 - ntnu >> ES r is close to 0:  0.03
+	# 
+	# 24 Miyamoto.3 - plu >> ES r is close to 0:  -0.01
+	# 
+	# 24 Miyamoto.3 - pscio >> ES r is close to 0:  -0.03
+	# 
+	# 24 Miyamoto.3 - psuabington >> ES r is close to 0:  0.04
+	# 
+	# 24 Miyamoto.3 - purkyne >> ES r is close to 0:  0.01
+	# 
+	# 24 Miyamoto.3 - sandiegosu >> ES r is close to 0:  -0.02
+	# 
+	# 24 Miyamoto.3 - santiagoon >> ES r is close to 0:  -0.04
+	# 
+	# 24 Miyamoto.3 - tilburgcomm >> ES r is close to 0:  0.05
+	# 
+	# 24 Miyamoto.3 - toronto >> ES r is close to 0:  0
+	# 
+	# 24 Miyamoto.3 - uiuc >> ES r is close to 0:  -0.01
+	# 
+	# 24 Miyamoto.3 - umich >> ES r is close to 0:  -0.02
+	# 
+	# 24 Miyamoto.3 - uniporto not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 24 Miyamoto.3 - wilfredlaur >> ES r is close to 0:  0
+	# 
+	# 24 Miyamoto.3 - williampat >> ES r is close to 0:  -0.02
+	# 
+	# 24 Miyamoto.3 - zhejiang >> ES r is close to 0:  0.03
+	# 
+	# 24 Miyamoto.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

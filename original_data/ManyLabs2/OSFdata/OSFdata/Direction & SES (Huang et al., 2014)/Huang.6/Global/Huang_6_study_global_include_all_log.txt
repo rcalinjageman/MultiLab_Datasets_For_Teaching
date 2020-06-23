@@ -1,0 +1,15 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.6~~~~~~
+	# 6 Huang.6 - START
+
+	# 
+	# 6 Huang.6 - all: var.equal set to: TRUE
+	# 
+	# 6 Huang.6 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

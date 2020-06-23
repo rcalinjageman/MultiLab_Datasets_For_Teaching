@@ -1,0 +1,29 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:47:33.560372Z,6,Bauer,1,,all,Global,Bauer.2,6616,3312,3304,Consumer,as.numeric.ignore.,3312,,,,,5.19897342995169,1.39592933136901,5,5.32867924528302,1,1,7,6,-0.7245245151476,3.25783175986229,0.0242559488829578,Individual,as.numeric.ignore.,3304,,,,,5.33625907990315,1.38953052644843,5,5.48638426626324,1,1,7,6,-0.760474649908376,3.21574653442358,0.0241739752351973,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.33625907990315,5.19897342995169,4.00888241575637,6.1677577721971e-05,6614,0.0701536786762376,0.204417621226675, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 4.0089, df = 6614, p-value = 6.168e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.07015368 0.20441762
+sample estimates:
+mean of x mean of y 
+ 5.336259  5.198973 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.00888241575637,2.04757687486594,5.96988525681923,6616,3312,3304,0.09857,0.00061,0.05035,0.14679,53.92612,52.77843,0.05557,6e-05,0.09856,0.00061,0.05034,0.14677,53.92567,52.77812,6e-05,0.04923,0.00015,0.02517,0.07321,6e-05,0.04927,0.00015,0.02517,0.07334,1.19577,1.09562,1.30506,6e-05,0.17879,0.09132,0.26625,6e-05,,,,,,,,,,,,,,,,,,,,,,,,,58,58,67,28,54,14,6481,13,782,6616,6616,0,68.0169286577993,"Execution
+        illegal   legal 
+    119    3033    3464 ","SubjectPool
+       No  Yes 
+ 113 2462 4041 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                    286                    3875                    2248                     207 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                           3863                                                             523 
+Unable to verify (completed online) but likely mostly computers 
+                                                           2230 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                     5459                                                                      1157 ","analysis.type
+Global 
+  6616 ","subset
+ all 
+6616 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,15 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SCHWARZ.2A~~~~~~~
+	# 71 Schwarz.2a - START
+
+ListIT = FALSE
+
+	# 
+	# 71 Schwarz.2a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

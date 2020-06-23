@@ -1,0 +1,36 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:56:49.791896Z,11,Hauser,1,,all,Global,Hauser.2,4107,2137,1970,SideEffect.1,,2137,1480,0.692559663079083,0.36036036036036,Yes,0.692559663079083,,,,,,,,,,,SideEffect.2,,2137,657,0.307440336920917,0.159970781592403,No,0.307440336920917,,,,,,,,,,,GreaterGood.1,,2137,400,,0.203045685279188,0.0973946919892866,Yes,0.203045685279188,,,,,,,,,,,GreaterGood.2,,2137,1570,,0.796954314720812,0.38227416605795,No,0.796954314720812,,,,,,,,,,,OR,8.83608242072663,,,,1.98061753250206e-227,,7.6536,10.2086,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.6536 10.2086
+sample estimates:
+odds ratio 
+  8.836082 
+",,,,"
+
+===========  ====  ====
+\             Yes    No
+===========  ====  ====
+SideEffect   1480   657
+GreaterGood   400  1570
+===========  ====  ====",,,,,,,,,,,,,,,,,,,,,,8.83608242072663,7.6536,10.2086,4274,2137,2137,1.20126,0.00162,1.12205,1.28086,88.51747,80.21758,0.60435,0,1.20105,0.00162,1.12185,1.28064,88.51338,80.21343,0,0.51489,0.00016,0.48928,0.53931,0,0.56936,0.00023,0.53512,0.60318,8.83608,7.6536,10.2086,0,2.17884,2.03518,2.32323,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,4054,13,753,4107,4107,0,68.7119551984417,"Execution
+        illegal   legal 
+     90    2015    2002 ","SubjectPool
+       No  Yes 
+  74 1588 2445 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                    201                    2361                    1317                     228 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                           2465                                                             335 
+Unable to verify (completed online) but likely mostly computers 
+                                                           1307 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                     3484                                                                       623 ","analysis.type
+Global 
+  4107 ","subset
+ all 
+4107 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

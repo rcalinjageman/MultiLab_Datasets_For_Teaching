@@ -1,0 +1,16 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~KNOBE.1~~~~~~~
+	# 79 Knobe.1 - START
+
+	# 
+	# 79 Knobe.1 - all: var.equal set to: FALSE[1] "The observed noncentrality parameter of the noncentral t-distribution has exceeded 37.62 in magnitude (R's limitation for accurate probabilities from the noncentral t-distribution) in the function's iterative search for the appropriate value(s). The results may be fine, but they might be inaccurate; use caution."
+
+	# 
+	# 79 Knobe.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

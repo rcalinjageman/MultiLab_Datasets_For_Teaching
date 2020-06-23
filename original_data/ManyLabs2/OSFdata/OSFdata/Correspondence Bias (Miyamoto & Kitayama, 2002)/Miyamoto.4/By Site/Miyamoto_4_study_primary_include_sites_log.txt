@@ -1,0 +1,77 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~MIYAMOTO.4~~~~~~~
+	# 25 Miyamoto.4 - START
+
+	# 
+	# 25 Miyamoto.4 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - hkust >> ES r is close to 0:  -0.01
+	# 
+	# 25 Miyamoto.4 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - hunancomp >> ES r is close to 0:  -0.04
+	# 
+	# 25 Miyamoto.4 - johannesburg >> ES r is close to 0:  0.04
+	# 
+	# 25 Miyamoto.4 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - marian >> ES r is close to 0:  0.01
+	# 
+	# 25 Miyamoto.4 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 25 Miyamoto.4 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 25 Miyamoto.4 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - mturk_india >> ES r is close to 0:  -0.01
+	# 
+	# 25 Miyamoto.4 - psuabington >> ES r is close to 0:  -0.03
+	# 
+	# 25 Miyamoto.4 - ubctab >> ES r is close to 0:  0.01
+	# 
+	# 25 Miyamoto.4 - ucron >> ES r is close to 0:  0.02
+	# 
+	# 25 Miyamoto.4 - uniporto not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 25 Miyamoto.4 - wpi >> ES r is close to 0:  0.04
+	# 
+	# 25 Miyamoto.4 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

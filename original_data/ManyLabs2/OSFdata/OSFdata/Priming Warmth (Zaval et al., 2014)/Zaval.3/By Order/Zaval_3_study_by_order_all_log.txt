@@ -1,0 +1,55 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZAVAL.3~~~~~~~
+	# 77 Zaval.3 - START
+
+	# 
+	# 77 Zaval.3 - 1: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 1 >> ES r is close to 0:  0.04
+	# 
+	# 77 Zaval.3 - 2: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 2 >> ES r is close to 0:  0.02
+	# 
+	# 77 Zaval.3 - 3: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 4: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 5: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 5 >> ES r is close to 0:  0
+	# 
+	# 77 Zaval.3 - 6: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 6 >> ES r is close to 0:  -0.01
+	# 
+	# 77 Zaval.3 - 7: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 8: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 9: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 9 >> ES r is close to 0:  0.01
+	# 
+	# 77 Zaval.3 - 10: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 11: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 11 >> ES r is close to 0:  0.01
+	# 
+	# 77 Zaval.3 - 12: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 13: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - 14: var.equal set to: FALSE
+	# 
+	# 77 Zaval.3 - 15: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

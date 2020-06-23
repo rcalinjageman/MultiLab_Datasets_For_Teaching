@@ -1,0 +1,387 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:06:23.435691Z,21,Hsee,2,,1,Order,Hsee.1,480,243,237,Scarf,as.numeric.ignore.,243,,,,,5.51440329218107,0.883034747679247,6,5.72307692307692,0,2,6,4,-2.06440292091992,7.006814655573,0.0566467054751563,Coat,as.numeric.ignore.,237,,,,,4.66244725738397,1.34510377110668,5,4.85340314136126,1,1,6,5,-0.876720002908405,3.03721708698464,0.0873738790888161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.851956034797104,5.51440329218107,4.66244725738397,8.18166274894017,3.63644767780398e-15,406.117431376942,0.647255061940404,1.0566570076538,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.1817, df = 406.12, p-value = 3.636e-15
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6472551 1.0566570
+sample estimates:
+mean of x mean of y 
+ 5.514403  4.662447 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.18166274894017,6.13790965961943,10.216072884224,480,243,237,0.74694,0.00892,0.56036,0.93267,77.24497,70.13077,0.40262,0,0.74577,0.00889,0.55948,0.9312,77.20956,70.10199,0,0.35048,0.00161,0.27029,0.42334,0,0.36599,0.0021,0.27718,0.45175,3.87597,2.76315,5.42856,0,1.3548,1.01637,1.69167,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,480,1,115,480,480,0,74.5833333333333,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 175 304 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      10                     216                     249                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             230 
+Unable to verify (completed online) but likely mostly computers 
+                                                            249 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       479 ","analysis.type
+Order 
+  480 ","subset
+all 
+480 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:23.588722Z,21,Hsee,2,,2,Order,Hsee.1,515,261,254,Scarf,as.numeric.ignore.,261,,,,,5.52490421455939,0.917957856007151,6,5.75598086124402,0,1,6,5,-2.18080010896071,7.50437800680142,0.0568201648345098,Coat,as.numeric.ignore.,254,,,,,4.65354330708661,1.30294863382478,5,4.79901960784314,1,1,6,5,-0.757374030071918,2.69968421517172,0.081754268409019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.871360907472774,5.52490421455939,4.65354330708661,8.75207515944608,4.15934931939778e-17,453.487981406144,0.675703742490083,1.06701807245546,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.7521, df = 453.49, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6757037 1.0670181
+sample estimates:
+mean of x mean of y 
+ 5.524904  4.653543 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.75207515944608,6.70660052364349,10.7886149181669,515,261,254,0.7714,0.00835,0.59111,0.95089,77.9764,70.72813,0.41456,0,0.77027,0.00832,0.59025,0.9495,77.94295,70.70069,0,0.36044,0.00147,0.28392,0.43004,0,0.37739,0.00195,0.29194,0.45994,4.05179,2.92167,5.61101,0,1.39916,1.07216,1.72473,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,515,1,120,515,515,0,78.252427184466,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 176 337 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      17                     231                     260                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             253 
+Unable to verify (completed online) but likely mostly computers 
+                                                            260 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       513 ","analysis.type
+Order 
+  515 ","subset
+all 
+515 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:23.734541Z,21,Hsee,2,,3,Order,Hsee.1,497,238,259,Scarf,as.numeric.ignore.,238,,,,,5.61344537815126,0.812447920537768,6,5.81770833333333,0,2,6,4,-2.40352908853783,8.47147571094653,0.0526631767284794,Coat,as.numeric.ignore.,259,,,,,4.53281853281853,1.37597187988303,5,4.69856459330144,1,1,6,5,-0.793020460127449,2.88180516335375,0.0854987325027151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.08062684533273,5.61344537815126,4.53281853281853,10.7614630508048,4.81760475133689e-24,424.403639344382,0.883251544968227,1.27800214569723,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 10.761, df = 424.4, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.8832515 1.2780021
+sample estimates:
+mean of x mean of y 
+ 5.613445  4.532819 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.7614630508048,8.66652495890856,12.8451692226698,497,238,259,0.9663,0.009,0.77819,1.1534,83.30525,75.27838,0.50557,0,0.96483,0.00897,0.77701,1.15165,83.26859,75.24565,0,0.43543,0.00132,0.36297,0.5,0,0.46658,0.00202,0.3803,0.5493,5.76999,4.10201,8.10138,0,1.75267,1.41148,2.09203,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,497,1,117,497,497,0,71.6297786720322,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 209 287 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      19                     228                     246                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             250 
+Unable to verify (completed online) but likely mostly computers 
+                                                            246 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       496 ","analysis.type
+Order 
+  497 ","subset
+all 
+497 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:23.870210Z,21,Hsee,2,,4,Order,Hsee.1,506,263,243,Scarf,as.numeric.ignore.,263,,,,,5.52471482889734,0.877168748751857,6,5.7345971563981,0,1,6,5,-2.25124703247235,8.45841170805825,0.0540885421750946,Coat,as.numeric.ignore.,243,,,,,4.559670781893,1.36950973562109,5,4.7025641025641,1,1,6,5,-0.642697423032735,2.49786112457342,0.0878540905020724,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.965044047004334,5.52471482889734,4.559670781893,9.3539814932203,5.76855795913161e-19,406.305896762891,0.762231730986919,1.16785636302175,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.354, df = 406.31, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7622317 1.1678564
+sample estimates:
+mean of x mean of y 
+ 5.524715  4.559671 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.3539814932203,7.28603469658464,11.4114814766491,506,263,243,0.83232,0.0086,0.64831,1.0154,79.73861,72.19149,0.44383,0,0.83108,0.00858,0.64735,1.01389,79.70362,72.16209,0,0.38461,0.00144,0.3087,0.45313,0,0.40546,0.00199,0.3191,0.48863,4.52521,3.2411,6.30743,0,1.50966,1.17591,1.84173,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,506,1,118,506,506,0,77.6679841897233,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 204 299 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      13                     224                     261                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             242 
+Unable to verify (completed online) but likely mostly computers 
+                                                            261 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       503 ","analysis.type
+Order 
+  506 ","subset
+all 
+506 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:23.999002Z,21,Hsee,2,,5,Order,Hsee.1,479,239,240,Scarf,as.numeric.ignore.,239,,,,,5.50627615062762,0.947665388270721,6,5.74093264248705,0,1,6,5,-2.31855061765614,8.30575835179197,0.0612993781196075,Coat,as.numeric.ignore.,240,,,,,4.60416666666667,1.31835423162964,5,4.765625,1,1,6,5,-0.81397092611537,2.85445000400326,0.0850993997250614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.902109483960948,5.50627615062762,4.60416666666667,8.60146349172725,1.4493488286329e-16,434.023634171626,0.69597638071486,1.10824258720704,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.6015, df = 434.02, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6959764 1.1082426
+sample estimates:
+mean of x mean of y 
+ 5.506276  4.604167 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.60146349172725,6.55514371980991,10.638614648266,479,239,240,0.78602,0.009,0.59903,0.97218,78.40731,71.08271,0.42165,0,0.78479,0.00897,0.59808,0.97065,78.37108,71.05281,0,0.36644,0.00157,0.28747,0.43792,0,0.3843,0.0021,0.29581,0.46965,4.16072,2.96392,5.83192,0,1.42569,1.08651,1.76335,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,479,1,118,479,479,0,78.0793319415449,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 196 279 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      12                     222                     234                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             241 
+Unable to verify (completed online) but likely mostly computers 
+                                                            234 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       475 ","analysis.type
+Order 
+  479 ","subset
+all 
+479 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.152156Z,21,Hsee,2,,6,Order,Hsee.1,474,243,231,Scarf,as.numeric.ignore.,243,,,,,5.64609053497942,0.775566404615294,6,5.83589743589744,0,1,6,5,-2.75762497852155,11.7777961259919,0.04975260805323,Coat,as.numeric.ignore.,231,,,,,4.72727272727273,1.23326745542108,5,4.88108108108108,1,1,6,5,-0.892248435974505,3.41025010697568,0.0811430412633022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.918817807706696,5.64609053497942,4.72727272727273,9.65332495413097,6.977069611022e-20,383.878220355369,0.731675499330111,1.10596011608328,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.6533, df = 383.88, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7316755 1.1059601
+sample estimates:
+mean of x mean of y 
+ 5.646091  4.727273 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.65332495413097,7.5722547238855,11.723115908268,474,243,231,0.88707,0.00927,0.69583,1.07727,81.24789,73.47529,0.46951,0,0.88566,0.00924,0.69473,1.07555,81.2099,73.4426,0,0.40605,0.00147,0.32912,0.47488,0,0.43087,0.00212,0.34184,0.51635,4.99763,3.53284,7.05647,0,1.60896,1.2621,1.95395,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,474,1,119,474,474,0,75.3164556962025,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 186 286 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      27                     199                     242                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             230 
+Unable to verify (completed online) but likely mostly computers 
+                                                            242 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       472 ","analysis.type
+Order 
+  474 ","subset
+all 
+474 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.291887Z,21,Hsee,2,,7,Order,Hsee.1,542,256,286,Scarf,as.numeric.ignore.,256,,,,,5.484375,0.849307676529398,6,5.66019417475728,0,1,6,5,-1.91372635723941,7.15103479879172,0.0530817297830874,Coat,as.numeric.ignore.,286,,,,,4.63636363636364,1.44632846501344,5,4.84782608695652,1,1,6,5,-0.973397911159176,2.99755632547022,0.0855231950034309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.848011363636363,5.484375,4.63636363636364,8.42473996445369,4.45528758026063e-16,469.075093916842,0.650216379188286,1.04580634808444,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.4247, df = 469.08, p-value = 4.455e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6502164 1.0458063
+sample estimates:
+mean of x mean of y 
+ 5.484375  4.636364 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.42473996445369,6.38783519919603,10.4532655299184,542,256,286,0.72486,0.00789,0.5496,0.89939,76.57305,69.58677,0.39174,0,0.72385,0.00787,0.54884,0.89814,76.54214,69.56185,0,0.34084,0.00144,0.26506,0.41024,0,0.35504,0.00186,0.27154,0.4359,3.72381,2.70979,5.11059,0,1.31475,0.99687,1.63132,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,542,1,119,542,542,0,78.5977859778598,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 240 300 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      20                     222                     293                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             247 
+Unable to verify (completed online) but likely mostly computers 
+                                                            293 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       540 ","analysis.type
+Order 
+  542 ","subset
+all 
+542 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.408717Z,21,Hsee,2,,8,Order,Hsee.1,532,288,244,Scarf,as.numeric.ignore.,288,,,,,5.51388888888889,0.800575673633725,6,5.69396551724138,0,2,6,4,-1.84118966646596,6.13547795296442,0.0471743739732829,Coat,as.numeric.ignore.,244,,,,,4.54918032786885,1.43502604049382,5,4.73469387755102,1,1,6,5,-0.818918446911668,2.82911216206155,0.0918681284236431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.964708561020037,5.51388888888889,4.54918032786885,9.34140385223966,9.45713366818094e-19,366.471617535758,0.761627823610222,1.16778929842985,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.3414, df = 366.47, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7616278 1.1677893
+sample estimates:
+mean of x mean of y 
+ 5.513889  4.549180 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.34140385223966,7.26239448666942,11.4089578541562,532,288,244,0.81279,0.00819,0.63189,0.99268,79.18299,71.72621,0.43452,0,0.81164,0.00817,0.631,0.99128,79.14998,71.69869,0,0.37599,0.00139,0.30084,0.44404,0,0.39538,0.00189,0.31045,0.47725,4.36768,3.14599,6.05284,0,1.47423,1.14613,1.80053,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,532,1,120,532,532,0,79.1353383458647,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 206 323 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      22                     240                     262                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             267 
+Unable to verify (completed online) but likely mostly computers 
+                                                            262 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       529 ","analysis.type
+Order 
+  532 ","subset
+all 
+532 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.575225Z,21,Hsee,2,,9,Order,Hsee.1,656,323,333,Scarf,as.numeric.ignore.,323,,,,,5.39318885448916,0.947479519239597,6,5.5945945945946,0,2,6,4,-1.70996566996226,5.45265648564214,0.0527191706860812,Coat,as.numeric.ignore.,333,,,,,4.55855855855856,1.39286921962409,5,4.74157303370787,1,1,6,5,-0.814174638160614,2.8312660763647,0.0763287630516681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.834630295930606,5.39318885448916,4.55855855855856,8.9972303647455,3.19166715015313e-18,586.659041048797,0.652437876590543,1.01682271527067,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.9972, df = 586.66, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6524379 1.0168227
+sample estimates:
+mean of x mean of y 
+ 5.393189  4.558559 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.9972303647455,6.96721167371987,11.0200514288577,656,323,333,0.70265,0.00648,0.54411,0.86062,75.88622,69.03514,0.3807,0,0.70184,0.00646,0.54349,0.85963,75.86109,69.01504,0,0.33188,0.00121,0.26286,0.39574,0,0.34494,0.00153,0.26918,0.41859,3.57677,2.68293,4.76356,0,1.27446,0.98691,1.56099,0,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,25,53,11,516,1,119,656,656,0,60.9756097560976,< table of extent 0 >,"SubjectPool
+ No Yes 
+350 306 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     11                     238                     402                       5 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            254                                                             402 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      656 ","analysis.type
+Order 
+  656 ","subset
+all 
+656 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.694903Z,21,Hsee,2,,10,Order,Hsee.1,473,224,249,Scarf,as.numeric.ignore.,224,,,,,5.50892857142857,0.878191534664673,6,5.70555555555556,0,1,6,5,-2.13746445340688,8.02324603537656,0.0586766400478646,Coat,as.numeric.ignore.,249,,,,,4.5140562248996,1.40592181218847,5,4.67164179104478,1,1,6,5,-0.648150114308112,2.59266642904325,0.0890966746725152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.994872346528973,5.50892857142857,4.5140562248996,9.32554000657605,6.29580927049107e-19,421.58099277342,0.785176390089581,1.20456830296836,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.3255, df = 421.58, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7851764 1.2045683
+sample estimates:
+mean of x mean of y 
+ 5.508929  4.514056 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.32554000657605,7.26199730504095,11.379005849911,473,224,249,0.85878,0.00926,0.66875,1.04788,80.47685,72.81567,0.45631,0,0.85741,0.00923,0.66768,1.04621,80.43908,72.78357,0,0.39479,0.00151,0.31732,0.46436,0,0.41747,0.00213,0.32867,0.50286,4.74766,3.36348,6.69019,0,1.55765,1.21298,1.90064,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,473,1,119,473,473,0,71.0359408033827,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 192 280 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      19                     232                     218                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             254 
+Unable to verify (completed online) but likely mostly computers 
+                                                            218 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       472 ","analysis.type
+Order 
+  473 ","subset
+all 
+473 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.804585Z,21,Hsee,2,,11,Order,Hsee.1,498,253,245,Scarf,as.numeric.ignore.,253,,,,,5.56126482213439,0.836423781992719,6,5.76354679802956,0,1,6,5,-2.1715426779938,7.93758015262737,0.0525855126310279,Coat,as.numeric.ignore.,245,,,,,4.71428571428571,1.31198760489947,5,4.88832487309645,1,1,6,5,-0.902486846047426,3.03537414965986,0.0838198134340669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.846979107848673,5.56126482213439,4.71428571428571,8.55971358925368,2.26647325081228e-16,412.061702366727,0.652470405598942,1.0414878100984,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 8.5597, df = 412.06, p-value = 2.266e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6524704 1.0414878
+sample estimates:
+mean of x mean of y 
+ 5.561265  4.714286 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.55971358925368,6.50974023805092,10.6001074612797,498,253,245,0.76724,0.00863,0.58349,0.95013,77.85302,70.62698,0.41254,0,0.76608,0.0086,0.58261,0.94869,77.81851,70.59871,0,0.35876,0.00153,0.28056,0.42976,0,0.37546,0.00202,0.28829,0.45961,4.02135,2.88158,5.60321,0,1.39162,1.05834,1.72334,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,25,54,11,498,1,119,498,498,0,78.5140562248996,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 196 301 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      18                     220                     249                      10 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             248 
+Unable to verify (completed online) but likely mostly computers 
+                                                            249 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       497 ","analysis.type
+Order 
+  498 ","subset
+all 
+498 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:24.951456Z,21,Hsee,2,,12,Order,Hsee.1,510,267,243,Scarf,as.numeric.ignore.,267,,,,,5.53932584269663,0.83246413513408,6,5.73488372093023,0,1,6,5,-2.25988819265607,8.89806101748053,0.0509459777142457,Coat,as.numeric.ignore.,243,,,,,4.67489711934156,1.22864716375703,5,4.81538461538462,1,1,6,5,-0.822362890836504,3.28040237464151,0.0788177523037991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.864428723355066,5.53932584269663,4.67489711934156,9.21079623884004,1.56099370837566e-18,419.79291188011,0.679955206975219,1.04890223973491,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.2108, df = 419.79, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6799552 1.0489022
+sample estimates:
+mean of x mean of y 
+ 5.539326  4.674897 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.21079623884004,7.14923920240392,11.2623400925741,510,267,243,0.81663,0.00851,0.63385,0.99852,79.29291,71.81796,0.43636,0,0.81542,0.00849,0.63291,0.99704,79.25841,71.78915,0,0.37829,0.00144,0.30235,0.44699,0,0.39807,0.00197,0.3121,0.48093,4.39821,3.15717,6.11722,0,1.4812,1.14968,1.81111,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,510,1,120,510,510,0,74.3137254901961,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 217 292 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      22                     208                     275                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             234 
+Unable to verify (completed online) but likely mostly computers 
+                                                            275 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       509 ","analysis.type
+Order 
+  510 ","subset
+all 
+510 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:25.086689Z,21,Hsee,2,,13,Order,Hsee.1,490,242,248,Scarf,as.numeric.ignore.,242,,,,,5.44214876033058,0.963418194131027,6,5.65979381443299,0,1,6,5,-1.98376349822731,6.78017316978942,0.0619308671080497,Coat,as.numeric.ignore.,248,,,,,4.68145161290323,1.25629536584046,5,4.83,1,1,6,5,-0.745643402974165,2.75908932578924,0.0797748355057444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.760697147427353,5.44214876033058,4.68145161290323,7.5322247254018,2.6431924777657e-13,462.329237573852,0.562236218980162,0.959158075874543,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 7.5322, df = 462.33, p-value = 2.643e-13
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.5622362 0.9591581
+sample estimates:
+mean of x mean of y 
+ 5.442149  4.681452 
+",,,,,,,,,,,,,,,,,,,,,,,,,,7.5322247254018,5.50920982465447,9.54754211779864,490,242,248,0.68059,0.00864,0.4978,0.86269,75.19356,68.48314,0.36966,0,0.67955,0.00861,0.49703,0.86137,75.16043,68.45684,0,0.32272,0.00164,0.24198,0.39673,0,0.33468,0.00205,0.24687,0.41976,3.43652,2.46676,4.78149,0,1.23446,0.90291,1.56475,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,24,53,10,490,1,116,490,490,0,78.5714285714286,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 215 271 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      22                     225                     231                       8 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             255 
+Unable to verify (completed online) but likely mostly computers 
+                                                            231 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       486 ","analysis.type
+Order 
+  490 ","subset
+all 
+490 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:25.193255Z,21,Hsee,2,,14,Order,Hsee.1,494,256,238,Scarf,as.numeric.ignore.,256,,,,,5.3671875,0.981164524190215,6,5.56796116504854,0,1,6,5,-1.68513933952353,5.50438221976974,0.0613227827618885,Coat,as.numeric.ignore.,238,,,,,4.68487394957983,1.29810889100453,5,4.83854166666667,1,1,6,5,-0.862120818098329,3.0866995847867,0.0841439016725307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.682313550420168,5.3671875,4.68487394957983,6.55323491255796,1.57706474736063e-10,440.198316783793,0.477682247642595,0.886944853197741,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 6.5532, df = 440.2, p-value = 1.577e-10
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.4776822 0.8869449
+sample estimates:
+mean of x mean of y 
+ 5.367188  4.684874 
+",,,,,,,,,,,,,,,,,,,,,,,,,,6.55323491255796,4.54250742199958,8.55684916118978,494,256,238,0.59008,0.00846,0.40903,0.77049,72.24314,66.1752,0.3235,0,0.58918,0.00843,0.4084,0.76932,72.21297,66.15193,0,0.28334,0.00172,0.20063,0.35992,0,0.29131,0.00204,0.20339,0.37679,2.91621,2.0999,4.04516,0,1.07029,0.74189,1.39752,0,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,24,52,10,494,1,117,494,494,0,78.9473684210526,< table of extent 0 >,"SubjectPool
+ No Yes 
+192 302 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     19                     229                     238                       8 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            256                                                             238 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      494 ","analysis.type
+Order 
+  494 ","subset
+all 
+494 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:06:25.341284Z,21,Hsee,2,,15,Order,Hsee.1,500,254,246,Scarf,as.numeric.ignore.,254,,,,,5.47244094488189,0.939487469839207,6,5.69117647058824,0,1,6,5,-2.04069447672104,7.00760939840575,0.0589486866805171,Coat,as.numeric.ignore.,246,,,,,4.49593495934959,1.3271050816696,5,4.63131313131313,1,1,6,5,-0.668423986499799,2.75626640548258,0.0846131295860554,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.976505985532296,5.47244094488189,4.49593495934959,9.46934318095077,1.73436345969538e-19,440.138454565842,0.773831525087411,1.17918044597718,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Scarf and Coat
+t = 9.4693, df = 440.14, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7738315 1.1791804
+sample estimates:
+mean of x mean of y 
+ 5.472441  4.495935 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.46934318095077,7.40712316424446,11.5217515203637,500,254,246,0.84707,0.00872,0.6626,1.03067,80.15226,72.54037,0.45081,0,0.8458,0.00869,0.6616,1.02912,80.11667,72.51027,0,0.39062,0.00144,0.31502,0.45876,0,0.41253,0.00201,0.32611,0.49575,4.64792,3.32616,6.48457,0,1.53642,1.20182,1.86943,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,25,54,11,500,1,115,500,500,0,76.6,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 212 286 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      21                     218                     254                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             244 
+Unable to verify (completed online) but likely mostly computers 
+                                                            254 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       498 ","analysis.type
+Order 
+  500 ","subset
+all 
+500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

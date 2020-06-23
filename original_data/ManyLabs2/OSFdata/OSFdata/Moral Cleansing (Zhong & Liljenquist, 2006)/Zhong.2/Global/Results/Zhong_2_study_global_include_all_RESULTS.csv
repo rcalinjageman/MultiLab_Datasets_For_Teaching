@@ -1,0 +1,44 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:08:43.497103Z,23,Zhong,2,,all,Global,Zhong.2,7001,3493,3508,Clean,Product,7001,,,,,,,,,,,,,,,,Other,Product,7001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,-0.565251485741047,0.571920839681646,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: Response ~ Condition * Product + (1 | uID)
+
+REML criterion at convergence: 45551.2
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.54046 -0.61212 -0.03468  0.58938  2.62827 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ uID      (Intercept) 0.5298   0.7279  
+ Residual             1.0730   1.0359  
+Number of obs: 14002, groups:  uID, 7001
+
+Fixed effects:
+                                  Estimate Std. Error         df t value Pr(>|t|)    
+(Intercept)                      3.947e+00  2.142e-02  1.262e+04 184.253   <2e-16 ***
+ConditionUnethical               3.876e-03  3.026e-02  1.262e+04   0.128    0.898    
+ProductOther                    -8.244e-01  2.479e-02  6.999e+03 -33.262   <2e-16 ***
+ConditionUnethical:ProductOther -1.979e-02  3.502e-02  6.999e+03  -0.565    0.572    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) CndtnU PrdctO
+CndtnUnthcl -0.708              
+ProductOthr -0.579  0.410       
+CndtnUnt:PO  0.410 -0.579 -0.708",,,,,6998.99907804164,,,,,,,,,,,,,,,,,,,,,-0.565251485741047,-2.52521765077347,1.39475505858345,6999.99908,3499.99954,3499.99954,-0.01351,0.00057,-0.06036,0.03334,49.46096,49.61884,-0.00762,0.57193,-0.01351,0.00057,-0.06036,0.03334,49.46102,49.61888,0.57193,-0.00676,0.00014,-0.03017,0.01667,0.57195,-0.00676,0.00014,-0.03018,0.01667,0.97579,0.89629,1.06234,0.57193,-0.02451,-0.10949,0.06047,0.57193,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,26,53,11,6879,15,121,7001,7001,0,78.5744893586631,< table of extent 0 >,"SubjectPool
+       No  Yes 
+  29 2868 4104 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     29                     265                    3019                    3610                      78 ","Tablet
+                                                                                                                      Computers 
+                                                             29                                                            3362 
+Unable to verify (completed online) but likely mostly computers 
+                                                           3610 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       29                                                                      6972 ","analysis.type
+Global 
+  7001 ","subset
+ all 
+7001 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,23 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.3~~~~~~
+	# 3 Huang.3 - START
+
+	# 
+	# 3 Huang.3 - hkust: var.equal set to: TRUE
+	# 
+	# 3 Huang.3 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 3 Huang.3 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 3 Huang.3 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 3 Huang.3 - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 3 Huang.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

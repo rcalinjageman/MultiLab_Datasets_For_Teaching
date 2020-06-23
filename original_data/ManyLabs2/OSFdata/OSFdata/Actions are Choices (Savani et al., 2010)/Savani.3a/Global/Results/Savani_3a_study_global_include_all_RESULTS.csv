@@ -1,0 +1,53 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:02:32.080907Z,19,Savani,2,,all,Global,Savani.3a,6010,2941,3069,Interpersonal.1,,2941,4854,0.206307378442707,0.100956738768719,0,0.206307378442707,,,,,,,,,,,Interpersonal.2,,2941,18674,0.793692621557294,0.388394342762063,1,0.793692621557294,,,,,,,,,,,Personal.1,,2941,6504,,0.264907135874878,0.135274542429285,0,0.264907135874878,,,,,,,,,,,Personal.2,,2941,18048,,0.735092864125122,0.375374376039933,1,0.735092864125122,,,,,,,,,,,lm.OR,,,,-0.334917590857725,8.43926684263748e-31,,,,,,lm.OR,,"Generalized linear mixed model fit by maximum likelihood (Adaptive Gauss-Hermite Quadrature, nAGQ = 0) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: Response ~ Importance * Condition + (1 | uID/trialID)
+
+     AIC      BIC   logLik deviance df.resid 
+ 51234.1  51286.8 -25611.1  51222.1    48074 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.5074  0.3601  0.4522  0.5515  1.2668 
+
+Random effects:
+ Groups      Name        Variance  Std.Dev. 
+ trialID:uID (Intercept) 4.753e-13 6.894e-07
+ uID         (Intercept) 5.111e-01 7.149e-01
+Number of obs: 48080, groups:  trialID:uID, 48080; uID, 6010
+
+Fixed effects:
+                             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                   1.40785    0.02125  66.252  < 2e-16 ***
+Importance                   -0.05146    0.01050  -4.900 9.59e-07 ***
+ConditionPersonal            -0.33492    0.02903 -11.538  < 2e-16 ***
+Importance:ConditionPersonal -0.06097    0.01366  -4.464 8.04e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) Imprtn CndtnP
+Importance  -0.028              
+CondtnPrsnl -0.732  0.020       
+Imprtnc:CnP  0.021 -0.769 -0.048",,,,"
+
+=============  ====  =====
+\                 0      1
+=============  ====  =====
+Interpersonal  4854  18674
+Personal       6504  18048
+=============  ====  =====",48076,,,,,,,,,,,,,,,,,,,,,-0.33492,-0.37736,-0.29248,5882,2941,2941,-0.18465,0.00014,-0.20805,-0.16125,42.67519,44.80589,-0.10388,0,-0.18463,0.00014,-0.20802,-0.16123,42.67611,44.80655,0,-0.09193,3e-05,-0.11722,-0.06653,0,-0.09219,0.00017,-0.11776,-0.06663,0.7154,0.68567,0.74641,0,-0.33492,-0.37736,-0.29248,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,5886,15,121,6010,6010,0,75.8569051580699,< table of extent 0 >,"SubjectPool
+       No  Yes 
+  26 2478 3506 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     26                     167                    2616                    3140                      61 ","Tablet
+                                                                                                                      Computers 
+                                                             26                                                            2844 
+Unable to verify (completed online) but likely mostly computers 
+                                                           3140 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       26                                                                      5984 ","analysis.type
+Global 
+  6010 ","subset
+ all 
+6010 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

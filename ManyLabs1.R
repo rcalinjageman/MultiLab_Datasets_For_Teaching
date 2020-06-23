@@ -31,8 +31,6 @@
   studies <- list()
 
 
-
-
   studies$sunk <- list(iv = "sunkgroup",
                        dv = "sunkDV",
                        iv_levels = c("paid", "free"),
@@ -422,11 +420,11 @@
         }
         # Save the plot
         myplot <- myplot + ggplot2::ggtitle(lab)
-        ggplot2::ggsave(plot = myplot, filename = paste(study_path, "/plots/", lab, ".jpg", sep=""))
+        ggplot2::ggsave(plot = myplot, filename = paste(study_path, "/plots/", cstudy$name, " - ", lab, ".jpg", sep=""))
         
         # Save the raw data for this lab
         just_study_data <- study_data[!colnames(study_data) %in% c("iv", "dv")]
-        write.csv(x = just_study_data[just_study_data$referrer == lab, ], file = paste(study_path, "/data/", lab, ".csv", sep=""))
+        write.csv(x = just_study_data[just_study_data$referrer == lab, ], file = paste(study_path, "/data/", cstudy$name, " - ", lab, ".csv", sep=""))
       }      
     }
     

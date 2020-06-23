@@ -1,0 +1,51 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SAVANI.3A~~~~~~~
+	# 57 Savani.3a - START
+
+	# 
+	# 57 Savani.3a - amity >> ES r is close to 0:  -0.01
+	# 
+	# 57 Savani.3a - amityon >> ES r is close to 0:  -0.01
+	# 
+	# 57 Savani.3a - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 57 Savani.3a - isb >> ES r is close to 0:  -0.02
+	# 
+	# 57 Savani.3a - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 57 Savani.3a - kenyon >> ES r is close to 0:  -0.01
+	# 
+	# 57 Savani.3a - krakowon >> ES r is close to 0:  -0.04
+	# 
+	# 57 Savani.3a - mturk >> ES r is close to 0:  -0.04
+	# 
+	# 57 Savani.3a - mturk_india >> ES r is close to 0:  -0.04
+	# 
+	# 57 Savani.3a - munich >> ES r is close to 0:  -0.02
+	# 
+	# 57 Savani.3a - northumbria >> ES r is close to 0:  0.03
+	# 
+	# 57 Savani.3a - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 57 Savani.3a - seznam >> ES r is close to 0:  -0.02
+	# 
+	# 57 Savani.3a - swps >> ES r is close to 0:  -0.02
+	# 
+	# 57 Savani.3a - tanzania >> ES r is close to 0:  0.02
+	# 
+	# 57 Savani.3a - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 57 Savani.3a - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 57 Savani.3a - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 57 Savani.3a - yale >> ES r is close to 0:  -0.01
+	# 
+	# 57 Savani.3a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~

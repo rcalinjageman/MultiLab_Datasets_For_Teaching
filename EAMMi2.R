@@ -276,11 +276,11 @@
         }
         # Save the plot
         myplot <- myplot + ggplot2::ggtitle(lab_label)
-        ggplot2::ggsave(plot = myplot, filename = paste(study_path, "/plots/", lab_label, ".jpg", sep=""))
+        ggplot2::ggsave(plot = myplot, filename = paste(study_path, "/plots/", cstudy$name, " - ", lab_label, ".jpg", sep=""))
         
         # Save the raw data for this lab
         just_study_data <- study_data[!colnames(study_data) %in% c("iv", "dv")]
-        write.csv(x = just_study_data[just_study_data$referrer == lab, ], file = paste(study_path, "/data/", lab_label, ".csv", sep=""))
+        write.csv(x = just_study_data[just_study_data$referrer == lab, ], file = paste(study_path, "/data/", cstudy$name, " - ", lab_label, ".csv", sep=""))
       }      
     }
     

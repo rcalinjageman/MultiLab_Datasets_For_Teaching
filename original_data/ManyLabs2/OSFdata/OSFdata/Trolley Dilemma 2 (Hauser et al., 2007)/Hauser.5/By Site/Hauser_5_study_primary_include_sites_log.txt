@@ -1,0 +1,65 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HAUSER.5~~~~~~~
+	# 48 Hauser.5 - START
+
+	# 
+	# 48 Hauser.5 - amity >> ES r is close to 0:  -0.04
+	# 
+	# 48 Hauser.5 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - carleton >> ES r is close to 0:  -0.04
+	# 
+	# 48 Hauser.5 - csunorthonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - fmkbelgrade >> ES r is close to 0:  -0.02
+	# 
+	# 48 Hauser.5 - grazvienna >> ES r is close to 0:  0.03
+	# 
+	# 48 Hauser.5 - isb >> ES r is close to 0:  -0.02
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# ES converison: A test statistic of 0 (or NA, or NaN) was changed to rnorm(1) * 1e-12 in order to enable ES conversion.
+	# 
+	# 48 Hauser.5 - jos >> ES r is close to 0:  0
+	# 
+	# 48 Hauser.5 - louvain not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - lse >> ES r is close to 0:  0.02
+	# 
+	# 48 Hauser.5 - mturk_india >> ES r is close to 0:  0.04
+	# 
+	# 48 Hauser.5 - northumbria not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - osnabruck >> ES r is close to 0:  0
+	# 
+	# 48 Hauser.5 - padua not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - psualtoona >> ES r is close to 0:  0
+	# 
+	# 48 Hauser.5 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - seznamon >> ES r is close to 0:  0.04
+	# 
+	# 48 Hauser.5 - tamucc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 48 Hauser.5 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 48 Hauser.5 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - tilburg >> ES r is close to 0:  0.02
+	# 
+	# 48 Hauser.5 - tilburgcaf not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 48 Hauser.5 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

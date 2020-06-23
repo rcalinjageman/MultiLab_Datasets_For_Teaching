@@ -1,0 +1,71 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"3320","10","UniversityOfToronto","Agentic",86,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"3321","11","UniversityOfToronto","Communal",78,"21","Sophomore","Male","Asian-American","Pass",78
+"3322","12","UniversityOfToronto","Communal",73,"17","First-year","Female","Asian-American","Pass",77
+"3324","14","UniversityOfToronto","Agentic",73,"21","Other","Female","Asian-American","Pass",77
+"3325","15","UniversityOfToronto","Communal",77,"18","First-year","Male","Asian-American","Pass",77
+"3327","17","UniversityOfToronto","Agentic",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"3328","18","UniversityOfToronto","Communal",73,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",77
+"3329","19","UniversityOfToronto","Agentic",71,"18","First-year","Female","Asian-American","Fail",78
+"3331","21","UniversityOfToronto","Communal",77,"almost 18","First-year","Female","Asian-American","Fail",NA
+"3332","22","UniversityOfToronto","Communal",77,"22 years","Junior","Male","Native Hawaiian and other Pacific Islander","Pass",78
+"3333","23","UniversityOfToronto","Agentic",75,"17","First-year","Female","Asian-American","Pass",78
+"3336","26","UniversityOfToronto","Agentic",73,"20","Sophomore","Female",NA,"Pass",77
+"3338","28","UniversityOfToronto","Agentic",77,"19","First-year","Male","Asian-American","Fail",NA
+"3339","2886","UniversityOfToronto","Agentic",68,"18","First-year","Male","Asian-American","Pass",NA
+"3340","29","UniversityOfToronto","Communal",73,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"3341","30","UniversityOfToronto","Communal",77,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",78
+"3343","32","UniversityOfToronto","Communal",71,"20","First-year","Male","Asian-American","Fail",79
+"3344","33","UniversityOfToronto","Agentic",68,"19","Sophomore","Female","Other","Fail",79
+"3345","34","UniversityOfToronto","Agentic",77,"20","Junior","Female","White, non-Hispanic or latino","Pass",77
+"3347","36","UniversityOfToronto","Agentic",77,"18","First-year","Female","Other","Pass",79
+"3348","37","UniversityOfToronto","Agentic",77,"19","Sophomore","Female","Multiracial","Pass",78
+"3350","39","UniversityOfToronto","Communal",66,"19","First-year","Female","Asian-American","Fail",77
+"3352","41","UniversityOfToronto","Communal",77,"21","Junior","Female","Asian-American","Fail",75
+"3353","42","UniversityOfToronto","Agentic",68,"18","First-year","Female","Asian-American","Pass",75
+"3357","46","UniversityOfToronto","Communal",73,"19","Sophomore",NA,"Asian-American","Pass",NA
+"3358","47","UniversityOfToronto","Communal",80,"19","Sophomore","Female","Other","Pass",73
+"3362","51","UniversityOfToronto","Communal",69,"21","Senior","Male","White, non-Hispanic or latino","Pass",77
+"3363","52","UniversityOfToronto","Communal",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"3368","57","UniversityOfToronto","Communal",78,"18","First-year","Female","Asian-American","Pass",77
+"3369","58","UniversityOfToronto","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"3370","59","UniversityOfToronto","Communal",68,"20","First-year","Female","Asian-American","Pass",77
+"3371","60","UniversityOfToronto","Communal",68,"18","First-year","Male","Asian-American","Pass",76
+"3373","62","UniversityOfToronto","Communal",71,"45","Sophomore","Female","Asian-American","Fail",76
+"3374","63","UniversityOfToronto","Communal",62,"17","First-year","Male","White, non-Hispanic or latino","Pass",74
+"3375","64","UniversityOfToronto","Communal",64,"18","First-year","Female","Asian-American","Pass",75
+"3376","65","UniversityOfToronto","Agentic",77,"21","Sophomore","Male","Other","Fail",75
+"3377","66","UniversityOfToronto","Agentic",71,"20","Sophomore","Female","Multiracial","Pass",75
+"3379","68","UniversityOfToronto","Communal",59,"19","First-year","Female","Asian-American","Fail",75
+"3380","69","UniversityOfToronto","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3381","7","UniversityOfToronto","Communal",66,"18","First-year","Female","Other","Pass",77
+"3383","71","UniversityOfToronto","Communal",75,"18","First-year","Female","Asian-American","Pass",74
+"3384","72","UniversityOfToronto","Communal",68,"18","First-year","Female","Native Hawaiian and other Pacific Islander","Pass",74
+"3385","73","UniversityOfToronto","Communal",77,"26","Sophomore","Male","Other","Pass",74
+"3388","76","UniversityOfToronto","Agentic",69,"23","Other","Female","African-American","Pass",78
+"3389","77","UniversityOfToronto","Agentic",73,"18","First-year","Male","Asian-American","Pass",75
+"3390","78","UniversityOfToronto","Communal",62,"20","Sophomore","Male","Latino or Hispanic","Pass",76
+"3391","79","UniversityOfToronto","Communal",71,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",75
+"3392","8","UniversityOfToronto","Communal",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"3393","80","UniversityOfToronto","Communal",75,"19","Sophomore","Male","Native Hawaiian and other Pacific Islander","Pass",75
+"3396","83","UniversityOfToronto","Agentic",71,"21","Senior","Male","Other","Pass",73
+"3397","84","UniversityOfToronto","Communal",69,"18","First-year","Female","Asian-American","Pass",75
+"3398","85","UniversityOfToronto","Agentic",73,"20","Sophomore","Female","Asian-American","Fail",75
+"3399","86","UniversityOfToronto","Communal",69,"20","Junior","Male","Other","Pass",75
+"3400","9","UniversityOfToronto","Agentic",80,"19","First-year","Male","Multiracial","Pass",77
+"3401",NA,"UniversityOfToronto","Agentic",68,"17","First-year","Female","African-American","Pass",NA
+"3403",NA,"UniversityOfToronto","Agentic",73,NA,NA,NA,NA,NA,NA
+"3405",NA,"UniversityOfToronto","Communal",77,NA,NA,NA,NA,NA,NA
+"3406",NA,"UniversityOfToronto","Communal",78,NA,"First-year","Female","Multiracial","Pass",NA
+"3407",NA,"UniversityOfToronto","Agentic",75,"20","Sophomore","Female","Asian-American","Fail",NA
+"3408",NA,"UniversityOfToronto","Agentic",73,"18","Sophomore","Female","African-American","Pass",NA
+"3409",NA,"UniversityOfToronto","Agentic",68,"20","Sophomore","Female","Asian-American","Fail",NA
+"3410",NA,"UniversityOfToronto","Communal",77,"20","Sophomore","Female","Other","Pass",NA
+"3412",NA,"UniversityOfToronto","Agentic",77,"19","First-year","Female","Asian-American","Fail",NA
+"3414",NA,"UniversityOfToronto","Agentic",75,"23","Senior","Female","Asian-American","Pass",NA
+"3415",NA,"UniversityOfToronto","Agentic",68,"19","First-year","Male","Asian-American","Fail",NA
+"3416",NA,"UniversityOfToronto","Communal",71,"18","First-year","Female","Asian-American","Pass",NA
+"3417",NA,"UniversityOfToronto","Agentic",71,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"3419",NA,"UniversityOfToronto","Communal",73,"18","First-year","Female","Other","Pass",NA
+"3420",NA,"UniversityOfToronto","Agentic",78,"19","Sophomore","Male","Asian-American","Pass",NA
+"3421",NA,"UniversityOfToronto","Communal",77,"18","First-year","Female","African-American","Pass",NA

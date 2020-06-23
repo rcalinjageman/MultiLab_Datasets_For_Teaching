@@ -1,0 +1,469 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:48:51.198838Z,7,Miyamoto,1,,1,Order,Miyamoto.1,594,295,299,CapitalCon,Condition,295,,,,,,,,,,,,,,,,CapitalPro,Condition,299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,22.8199471557204,3.87986798542043e-83,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.0385  -2.7539  -0.2382   2.8193  11.1886 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.09639    0.20698  19.791   <2e-16 ***
+Constraint           0.14226    0.07515   1.893   0.0589 .  
+ConditionCapitalPro  6.65801    0.29176  22.820   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.555 on 591 degrees of freedom
+Multiple R-squared:  0.4694,	Adjusted R-squared:  0.4676 
+F-statistic: 261.4 on 2 and 591 DF,  p-value: < 2.2e-16
+",,,,,591,,,,,,,,,,,,,,,,,,,,,22.8199471557204,20.4608309129105,25.1653571664757,592,296,296,1.87579,0.00973,1.68187,2.06858,96.96578,90.76435,0.81529,0,1.8734,0.0097,1.67973,2.06595,96.94936,90.73639,0,0.68471,0.00048,0.64425,0.71951,0,0.83793,0.0017,0.7654,0.90663,30.03319,21.12748,42.60571,0,3.4023,3.05057,3.75199,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,594,1,417,594,594,0,72.3905723905724,"Execution
+        illegal   legal 
+      7     281     306 ","SubjectPool
+     No Yes 
+ 14 208 372 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     362                     177                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            371                                                              48 
+Unable to verify (completed online) but likely mostly computers 
+                                                            175 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      494                                                                       100 ","analysis.type
+Order 
+  594 ","subset
+all 
+594 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.309117Z,7,Miyamoto,1,,2,Order,Miyamoto.1,566,292,274,CapitalCon,Condition,292,,,,,,,,,,,,,,,,CapitalPro,Condition,274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,21.1509227923364,1.62305361780284e-73,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.4928  -2.6962  -0.2663   2.9978  11.3038 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.43996    0.20797   21.35  < 2e-16 ***
+Constraint           0.24531    0.07571    3.24  0.00126 ** 
+ConditionCapitalPro  6.32476    0.29903   21.15  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.552 on 563 degrees of freedom
+Multiple R-squared:  0.4518,	Adjusted R-squared:  0.4499 
+F-statistic:   232 on 2 and 563 DF,  p-value: < 2.2e-16
+",,,,,563,,,,,,,,,,,,,,,,,,,,,21.1509227923364,18.8273890829508,23.4607385109016,564,282,282,1.78123,0.0099,1.58555,1.97575,96.25625,89.60786,0.79216,0,1.77885,0.00988,1.58344,1.97311,96.23679,89.57747,0,0.66574,0.00055,0.62191,0.70341,0,0.80306,0.00178,0.72812,0.87402,25.29969,17.74091,36.00346,0,3.23079,2.87587,3.58362,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,566,1,393,566,566,0,71.2014134275618,"Execution
+        illegal   legal 
+      6     301     259 ","SubjectPool
+     No Yes 
+ 12 183 371 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     332                     183                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            333                                                              51 
+Unable to verify (completed online) but likely mostly computers 
+                                                            182 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      492                                                                        74 ","analysis.type
+Order 
+  566 ","subset
+all 
+566 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.413394Z,7,Miyamoto,1,,3,Order,Miyamoto.1,578,293,285,CapitalCon,Condition,293,,,,,,,,,,,,,,,,CapitalPro,Condition,285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,24.1740223017,1.28578940547924e-89,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.2344 -2.6641 -0.1356  2.8397 10.3929 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.15206    0.19998  20.763  < 2e-16 ***
+Constraint           0.26426    0.07394   3.574 0.000381 ***
+ConditionCapitalPro  6.89162    0.28508  24.174  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.42 on 575 degrees of freedom
+Multiple R-squared:  0.5058,	Adjusted R-squared:  0.5041 
+F-statistic: 294.2 on 2 and 575 DF,  p-value: < 2.2e-16
+",,,,,575,,,,,,,,,,,,,,,,,,,,,24.1740223017,21.76007724693,26.5736641231792,576,288,288,2.0145,0.01047,1.81334,2.21447,97.80216,92.28445,0.84569,0,2.01187,0.01044,1.81097,2.21158,97.78831,92.25748,0,0.71027,0.00043,0.67233,0.74271,0,0.88773,0.00175,0.81499,0.9565,38.62509,26.81696,55.51248,0,3.6539,3.28903,4.01661,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,578,1,405,578,578,0,71.4532871972318,"Execution
+        illegal   legal 
+     18     277     283 ","SubjectPool
+     No Yes 
+  7 218 353 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     330                     190                      35 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            347                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            190 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      481                                                                        97 ","analysis.type
+Order 
+  578 ","subset
+all 
+578 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.520207Z,7,Miyamoto,1,,4,Order,Miyamoto.1,506,246,260,CapitalCon,Condition,246,,,,,,,,,,,,,,,,CapitalPro,Condition,260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,20.7651124771434,1.25236245351604e-69,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.0789  -2.6388  -0.1249   3.2609  10.4350 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.55808    0.22485  20.272  < 2e-16 ***
+Constraint           0.22005    0.08033   2.739  0.00638 ** 
+ConditionCapitalPro  6.51389    0.31369  20.765  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.526 on 503 degrees of freedom
+Multiple R-squared:  0.4649,	Adjusted R-squared:  0.4628 
+F-statistic: 218.5 on 2 and 503 DF,  p-value: < 2.2e-16
+",,,,,503,,,,,,,,,,,,,,,,,,,,,20.7651124771434,18.4152654825186,23.1001931827404,504,252,252,1.8499,0.01133,1.64056,2.05793,96.78363,90.45768,0.80915,0,1.84714,0.0113,1.63811,2.05485,96.76364,90.42448,0,0.67975,0.00058,0.63496,0.71782,0,0.82865,0.002,0.74969,0.90313,28.65573,19.60238,41.79054,0,3.35535,2.97565,3.73267,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,58,15,506,1,371,506,506,0,72.9249011857708,"Execution
+        illegal   legal 
+      3     258     245 ","SubjectPool
+     No Yes 
+ 10 167 329 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     18                     300                     158                      30 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            299                                                              49 
+Unable to verify (completed online) but likely mostly computers 
+                                                            158 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      412                                                                        94 ","analysis.type
+Order 
+  506 ","subset
+all 
+506 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.663132Z,7,Miyamoto,1,,5,Order,Miyamoto.1,666,325,341,CapitalCon,Condition,325,,,,,,,,,,,,,,,,CapitalPro,Condition,341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,25.1496404781327,1.60053569983494e-98,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.1580  -2.8960  -0.0983   2.8420  11.1040 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.62505    0.19880  23.265  < 2e-16 ***
+Constraint           0.21194    0.06845   3.096  0.00204 ** 
+ConditionCapitalPro  6.99037    0.27795  25.150  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.582 on 663 degrees of freedom
+Multiple R-squared:  0.495,	Adjusted R-squared:  0.4935 
+F-statistic:   325 on 2 and 663 DF,  p-value: < 2.2e-16
+",,,,,663,,,,,,,,,,,,,,,,,,,,,25.1496404781327,22.7612283625117,27.5248943725768,664,332,332,1.95199,0.00889,1.76661,2.13635,97.45303,91.62476,0.8325,0,1.94978,0.00887,1.76461,2.13392,97.43987,91.60066,0,0.699,0.00039,0.66258,0.73053,0,0.86535,0.00151,0.79741,0.92987,34.48483,24.63783,48.17804,0,3.54052,3.20428,3.8749,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,530,1,369,666,666,0,56.4564564564565,"Execution
+        illegal   legal 
+      9     271     386 ","SubjectPool
+     No Yes 
+  7 322 337 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     33                     318                     289                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            329                                                              52 
+Unable to verify (completed online) but likely mostly computers 
+                                                            285 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      576                                                                        90 ","analysis.type
+Order 
+  666 ","subset
+all 
+666 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.769324Z,7,Miyamoto,1,,6,Order,Miyamoto.1,583,294,289,CapitalCon,Condition,294,,,,,,,,,,,,,,,,CapitalPro,Condition,289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,21.5059440831918,7.03020768079871e-76,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.4131  -2.7328  -0.2208   3.5071  10.5071 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.50431    0.21296  21.151   <2e-16 ***
+Constraint           0.13606    0.07479   1.819   0.0694 .  
+ConditionCapitalPro  6.51207    0.30280  21.506   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.648 on 580 degrees of freedom
+Multiple R-squared:  0.4492,	Adjusted R-squared:  0.4473 
+F-statistic: 236.5 on 2 and 580 DF,  p-value: < 2.2e-16
+",,,,,580,,,,,,,,,,,,,,,,,,,,,21.5059440831918,19.1813331361516,23.8170280756211,581,290.5,290.5,1.78443,0.00962,1.59155,1.97619,96.28234,89.6487,0.79297,0,1.78212,0.0096,1.58949,1.97363,96.26353,89.61924,0,0.66639,0.00053,0.62333,0.70347,0,0.80422,0.00173,0.73044,0.87414,25.44718,17.93502,36.03241,0,3.2366,2.88676,3.58442,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,72,30,59,15,583,1,405,583,583,0,74.6140651801029,"Execution
+        illegal   legal 
+     12     295     276 ","SubjectPool
+     No Yes 
+ 10 206 367 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     30                     353                     181                      19 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            359                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            179 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      491                                                                        92 ","analysis.type
+Order 
+  583 ","subset
+all 
+583 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:51.876418Z,7,Miyamoto,1,,7,Order,Miyamoto.1,538,283,255,CapitalCon,Condition,283,,,,,,,,,,,,,,,,CapitalPro,Condition,255,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,22.2658885587117,3.23235530743872e-78,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.0536  -2.7140  -0.2204   2.9714  10.3042 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.34515    0.20689  21.002   <2e-16 ***
+Constraint           0.16680    0.07459   2.236   0.0257 *  
+ConditionCapitalPro  6.69140    0.30052  22.266   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.48 on 535 degrees of freedom
+Multiple R-squared:  0.4839,	Adjusted R-squared:  0.4819 
+F-statistic: 250.8 on 2 and 535 DF,  p-value: < 2.2e-16
+",,,,,535,,,,,,,,,,,,,,,,,,,,,22.2658885587117,19.8878518743385,24.6293658398441,536,268,268,1.92348,0.01091,1.71805,2.12765,97.27901,91.31017,0.8262,0,1.92078,0.01088,1.71563,2.12466,97.26201,91.2799,0,0.69386,5e-04,0.65231,0.72927,0,0.85536,0.00188,0.77932,0.92716,32.74684,22.56039,47.42436,0,3.48881,3.1162,3.85914,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,538,1,387,538,538,0,72.8624535315985,"Execution
+        illegal   legal 
+      4     285     249 ","SubjectPool
+     No Yes 
+ 10 206 322 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     26                     301                     186                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            311                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            186 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      457                                                                        81 ","analysis.type
+Order 
+  538 ","subset
+all 
+538 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.008978Z,7,Miyamoto,1,,8,Order,Miyamoto.1,493,255,238,CapitalCon,Condition,255,,,,,,,,,,,,,,,,CapitalPro,Condition,238,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,20.400349257667,2.02173611998447e-67,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.9256 -2.6263 -0.5011  2.8077 11.3737 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.03616    0.21967  18.374   <2e-16 ***
+Constraint           0.14150    0.07986   1.772    0.077 .  
+ConditionCapitalPro  6.45032    0.31619  20.400   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.508 on 490 degrees of freedom
+Multiple R-squared:  0.462,	Adjusted R-squared:  0.4598 
+F-statistic: 210.4 on 2 and 490 DF,  p-value: < 2.2e-16
+",,,,,490,,,,,,,,,,,,,,,,,,,,,20.400349257667,18.0536650691989,22.732103609662,491,245.5,245.5,1.84131,0.0116,1.6295,2.05177,96.72119,90.35423,0.80708,0,1.83848,0.01156,1.627,2.04862,96.70045,90.32003,0,0.67807,6e-04,0.63242,0.71679,0,0.82552,0.00205,0.74543,0.90102,28.21254,19.21301,41.32637,0,3.33977,2.95559,3.7215,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,29,58,15,493,1,362,493,493,0,72.6166328600406,"Execution
+        illegal   legal 
+      8     244     241 ","SubjectPool
+     No Yes 
+  9 168 316 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     298                     149                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            303                                                              44 
+Unable to verify (completed online) but likely mostly computers 
+                                                            146 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      400                                                                        93 ","analysis.type
+Order 
+  493 ","subset
+all 
+493 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.121333Z,7,Miyamoto,1,,9,Order,Miyamoto.1,539,275,264,CapitalCon,Condition,275,,,,,,,,,,,,,,,,CapitalPro,Condition,264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,19.4385495326193,4.25168255333763e-64,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.4371  -3.0503  -0.4995   3.2251  10.8873 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.68532    0.22308  21.003   <2e-16 ***
+Constraint           0.18752    0.08059   2.327   0.0203 *  
+ConditionCapitalPro  6.19930    0.31892  19.439   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.698 on 536 degrees of freedom
+Multiple R-squared:   0.42,	Adjusted R-squared:  0.4178 
+F-statistic:   194 on 2 and 536 DF,  p-value: < 2.2e-16
+",,,,,536,,,,,,,,,,,,,,,,,,,,,19.4385495326193,17.1525040372934,21.7109452270238,537,268.5,268.5,1.67767,0.01007,1.48037,1.87379,95.32943,88.22466,0.76449,0,1.67532,0.01004,1.47829,1.87116,95.3064,88.19178,0,0.64337,0.00064,0.59566,0.68439,0,0.76391,0.00187,0.68639,0.83732,20.96717,14.65959,29.9247,0,3.04296,2.68509,3.39868,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,539,1,376,539,539,0,69.9443413729128,"Execution
+        illegal   legal 
+     14     285     240 ","SubjectPool
+     No Yes 
+  3 196 340 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     328                     152                      31 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            152 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      444                                                                        95 ","analysis.type
+Order 
+  539 ","subset
+all 
+539 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.222992Z,7,Miyamoto,1,,10,Order,Miyamoto.1,571,279,292,CapitalCon,Condition,279,,,,,,,,,,,,,,,,CapitalPro,Condition,292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,21.9305007463961,1.08129530227232e-77,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-10.880  -2.975   0.120   3.120   9.862 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)           4.7102     0.2167  21.734   <2e-16 ***
+Constraint            0.1811     0.0741   2.443   0.0149 *  
+ConditionCapitalPro   6.6558     0.3035  21.931   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.614 on 568 degrees of freedom
+Multiple R-squared:  0.4672,	Adjusted R-squared:  0.4653 
+F-statistic: 249.1 on 2 and 568 DF,  p-value: < 2.2e-16
+",,,,,568,,,,,,,,,,,,,,,,,,,,,21.9305007463961,19.5853932944452,24.2617495825345,569,284.5,284.5,1.83875,0.01,1.64212,2.03421,96.70239,90.32324,0.80646,0,1.83632,0.00997,1.63995,2.03152,96.68445,90.29373,0,0.67745,0.00052,0.63524,0.71369,0,0.82439,0.00177,0.75015,0.89467,28.08179,19.65801,40.03085,0,3.33512,2.97848,3.68965,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,571,1,404,571,571,0,73.3800350262697,"Execution
+        illegal   legal 
+     12     281     278 ","SubjectPool
+     No Yes 
+  8 211 352 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     345                     172                      31 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            360                                                              40 
+Unable to verify (completed online) but likely mostly computers 
+                                                            171 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      479                                                                        92 ","analysis.type
+Order 
+  571 ","subset
+all 
+571 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.326544Z,7,Miyamoto,1,,11,Order,Miyamoto.1,562,272,290,CapitalCon,Condition,272,,,,,,,,,,,,,,,,CapitalPro,Condition,290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,19.9456399537563,2.99219439715783e-67,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.3401  -2.8981  -0.0454   3.0911  10.5331 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.92013    0.21549  22.832   <2e-16 ***
+Constraint           0.14731    0.07527   1.957   0.0508 .  
+ConditionCapitalPro  5.98926    0.30028  19.946   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.55 on 559 degrees of freedom
+Multiple R-squared:  0.4221,	Adjusted R-squared:   0.42 
+F-statistic: 204.2 on 2 and 559 DF,  p-value: < 2.2e-16
+",,,,,559,,,,,,,,,,,,,,,,,,,,,19.9456399537563,17.6568850242066,22.2209959778498,560,280,280,1.68571,0.00968,1.49228,1.87802,95.40746,88.33655,0.76673,0,1.68345,0.00965,1.49027,1.87549,95.38558,88.30509,0,0.64515,0.00061,0.59871,0.68518,0,0.76694,0.0018,0.69113,0.83881,21.27531,14.97969,30.15485,0,3.05755,2.70669,3.40635,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,562,1,404,562,562,0,70.1067615658363,"Execution
+        illegal   legal 
+     11     283     268 ","SubjectPool
+     No Yes 
+  7 198 357 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     37                     321                     183                      21 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            334                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            181 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      471                                                                        91 ","analysis.type
+Order 
+  562 ","subset
+all 
+562 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.451609Z,7,Miyamoto,1,,12,Order,Miyamoto.1,506,247,259,CapitalCon,Condition,247,,,,,,,,,,,,,,,,CapitalPro,Condition,259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,19.7891417183266,6.88140485506039e-65,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.5416  -2.6720   0.0376   3.0376  11.6201 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.29672    0.23225   18.50  < 2e-16 ***
+Constraint           0.28959    0.07977    3.63 0.000312 ***
+ConditionCapitalPro  6.42416    0.32463   19.79  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.65 on 503 degrees of freedom
+Multiple R-squared:  0.4461,	Adjusted R-squared:  0.4439 
+F-statistic: 202.5 on 2 and 503 DF,  p-value: < 2.2e-16
+",,,,,503,,,,,,,,,,,,,,,,,,,,,19.7891417183266,17.4719251965181,22.091916290462,504,252,252,1.76296,0.01102,1.55652,1.9681,96.10461,89.37277,0.78746,0,1.76032,0.01099,1.5542,1.96516,96.08234,89.33855,0,0.66199,0.00063,0.61494,0.70211,0,0.79635,0.002,0.71682,0.87145,24.47495,16.83096,35.50759,0,3.19765,2.82322,3.56975,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,506,1,370,506,506,0,73.3201581027668,"Execution
+        illegal   legal 
+      9     279     218 ","SubjectPool
+     No Yes 
+  6 184 316 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     16                     301                     165                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            305                                                              37 
+Unable to verify (completed online) but likely mostly computers 
+                                                            164 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      430                                                                        76 ","analysis.type
+Order 
+  506 ","subset
+all 
+506 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:52.556335Z,7,Miyamoto,1,,13,Order,Miyamoto.1,488,218,270,CapitalCon,Condition,218,,,,,,,,,,,,,,,,CapitalPro,Condition,270,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,18.0210092106064,5.91977841485033e-56,,,,,,lm.t,,"
+Call:
+lm(formula = Attitude ~ Constraint + Condition)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.5536  -2.9079  -0.2595   3.0921  11.0662 
+
+Coefficients:
+                    Estimate Std. Error t value Pr(>|t|)    
+(Intercept)          4.61981    0.24769  18.652  < 2e-16 ***
+Constraint           0.32281    0.08548   3.777 0.000179 ***
+ConditionCapitalPro  6.00567    0.33326  18.021  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.653 on 485 degrees of freedom
+Multiple R-squared:  0.4181,	Adjusted R-squared:  0.4157 
+F-statistic: 174.2 on 2 and 485 DF,  p-value: < 2.2e-16
+",,,,,485,,,,,,,,,,,,,,,,,,,,,18.0210092106064,15.7496635442868,20.2781981041044,486,243,243,1.6349,0.01098,1.42884,1.83968,94.89649,87.61693,0.75234,0,1.63236,0.01095,1.42662,1.83682,94.86986,87.58024,0,0.63368,0.00074,0.5821,0.67775,0,0.74754,0.00207,0.66564,0.82494,19.40206,13.35147,28.12903,0,2.96538,2.59163,3.3368,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,71,29,59,15,488,1,353,488,488,0,71.1065573770492,"Execution
+        illegal   legal 
+      6     270     212 ","SubjectPool
+     No Yes 
+ 10 183 295 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     274                     164                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            292                                                              34 
+Unable to verify (completed online) but likely mostly computers 
+                                                            162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      409                                                                        79 ","analysis.type
+Order 
+  488 ","subset
+all 
+488 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

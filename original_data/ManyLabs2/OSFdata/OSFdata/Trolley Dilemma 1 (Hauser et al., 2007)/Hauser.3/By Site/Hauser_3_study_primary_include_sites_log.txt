@@ -1,0 +1,115 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HAUSER.3~~~~~~~
+	# 41 Hauser.3 - START
+
+	# 
+	# 41 Hauser.3 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - bc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - cas not included in results >> Valid cases after varfun (n1=12) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - castab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - eindhoven not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - elte >> ES r is NA
+	# 
+	# 41 Hauser.3 - eltetab >> ES r is NA
+	# 
+	# 41 Hauser.3 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - hkust not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - johannesburg not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - koc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - leuven not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - marian not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 41 Hauser.3 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 41 Hauser.3 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - navarra not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - ntnu not included in results >> Valid cases after varfun (n1=12) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - ntnutab not included in results >> Valid cases after varfun (n1=12) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - occid not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - occidtab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - poitiers not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - swps not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - tilburgcomm >> ES r is NA
+	# 
+	# 41 Hauser.3 - tufts not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - ubc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - ubctab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - unibelgrade not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - uniporto not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - uva not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - vuamsterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - wroclaw not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - zhejiang not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 41 Hauser.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

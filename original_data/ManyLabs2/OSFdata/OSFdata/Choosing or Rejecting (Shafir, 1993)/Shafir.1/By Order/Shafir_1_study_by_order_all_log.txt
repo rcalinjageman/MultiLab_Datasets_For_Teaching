@@ -1,0 +1,33 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SHAFIR.1~~~~~~~
+	# 74 Shafir.1 - START
+
+	# 
+	# 74 Shafir.1 - 1 >> ES r is close to 0:  -0.02
+	# 
+	# 74 Shafir.1 - 2 >> ES r is close to 0:  -0.02
+	# 
+	# 74 Shafir.1 - 3 >> ES r is close to 0:  -0.02
+	# 
+	# 74 Shafir.1 - 4 >> ES r is close to 0:  -0.01
+	# 
+	# 74 Shafir.1 - 6 >> ES r is close to 0:  -0.05
+	# 
+	# 74 Shafir.1 - 8 >> ES r is close to 0:  0
+	# 
+	# 74 Shafir.1 - 10 >> ES r is close to 0:  -0.05
+	# 
+	# 74 Shafir.1 - 11 >> ES r is close to 0:  -0.01
+	# 
+	# 74 Shafir.1 - 12 >> ES r is close to 0:  -0.01
+	# 
+	# 74 Shafir.1 - 13 >> ES r is close to 0:  -0.03
+	# 
+	# 74 Shafir.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,88 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"3224","1","UniversityOfSouthernMississippi","Agentic",78,"20","Junior","Female","White, non-Hispanic or latino","Pass",77
+"3225","10","UniversityOfSouthernMississippi","Communal",84,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",77
+"3226","11","UniversityOfSouthernMississippi","Communal",75,"20","Other","Female","African-American","Pass",79
+"3228","13","UniversityOfSouthernMississippi","Agentic",74,"34","Junior","Female","African-American","Pass",75
+"3229","14","UniversityOfSouthernMississippi","Communal",77,"39","Sophomore","Female","White, non-Hispanic or latino","Pass",75
+"3230","15","UniversityOfSouthernMississippi","Communal",72,"21","Senior","Male","White, non-Hispanic or latino","Fail",77
+"3231","16","UniversityOfSouthernMississippi","Communal",82,"20","Junior","Male","White, non-Hispanic or latino","Pass",75
+"3232","17","UniversityOfSouthernMississippi","Agentic",80,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",75
+"3233","18","UniversityOfSouthernMississippi","Communal",70,"18","First-year","Female","African-American","Fail",77
+"3234","19","UniversityOfSouthernMississippi","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Fail",77
+"3235","2","UniversityOfSouthernMississippi","Communal",73,"18","First-year","Female","African-American","Pass",79
+"3237","21","UniversityOfSouthernMississippi","Agentic",65,"19","Sophomore","Male","African-American","Pass",75
+"3238","22","UniversityOfSouthernMississippi","Agentic",70,"24","Senior","Female","African-American","Fail",75
+"3239","23","UniversityOfSouthernMississippi","Agentic",76,"22","Other","Female","White, non-Hispanic or latino","Pass",75
+"3240","24","UniversityOfSouthernMississippi","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3241","25","UniversityOfSouthernMississippi","Agentic",75,"21","Junior","Female","White, non-Hispanic or latino","Pass",75
+"3242","26","UniversityOfSouthernMississippi","Communal",70,"21","Senior","Female","African-American","Fail",75
+"3243","27","UniversityOfSouthernMississippi","Agentic",75,"20","Junior","Male","White, non-Hispanic or latino","Pass",73
+"3244","28","UniversityOfSouthernMississippi","Communal",70,"20","First-year","Female","African-American","Fail",73
+"3245","29","UniversityOfSouthernMississippi","Communal",75,"21","Other","Female","African-American","Fail",75
+"3247","30","UniversityOfSouthernMississippi","Communal",74,"19","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3248","32","UniversityOfSouthernMississippi","Agentic",67,"23","Senior","Female","African-American","Fail",73
+"3249","33","UniversityOfSouthernMississippi","Agentic",80,"23","Senior","Female","Asian-American","Pass",73
+"3250","34","UniversityOfSouthernMississippi","Communal",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",75
+"3251","35","UniversityOfSouthernMississippi","Communal",71,"20","Junior","Female","White, non-Hispanic or latino","Pass",75
+"3252","36","UniversityOfSouthernMississippi","Agentic",70,"22","Senior","Female","White, non-Hispanic or latino","Pass",73
+"3253","37","UniversityOfSouthernMississippi","Agentic",70,"22","Senior","Female","White, non-Hispanic or latino","Pass",73
+"3255","39","UniversityOfSouthernMississippi","Agentic",76,"22","Senior","Female","White, non-Hispanic or latino","Fail",73
+"3256","4","UniversityOfSouthernMississippi","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"3257","40","UniversityOfSouthernMississippi","Agentic",80,"20","Junior","Female","White, non-Hispanic or latino","Pass",73
+"3258","41","UniversityOfSouthernMississippi","Agentic",76,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"3259","42","UniversityOfSouthernMississippi","Agentic",73,"19","Sophomore","Female","African-American","Fail",72
+"3260","44","UniversityOfSouthernMississippi","Communal",68,"23","Senior","Female","African-American","Fail",72
+"3262","46","UniversityOfSouthernMississippi","Communal",69,"32","Senior","Female","White, non-Hispanic or latino","Fail",72
+"3263","47","UniversityOfSouthernMississippi","Communal",60,"19","Sophomore","Male","African-American","Fail",70
+"3264","48","UniversityOfSouthernMississippi","Communal",70,"18","First-year","Female","African-American","Fail",70
+"3265","49","UniversityOfSouthernMississippi","Agentic",75,"20","Sophomore","Female","African-American","Pass",70
+"3266","5","UniversityOfSouthernMississippi","Agentic",75,"20","Junior","Female","African-American","Pass",75
+"3267","50","UniversityOfSouthernMississippi","Communal",70,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3270","53","UniversityOfSouthernMississippi","Communal",75,"22","Senior","Male","African-American","Fail",68
+"3271","54","UniversityOfSouthernMississippi","Communal",78,"21","Junior",NA,"African-American","Fail",68
+"3272","55","UniversityOfSouthernMississippi","Agentic",73,"22","Senior","Male","White, non-Hispanic or latino","Fail",70
+"3273","56","UniversityOfSouthernMississippi","Communal",70,"20","Junior","Female","African-American","Pass",70
+"3274","57","UniversityOfSouthernMississippi","Communal",72,"21","Senior","Female","White, non-Hispanic or latino","Fail",70
+"3275","58","UniversityOfSouthernMississippi","Communal",70,"18","First-year","Female","African-American","Pass",70
+"3276","59","UniversityOfSouthernMississippi","Communal",75,"41","Senior","Male","African-American","Fail",70
+"3277","6","UniversityOfSouthernMississippi","Agentic",70,"20","Sophomore","Female","African-American","Fail",75
+"3278","60","UniversityOfSouthernMississippi","Communal",73,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",70
+"3279","61","UniversityOfSouthernMississippi","Communal",70,"22","Junior","Female","African-American","Fail",72
+"3280","62","UniversityOfSouthernMississippi","Communal",75,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3281","63","UniversityOfSouthernMississippi","Agentic",70,"19","Sophomore","Female","African-American","Fail",72
+"3282","64","UniversityOfSouthernMississippi","Agentic",60,"20","Junior","Female","African-American","Fail",72
+"3283","65","UniversityOfSouthernMississippi","Communal",74,"21","Senior","Female","White, non-Hispanic or latino","Fail",72
+"3284","66","UniversityOfSouthernMississippi","Agentic",70,"19","Sophomore","Female","African-American","Pass",72
+"3285","67","UniversityOfSouthernMississippi","Communal",70,"19","First-year","Female","African-American","Fail",72
+"3286","68","UniversityOfSouthernMississippi","Agentic",70,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3287","69","UniversityOfSouthernMississippi","Agentic",70,"21","Senior","Female","White, non-Hispanic or latino","Pass",72
+"3288","7","UniversityOfSouthernMississippi","Communal",70,"21","Senior","Male","White, non-Hispanic or latino","Pass",77
+"3289","70","UniversityOfSouthernMississippi","Agentic",70,"22","Senior","Female","African-American","Fail",72
+"3290","71","UniversityOfSouthernMississippi","Communal",71,"19",NA,"Male","White, non-Hispanic or latino","Pass",72
+"3291","72","UniversityOfSouthernMississippi","Communal",71,"25","Senior","Female","Multiracial","Fail",73
+"3292","73","UniversityOfSouthernMississippi","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"3293","74","UniversityOfSouthernMississippi","Communal",65,"20","Sophomore","Female","African-American","Fail",73
+"3294","75","UniversityOfSouthernMississippi","Communal",75,"20","Sophomore","Female","African-American","Fail",73
+"3295","76","UniversityOfSouthernMississippi","Agentic",77,"19","First-year","Female","African-American","Pass",73
+"3298","79","UniversityOfSouthernMississippi","Agentic",69,"18","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3299","8","UniversityOfSouthernMississippi","Agentic",72,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",75
+"3300","80","UniversityOfSouthernMississippi","Agentic",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",75
+"3301","81","UniversityOfSouthernMississippi","Agentic",75,"20","Sophomore","Male","White, non-Hispanic or latino","Fail",75
+"3302","82","UniversityOfSouthernMississippi","Communal",74,"22","Other","Female","African-American","Pass",75
+"3303","83","UniversityOfSouthernMississippi","Agentic",76,"20","Junior","Female","African-American","Fail",75
+"3304","84","UniversityOfSouthernMississippi","Agentic",60,"18","First-year","Female","White, non-Hispanic or latino","Fail",75
+"3305","85","UniversityOfSouthernMississippi","Agentic",68,"18","First-year","Female","Multiracial","Pass",75
+"3306","86","UniversityOfSouthernMississippi","Communal",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",75
+"3307","87","UniversityOfSouthernMississippi","Communal",70,"22","Sophomore","Female","African-American","Fail",72
+"3308","88","UniversityOfSouthernMississippi","Communal",70,"20","Sophomore","Female","African-American","Pass",72
+"3309","89","UniversityOfSouthernMississippi","Communal",70,"23","Senior","Female","African-American","Pass",73
+"3310","9","UniversityOfSouthernMississippi","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"3311","90","UniversityOfSouthernMississippi","Agentic",70,"23","Junior","Female","African-American","Pass",73
+"3312","91","UniversityOfSouthernMississippi","Communal",65,"23","Junior","Female","African-American","Fail",73
+"3313",NA,"UniversityOfSouthernMississippi","Agentic",80,"18","First-year","Male","Asian-American","Pass",NA
+"3314",NA,"UniversityOfSouthernMississippi","Communal",70,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"3315",NA,"UniversityOfSouthernMississippi","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"3316",NA,"UniversityOfSouthernMississippi","Agentic",75,"19","Sophomore","Male","African-American","Fail",NA
+"3317",NA,"UniversityOfSouthernMississippi","Agentic",77,"21","Senior","Female","African-American","Pass",NA
+"3318",NA,"UniversityOfSouthernMississippi","Communal",68,"20","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"3319",NA,"UniversityOfSouthernMississippi","Agentic",80,"20","Junior","Female","White, non-Hispanic or latino","Fail",NA

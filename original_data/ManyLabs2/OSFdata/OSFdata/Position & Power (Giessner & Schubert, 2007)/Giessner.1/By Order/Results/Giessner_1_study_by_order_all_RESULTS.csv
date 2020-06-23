@@ -1,0 +1,387 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:58:37.697619Z,15,Giessner,2,,1,Order,Giessner.1,464,234,230,Long,as.numeric.ignore.,234,,,,,696.14245014245,397.77014811569,693.75,697.038120567376,361.583333333333,13.6666666666667,1344.33333333333,1330.66666666667,-0.0201147346533008,1.65414368858683,26.0030480405974,Short,as.numeric.ignore.,230,,,,,653.360144927536,375.120297872252,652.75,651.363224637681,292.5,8.5,1340.66666666667,1332.16666666667,0.0430791526145682,1.96619092685408,24.7346999591374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,696.14245014245,653.360144927536,1.1914960812221,0.234070619770881,462,-27.7777440872316,113.342354517059, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 1.1915, df = 462, p-value = 0.2341
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -27.77774 113.34235
+sample estimates:
+mean of x mean of y 
+ 696.1425  653.3601 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.1914960812221,-0.770615822639502,3.15232071165612,464,234,230,0.11063,0.00863,-0.07155,0.2927,54.40458,53.11768,0.06235,0.23443,0.11045,0.00861,-0.07144,0.29222,54.39746,53.11263,0.23443,0.05535,0.00215,-0.03583,0.14511,0.23482,0.05541,0.00217,-0.03584,0.14614,1.22221,0.87829,1.70045,0.23443,0.20066,-0.12978,0.53089,0.23443,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,464,1,116,464,464,0,79.0948275862069,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 189 274 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      19                     200                     240                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             223 
+Unable to verify (completed online) but likely mostly computers 
+                                                            240 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       463 ","analysis.type
+Order 
+  464 ","subset
+all 
+464 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:37.809684Z,15,Giessner,2,,2,Order,Giessner.1,481,240,241,Long,as.numeric.ignore.,240,,,,,661.061805555556,389.840780954352,665.333333333333,658.9140625,327.25,4.83333333333333,1341.83333333333,1337,0.00461149998688978,1.8207271643632,25.164114205145,Short,as.numeric.ignore.,241,,,,,689.717150760719,371.956745433047,669,690.315198618308,301.166666666667,18,1344,1326,0.00830158550491849,1.90256303732268,23.9598402305184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,661.061805555556,689.717150760719,-0.824782272274406,0.409905746262779,479,-96.9227130317399,39.6120226214125, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -0.82478, df = 479, p-value = 0.4099
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -96.92271  39.61202
+sample estimates:
+mean of x mean of y 
+ 661.0618  689.7172 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.824782272274406,-2.78501157611942,1.13630716921312,481,240,241,-0.07521,0.00832,-0.25397,0.10362,47.00223,47.87926,-0.04241,0.41007,-0.0751,0.0083,-0.25357,0.10346,47.00692,47.88258,0.41007,-0.03766,0.00208,-0.12623,0.05185,0.41051,-0.03768,0.00209,-0.12691,0.0519,0.87247,0.63087,1.20677,0.41007,-0.13642,-0.46065,0.18795,0.41007,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,481,1,117,481,481,0,73.5966735966736,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 209 271 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      16                     221                     237                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             243 
+Unable to verify (completed online) but likely mostly computers 
+                                                            237 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       480 ","analysis.type
+Order 
+  481 ","subset
+all 
+481 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:37.961704Z,15,Giessner,2,,3,Order,Giessner.1,531,230,301,Long,as.numeric.ignore.,230,,,,,707.31884057971,395.771190596009,767.25,716.440217391304,326.25,19.8333333333333,1344.33333333333,1324.5,-0.239919721156553,1.82658331081572,26.0963795011611,Short,as.numeric.ignore.,301,,,,,701.873200442968,373.603487420451,707.666666666667,704.819502074689,298.333333333333,11.3333333333333,1344.66666666667,1333.33333333333,-0.0614015681274949,1.95692389209908,21.5341470170033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,707.31884057971,701.873200442968,0.16219794297664,0.87121191374208,529,-60.5091681403022,71.4004484137867, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 0.1622, df = 529, p-value = 0.8712
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -60.50917  71.40045
+sample estimates:
+mean of x mean of y 
+ 707.3188  701.8732 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.16219794297664,-1.79786703123518,2.12210965092777,531,230,301,0.01421,0.00767,-0.15746,0.18585,50.56668,50.40071,0.00801,0.87121,0.01418,0.00765,-0.15723,0.18559,50.56588,50.40014,0.87121,0.00705,0.00189,-0.07793,0.09188,0.87133,0.00705,0.00189,-0.07809,0.09214,1.0261,0.75157,1.40088,0.87121,0.02577,-0.28559,0.3371,0.87121,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,531,1,119,531,531,0,79.0960451977401,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 213 315 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      19                     228                     277                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             251 
+Unable to verify (completed online) but likely mostly computers 
+                                                            277 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       528 ","analysis.type
+Order 
+  531 ","subset
+all 
+531 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.084820Z,15,Giessner,2,,4,Order,Giessner.1,717,353,364,Long,as.numeric.ignore.,353,,,,,553.02880075543,371.298960999076,448.166666666667,525.81507656066,195.166666666667,4.16666666666667,1340.16666666667,1336,0.599338931859119,2.17336074275029,19.7622496482213,Short,as.numeric.ignore.,364,,,,,636.386446886447,387.418654537645,590.5,623.506278538813,327.583333333333,8.33333333333333,1343.66666666667,1335.33333333333,0.244841973756629,1.70640226250796,20.306255050751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,553.02880075543,636.386446886447,-2.93990906599969,0.00338898121669606,715,-139.024338718712,-27.6909535433225, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -2.9399, df = 715, p-value = 0.003389
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -139.02434  -27.69095
+sample estimates:
+mean of x mean of y 
+ 553.0288  636.3864 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-2.93990906599969,-4.90476325407826,-0.973011058260939,717,353,364,-0.21961,0.00561,-0.36639,-0.07268,41.30868,43.82968,-0.12341,0.00349,-0.21938,0.0056,-0.366,-0.07261,41.31765,43.8361,0.00349,-0.10929,0.00136,-0.18042,-0.03636,0.00348,-0.10973,0.0014,-0.18241,-0.03638,0.67144,0.5145,0.87649,0.00349,-0.39833,-0.66455,-0.13183,0.00349,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,575,1,121,717,717,0,61.7852161785216,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 389 326 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      22                     246                     440                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             275 
+Unable to verify (completed online) but likely mostly computers 
+                                                            440 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       715 ","analysis.type
+Order 
+  717 ","subset
+all 
+717 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.193752Z,15,Giessner,2,,5,Order,Giessner.1,508,264,244,Long,as.numeric.ignore.,264,,,,,689.05744949495,376.497739023371,696.583333333333,694.125,314,7.5,1335,1327.5,-0.0698678434824493,1.81247077613489,23.1718340233672,Short,as.numeric.ignore.,244,,,,,655.713797814208,391.340708055528,668,649.912414965986,340.416666666667,9.5,1342.66666666667,1333.16666666667,0.085670577104189,1.79318380047507,25.0530216250801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,689.05744949495,655.713797814208,0.978563815040252,0.328263163312968,506,-33.6004230044609,100.287726365945, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 0.97856, df = 506, p-value = 0.3283
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -33.60042 100.28773
+sample estimates:
+mean of x mean of y 
+ 689.0574  655.7138 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.978563815040252,-0.982809709882802,2.93897148535681,508,264,244,0.0869,0.00789,-0.08728,0.26099,53.46248,52.44989,0.049,0.32849,0.08677,0.00787,-0.08715,0.26061,53.45736,52.44626,0.32849,0.04346,0.00196,-0.04365,0.12955,0.32889,0.04349,0.00198,-0.04368,0.13028,1.17072,0.85359,1.60543,0.32849,0.15762,-0.1583,0.47339,0.32849,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,508,1,119,508,508,0,76.9685039370079,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 227 279 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      15                     227                     259                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             247 
+Unable to verify (completed online) but likely mostly computers 
+                                                            259 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       506 ","analysis.type
+Order 
+  508 ","subset
+all 
+508 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.361321Z,15,Giessner,2,,6,Order,Giessner.1,498,231,267,Long,as.numeric.ignore.,231,,,,,686.968253968254,368.267368940631,685.833333333333,689.641441441442,316,4.33333333333333,1337.16666666667,1332.83333333333,-0.0227925892743957,1.91939282026885,24.2302139592863,Short,as.numeric.ignore.,267,,,,,696.995006242197,382.523829770845,709.833333333333,699.391472868217,334.166666666667,5.5,1341,1335.5,-0.0431759467473987,1.8079131365987,23.4100782053927,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,686.968253968254,696.995006242197,-0.296785219002784,0.766754729879181,496,-76.4052082172327,56.351703669346, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -0.29679, df = 496, p-value = 0.7668
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -76.40521  56.35170
+sample estimates:
+mean of x mean of y 
+ 686.9683  696.9950 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.296785219002784,-2.25668663319348,1.66341527307693,498,231,267,-0.02667,0.00808,-0.20278,0.14947,48.93621,49.24775,-0.01505,0.76676,-0.02663,0.00805,-0.20247,0.14924,48.93782,49.24888,0.76676,-0.01332,0.00201,-0.10081,0.07448,0.76699,-0.01333,0.00202,-0.10116,0.07462,0.95278,0.69225,1.31142,0.76676,-0.04837,-0.3678,0.27111,0.76676,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,27,54,12,498,1,119,498,498,0,78.1124497991968,< table of extent 0 >,"SubjectPool
+ No Yes 
+213 285 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     18                     230                     247                       3 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            251                                                             247 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      498 ","analysis.type
+Order 
+  498 ","subset
+all 
+498 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.475476Z,15,Giessner,2,,7,Order,Giessner.1,536,281,255,Long,as.numeric.ignore.,281,,,,,743.502372479241,390.755886064882,804.666666666667,758.160740740741,326.833333333333,6,1337,1331,-0.271118052904591,1.83750528779983,23.3105418467667,Short,as.numeric.ignore.,255,,,,,655.159477124183,388.086023517685,616.833333333333,651.665040650406,318.666666666667,14,1338.66666666667,1324.66666666667,0.0657499369432054,1.83817389477621,24.3028894957417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,743.502372479241,655.159477124183,2.62251597123513,0.0089775458006041,534,22.1689500369952,154.51684067312, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 2.6225, df = 534, p-value = 0.008978
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+  22.16895 154.51684
+sample estimates:
+mean of x mean of y 
+ 743.5024  655.1595 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.62251597123513,0.655034243149805,4.5875576518341,536,281,255,0.22682,0.00753,0.05665,0.39677,58.97173,56.37109,0.12742,0.0092,0.2265,0.00751,0.05657,0.39621,58.95934,56.36221,0.0092,0.11276,0.00182,0.02833,0.19472,0.00919,0.11325,0.00188,0.02834,0.19724,1.50893,1.10822,2.05374,0.0092,0.4114,0.10276,0.71966,0.0092,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,536,1,119,536,536,0,79.8507462686567,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 215 319 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      21                     251                     257                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             277 
+Unable to verify (completed online) but likely mostly computers 
+                                                            257 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       534 ","analysis.type
+Order 
+  536 ","subset
+all 
+536 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.617457Z,15,Giessner,2,,8,Order,Giessner.1,499,220,279,Long,as.numeric.ignore.,220,,,,,627.153787878788,395.229533667333,601.916666666667,620.04071969697,352.75,5.33333333333333,1335.66666666667,1330.33333333333,0.103810975342798,1.80764058340969,26.6463697239927,Short,as.numeric.ignore.,279,,,,,735.911589008363,374.460139710648,724.333333333333,740.579259259259,305.166666666667,7.5,1343.5,1336,-0.0450477936582705,1.86116063433034,22.4183421632398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,627.153787878788,735.911589008363,-3.14321811701854,0.0017708540109969,497,-176.73963727222,-40.7759649869311, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -3.1432, df = 497, p-value = 0.001771
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -176.73964  -40.77596
+sample estimates:
+mean of x mean of y 
+ 627.1538  735.9116 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-3.14321811701854,-5.11132769151349,-1.17197665729341,499,220,279,-0.28341,0.00821,-0.46086,-0.10567,38.84322,42.05841,-0.15883,0.00186,-0.28298,0.00819,-0.46017,-0.10551,38.85962,42.07024,0.00186,-0.13961,0.00193,-0.22348,-0.0525,0.00185,-0.14053,0.00202,-0.22731,-0.05255,0.59807,0.43348,0.82558,0.00186,-0.51404,-0.83591,-0.19167,0.00186,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,499,1,117,499,499,0,73.1462925851703,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 192 305 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      21                     229                     241                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             256 
+Unable to verify (completed online) but likely mostly computers 
+                                                            241 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       497 ","analysis.type
+Order 
+  499 ","subset
+all 
+499 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.771125Z,15,Giessner,2,,9,Order,Giessner.1,556,284,272,Long,as.numeric.ignore.,284,,,,,680.717136150235,396.29575926834,712.166666666667,683.355994152047,341.083333333333,9,1342.83333333333,1333.83333333333,-0.0545626060929019,1.74513659926644,23.5158269159836,Short,as.numeric.ignore.,272,,,,,680.787377450981,405.726698387378,700.5,684.355504587156,359.583333333333,6.5,1344,1337.5,-0.0716494198758174,1.75295854369158,24.6007945968277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,680.717136150235,680.787377450981,-0.00206501326128841,0.998353102326257,554,-66.8842652224899,66.7437826209986, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -0.002065, df = 554, p-value = 0.9984
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -66.88427  66.74378
+sample estimates:
+mean of x mean of y 
+ 680.7171  680.7874 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.00206501326128841,-1.9620280699446,1.95789990673114,556,284,272,-0.00018,0.0072,-0.16646,0.16611,49.99301,49.99506,-1e-04,0.99835,-0.00017,0.00718,-0.16623,0.16588,49.99302,49.99506,0.99835,-9e-05,0.0018,-0.08307,0.0829,0.99835,-9e-05,0.00181,-0.08326,0.08309,0.99968,0.7394,1.35159,0.99835,-0.00032,-0.30192,0.30128,0.99835,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,556,1,118,556,556,0,79.4964028776979,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 230 322 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      17                     248                     281                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             271 
+Unable to verify (completed online) but likely mostly computers 
+                                                            281 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       552 ","analysis.type
+Order 
+  556 ","subset
+all 
+556 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:38.897694Z,15,Giessner,2,,10,Order,Giessner.1,530,273,257,Long,as.numeric.ignore.,273,,,,,707.611111111111,387.515916374928,716.333333333333,716.730593607306,298.666666666667,6.16666666666667,1342.83333333333,1336.66666666667,-0.161410111977598,1.92913525023239,23.4535301937487,Short,as.numeric.ignore.,257,,,,,658.045395590143,408.986870307554,675.666666666667,659.279388083736,364.166666666667,7.16666666666667,1343,1335.83333333333,-0.0549108511358096,1.72829816666984,25.5119000297563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,707.611111111111,658.045395590143,1.43262024656422,0.152558167513857,528,-18.4008065821582,117.532237624095, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 1.4326, df = 528, p-value = 0.1526
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -18.40081 117.53224
+sample estimates:
+mean of x mean of y 
+ 707.6111  658.0454 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.43262024656422,-0.529923482916411,3.39381015083965,530,273,257,0.12451,0.00757,-0.04606,0.29497,54.95462,53.50797,0.07016,0.15295,0.12434,0.00755,-0.04599,0.29455,54.94761,53.50299,0.15295,0.06223,0.00188,-0.02306,0.14611,0.15321,0.06231,0.0019,-0.02306,0.14716,1.25338,0.91985,1.70748,0.15295,0.22584,-0.08354,0.53502,0.15295,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,530,1,119,530,530,0,79.0566037735849,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 204 324 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      22                     219                     282                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             246 
+Unable to verify (completed online) but likely mostly computers 
+                                                            282 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       528 ","analysis.type
+Order 
+  530 ","subset
+all 
+530 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:39.032532Z,15,Giessner,2,,11,Order,Giessner.1,521,254,267,Long,as.numeric.ignore.,254,,,,,663.040026246719,397.466443639916,696.833333333333,664.218954248366,346.333333333333,6.66666666666667,1342.16666666667,1335.5,-0.0941004003523675,1.73737873117405,24.9392627409484,Short,as.numeric.ignore.,267,,,,,658.032459425718,398.31640334203,643.333333333333,656.959689922481,356,5.16666666666667,1339.83333333333,1334.66666666667,0.00973588989045855,1.70875631171357,24.3765680122821,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,663.040026246719,658.032459425718,0.143583301868772,0.885885258081446,519,-63.5073084626679,73.5224421046705, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 0.14358, df = 519, p-value = 0.8859
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -63.50731  73.52244
+sample estimates:
+mean of x mean of y 
+ 663.0400  658.0325 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.143583301868772,-1.81646928251887,2.10349759537584,521,254,267,0.01258,0.00768,-0.15921,0.18437,50.50205,50.35501,0.0071,0.88589,0.01257,0.00766,-0.15898,0.1841,50.50133,50.3545,0.88589,0.0063,0.00192,-0.07948,0.09194,0.886,0.0063,0.00193,-0.07965,0.0922,1.02309,0.74918,1.39711,0.88589,0.02283,-0.28878,0.33441,0.88589,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,55,12,521,1,118,521,521,0,79.6545105566219,< table of extent 0 >,"SubjectPool
+     No Yes 
+  6 205 310 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      6                      12                     234                     260                       9 ","Tablet
+                                                                                                                      Computers 
+                                                              6                                                             255 
+Unable to verify (completed online) but likely mostly computers 
+                                                            260 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        6                                                                       515 ","analysis.type
+Order 
+  521 ","subset
+all 
+521 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:39.172453Z,15,Giessner,2,,12,Order,Giessner.1,526,266,260,Long,as.numeric.ignore.,266,,,,,695.624060150376,367.268756182691,715.75,699.30062305296,303.416666666667,5.33333333333333,1328.5,1323.16666666667,-0.073858051933926,1.88045095229846,22.518692257932,Short,as.numeric.ignore.,260,,,,,696.664102564103,378.496882924801,686.5,699.483173076923,322.666666666667,10.1666666666667,1342.5,1332.33333333333,-0.0248340262671445,1.81391592451788,23.4733802082102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,695.624060150376,696.664102564103,-0.0319844543474991,0.974496627022875,524,-64.9199785004609,62.8398936730077, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -0.031984, df = 524, p-value = 0.9745
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -64.91998  62.83989
+sample estimates:
+mean of x mean of y 
+ 695.6241  696.6641 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0319844543474991,-1.99193413898545,1.92799574248264,526,266,260,-0.00279,0.00761,-0.17372,0.16814,49.88872,49.92131,-0.00157,0.9745,-0.00279,0.00758,-0.17347,0.1679,49.88888,49.92143,0.9745,-0.0014,0.0019,-0.08669,0.08393,0.97452,-0.0014,0.00191,-0.08691,0.08413,0.99495,0.72973,1.35659,0.9745,-0.00506,-0.31509,0.30497,0.9745,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,27,55,12,526,1,120,526,526,0,76.6159695817491,< table of extent 0 >,"SubjectPool
+ No Yes 
+215 311 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     18                     236                     265                       7 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            261                                                             265 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      526 ","analysis.type
+Order 
+  526 ","subset
+all 
+526 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:39.292634Z,15,Giessner,2,,13,Order,Giessner.1,517,265,252,Long,as.numeric.ignore.,265,,,,,672.681761006289,366.696989940237,664.166666666667,672.935054773083,298.666666666667,4.83333333333333,1340.66666666667,1335.83333333333,-0.0155613786606335,1.95778704470085,22.5260170277996,Short,as.numeric.ignore.,252,,,,,678.646825396826,395.825196173938,693.666666666667,679.965346534654,344.833333333333,5.5,1332.83333333333,1327.33333333333,-0.0520307255783397,1.76938960116605,24.9346436126094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,672.681761006289,678.646825396826,-0.17785763625733,0.858904716514822,515,-71.8540101485547,59.9238813674825, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = -0.17786, df = 515, p-value = 0.8589
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -71.85401  59.92388
+sample estimates:
+mean of x mean of y 
+ 672.6818  678.6468 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.17785763625733,-2.13776538803678,1.78222274579993,517,265,252,-0.01565,0.00774,-0.1881,0.15681,49.37571,49.55855,-0.00883,0.85891,-0.01563,0.00772,-0.18782,0.15659,49.37662,49.55919,0.85891,-0.00784,0.00194,-0.09379,0.07829,0.85904,-0.00784,0.00195,-0.09406,0.07845,0.97201,0.71094,1.329,0.85891,-0.02838,-0.34117,0.28443,0.85891,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,517,1,120,517,517,0,76.4023210831721,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 208 307 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      16                     226                     268                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             247 
+Unable to verify (completed online) but likely mostly computers 
+                                                            268 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       515 ","analysis.type
+Order 
+  517 ","subset
+all 
+517 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:39.422750Z,15,Giessner,2,,14,Order,Giessner.1,494,244,250,Long,as.numeric.ignore.,244,,,,,695.064207650273,384.072336774004,677.25,699.700680272109,329.75,11.3333333333333,1345.16666666667,1333.83333333333,-0.061637216802945,1.80736449076475,24.58771183454,Short,as.numeric.ignore.,250,,,,,658.299333333333,394.347157138416,643.75,656.584166666667,332.666666666667,6.16666666666667,1330.66666666667,1324.5,0.0133150930870268,1.77249095282218,24.9407041073944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,695.064207650273,658.299333333333,1.04940494320519,0.294506982971946,492,-32.0698765641111,105.599625197991, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 1.0494, df = 492, p-value = 0.2945
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -32.06988 105.59963
+sample estimates:
+mean of x mean of y 
+ 695.0642  658.2993 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.04940494320519,-0.912187464623713,3.00993228401914,494,244,250,0.09444,0.00811,-0.08209,0.27087,53.76189,52.66204,0.05324,0.29478,0.09429,0.00808,-0.08196,0.27045,53.75617,52.65798,0.29478,0.04726,0.00202,-0.04109,0.13447,0.29518,0.04729,0.00204,-0.04111,0.13529,1.18683,0.86166,1.63444,0.29478,0.17129,-0.14889,0.4913,0.29478,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,494,1,120,494,494,0,76.7206477732794,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 200 293 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      17                     219                     252                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             241 
+Unable to verify (completed online) but likely mostly computers 
+                                                            252 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       493 ","analysis.type
+Order 
+  494 ","subset
+all 
+494 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:39.560246Z,15,Giessner,2,,15,Order,Giessner.1,512,260,252,Long,as.numeric.ignore.,260,,,,,707.216025641026,393.213503739886,726.5,714.180288461539,330.333333333333,17.5,1339,1321.5,-0.115592303420359,1.78658270278124,24.3860662866347,Short,as.numeric.ignore.,252,,,,,674.406084656085,391.497530373612,682,673.331683168317,333.833333333333,12.8333333333333,1333.5,1320.66666666667,-0.020081480592889,1.82684022058399,24.6620262920127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,707.216025641026,674.406084656085,0.945935913707092,0.344629221487182,510,-35.3334440431554,100.953326013037, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Long and Short
+t = 0.94594, df = 510, p-value = 0.3446
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -35.33344 100.95333
+sample estimates:
+mean of x mean of y 
+ 707.2160  674.4061 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.945935913707092,-1.0153503447637,2.90629578214224,512,260,252,0.08362,0.00782,-0.08976,0.25691,53.33207,52.3575,0.04715,0.34484,0.0835,0.0078,-0.08962,0.25654,53.32718,52.35404,0.34484,0.04185,0.00195,-0.04492,0.12764,0.34524,0.04187,0.00196,-0.04495,0.12834,1.16378,0.84976,1.59359,0.34484,0.15167,-0.1628,0.46599,0.34484,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,55,11,512,1,119,512,512,0,78.3203125,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 211 299 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      15                     232                     259                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             251 
+Unable to verify (completed online) but likely mostly computers 
+                                                            259 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       510 ","analysis.type
+Order 
+  512 ","subset
+all 
+512 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

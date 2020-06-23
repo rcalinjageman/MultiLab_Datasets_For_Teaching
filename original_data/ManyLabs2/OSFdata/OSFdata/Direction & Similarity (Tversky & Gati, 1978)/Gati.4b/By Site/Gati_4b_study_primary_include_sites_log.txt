@@ -1,0 +1,71 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.4B~~~~~~~
+	# 86 Gati.4b - START
+
+	# 
+	# 86 Gati.4b - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - carleton >> ES r is close to 0:  -0.03
+	# 
+	# 86 Gati.4b - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - csunorthonline >> ES r is close to 0:  0
+	# 
+	# 86 Gati.4b - georgefox >> ES r is close to 0:  0.01
+	# 
+	# 86 Gati.4b - grazvienna >> ES r is close to 0:  0.03
+	# 
+	# 86 Gati.4b - jmu >> ES r is close to 0:  0.01
+	# 
+	# 86 Gati.4b - kenyon >> ES r is close to 0:  -0.03
+	# 
+	# 86 Gati.4b - kwazulu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - loyola >> ES r is close to 0:  0.03
+	# 
+	# 86 Gati.4b - mcdanielonline >> ES r is close to 0:  -0.02
+	# 
+	# 86 Gati.4b - mturk_india >> ES r is close to 0:  0.01
+	# 
+	# 86 Gati.4b - munichon >> ES r is close to 0:  -0.05
+	# 
+	# 86 Gati.4b - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - ritonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - salford >> ES r is close to 0:  0
+ListIT = FALSE
+
+	# 
+	# 86 Gati.4b - swps >> ES r is close to 0:  0
+	# 
+	# 86 Gati.4b - tamucc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 86 Gati.4b - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 86 Gati.4b - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 86 Gati.4b - tilburg >> ES r is close to 0:  0.03
+	# 
+	# 86 Gati.4b - tilburgcaf >> ES r is close to 0:  -0.04
+	# 
+	# 86 Gati.4b - unswonline >> ES r is close to 0:  -0.05
+	# 
+	# 86 Gati.4b - vuw >> ES r is close to 0:  -0.05
+	# 
+	# 86 Gati.4b - westernkentucky >> ES r is close to 0:  -0.01
+	# 
+	# 86 Gati.4b - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

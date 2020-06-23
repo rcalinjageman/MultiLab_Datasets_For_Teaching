@@ -1,0 +1,1923 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:13:42.630326Z,28,Gati,2,,amity,Secondary,Gati.1a,59,34,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,16.7439775309293,2.66389697082617e-13,,,,,,lm.t,,"simpleWarning Model failed to converge with 1 negative eigenvalue 39e02
+",,,,,20.1720936153836,,,,,,,,,,,,,,,,,,,,,16.7439775309293,11.2264454676421,22.2026550340016,21.17209,10.58605,10.58605,7.27791,1.43982,4.87967,9.65057,100,99.99999,1,1e-05,6.98944,1.32794,4.68626,9.26806,100,99.99996,1e-05,0.96747,2e-04,0.93165,0.9811,0,2.05113,0.05503,1.67072,2.32622,540727.04309,6979.55566,39992372.21769,1e-05,13.20067,8.85074,17.5042,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:43.758108Z,28,Gati,2,,armstrong,Secondary,Gati.1a,38,23,15,1,Condition,395,,,,,,,,,,,,,,,,2,Condition,403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.5164455465105,2.57339188376486e-15,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4440.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9734 -0.6470 -0.0135  0.6065  3.8453 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.6350  1.6233        
+          ConditionProminent1st  0.3298  0.5743   0.14 
+ itemID   (Intercept)            5.8498  2.4186        
+          ConditionProminent1st  0.3800  0.6165   -0.30
+ Residual                       12.9786  3.6026        
+Number of obs: 798, groups:  uID, 38; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.5889     0.6180 28.1165  15.516 2.57e-15 ***
+ConditionProminent1st  -0.4389     0.3084 15.9846  -1.423    0.174    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.276",,,,,28.1165140066759,,,,,,,,,,,,,,,,,,,,,15.5164455465105,11.0026772056296,19.9715842423479,29.11651,14.55826,14.55826,5.75112,0.70536,4.07811,7.4024,100,99.99762,0.99995,0,5.59057,0.66653,3.96426,7.19576,100,99.99614,0,0.94804,0.00036,0.90388,0.96765,0,1.81201,0.03829,1.49302,2.05396,33907.13216,1630.87008,677711.45493,0,10.43138,7.39687,13.42648,0,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,38,14,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+In a lab 
+      38 ","Tablet
+Computers 
+       38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:44.493472Z,28,Gati,2,,aus2,Secondary,Gati.1a,84,37,47,1,Condition,887,,,,,,,,,,,,,,,,2,Condition,877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.8837670723559,6.32602155304583e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 9878.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.8535 -0.6583 -0.0324  0.6258  3.3813 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            5.68759 2.3849        
+          ConditionProminent1st  0.38782 0.6227   0.07 
+ itemID   (Intercept)            7.49388 2.7375        
+          ConditionProminent1st  0.02715 0.1648   -0.04
+ Residual                       13.47814 3.6713        
+Number of obs: 1764, groups:  uID, 84; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.2083     0.6632 27.4240  13.884 6.33e-14 ***
+ConditionProminent1st  -0.0994     0.1925 19.3798  -0.516    0.611    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.118",,,,,27.4239703707813,,,,,,,,,,,,,,,,,,,,,13.8837670723559,9.70641352129051,17.9995147671625,28.42397,14.21199,14.21199,5.20829,0.6179,3.64122,6.75225,99.99999,99.98847,0.99977,0,5.05905,0.58299,3.53688,6.55877,99.99998,99.98264,0,0.93779,0.00053,0.88372,0.96156,0,1.71936,0.03933,1.39251,1.96615,12667.41757,738.36246,208401.99959,0,9.44679,6.60443,12.24722,0,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,84,15,63,84,84,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:45.038818Z,28,Gati,2,,bogota,Secondary,Gati.1a,42,22,20,1,Condition,440,,,,,,,,,,,,,,,,2,Condition,442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.8876061501557,4.36008420446716e-17,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4987.1
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-3.15010 -0.64438 -0.01321  0.63947  3.06306 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            4.353752 2.08656       
+          ConditionProminent1st  0.000213 0.01459  -1.00
+ itemID   (Intercept)            5.460660 2.33681       
+          ConditionProminent1st  0.121795 0.34899  1.00 
+ Residual                       14.218263 3.77071       
+Number of obs: 882, groups:  uID, 42; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.9987     0.6293  33.2311  15.888   <2e-16 ***
+ConditionProminent1st  -0.3636     0.2656 106.5922  -1.369    0.174    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.034 ",,,,,33.2310717782684,,,,,,,,,,,,,,,,,,,,,15.8876061501557,11.5819479973162,20.1373102261833,34.23107,17.11554,17.11554,5.43098,0.54768,3.95914,6.88369,100,99.99386,0.99988,0,5.30362,0.5223,3.8663,6.72226,99.99999,99.99117,0,0.94168,0.00039,0.89793,0.96248,0,1.75272,0.03202,1.46141,1.97856,18971.78723,1314.34518,264508.79363,0,9.85071,7.18109,12.48563,0,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,42,14,32,42,42,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:45.708677Z,28,Gati,2,,brookcuny,Secondary,Gati.1a,76,45,31,1,Condition,791,,,,,,,,,,,,,,,,2,Condition,805,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.4477202306273,9.97786947965298e-17,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 9131.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.0335 -0.6555 -0.0326  0.6192  4.0946 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            5.504013 2.34606       
+          ConditionProminent1st  0.005067 0.07119  -1.00
+ itemID   (Intercept)            4.501963 2.12178       
+          ConditionProminent1st  0.068836 0.26237  1.00 
+ Residual                       15.526595 3.94038       
+Number of obs: 1596, groups:  uID, 76; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)             8.55558    0.55384  33.22633  15.448   <2e-16 ***
+ConditionProminent1st  -0.05618    0.20886 120.34518  -0.269    0.788    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.035 ",,,,,33.2263297128414,,,,,,,,,,,,,,,,,,,,,15.4477202306273,11.2347814568766,19.6041275932337,34.22633,17.11316,17.11316,5.28098,0.52429,3.84074,6.70189,99.99999,99.99058,0.99981,0,5.15711,0.49998,3.75065,6.5447,99.99999,99.98671,0,0.93863,0.00043,0.89253,0.96054,0,1.72639,0.03202,1.43423,1.95283,14452.62918,1060.31845,190210.26279,0,9.57863,6.96632,12.15589,0,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,76,15,54,76,76,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 76 ","Setting
+Online (at home) 
+              76 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:46.309685Z,28,Gati,2,,carleton,Secondary,Gati.1a,53,26,27,1,Condition,557,,,,,,,,,,,,,,,,2,Condition,556,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.7143630977689,8.63916928400469e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 6122.3
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9512 -0.6912 -0.0147  0.6563  3.2005 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.81618 1.95350       
+          ConditionProminent1st  0.14544 0.38137  0.10 
+ itemID   (Intercept)            7.68731 2.77260       
+          ConditionProminent1st  0.00699 0.08361  -1.00
+ Residual                       12.17639 3.48947       
+Number of obs: 1113, groups:  uID, 53; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            9.30104    0.67820 27.39788  13.714 8.64e-14 ***
+ConditionProminent1st  0.03648    0.21666 49.81664   0.168    0.867    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.214",,,,,27.3978816940679,,,,,,,,,,,,,,,,,,,,,13.7143630977689,9.57457313265412,17.792245236698,28.39788,14.19894,14.19894,5.1471,0.60731,3.59341,6.67756,99.99999,99.98634,0.99973,0,4.99947,0.57297,3.49034,6.48603,99.99997,99.97962,0,0.93644,0.00055,0.88115,0.96074,0,1.70832,0.03937,1.38088,1.95549,11336.78477,677.03288,181998.46302,0,9.33581,6.51772,12.11175,0,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,53,14,44,53,53,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 53 ","Setting
+Online (at home) 
+              53 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             53 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       53 ","analysis.type
+Secondary 
+       53 ","subset
+all 
+ 53 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:46.790958Z,28,Gati,2,,csunorthonline,Secondary,Gati.1a,35,16,19,1,Condition,369,,,,,,,,,,,,,,,,2,Condition,366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.5861108859049,4.33826899322737e-15,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4135.1
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.48973 -0.61690 -0.03553  0.56548  3.06489 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            9.25335 3.0419        
+          ConditionProminent1st  0.25706 0.5070   0.37 
+ itemID   (Intercept)            5.12105 2.2630        
+          ConditionProminent1st  0.02467 0.1571   -1.00
+ Residual                       13.22018 3.6360        
+Number of obs: 735, groups:  uID, 35; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.5473     0.7377 44.9323  11.586 4.34e-15 ***
+ConditionProminent1st  -0.4018     0.2849 32.3811  -1.411    0.168    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.175",,,,,44.93227773524,,,,,,,,,,,,,,,,,,,,,11.5861108859049,8.46944767598384,14.6481331971976,45.93228,22.96614,22.96614,3.41908,0.21434,2.49934,4.32268,99.96858,99.21895,0.98438,0,3.36037,0.20704,2.45643,4.24846,99.96108,99.12526,0,0.868,0.00135,0.78751,0.91107,0,1.32491,0.02329,1.06484,1.53379,493.49705,93.06602,2541.41887,0,6.20152,4.53331,7.84048,0,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,35,13,28,35,35,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 35 ","Setting
+Online (at home) 
+              35 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             35 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       35 ","analysis.type
+Secondary 
+       35 ","subset
+all 
+ 35 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:47.343637Z,28,Gati,2,,fmkbelgrade,Secondary,Gati.1a,47,19,28,1,Condition,498,,,,,,,,,,,,,,,,2,Condition,489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,10.8842553166,4.11149976925493e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5636.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.0325 -0.6320 -0.0586  0.6511  3.4454 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.60498 1.8987        
+          ConditionProminent1st  0.05716 0.2391   -1.00
+ itemID   (Intercept)           10.20782 3.1950        
+          ConditionProminent1st  0.08879 0.2980   1.00 
+ Residual                       15.18748 3.8971        
+Number of obs: 987, groups:  uID, 47; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             8.3874     0.7706  25.6717  10.884 4.11e-11 ***
+ConditionProminent1st   0.2561     0.2634 124.9431   0.973    0.333    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.020 ",,,,,25.6716890733306,,,,,,,,,,,,,,,,,,,,,10.8842553166,7.29997995528149,14.4004806887676,26.67169,13.33584,13.33584,4.21506,0.48303,2.827,5.57676,99.99875,99.85611,0.99712,0,4.08561,0.45382,2.74019,5.40549,99.9978,99.80674,0,0.90975,0.00116,0.82676,0.94535,0,1.52605,0.04224,1.17783,1.78608,2090.72837,168.61497,24713.83261,0,7.64527,5.12762,10.11512,0,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,47,15,38,47,47,0,0,< table of extent 0 >,"SubjectPool
+No 
+47 ","Setting
+In a lab 
+      47 ","Tablet
+Computers 
+       47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:47.870219Z,28,Gati,2,,georgefox,Secondary,Gati.1a,48,23,25,1,Condition,505,,,,,,,,,,,,,,,,2,Condition,503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.9734433707768,1.6982686915853e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5407.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.97774 -0.67652 -0.04428  0.73374  3.05166 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           3.557e+00 1.88587       
+          ConditionProminent1st 4.613e-01 0.67916  -1.00
+ itemID   (Intercept)           5.189e+00 2.27787       
+          ConditionProminent1st 1.156e-04 0.01075  -1.00
+ Residual                       1.080e+01 3.28560       
+Number of obs: 1008, groups:  uID, 48; itemID, 21
+
+Fixed effects:
+                        Estimate Std. Error         df t value Pr(>|t|)    
+(Intercept)            9.349e+00  5.853e-01  3.095e+01  15.973   <2e-16 ***
+ConditionProminent1st -4.415e-04  2.293e-01  1.079e+02  -0.002    0.998    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.367",,,,,30.9490198621423,,,,,,,,,,,,,,,,,,,,,15.9734433707768,11.5267784301223,20.3633265941759,31.94902,15.97451,15.97451,5.65197,0.62513,4.07858,7.20526,100,99.99679,0.99994,0,5.50924,0.59396,3.97558,7.02331,100,99.9951,0,0.94602,0.00036,0.90336,0.96573,0,1.79246,0.03454,1.49018,2.02472,28326.06852,1632.27329,473972.65526,0,10.25154,7.39773,13.0689,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,48,15,41,48,48,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 48 ","Setting
+Online (at home) 
+              48 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:48.348114Z,28,Gati,2,,grazvienna,Secondary,Gati.1a,46,22,24,1,Condition,484,,,,,,,,,,,,,,,,2,Condition,482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.1137575815671,3.0911545464393e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5151.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.4256 -0.6733 -0.0158  0.6331  2.7532 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.7989  1.9491        
+          ConditionProminent1st  0.7657  0.8750   -0.53
+ itemID   (Intercept)           12.2443  3.4992        
+          ConditionProminent1st  0.1470  0.3835   -1.00
+ Residual                       10.0054  3.1631        
+Number of obs: 966, groups:  uID, 46; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.2074     0.8285 25.3412  11.114 3.09e-11 ***
+ConditionProminent1st   0.2856     0.2554 38.1085   1.118     0.27    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.493",,,,,25.3411567470676,,,,,,,,,,,,,,,,,,,,,11.1137575815671,7.46110807912034,14.6985112561561,26.34116,13.17058,13.17058,4.33085,0.50788,2.90747,5.72777,99.99926,99.89021,0.9978,0,4.19603,0.47675,2.81696,5.54946,99.99864,99.84966,0,0.91399,0.00107,0.83413,0.94802,0,1.55123,0.04284,1.20156,1.81186,2579.3671,195.1123,32501.25663,0,7.8553,5.27358,10.38903,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,48,15,41,48,48,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 48 ","Setting
+Online (at home) 
+              48 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:48.928711Z,28,Gati,2,,hawaiion,Secondary,Gati.1a,54,31,23,1,Condition,563,,,,,,,,,,,,,,,,2,Condition,571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,14.4830599499711,1.89784817243738e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 6218
+
+Scaled residuals: 
+   Min     1Q Median     3Q    Max 
+-2.619 -0.660 -0.050  0.626  3.397 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            5.24437 2.2901        
+          ConditionProminent1st  0.02422 0.1556   1.00 
+ itemID   (Intercept)            4.76981 2.1840        
+          ConditionProminent1st  0.26833 0.5180   -0.26
+ Residual                       11.85979 3.4438        
+Number of obs: 1134, groups:  uID, 54; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.5152     0.5879 35.4090  14.483   <2e-16 ***
+ConditionProminent1st   0.0349     0.2367 19.4469   0.147    0.884    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.209",,,,,35.4090356989151,,,,,,,,,,,,,,,,,,,,,14.4830599499711,10.5656364674819,18.3436937342873,36.40904,18.20452,18.20452,4.80049,0.42633,3.50204,6.08012,99.99992,99.96562,0.99931,0,4.69509,0.40782,3.42515,5.94662,99.99987,99.95498,0,0.92686,0.00056,0.87429,0.95249,0,1.63566,0.02993,1.35102,1.85791,6045.86015,573.63739,61581.63627,0,8.70713,6.352,11.02812,0,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,54,14,41,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:49.437316Z,28,Gati,2,,help,Secondary,Gati.1a,39,21,18,1,Condition,408,,,,,,,,,,,,,,,,2,Condition,411,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,14.0013552257678,1.12464867280212e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4689.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.4728 -0.6833 -0.0354  0.5881  3.4694 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.63348 1.6228        
+          ConditionProminent1st  0.21932 0.4683   1.00 
+ itemID   (Intercept)            7.63686 2.7635        
+          ConditionProminent1st  0.08719 0.2953   -1.00
+ Residual                       15.39534 3.9237        
+Number of obs: 819, groups:  uID, 39; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.5892     0.6849 26.1974  14.001 1.12e-13 ***
+ConditionProminent1st  -0.4375     0.2924 99.0838  -1.496    0.138    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.287",,,,,26.1973580158849,,,,,,,,,,,,,,,,,,,,,14.0013552257678,9.72198012316372,18.218708512149,27.19736,13.59868,13.59868,5.36954,0.67712,3.72839,6.9869,100,99.99267,0.99985,0,5.20811,0.63702,3.6163,6.77685,99.99999,99.98846,0,0.94133,5e-04,0.88855,0.96408,0,1.74962,0.04133,1.41499,2.00069,16970.97673,864.84638,318961.5762,0,9.73926,6.76255,12.67283,0,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,39,13,30,39,39,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:50.121458Z,28,Gati,2,,isb,Secondary,Gati.1a,68,37,31,1,Condition,711,,,,,,,,,,,,,,,,2,Condition,717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,20.3404440174026,3.57500576773467e-21,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 8441.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.4445 -0.6690 -0.0137  0.6418  3.0230 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.39777 2.0971        
+          ConditionProminent1st  0.05889 0.2427   -0.15
+ itemID   (Intercept)            2.90018 1.7030        
+          ConditionProminent1st  0.31395 0.5603   0.00 
+ Residual                       19.14895 4.3760        
+Number of obs: 1428, groups:  uID, 68; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            9.75252    0.47946 35.56325  20.340   <2e-16 ***
+ConditionProminent1st  0.07772    0.26450 16.61372   0.294    0.773    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.224",,,,,35.5632471633349,,,,,,,,,,,,,,,,,,,,,20.3404440174026,15.2170875052628,25.4136727907818,36.56325,18.28162,18.28162,6.72772,0.72836,5.03314,8.40572,100,99.9999,1,0,6.58067,0.69687,4.92313,8.22199,100,99.99984,0,0.96068,0.00017,0.9328,0.97427,0,1.95462,0.02979,1.67956,2.17016,199334.20457,9219.80489,4181975.07099,0,12.20274,9.12911,15.24629,0,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,68,15,54,68,68,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 68 ","Setting
+In a lab 
+      68 ","Tablet
+Computers 
+       68 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       68 ","analysis.type
+Secondary 
+       68 ","subset
+all 
+ 68 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:50.620923Z,28,Gati,2,,jmu,Secondary,Gati.1a,40,19,21,1,Condition,421,,,,,,,,,,,,,,,,2,Condition,419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,16.0325438807272,5.93915869277127e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4524.1
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.5496 -0.6379 -0.0108  0.6950  3.1045 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.1237  1.7674        
+          ConditionProminent1st  0.4406  0.6638   -0.60
+ itemID   (Intercept)            6.2059  2.4912        
+          ConditionProminent1st  0.3195  0.5653   0.33 
+ Residual                       10.7291  3.2755        
+Number of obs: 840, groups:  uID, 40; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)           10.12914    0.63179 29.00469  16.033 5.94e-16 ***
+ConditionProminent1st  0.05512    0.27851 17.91192   0.198    0.845    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.119",,,,,29.0046905636358,,,,,,,,,,,,,,,,,,,,,16.0325438807272,11.4558265564178,20.5517726826994,30.00469,15.00235,15.00235,5.8538,0.70434,4.18275,7.50386,100,99.99826,0.99997,0,5.69562,0.66679,4.06972,7.30109,100,99.99718,0,0.94961,0.00033,0.90782,0.96841,0,1.82777,0.03703,1.51498,2.06609,40848.20437,1971.73327,814635.46418,0,10.61762,7.58667,13.6105,0,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,40,14,34,40,40,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 40 ","Setting
+Online (at home) 
+              40 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:51.234839Z,28,Gati,2,,kenyon,Secondary,Gati.1a,54,24,30,1,Condition,570,,,,,,,,,,,,,,,,2,Condition,564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.9121585140092,1.24633785030749e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 6066.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.0275 -0.6863  0.0184  0.6524  3.2401 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            1.90139 1.3789        
+          ConditionProminent1st  0.02128 0.1459   1.00 
+ itemID   (Intercept)            9.78768 3.1285        
+          ConditionProminent1st  0.13231 0.3637   -1.00
+ Residual                       10.65630 3.2644        
+Number of obs: 1134, groups:  uID, 54; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)            10.0334     0.7212 22.8146  13.912 1.25e-12 ***
+ConditionProminent1st  -0.1535     0.2117 67.9074  -0.725    0.471    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.455",,,,,22.8146337389073,,,,,,,,,,,,,,,,,,,,,13.9121585140092,9.41734771604844,18.3431712830984,23.81463,11.90732,11.90732,5.70168,0.85051,3.85955,7.51766,100,99.99723,0.99994,0,5.50338,0.79238,3.72532,7.2562,100,99.99502,0,0.948,0.00045,0.89587,0.96908,0,1.81168,0.04804,1.4509,2.07694,30998.58691,1097.12562,835278.21296,0,10.3417,7.00045,13.63552,0,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,54,15,42,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+In a lab 
+      54 ","Tablet
+Computers 
+       54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:51.861694Z,28,Gati,2,,krakowon,Secondary,Gati.1a,55,26,29,1,Condition,579,,,,,,,,,,,,,,,,2,Condition,576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.0389576127674,8.76519125801519e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 6411.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.2048 -0.7054 -0.0283  0.6827  3.5002 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            3.034213 1.74190       
+          ConditionProminent1st  0.062575 0.25015  -0.04
+ itemID   (Intercept)            9.699323 3.11437       
+          ConditionProminent1st  0.006903 0.08308  -1.00
+ Residual                       12.977030 3.60236       
+Number of obs: 1155, groups:  uID, 55; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.8427     0.7345 24.5137  12.039 8.77e-12 ***
+ConditionProminent1st  -0.2320     0.2159 51.6801  -1.075    0.288    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.222",,,,,24.5136547783654,,,,,,,,,,,,,,,,,,,,,12.0389576127674,8.12490867646424,15.8863015322284,25.51365,12.75683,12.75683,4.76686,0.60209,3.21708,6.29023,99.99991,99.96251,0.99925,0,4.61318,0.56389,3.11337,6.08744,99.9998,99.94469,0,0.92758,0.00079,0.8587,0.95644,0,1.6408,0.04442,1.28836,1.90233,5688.09432,342.11314,90148.48699,0,8.64613,5.83514,11.40921,0,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,55,15,41,55,55,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 55 ","Setting
+Online (at home) 
+              55 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             55 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       55 ","analysis.type
+Secondary 
+       55 ","subset
+all 
+ 55 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:52.287676Z,28,Gati,2,,kwazulu,Secondary,Gati.1a,30,15,15,1,Condition,315,,,,,,,,,,,,,,,,2,Condition,315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.4688374956117,6.50016254118349e-15,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 3823.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.1151 -0.7098  0.0179  0.6913  3.2080 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            5.68961 2.3853        
+          ConditionProminent1st  0.01233 0.1111   -1.00
+ itemID   (Intercept)            8.49415 2.9145        
+          ConditionProminent1st  0.56278 0.7502   0.00 
+ Residual                       21.30373 4.6156        
+Number of obs: 630, groups:  uID, 30; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)            10.9574     0.8135 32.7834  13.469  6.5e-15 ***
+ConditionProminent1st  -0.2604     0.4034 19.3190  -0.645    0.526    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.233",,,,,32.7834251400333,,,,,,,,,,,,,,,,,,,,,13.4688374956117,9.64777275964808,17.2304895022479,33.78343,16.89171,16.89171,4.63456,0.4363,3.31975,5.92892,99.99982,99.94757,0.99895,0,4.52433,0.41579,3.24079,5.78791,99.9997,99.93109,0,0.92245,0.00068,0.8634,0.95042,0,1.60523,0.03249,1.30654,1.8361,4474.53335,412.138,46811.10886,0,8.40616,6.02136,10.75388,0,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,30,14,24,30,30,0,0,< table of extent 0 >,"SubjectPool
+No 
+30 ","Setting
+In a lab 
+      30 ","Tablet
+Computers 
+       30 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       30 ","analysis.type
+Secondary 
+       30 ","subset
+all 
+ 30 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:52.800107Z,28,Gati,2,,louvain,Secondary,Gati.1a,42,23,19,1,Condition,439,,,,,,,,,,,,,,,,2,Condition,443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.763888633718,8.13134876119093e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5088.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9440 -0.6927 -0.0664  0.6621  3.6693 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.2472  2.0609        
+          ConditionProminent1st  2.1391  1.4626   -0.52
+ itemID   (Intercept)            6.9006  2.6269        
+          ConditionProminent1st  0.2265  0.4759   1.00 
+ Residual                       15.7706  3.9712        
+Number of obs: 882, groups:  uID, 42; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            8.71329    0.68265 30.71205  12.764 8.13e-14 ***
+ConditionProminent1st -0.09207    0.36655 38.42912  -0.251    0.803    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.057",,,,,30.7120519396762,,,,,,,,,,,,,,,,,,,,,12.763888633718,9.00045281325166,16.4657572820283,31.71205,15.85603,15.85603,4.53316,0.45014,3.19656,5.84789,99.99971,99.93257,0.99865,0,4.41776,0.42751,3.11518,5.69903,99.9995,99.91074,0,0.91965,0.00077,0.85536,0.94933,0,1.58675,0.03483,1.27581,1.82499,3722.82697,329.60977,40413.02528,0,8.22224,5.79791,10.60691,0,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,42,15,40,42,42,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:54.118472Z,28,Gati,2,,loyola,Secondary,Gati.1a,150,72,78,1,Condition,1578,,,,,,,,,,,,,,,,2,Condition,1572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.0976214019234,3.61097807110508e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 17484.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.7027 -0.6728 -0.0144  0.6808  3.5887 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr
+ uID      (Intercept)            3.17000 1.7805       
+          ConditionProminent1st  0.08946 0.2991   0.20
+ itemID   (Intercept)            7.77930 2.7891       
+          ConditionProminent1st  0.11315 0.3364   0.22
+ Residual                       13.37953 3.6578       
+Number of obs: 3150, groups:  uID, 150; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.5494     0.6325 22.2280  15.098 3.61e-13 ***
+ConditionProminent1st  -0.1461     0.1518 18.6912  -0.962    0.348    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.021 ",,,,,22.2279821769149,,,,,,,,,,,,,,,,,,,,,15.0976214019234,10.2435922780977,19.890020997042,23.22798,11.61399,11.61399,6.26517,1.01714,4.25086,8.25391,100,99.99953,0.99999,0,6.04118,0.94571,4.09888,7.95881,100,99.99903,0,0.95645,0.00033,0.912,0.9742,0,1.90253,0.04944,1.53926,2.16886,86142.60375,2230.99393,3175350.72526,0,11.36376,7.7102,14.97093,0,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,150,15,93,150,150,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+150 ","Setting
+In a lab 
+     150 ","Tablet
+Computers 
+      150 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      150 ","analysis.type
+Secondary 
+      150 ","subset
+all 
+150 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:54.627344Z,28,Gati,2,,lse,Secondary,Gati.1a,48,23,25,1,Condition,505,,,,,,,,,,,,,,,,2,Condition,503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.2061998176804,5.23951008146619e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5458
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3840 -0.6868 -0.0172  0.6455  3.4270 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr
+ uID      (Intercept)            3.009831 1.73489      
+          ConditionProminent1st  0.214728 0.46339  1.00
+ itemID   (Intercept)           10.331441 3.21426      
+          ConditionProminent1st  0.002563 0.05063  1.00
+ Residual                       11.011107 3.31830      
+Number of obs: 1008, groups:  uID, 48; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.2681     0.7593  24.9095  12.206 5.24e-12 ***
+ConditionProminent1st  -0.1817     0.2202 182.0274  -0.825     0.41    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.016 ",,,,,24.9094976523183,,,,,,,,,,,,,,,,,,,,,12.2061998176804,8.27538151124389,16.0709023631723,25.9095,12.95475,12.95475,4.79602,0.59827,3.25154,6.31453,99.99992,99.96522,0.9993,0,4.64399,0.56094,3.14846,6.11436,99.99983,99.94879,0,0.92829,0.00077,0.86094,0.9567,0,1.64585,0.04365,1.29696,1.9054,5997.01909,364.17457,94210.16894,0,8.69902,5.89763,11.45328,0,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,48,13,37,48,48,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:55.394205Z,28,Gati,2,,mcdanielonline,Secondary,Gati.1a,69,35,34,1,Condition,724,,,,,,,,,,,,,,,,2,Condition,725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,16.3618820009203,3.22689941392483e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 8158
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3898 -0.6463 -0.0143  0.6261  2.8642 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            4.287485 2.07062       
+          ConditionProminent1st  0.085136 0.29178  1.00 
+ itemID   (Intercept)            5.360260 2.31522       
+          ConditionProminent1st  0.000582 0.02412  -1.00
+ Residual                       14.091570 3.75387       
+Number of obs: 1449, groups:  uID, 69; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.4965     0.5804  29.1109   16.36 3.23e-16 ***
+ConditionProminent1st  -0.1686     0.2006 553.8200   -0.84    0.401    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.115",,,,,29.110901670396,,,,,,,,,,,,,,,,,,,,,16.3618820009203,11.7161048038243,20.9506891317681,30.1109,15.05545,15.05545,5.9635,0.72338,4.27023,7.63601,100,99.99876,0.99998,0,5.80297,0.68496,4.15528,7.43045,100,99.99796,0,0.9513,0.00031,0.91105,0.96944,0,1.8453,0.03689,1.53369,2.08288,49841.14843,2310.78407,1035285.88032,0,10.8166,7.74534,13.85019,0,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,69,15,52,69,69,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 69 ","Setting
+Online (at home) 
+              69 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:55.967304Z,28,Gati,2,,metu,Secondary,Gati.1a,46,29,17,1,Condition,477,,,,,,,,,,,,,,,,2,Condition,489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.0101030077926,1.03703674613572e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5667.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9934 -0.6579 -0.0512  0.6175  3.6999 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            4.164333 2.04067       
+          ConditionProminent1st  0.030874 0.17571  -0.89
+ itemID   (Intercept)            7.958359 2.82106       
+          ConditionProminent1st  0.006959 0.08342  -1.00
+ Residual                       17.920682 4.23328       
+Number of obs: 966, groups:  uID, 46; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            8.56423    0.71309 28.68497  12.010 1.04e-12 ***
+ConditionProminent1st  0.04762    0.28390 43.92247   0.168    0.868    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.289",,,,,28.6849668374807,,,,,,,,,,,,,,,,,,,,,12.0101030077926,8.31735834419807,15.6388682693331,29.68497,14.84248,14.84248,4.40868,0.46213,3.05314,5.74073,99.99948,99.90878,0.99818,0,4.28816,0.43721,2.96968,5.58379,99.9991,99.8786,0,0.91595,9e-04,0.84509,0.94779,0,1.56331,0.03747,1.23874,1.80963,2970.41968,254.11542,33273.95726,0,7.99646,5.53779,10.41253,0,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,46,15,37,46,46,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 46 ","Setting
+Online (at home) 
+              46 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             46 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:13:58.911510Z,28,Gati,2,,moralsense,Secondary,Gati.1a,388,199,189,1,Condition,4069,,,,,,,,,,,,,,,,2,Condition,4079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,16.1405313495987,1.74200598221217e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 44799.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.1603 -0.6632  0.0009  0.6488  3.6777 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           4.827e+00 2.197017      
+          ConditionProminent1st 3.550e-05 0.005958 -1.00
+ itemID   (Intercept)           7.128e+00 2.669841      
+          ConditionProminent1st 2.321e-03 0.048179 1.00 
+ Residual                       1.271e+01 3.564865      
+Number of obs: 8148, groups:  uID, 388; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)             9.61682    0.59582  21.46895  16.141 1.74e-13 ***
+ConditionProminent1st   0.08492    0.07979 513.00529   1.064    0.288    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.062 ",,,,,21.4689517556703,,,,,,,,,,,,,,,,,,,,,16.1405313495987,10.932857983272,21.2883820648936,22.46895,11.23448,11.23448,6.81015,1.21007,4.61288,8.98217,100,99.99993,1,0,6.55753,1.12196,4.44177,8.64899,100,99.99982,0,0.96289,0.00025,0.92401,0.97815,0,1.98411,0.05136,1.61576,2.25296,231477.58834,4302.02663,11897672.00475,0,12.35224,8.36684,16.29185,0,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,388,15,116,388,388,0,100,< table of extent 0 >,"SubjectPool
+ No 
+388 ","Setting
+Online (at home) 
+             388 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            388 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      388 ","analysis.type
+Secondary 
+      388 ","subset
+all 
+388 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:00.053433Z,28,Gati,2,,mturk,Secondary,Gati.1a,144,67,77,1,Condition,1517,,,,,,,,,,,,,,,,2,Condition,1507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.2119247410915,7.90117013074386e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 16755.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.1595 -0.6569 -0.0105  0.6638  3.6832 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           3.122e+00 1.767026      
+          ConditionProminent1st 4.478e-05 0.006692 -1.00
+ itemID   (Intercept)           1.091e+01 3.302555      
+          ConditionProminent1st 1.477e-01 0.384339 0.23 
+ Residual                       1.325e+01 3.639446      
+Number of obs: 3024, groups:  uID, 144; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.7966     0.7415 21.6241  13.212  7.9e-12 ***
+ConditionProminent1st  -0.1107     0.1571 19.3425  -0.705    0.489    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.046 ",,,,,21.624139676486,,,,,,,,,,,,,,,,,,,,,13.2119247410915,8.80553280113914,17.5524663340092,22.62414,11.31207,11.31207,5.55533,0.85886,3.70254,7.38044,100,99.99572,0.99991,1e-05,5.35083,0.79679,3.56624,7.10875,100,99.99227,1e-05,0.94569,0.00052,0.88876,0.96812,0,1.78935,0.05096,1.416,2.06144,23771.87369,825.23006,651239.58004,1e-05,10.07626,6.71566,13.38663,1e-05,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,144,15,83,144,144,0,100,< table of extent 0 >,"SubjectPool
+ No 
+144 ","Setting
+Online (at home) 
+             144 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            144 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      144 ","analysis.type
+Secondary 
+      144 ","subset
+all 
+144 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:01.194649Z,28,Gati,2,,mturk_india,Secondary,Gati.1a,145,83,62,1,Condition,1512,,,,,,,,,,,,,,,,2,Condition,1533,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,24.362690533763,2.00579779270264e-25,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 17471.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.2099 -0.6381  0.0036  0.6486  3.4668 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            9.047131 3.00784       
+          ConditionProminent1st  0.018327 0.13538  -1.00
+ itemID   (Intercept)            2.853092 1.68911       
+          ConditionProminent1st  0.001128 0.03358  -1.00
+ Residual                       15.764410 3.97044       
+Number of obs: 3045, groups:  uID, 145; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)             11.1326     0.4570   39.5407   24.36   <2e-16 ***
+ConditionProminent1st   -0.1227     0.1462 1413.6594   -0.84    0.401    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.242",,,,,39.5406650820292,,,,,,,,,,,,,,,,,,,,,24.362690533763,18.643675597502,30.0358722630734,40.54067,20.27033,20.27033,7.65261,0.82093,5.8562,9.43463,100,100,1,0,7.50272,0.78909,5.7415,9.24983,100,99.99999,0,0.96903,9e-05,0.94878,0.9793,0,2.07619,0.02664,1.81943,2.2802,1066941.24667,41026.63171,27031770.14162,0,13.88031,10.62198,17.11252,0,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,83,15,62,145,145,0,0,< table of extent 0 >,"SubjectPool
+ No 
+145 ","Setting
+Online (at home) 
+             145 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            145 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      145 ","analysis.type
+Secondary 
+      145 ","subset
+all 
+145 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:02.158028Z,28,Gati,2,,munichon,Secondary,Gati.1a,122,65,57,1,Condition,1277,,,,,,,,,,,,,,,,2,Condition,1285,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.3025776053819,3.50028957223794e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 13753.1
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3612 -0.6373  0.0028  0.6267  3.9197 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           3.661e+00 1.913389      
+          ConditionProminent1st 8.851e-06 0.002975 -1.00
+ itemID   (Intercept)           9.594e+00 3.097460      
+          ConditionProminent1st 2.958e-03 0.054391 1.00 
+ Residual                       1.096e+01 3.309884      
+Number of obs: 2562, groups:  uID, 122; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)             9.36376    0.70391  22.63631  13.303  3.5e-12 ***
+ConditionProminent1st  -0.06073    0.13173 803.64762  -0.461    0.645    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.007",,,,,22.6363138584824,,,,,,,,,,,,,,,,,,,,,13.3025776053819,8.9508639593829,17.5891283849549,23.63631,11.81816,11.81816,5.47238,0.80272,3.68218,7.23576,100,99.99455,0.99989,0,5.28046,0.74741,3.55305,6.98201,99.99999,99.99057,0,0.94396,0.00052,0.88734,0.96677,0,1.77317,0.04846,1.40926,2.04028,20451.1001,795.31377,500931.95852,0,9.92579,6.67874,13.12423,0,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,83,15,62,145,145,0,0,< table of extent 0 >,"SubjectPool
+ No 
+145 ","Setting
+Online (at home) 
+             145 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            145 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      145 ","analysis.type
+Secondary 
+      145 ","subset
+all 
+145 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:02.606396Z,28,Gati,2,,northumbria,Secondary,Gati.1a,34,18,16,1,Condition,356,,,,,,,,,,,,,,,,2,Condition,358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.6026815535522,2.6688874126423e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4019.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.2145 -0.6480  0.0435  0.6622  3.2274 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.74643 1.6572        
+          ConditionProminent1st  1.51392 1.2304   -0.33
+ itemID   (Intercept)           11.66829 3.4159        
+          ConditionProminent1st  0.03519 0.1876   1.00 
+ Residual                       13.46465 3.6694        
+Number of obs: 714, groups:  uID, 34; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)            10.3498     0.8212 24.8842  12.603 2.67e-12 ***
+ConditionProminent1st  -0.1070     0.3495 31.6315  -0.306    0.761    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.095",,,,,24.8841863300308,,,,,,,,,,,,,,,,,,,,,12.6026815535522,8.57583583002303,16.5641716387577,25.88419,12.94209,12.94209,4.95422,0.62865,3.37124,6.51152,99.99996,99.97701,0.99954,0,4.79701,0.58939,3.26425,6.30489,99.99992,99.96531,0,0.93235,0.00069,0.86882,0.95912,0,1.67608,0.0437,1.32826,1.93487,7990.18823,452.48123,134671.39991,0,8.98597,6.11475,11.81059,0,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,34,12,30,34,34,0,100,< table of extent 0 >,"SubjectPool
+No 
+34 ","Setting
+In a lab 
+      34 ","Tablet
+Computers 
+       34 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       34 ","analysis.type
+Secondary 
+       34 ","subset
+all 
+ 34 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:03.210862Z,28,Gati,2,,osnabruck,Secondary,Gati.1a,47,30,17,1,Condition,487,,,,,,,,,,,,,,,,2,Condition,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.4116402300314,4.85898441604655e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5169.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3177 -0.6488 -0.0208  0.6428  3.9289 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           2.340e+00 1.52980       
+          ConditionProminent1st 4.003e-02 0.20008  -1.00
+ itemID   (Intercept)           1.211e+01 3.48021       
+          ConditionProminent1st 7.375e-04 0.02716  1.00 
+ Residual                       9.332e+00 3.05482       
+Number of obs: 987, groups:  uID, 47; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)             9.17578    0.80407  23.38799  11.412 4.86e-11 ***
+ConditionProminent1st  -0.05143    0.20477 458.94637  -0.251    0.802    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.138",,,,,23.3879938909989,,,,,,,,,,,,,,,,,,,,,11.4116402300314,7.58245001280597,15.1720528018109,24.38799,12.194,12.194,4.62158,0.60191,3.0708,6.1445,99.99981,99.94583,0.99892,1e-05,4.465,0.56182,2.96677,5.93633,99.9996,99.92036,1e-05,0.92374,0.00092,0.84837,0.95465,0,1.61397,0.04676,1.25032,1.88181,4370.40185,262.38551,69208.83973,1e-05,8.38261,5.56981,11.14488,1e-05,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,47,15,41,47,47,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 47 ","Setting
+In a classroom 
+            47 ","Tablet
+Computers 
+       47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:04.003416Z,28,Gati,2,,pascal,Secondary,Gati.1a,83,44,39,1,Condition,869,,,,,,,,,,,,,,,,2,Condition,874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.7518920245274,2.4606737006403e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 9661.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.7722 -0.6946 -0.0512  0.6373  3.7794 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            3.366905 1.83491       
+          ConditionProminent1st  0.576116 0.75902  0.08 
+ itemID   (Intercept)            9.426684 3.07029       
+          ConditionProminent1st  0.001011 0.03179  -1.00
+ Residual                       12.890315 3.59031       
+Number of obs: 1743, groups:  uID, 83; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.3459     0.7102 23.5525  11.752 2.46e-11 ***
+ConditionProminent1st   0.2576     0.1917 80.4997   1.344    0.183    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.134",,,,,23.552533207785,,,,,,,,,,,,,,,,,,,,,11.7518920245274,7.84987250788836,15.5859693915982,24.55253,12.27627,12.27627,4.7434,0.62111,3.16843,6.29094,99.99989,99.96019,0.9992,0,4.58389,0.58004,3.06188,6.07939,99.99977,99.94051,0,0.92716,0.00084,0.85561,0.95658,0,1.63777,0.0464,1.27673,1.90404,5451.10508,313.21839,90265.09079,0,8.60357,5.7469,11.41051,0,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,83,15,58,83,83,0,100,< table of extent 0 >,"SubjectPool
+No 
+83 ","Setting
+Online (at home) 
+              83 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:04.874615Z,28,Gati,2,,psualtoona,Secondary,Gati.1a,85,50,35,1,Condition,885,,,,,,,,,,,,,,,,2,Condition,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.5221443584764,2.95969541014164e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 10155.3
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.0889 -0.6645 -0.0519  0.6187  3.3256 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.92648 1.9815        
+          ConditionProminent1st  0.03235 0.1799   1.00 
+ itemID   (Intercept)            7.49703 2.7381        
+          ConditionProminent1st  0.14986 0.3871   -0.76
+ Residual                       15.12920 3.8896        
+Number of obs: 1785, groups:  uID, 85; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.1215     0.6486 24.9449   12.52 2.96e-12 ***
+ConditionProminent1st   0.1857     0.2063 19.2652    0.90    0.379    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.388",,,,,24.9449446631341,,,,,,,,,,,,,,,,,,,,,12.5221443584764,8.51820163356617,16.4606110473821,25.94494,12.97247,12.97247,4.9168,0.62006,3.34466,6.46323,99.99996,99.97462,0.99949,0,4.76117,0.58143,3.23879,6.25865,99.9999,99.96196,0,0.93141,7e-04,0.86711,0.95854,0,1.66893,0.04358,1.32131,1.92763,7465.77326,431.18449,123377.18342,0,8.91808,6.06654,11.723,0,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,85,15,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+No 
+85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:05.390276Z,28,Gati,2,,puc,Secondary,Gati.1a,38,17,21,1,Condition,401,,,,,,,,,,,,,,,,2,Condition,397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.4795154545112,3.8227676547702e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4556.8
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-3.13644 -0.67341 -0.05226  0.65602  3.15115 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            6.28222 2.5064        
+          ConditionProminent1st  0.31773 0.5637   -1.00
+ itemID   (Intercept)            8.74735 2.9576        
+          ConditionProminent1st  0.08166 0.2858   1.00 
+ Residual                       14.76876 3.8430        
+Number of obs: 798, groups:  uID, 38; itemID, 21
+
+Fixed effects:
+                       Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)            9.030990   0.786705 33.439929  11.480 3.82e-13 ***
+ConditionProminent1st  0.004097   0.295255 96.299165   0.014    0.989    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.147",,,,,33.4399288757001,,,,,,,,,,,,,,,,,,,,,11.4795154545112,8.08041562559523,14.8170825757078,34.43993,17.21996,17.21996,3.91221,0.33835,2.7538,5.04965,99.99543,99.71656,0.99433,0,3.82106,0.32277,2.68964,4.932,99.99336,99.65528,0,0.8958,0.00117,0.81736,0.93341,0,1.45055,0.03181,1.14881,1.68428,1207.09079,147.64972,9500.10578,0,7.09597,4.99484,9.15906,0,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,38,13,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+Online (at home) 
+              38 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:06.089252Z,28,Gati,2,,queensland2,Secondary,Gati.1a,61,25,36,1,Condition,646,,,,,,,,,,,,,,,,2,Condition,635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,14.0074260892246,4.0126334847725e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 7009.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.2537 -0.6795 -0.0168  0.6378  3.7611 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.23476 2.0579        
+          ConditionProminent1st  0.08791 0.2965   -1.00
+ itemID   (Intercept)            6.86043 2.6192        
+          ConditionProminent1st  1.01283 1.0064   0.36 
+ Residual                       11.81159 3.4368        
+Number of obs: 1281, groups:  uID, 61; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.0219     0.6441 27.8107  14.007 4.01e-14 ***
+ConditionProminent1st   0.3822     0.2964 18.4921   1.289    0.213    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.088 ",,,,,27.8106618367839,,,,,,,,,,,,,,,,,,,,,14.0074260892246,9.82400977609173,18.1296417616055,28.81066,14.40533,14.40533,5.21929,0.6116,3.66051,6.75527,99.99999,99.98881,0.99978,0,5.07191,0.57754,3.55715,6.56452,99.99998,99.98324,0,0.93797,0.00052,0.88464,0.96155,0,1.72087,0.03874,1.39674,1.96609,12922.83517,764.66618,209546.57217,0,9.46675,6.63944,12.2527,0,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,61,14,51,61,61,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 61 ","Setting
+In a lab 
+      61 ","Tablet
+Computers 
+       61 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       61 ","analysis.type
+Secondary 
+       61 ","subset
+all 
+ 61 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:06.703723Z,28,Gati,2,,ritonline,Secondary,Gati.1a,45,22,23,1,Condition,473,,,,,,,,,,,,,,,,2,Condition,472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,14.5277151759343,6.66579293219638e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5163.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.4923 -0.6211  0.0003  0.6718  3.2948 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr
+ uID      (Intercept)            4.451271 2.10980      
+          ConditionProminent1st  0.218693 0.46765  0.61
+ itemID   (Intercept)            5.558855 2.35772      
+          ConditionProminent1st  0.004023 0.06343  1.00
+ Residual                       11.551898 3.39881      
+Number of obs: 945, groups:  uID, 45; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.0502     0.6230 33.0282  14.528 6.67e-16 ***
+ConditionProminent1st   0.1639     0.2326 42.5184   0.705    0.485    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.027",,,,,33.0282081099985,,,,,,,,,,,,,,,,,,,,,14.5277151759343,10.4982308490754,18.4993489023797,34.02821,17.0141,17.0141,4.9809,0.48209,3.59937,6.34259,99.99997,99.97859,0.99957,0,4.86334,0.4596,3.51442,6.1929,99.99994,99.9708,0,0.93179,0.00053,0.88025,0.95625,0,1.67184,0.03223,1.37686,1.90019,8386.27907,684.39569,99130.51644,0,9.03435,6.52854,11.50419,0,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,45,13,43,45,45,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 45 ","Setting
+Online (at home) 
+              45 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             45 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       45 ","analysis.type
+Secondary 
+       45 ","subset
+all 
+ 45 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:07.296250Z,28,Gati,2,,salford,Secondary,Gati.1a,42,21,21,1,Condition,441,,,,,,,,,,,,,,,,2,Condition,441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.8767586519103,2.9245005878376e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5018.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.1190 -0.6720 -0.0241  0.6506  3.3867 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.11207 2.0278        
+          ConditionProminent1st  0.03427 0.1851   1.00 
+ itemID   (Intercept)           10.47103 3.2359        
+          ConditionProminent1st  0.54596 0.7389   -0.71
+ Residual                       14.55746 3.8154        
+Number of obs: 882, groups:  uID, 42; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.4237     0.7935 27.1409  11.877 2.92e-12 ***
+ConditionProminent1st  -0.3188     0.3049 19.5020  -1.045    0.309    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.435",,,,,27.1408550879381,,,,,,,,,,,,,,,,,,,,,11.8767586519103,8.1406683601798,15.5476132130034,28.14086,14.07043,14.07043,4.47774,0.49839,3.06917,5.86172,99.99962,99.92279,0.99846,0,4.34803,0.46993,2.98027,5.69192,99.99931,99.89458,0,0.91851,9e-04,0.84683,0.94995,0,1.57939,0.03978,1.24485,1.83131,3366.83907,261.61255,41439.26897,0,8.12173,5.56686,10.63198,0,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,42,14,34,42,42,0,100,< table of extent 0 >,"SubjectPool
+No 
+42 ","Setting
+In a classroom 
+            42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:07.864652Z,28,Gati,2,,seznam,Secondary,Gati.1a,39,17,22,1,Condition,412,,,,,,,,,,,,,,,,2,Condition,407,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.7200807675203,3.71233254802433e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4386.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.7114 -0.7036  0.0165  0.7066  2.8599 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.32412 1.5245        
+          ConditionProminent1st  0.04827 0.2197   -1.00
+ itemID   (Intercept)           11.24360 3.3531        
+          ConditionProminent1st  1.17585 1.0844   0.13 
+ Residual                       10.28189 3.2065        
+Number of obs: 819, groups:  uID, 39; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)            10.0179     0.7876 23.9971  12.720 3.71e-12 ***
+ConditionProminent1st  -0.1759     0.3292 19.2953  -0.534    0.599    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.044",,,,,23.9970574059302,,,,,,,,,,,,,,,,,,,,,12.7200807675203,8.60930341017727,16.7652100635623,24.99706,12.49853,12.49853,5.08833,0.6779,3.44392,6.70648,99.99998,99.98397,0.99968,0,4.92056,0.63394,3.33037,6.48536,99.99996,99.97487,0,0.93571,0.00065,0.87361,0.96144,0,1.70242,0.04546,1.34815,1.96462,10190.51777,516.24799,191799.69464,0,9.22921,6.24659,12.16421,0,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,39,13,34,39,39,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:08.421412Z,28,Gati,2,,seznamon,Secondary,Gati.1a,54,28,26,1,Condition,566,,,,,,,,,,,,,,,,2,Condition,568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.1447625515866,1.31187661344349e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 6139.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.7615 -0.6698 -0.0094  0.6916  4.2038 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.06196 1.7498        
+          ConditionProminent1st  0.01639 0.1280   -1.00
+ itemID   (Intercept)           10.01330 3.1644        
+          ConditionProminent1st  0.40866 0.6393   0.09 
+ Residual                       11.15221 3.3395        
+Number of obs: 1134, groups:  uID, 54; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.7775     0.7438 24.5515  13.145 1.31e-12 ***
+ConditionProminent1st   0.1600     0.2434 19.4680   0.657    0.519    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.083",,,,,24.5515191547753,,,,,,,,,,,,,,,,,,,,,13.1447625515866,8.96609307697299,17.2589487093942,25.55152,12.77576,12.77576,5.20085,0.68585,3.54752,6.82867,99.99999,99.98823,0.99976,0,5.03345,0.64241,3.43334,6.60887,99.99998,99.9814,0,0.93811,0.00059,0.87944,0.96267,0,1.72203,0.04434,1.3733,1.98109,12497.69497,622.9647,239386.0708,0,9.4333,6.43449,12.38583,0,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,54,15,43,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:08.986077Z,28,Gati,2,,simmons,Secondary,Gati.1a,40,19,21,1,Condition,421,,,,,,,,,,,,,,,,2,Condition,419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.8247992886434,1.0740167027851e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4568.9
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9081 -0.6039 -0.0550  0.6447  3.3356 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            4.083471 2.02076       
+          ConditionProminent1st  0.072944 0.27008  -1.00
+ itemID   (Intercept)            7.153440 2.67459       
+          ConditionProminent1st  0.007284 0.08535  1.00 
+ Residual                       11.318951 3.36436       
+Number of obs: 840, groups:  uID, 40; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.4745     0.6853  30.5808  13.825 1.07e-14 ***
+ConditionProminent1st   0.1382     0.2373 273.8891   0.583    0.561    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.183",,,,,30.580843815744,,,,,,,,,,,,,,,,,,,,,13.8247992886434,9.8288113687594,17.7607235988445,31.58084,15.79042,15.79042,4.92013,0.50992,3.49799,6.3209,99.99996,99.97484,0.9995,0,4.79432,0.48418,3.40855,6.15927,99.99992,99.96507,0,0.93058,0.00059,0.87497,0.95617,0,1.66267,0.03499,1.35391,1.89923,7511.0957,569.44393,95305.31733,0,8.92414,6.34466,11.46484,0,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,40,14,35,40,40,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 40 ","Setting
+In a lab 
+      40 ","Tablet
+Computers 
+       40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:09.499839Z,28,Gati,2,,swps,Secondary,Gati.1a,43,18,25,1,Condition,455,,,,,,,,,,,,,,,,2,Condition,448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,10.4143939458554,4.32850587037098e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5021.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.2296 -0.6565 -0.0687  0.6050  4.4058 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)           4.972e+00 2.22969       
+          ConditionProminent1st 7.512e-01 0.86672  -0.62
+ itemID   (Intercept)           1.173e+01 3.42513       
+          ConditionProminent1st 9.189e-04 0.03031  -1.00
+ Residual                       1.261e+01 3.55174       
+Number of obs: 903, groups:  uID, 43; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.7283     0.8381 27.7444  10.414 4.33e-11 ***
+ConditionProminent1st  -0.2449     0.2744 40.9491  -0.893    0.377    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.266",,,,,27.7444432027926,,,,,,,,,,,,,,,,,,,,,10.4143939458554,7.02343350069235,13.7382564470832,28.74444,14.37222,14.37222,3.88496,0.40169,2.62001,5.12489,99.99488,99.69936,0.99399,0,3.77499,0.37927,2.54584,4.97982,99.992,99.61998,0,0.89565,0.00141,0.80526,0.93589,0,1.44979,0.03884,1.11339,1.70385,1148.88366,115.83512,10889.17777,0,7.04655,4.75217,9.29552,0,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,swps,1,1,1,1,1,1,43,13,36,43,43,0,100,< table of extent 0 >,"SubjectPool
+No 
+43 ","Setting
+In a lab 
+      43 ","Tablet
+Computers 
+       43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:10.033266Z,28,Gati,2,,tamucc,Secondary,Gati.1a,38,23,15,1,Condition,395,,,,,,,,,,,,,,,,2,Condition,403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.8513205841738,7.42282194863592e-17,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4399.5
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3599 -0.6376 -0.0189  0.6310  4.1584 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            6.6178  2.5725        
+          ConditionProminent1st  0.7098  0.8425   -0.27
+ itemID   (Intercept)            5.8710  2.4230        
+          ConditionProminent1st  0.4261  0.6527   -0.44
+ Residual                       11.7903  3.4337        
+Number of obs: 798, groups:  uID, 38; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.6458     0.6964 40.0162  13.851   <2e-16 ***
+ConditionProminent1st  -0.1490     0.3188 18.9236  -0.467    0.646    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.363",,,,,40.0161632591798,,,,,,,,,,,,,,,,,,,,,13.8513205841738,10.2203712280206,17.4269130946488,41.01616,20.50808,20.50808,4.32557,0.32561,3.19168,5.44218,99.99924,99.88883,0.99778,0,4.24189,0.31313,3.12993,5.33689,99.99889,99.86477,0,0.9116,0.00071,0.85326,0.94136,0,1.53689,0.0263,1.26803,1.74985,2554.78108,326.70728,19361.14675,0,7.84572,5.78906,9.87102,0,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,38,13,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+In a lab 
+      38 ","Tablet
+Computers 
+       38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:10.584076Z,28,Gati,2,,tilburg,Secondary,Gati.1a,50,23,27,1,Condition,527,,,,,,,,,,,,,,,,2,Condition,523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,11.3227576464108,1.37786802465593e-11,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5850.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.5761 -0.6727  0.0108  0.6285  3.0634 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.19301 2.0477        
+          ConditionProminent1st  0.30637 0.5535   0.35 
+ itemID   (Intercept)           10.91023 3.3031        
+          ConditionProminent1st  0.01708 0.1307   -1.00
+ Residual                       12.89486 3.5909        
+Number of obs: 1050, groups:  uID, 50; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.9727     0.7924 26.1764  11.323 1.38e-11 ***
+ConditionProminent1st   0.1341     0.2377 46.4047   0.564    0.575    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.198",,,,,26.1764252577502,,,,,,,,,,,,,,,,,,,,,11.3227576464108,7.66394255420296,14.9146866167459,27.17643,13.58821,13.58821,4.34396,0.49436,2.94026,5.722,99.9993,99.89356,0.99787,0,4.21326,0.46506,2.85179,5.54983,99.99874,99.85551,0,0.91425,0.00103,0.83664,0.9478,0,1.55284,0.04136,1.20987,1.8097,2641.43066,207.06771,32162.69716,0,7.87908,5.33305,10.37856,0,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,50,15,38,50,50,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 50 ","Setting
+In a lab 
+      50 ","Tablet
+Computers 
+       50 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       50 ","analysis.type
+Secondary 
+       50 ","subset
+all 
+ 50 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:11.058292Z,28,Gati,2,,tilburgcaf,Secondary,Gati.1a,40,20,20,1,Condition,420,,,,,,,,,,,,,,,,2,Condition,420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.5177172785076,5.14242001427179e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4606.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.5485 -0.6470 -0.0414  0.6677  3.4971 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.2606  1.5035        
+          ConditionProminent1st  0.7507  0.8664   -0.13
+ itemID   (Intercept)           10.7953  3.2856        
+          ConditionProminent1st  0.5682  0.7538   -0.13
+ Residual                       11.7105  3.4221        
+Number of obs: 840, groups:  uID, 40; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            9.68405    0.77363 24.01474  12.518 5.14e-12 ***
+ConditionProminent1st -0.07132    0.31895 19.37918  -0.224    0.825    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.190",,,,,24.0147364872637,,,,,,,,,,,,,,,,,,,,,12.5177172785076,8.45760652427691,16.5117766061753,25.01474,12.50737,12.50737,5.00561,0.66073,3.38205,6.60276,99.99997,99.97996,0.9996,0,4.8407,0.61791,3.27062,6.38523,99.99994,99.96902,0,0.93377,0.00068,0.86981,0.96029,0,1.68707,0.04542,1.33231,1.94962,8770.732,461.44036,158909.60128,0,9.07918,6.13435,11.97609,0,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,40,15,35,40,40,0,100,< table of extent 0 >,"SubjectPool
+No 
+40 ","Setting
+Other (please indicate) 
+                     40 ","Tablet
+Computers 
+       40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:11.737978Z,28,Gati,2,,ulatina,Secondary,Gati.1a,90,45,45,1,Condition,945,,,,,,,,,,,,,,,,2,Condition,945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.4976662332992,9.17927938442064e-18,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 10949.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.7052 -0.6562 -0.0256  0.5830  3.9542 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            8.0975  2.8456        
+          ConditionProminent1st  0.9349  0.9669   -0.41
+ itemID   (Intercept)            4.2871  2.0705        
+          ConditionProminent1st  0.2120  0.4604   0.39 
+ Residual                       16.3795  4.0472        
+Number of obs: 1890, groups:  uID, 90; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.6493     0.5581 37.0087  15.498   <2e-16 ***
+ConditionProminent1st  -0.1964     0.2350 22.3534  -0.836    0.412    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.094",,,,,37.0087141764594,,,,,,,,,,,,,,,,,,,,,15.4976662332992,11.4445356648852,19.4959344846416,38.00871,19.00436,19.00436,5.02753,0.43774,3.71267,6.32459,99.99998,99.9811,0.99962,0,4.92208,0.41957,3.6348,6.19194,99.99996,99.97497,0,0.93254,0.00046,0.88564,0.95575,0,1.67749,0.02856,1.40134,1.89436,9126.44521,840.53797,95945.88419,0,9.11893,6.73404,11.47154,0,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,90,15,60,90,90,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:12.199447Z,28,Gati,2,,umich,Secondary,Gati.1a,33,18,15,1,Condition,345,,,,,,,,,,,,,,,,2,Condition,348,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.0360226107671,2.84787286543157e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 3800.2
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-3.01707 -0.63883  0.02081  0.63409  2.53292 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.01495 1.7364        
+          ConditionProminent1st  0.29256 0.5409   0.07 
+ itemID   (Intercept)            9.05877 3.0098        
+          ConditionProminent1st  0.09109 0.3018   -1.00
+ Residual                       11.70066 3.4206        
+Number of obs: 693, groups:  uID, 33; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             9.7280     0.7462 27.4302   13.04 2.85e-13 ***
+ConditionProminent1st  -0.1684     0.2855 29.4811   -0.59     0.56    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.355",,,,,27.4301604407518,,,,,,,,,,,,,,,,,,,,,13.0360226107671,9.05334243060001,16.9556484590309,28.43016,14.21508,14.21508,4.88974,0.56119,3.39586,6.35997,99.99995,99.97275,0.99945,0,4.74966,0.5295,3.29857,6.17777,99.9999,99.96082,0,0.93027,0.00066,0.86958,0.95698,0,1.6604,0.03932,1.33134,1.90872,7108.17446,473.14494,102303.6842,0,8.869,6.1594,11.5357,0,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,33,11,32,33,33,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 33 ","Setting
+In a lab 
+      33 ","Tablet
+Computers 
+       33 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       33 ","analysis.type
+Secondary 
+       33 ","subset
+all 
+ 33 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:12.731671Z,28,Gati,2,,uned,Secondary,Gati.1a,37,17,20,1,Condition,390,,,,,,,,,,,,,,,,2,Condition,387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,9.77941512021775,9.96229910973002e-10,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4356.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.1546 -0.6665 -0.0512  0.6475  3.2419 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            2.38875 1.5456        
+          ConditionProminent1st  0.07115 0.2667   1.00 
+ itemID   (Intercept)           14.67802 3.8312        
+          ConditionProminent1st  0.13503 0.3675   -0.10
+ Residual                       13.34345 3.6529        
+Number of obs: 777, groups:  uID, 37; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error      df t value Pr(>|t|)    
+(Intercept)             8.7354     0.8932 23.3576   9.779 9.96e-10 ***
+ConditionProminent1st   0.5482     0.2787 19.5336   1.967   0.0635 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.122",,,,,23.3576486839252,,,,,,,,,,,,,,,,,,,,,9.77941512021775,6.33626586608174,13.1504601682974,24.35765,12.17882,12.17882,3.96301,0.48661,2.56771,5.32909,99.9963,99.74628,0.99493,1e-05,3.82857,0.45416,2.4806,5.1483,99.99356,99.66074,1e-05,0.90029,0.00154,0.80144,0.94102,0,1.47374,0.04682,1.10263,1.74688,1323.59326,105.35208,15770.63151,1e-05,7.18811,4.65731,9.6659,1e-05,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,37,15,34,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+Online (at home) 
+              37 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:13.265132Z,28,Gati,2,,unswonline,Secondary,Gati.1a,47,18,29,1,Condition,499,,,,,,,,,,,,,,,,2,Condition,488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,13.2300838559448,3.88886415913097e-12,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 5332.8
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.1246 -0.6533  0.0002  0.5706  3.7503 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr
+ uID      (Intercept)            1.74510 1.3210       
+          ConditionProminent1st  0.08625 0.2937   1.00
+ itemID   (Intercept)           10.53768 3.2462       
+          ConditionProminent1st  0.02655 0.1629   1.00
+ Residual                       11.12279 3.3351       
+Number of obs: 987, groups:  uID, 47; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.9169     0.7496  22.6437  13.230 3.89e-12 ***
+ConditionProminent1st  -0.3144     0.2257 186.1651  -1.393    0.165    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.058 ",,,,,22.6437328974515,,,,,,,,,,,,,,,,,,,,,13.2300838559448,8.89750732758982,17.4973457456836,23.64373,11.82187,11.82187,5.4417,0.79539,3.65966,7.19688,100,99.99404,0.99988,0,5.25093,0.7406,3.53136,6.94458,99.99999,99.98976,0,0.94337,0.00053,0.88617,0.96642,0,1.76785,0.04844,1.40381,2.03506,19344.268,763.47677,466817.15501,0,9.87015,6.63788,13.05369,0,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,47,14,41,47,47,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 47 ","Setting
+Online (at home) 
+              47 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:13.725523Z,28,Gati,2,,vcu,Secondary,Gati.1a,37,21,16,1,Condition,386,,,,,,,,,,,,,,,,2,Condition,391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,12.482659161543,8.67969000644512e-13,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4428.6
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.74407 -0.70703 -0.02439  0.66534  2.91413 
+
+Random effects:
+ Groups   Name                  Variance  Std.Dev. Corr 
+ uID      (Intercept)            3.335810 1.82642       
+          ConditionProminent1st  0.004328 0.06578  -1.00
+ itemID   (Intercept)            9.230034 3.03810       
+          ConditionProminent1st  0.003682 0.06068  1.00 
+ Residual                       14.866219 3.85567       
+Number of obs: 777, groups:  uID, 37; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.4124     0.7540  27.2628  12.483 8.68e-13 ***
+ConditionProminent1st   0.2903     0.2799 581.2895   1.037      0.3    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.160",,,,,27.262823836498,,,,,,,,,,,,,,,,,,,,,12.482659161543,8.61657548189704,16.2846319155075,28.26282,14.13141,14.13141,4.69601,0.53166,3.24158,6.12633,99.99987,99.95509,0.9991,0,4.56062,0.50145,3.14812,5.94969,99.99974,99.93698,0,0.92507,0.00076,0.85948,0.95388,0,1.62311,0.03958,1.29134,1.87318,5002.16557,357.65831,66965.16401,0,8.51763,5.87958,11.11193,0,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,37,14,31,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+In a lab 
+      37 ","Tablet
+Computers 
+       37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:14.223936Z,28,Gati,2,,vuw,Secondary,Gati.1a,41,25,16,1,Condition,426,,,,,,,,,,,,,,,,2,Condition,435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.4683874690772,1.13381610412223e-16,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 4614.4
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9875 -0.6984 -0.0038  0.7199  3.4170 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            3.94704 1.9867        
+          ConditionProminent1st  0.02905 0.1704   -1.00
+ itemID   (Intercept)            5.52848 2.3513        
+          ConditionProminent1st  0.01057 0.1028   -1.00
+ Residual                       10.48614 3.2382        
+Number of obs: 861, groups:  uID, 41; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)             9.5956     0.6203  32.9604  15.468   <2e-16 ***
+ConditionProminent1st   0.3518     0.2290 321.4605   1.536    0.125    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.322",,,,,32.9603504546871,,,,,,,,,,,,,,,,,,,,,15.4683874690772,11.2379865645437,19.6421695197066,33.96035,16.98018,16.98018,5.30871,0.53272,3.85685,6.74114,99.99999,99.99129,0.99983,0,5.18315,0.50781,3.76563,6.5817,99.99999,99.98764,0,0.93924,0.00042,0.89333,0.96099,0,1.73153,0.0323,1.43819,1.95867,15198.22335,1091.76052,204245.11004,0,9.62893,6.99555,12.22708,0,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,41,15,35,41,41,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 41 ","Setting
+Online (at home) 
+              41 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             41 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       41 ","analysis.type
+Secondary 
+       41 ","subset
+all 
+ 41 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:14.947671Z,28,Gati,2,,westernkentucky,Secondary,Gati.1a,83,38,45,1,Condition,875,,,,,,,,,,,,,,,,2,Condition,868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,15.4139320015581,4.30662503021174e-15,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 9680
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.5941 -0.6171  0.0164  0.5737  4.0514 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr 
+ uID      (Intercept)            4.61075 2.1473        
+          ConditionProminent1st  0.05575 0.2361   1.00 
+ itemID   (Intercept)            5.93224 2.4356        
+          ConditionProminent1st  0.01982 0.1408   -0.68
+ Residual                       13.03475 3.6104        
+Number of obs: 1743, groups:  uID, 83; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)            9.15807    0.59414 27.61668  15.414 4.31e-15 ***
+ConditionProminent1st  0.01385    0.17834 19.73504   0.078    0.939    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 -0.189",,,,,27.6166761851858,,,,,,,,,,,,,,,,,,,,,15.4139320015581,10.8918509602697,19.8770127079721,28.61668,14.30834,14.30834,5.7628,0.72003,4.07213,7.43142,100,99.9977,0.99995,0,5.59888,0.67965,3.9563,7.22003,100,99.99624,0,0.94829,0.00037,0.90374,0.96793,0,1.81455,0.03904,1.49228,2.05837,34633.26833,1613.29601,714326.81096,0,10.45257,7.38603,13.4791,0,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,83,15,68,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:14:16.086340Z,28,Gati,2,,yale,Secondary,Gati.1a,127,61,66,1,Condition,1336,,,,,,,,,,,,,,,,2,Condition,1331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,lm.t,,,,17.3329465073892,1.99731822565678e-14,,,,,,lm.t,,"Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: DV ~ Condition + (Condition | uID) + (Condition | itemID)
+
+REML criterion at convergence: 13944.9
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.6820 -0.6354  0.0446  0.6827  2.6161 
+
+Random effects:
+ Groups   Name                  Variance Std.Dev. Corr
+ uID      (Intercept)           2.51936  1.5873       
+          ConditionProminent1st 0.08703  0.2950   0.06
+ itemID   (Intercept)           7.17631  2.6789       
+          ConditionProminent1st 0.19278  0.4391   0.31
+ Residual                       9.58243  3.0956       
+Number of obs: 2667, groups:  uID, 127; itemID, 21
+
+Fixed effects:
+                      Estimate Std. Error       df t value Pr(>|t|)    
+(Intercept)           10.52541    0.60725 22.29155  17.333    2e-14 ***
+ConditionProminent1st -0.09388    0.15589 19.27967  -0.602    0.554    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+CndtnPrmnn1 0.110 ",,,,,22.2915475032062,,,,,,,,,,,,,,,,,,,,,17.3329465073892,11.8853894779229,22.7229269200671,23.29155,11.64577,11.64577,7.18296,1.27932,4.92543,9.41662,100,99.99998,1,0,6.92693,1.18975,4.74987,9.08098,100,99.99995,0,0.96634,2e-04,0.93221,0.98,0,2.03387,0.04928,1.67502,2.29752,455176.91647,7583.60271,26163119.88675,0,13.02844,8.93374,17.07986,0,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,127,15,85,127,127,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+127 ","Setting
+Online (at home) 
+             127 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            127 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      127 ","analysis.type
+Secondary 
+      127 ","subset
+all 
+127 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

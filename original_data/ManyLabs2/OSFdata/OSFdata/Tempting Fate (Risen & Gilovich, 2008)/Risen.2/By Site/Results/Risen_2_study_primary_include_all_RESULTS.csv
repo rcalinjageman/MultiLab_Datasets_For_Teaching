@@ -1,0 +1,788 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:00:26.474130Z,18,Risen,2,,armstrong,Secondary,Risen.2,85,47,38,1,Gender,37,,,,,,,,,,,,,,,,2,Gender,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.71529673396248,0.194002156972424,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1  12.45  12.454  1.9104 0.17072  
+Gender            1  29.97  29.969  4.5971 0.03502 *
+Condition:Gender  1  11.18  11.182  1.7153 0.19400  
+Residuals        81 528.04   6.519                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,81,,,,,,,,,,,,,,,,,,,,1.71529673396248,1,10.7317445855536,85,37,48,0.28652,0.04834,0.21877,0.71668,61.27607,58.02767,0.16055,0.19613,0.28392,0.04747,0.21679,0.71018,61.1766,57.95589,0.19613,0.14064,0.01119,0.10783,0.33482,0.20338,0.14158,0.0122,0.10825,0.34824,1.68151,1.48707,3.66896,0.19613,0.51969,0.39681,1.29991,0.19613,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,85,15,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:26.603953Z,18,Risen,2,,aus2,Secondary,Risen.2,176,79,97,1,Gender,84,,,,,,,,,,,,,,,,2,Gender,92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.158957136783269,0.690612991740688,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value   Pr(>F)   
+Condition          1  38.49  38.491  7.0678 0.008589 **
+Gender             1  26.26  26.258  4.8215 0.029445 * 
+Condition:Gender   1   0.87   0.866  0.1590 0.690613   
+Residuals        172 936.70   5.446                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,172,,,,,,,,,,,,,,,,,,,,0.158957136783269,1,5.30079934160366,176,84,92,0.06017,0.02278,0.15091,0.34745,52.39889,51.69679,0.03394,0.69067,0.05991,0.02259,0.15026,0.34595,52.38855,51.68947,0.69067,0.03004,0.00567,0.07516,0.17099,0.69316,0.03005,0.00578,0.07531,0.17269,1.11531,1.31485,1.878,0.69067,0.10913,0.27372,0.63021,0.69067,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,176,15,102,176,176,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+176 ","Setting
+In a lab 
+     176 ","Tablet
+Computers 
+      176 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      176 ","analysis.type
+Secondary 
+      176 ","subset
+all 
+176 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:26.698911Z,18,Risen,2,,bogota,Secondary,Risen.2,101,44,57,1,Gender,53,,,,,,,,,,,,,,,,2,Gender,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,6.89029796581725,0.010069539750054,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1   0.00   0.000  0.0000 0.99549  
+Gender            1   4.18   4.183  0.6954 0.40640  
+Condition:Gender  1  41.45  41.446  6.8903 0.01007 *
+Residuals        97 583.46   6.015                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,97,,,,,,,,,,,,,,,,,,,,6.89029796581725,0.373036930159613,21.2777327030403,101,53,48,0.52302,0.04106,0.1217,0.9191,69.9521,64.42467,0.28849,0.01131,0.51905,0.04043,0.12077,0.91212,69.81374,64.31996,0.01131,0.25271,0.0084,0.06066,0.41715,0.01207,0.25831,0.0102,0.06074,0.44423,2.58225,1.24699,5.29663,0.01131,0.94866,0.22073,1.66707,0.01131,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,101,15,65,101,101,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+101 ","Setting
+In a lab 
+     101 ","Tablet
+Computers 
+      101 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      101 ","analysis.type
+Secondary 
+      101 ","subset
+all 
+101 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:26.788970Z,18,Risen,2,,brookcuny,Secondary,Risen.2,175,82,93,1,Gender,38,,,,,,,,,,,,,,,,2,Gender,137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.935004777558444,0.334931386595866,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value   Pr(>F)   
+Condition          1  50.18  50.175  9.6873 0.002175 **
+Gender             1   5.37   5.368  1.0365 0.310078   
+Condition:Gender   1   4.84   4.843  0.9350 0.334931   
+Residuals        171 885.69   5.179                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,171,,,,,,,,,,,,,,,,,,,,0.935004777558444,1,8.56919213912796,175,38,137,0.17729,0.0337,0.18334,0.53671,57.0358,54.98807,0.09976,0.33556,0.17652,0.03341,0.18255,0.53438,57.00557,54.96653,0.33556,0.0729,0.00564,0.07538,0.21606,0.33951,0.07303,0.00581,0.07552,0.21952,1.37928,1.39452,2.64714,0.33556,0.32156,0.33255,0.97348,0.33556,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,175,15,91,175,175,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+175 ","Setting
+Online (at home) 
+             175 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            175 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      175 ","analysis.type
+Secondary 
+      175 ","subset
+all 
+175 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:26.901182Z,18,Risen,2,,carleton,Secondary,Risen.2,116,56,60,1,Gender,21,,,,,,,,,,,,,,,,2,Gender,95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.779579500498251,0.379160983486611,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value Pr(>F)
+Condition          1   1.13  1.1312  0.1957 0.6590
+Gender             1  10.65 10.6503  1.8429 0.1773
+Condition:Gender   1   4.51  4.5052  0.7796 0.3792
+Residuals        112 647.26  5.7791               ",,,,,1,112,,,,,,,,,,,,,,,,,,,,0.779579500498251,1,8.08046668838892,116,21,95,0.21291,0.05834,0.24113,0.68545,58.42998,55.98336,0.11967,0.37992,0.2115,0.05757,0.23954,0.68093,58.37523,55.9442,0.37992,0.0817,0.00848,0.09245,0.25519,0.38587,0.08189,0.00885,0.09271,0.26096,1.47133,1.54863,3.46693,0.37992,0.38617,0.43737,1.24327,0.37992,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,116,15,77,116,116,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+116 ","Setting
+Online (at home) 
+             116 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            116 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      116 ","analysis.type
+Secondary 
+      116 ","subset
+all 
+116 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.019102Z,18,Risen,2,,csunorthonline,Secondary,Risen.2,87,41,46,1,Gender,29,,,,,,,,,,,,,,,,2,Gender,58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.609571335089857,0.437170374020952,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   3.64  3.6416  0.6532 0.4213
+Gender            1  12.02 12.0220  2.1563 0.1458
+Condition:Gender  1   3.40  3.3986  0.6096 0.4372
+Residuals        83 462.75  5.5753               ",,,,,1,83,,,,,,,,,,,,,,,,,,,,0.609571335089857,1,7.49738262617463,87,29,58,0.17757,0.05191,0.22743,0.62273,57.04679,54.9959,0.09992,0.43792,0.17599,0.05099,0.22542,0.61722,56.98508,54.95192,0.43792,0.08341,0.0113,0.1066,0.28167,0.44563,0.08361,0.0119,0.10701,0.2895,1.37998,1.51061,3.09415,0.43792,0.32207,0.41251,1.12951,0.43792,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,87,15,60,87,87,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+Online (at home) 
+              87 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.124370Z,18,Risen,2,,georgefox,Secondary,Risen.2,133,59,74,1,Gender,48,,,,,,,,,,,,,,,,2,Gender,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.61671670865331,0.205837915262219,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1  13.90 13.8998  2.9797 0.08671 .
+Gender             1   7.61  7.6126  1.6319 0.20373  
+Condition:Gender   1   7.54  7.5416  1.6167 0.20584  
+Residuals        129 601.76  4.6648                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,129,,,,,,,,,,,,,,,,,,,,1.61671670865331,1,10.465722577772,133,48,85,0.22957,0.0328,0.18055,0.58409,59.07865,56.44768,0.12895,0.20717,0.22825,0.03242,0.17951,0.58074,59.02748,56.41102,0.20717,0.10959,0.0073,0.08639,0.27009,0.21188,0.11003,0.00769,0.0866,0.27696,1.51648,1.38747,2.88471,0.20717,0.41639,0.32748,1.05942,0.20717,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,133,15,87,133,133,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+133 ","Setting
+Online (at home) 
+             133 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            133 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      133 ","analysis.type
+Secondary 
+      133 ","subset
+all 
+133 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.230249Z,18,Risen,2,,hawaiion,Secondary,Risen.2,121,53,68,1,Gender,28,,,,,,,,,,,,,,,,2,Gender,93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.00488069773842813,0.94442277292381,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value Pr(>F)
+Condition          1   2.18  2.1799  0.3943 0.5313
+Gender             1   1.29  1.2886  0.2331 0.6302
+Condition:Gender   1   0.03  0.0270  0.0049 0.9444
+Residuals        117 646.84  5.5285               ",,,,,1,117,,,,,,,,,,,,,,,,,,,,0.00488069773842813,1,1.60041895961113,121,28,93,0.01506,0.04647,0.21556,0.2727,50.60077,50.42482,0.0085,0.94442,0.01496,0.04588,0.2142,0.27098,50.59697,50.42213,0.94442,0.00635,0.00826,0.09054,0.11425,0.94511,0.00635,0.00847,0.09078,0.11475,1.02769,1.47844,1.63989,0.94442,0.02732,0.39099,0.49463,0.94442,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,121,15,71,121,121,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+121 ","Setting
+Online (at home) 
+             121 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            121 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      121 ","analysis.type
+Secondary 
+      121 ","subset
+all 
+121 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.359612Z,18,Risen,2,,help,Secondary,Risen.2,89,43,46,1,Gender,30,,,,,,,,,,,,,,,,2,Gender,59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.125430396784712,0.72409488450065,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1  10.60 10.5995  1.8205 0.1808
+Gender            1   1.86  1.8594  0.3194 0.5735
+Condition:Gender  1   0.73  0.7303  0.1254 0.7241
+Residuals        85 494.90  5.8224               ",,,,,1,85,,,,,,,,,,,,,,,,,,,,0.125430396784712,1,5.00643922605399,89,30,59,0.07942,0.05032,0.22424,0.50173,53.16493,52.23912,0.04478,0.72417,0.07873,0.04945,0.2223,0.4974,53.13762,52.21978,0.72417,0.03751,0.0112,0.10541,0.23077,0.72864,0.03753,0.01163,0.1058,0.23501,1.15494,1.50189,2.48443,0.72417,0.14405,0.40672,0.91004,0.72417,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,89,15,64,89,89,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.449824Z,18,Risen,2,,isb,Secondary,Risen.2,185,82,103,1,Gender,77,,,,,,,,,,,,,,,,2,Gender,108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.820796580721791,0.366151814914882,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df  Sum Sq Mean Sq F value Pr(>F)
+Condition          1    0.01  0.0051  0.0009 0.9768
+Gender             1    5.83  5.8335  0.9790 0.3238
+Condition:Gender   1    4.89  4.8907  0.8208 0.3662
+Residuals        181 1078.49  5.9585               ",,,,,1,181,,,,,,,,,,,,,,,,,,,,0.820796580721791,1,8.21105113749823,185,77,108,0.13513,0.0223,0.14915,0.42739,55.37448,53.80611,0.07612,0.36667,0.13457,0.02211,0.14854,0.42564,55.35256,53.79053,0.36667,0.06646,0.00535,0.07332,0.20615,0.3704,0.06656,0.00549,0.07346,0.20915,1.27774,1.31066,2.17104,0.36667,0.2451,0.27053,0.77521,0.36667,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,185,15,93,185,185,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+185 ","Setting
+In a lab 
+     185 ","Tablet
+Computers 
+      185 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      185 ","analysis.type
+Secondary 
+      185 ","subset
+all 
+185 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.545208Z,18,Risen,2,,jmu,Secondary,Risen.2,84,51,33,1,Gender,17,,,,,,,,,,,,,,,,2,Gender,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.161548948115931,0.688806227084143,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1   3.03  3.0255  0.5017 0.48082  
+Gender            1  20.84 20.8424  3.4561 0.06669 .
+Condition:Gender  1   0.97  0.9742  0.1615 0.68881  
+Residuals        80 482.44  6.0305                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,80,,,,,,,,,,,,,,,,,,,,0.161548948115931,1,5.31927883434807,84,17,67,0.10915,0.07382,0.27157,0.62633,54.34589,53.07605,0.06152,0.68892,0.10815,0.07247,0.26908,0.62059,54.30617,53.04789,0.68892,0.04381,0.01185,0.10847,0.24404,0.69419,0.04384,0.01235,0.10889,0.24906,1.21894,1.63651,3.11441,0.68892,0.19798,0.49257,1.13604,0.68892,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,84,15,64,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+Online (at home) 
+              84 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.634852Z,18,Risen,2,,kenyon,Secondary,Risen.2,104,52,52,1,Gender,36,,,,,,,,,,,,,,,,2,Gender,68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.163958146299335,0.68640306181826,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1  30.15 30.1538  6.5492 0.01199 *
+Gender             1   0.02  0.0204  0.0044 0.94707  
+Condition:Gender   1   0.75  0.7549  0.1640 0.68640  
+Residuals        100 460.42  4.6042                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,100,,,,,,,,,,,,,,,,,,,,0.163958146299335,1,5.33894455558064,104,36,68,0.08346,0.04252,0.20612,0.47625,53.3257,52.35299,0.04706,0.6865,0.08284,0.04189,0.2046,0.47274,53.30125,52.33567,0.6865,0.03967,0.00958,0.09759,0.22097,0.69078,0.03969,0.0099,0.0979,0.22468,1.16344,1.45332,2.37223,0.6865,0.15138,0.37385,0.86383,0.6865,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,104,15,67,104,104,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+104 ","Setting
+In a lab 
+     104 ","Tablet
+Computers 
+      104 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      104 ","analysis.type
+Secondary 
+      104 ","subset
+all 
+104 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.750330Z,18,Risen,2,,krakowon,Secondary,Risen.2,99,52,47,1,Gender,28,,,,,,,,,,,,,,,,2,Gender,71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,8.10869770582231,0.00539932801171468,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value   Pr(>F)   
+Condition         1  40.59  40.594  6.1686 0.014755 * 
+Gender            1   6.05   6.051  0.9195 0.340041   
+Condition:Gender  1  53.36  53.361  8.1087 0.005399 **
+Residuals        95 625.17   6.581                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,95,,,,,,,,,,,,,,,,,,,,8.10869770582231,0.699526823230174,23.4413508062522,99,28,71,0.63546,0.05184,0.18664,1.08044,73.74342,67.34049,0.34681,0.00633,0.63053,0.05104,0.1852,1.07206,73.58258,67.21477,0.00633,0.27515,0.0083,0.08376,0.43755,0.00677,0.28242,0.01042,0.08396,0.4692,3.16638,1.40289,7.09721,0.00633,1.15259,0.33853,1.9597,0.00633,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,99,15,68,99,99,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 99 ","Setting
+Online (at home) 
+              99 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             99 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       99 ","analysis.type
+Secondary 
+       99 ","subset
+all 
+ 99 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.855675Z,18,Risen,2,,louvain,Secondary,Risen.2,100,43,57,1,Gender,58,,,,,,,,,,,,,,,,2,Gender,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.060746064128088,0.805846864894987,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1  19.12 19.1237  3.7677 0.05519 .
+Gender            1   0.04  0.0442  0.0087 0.92587  
+Condition:Gender  1   0.31  0.3083  0.0607 0.80585  
+Residuals        96 487.27  5.0758                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,96,,,,,,,,,,,,,,,,,,,,0.060746064128088,1,4.18372765178998,100,58,42,0.04994,0.04106,0.20261,0.41442,51.99136,51.4084,0.02817,0.80587,0.04955,0.04044,0.20106,0.41124,51.97609,51.3976,0.80587,0.02464,0.00998,0.0995,0.20039,0.80873,0.02464,0.01031,0.09983,0.20314,1.0948,1.44411,2.12056,0.80587,0.09058,0.36749,0.75168,0.80587,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,100,15,72,100,100,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+100 ","Setting
+In a lab 
+     100 ","Tablet
+Computers 
+      100 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      100 ","analysis.type
+Secondary 
+      100 ","subset
+all 
+100 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:27.953825Z,18,Risen,2,,loyola,Secondary,Risen.2,292,164,128,1,Gender,75,,,,,,,,,,,,,,,,2,Gender,217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.505500474264292,0.477668582786273,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df  Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1   24.54 24.5373  4.1594 0.04232 *
+Gender             1    0.26  0.2621  0.0444 0.83321  
+Condition:Gender   1    2.98  2.9820  0.5055 0.47767  
+Residuals        288 1698.97  5.8992                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,288,,,,,,,,,,,,,,,,,,,,0.505500474264292,1,7.10161461119239,292,75,217,0.09523,0.01796,0.13395,0.35695,53.79355,52.68447,0.05369,0.47785,0.09499,0.01786,0.1336,0.35603,53.78376,52.67753,0.47785,0.04157,0.00341,0.05842,0.15409,0.48006,0.0416,0.00346,0.05849,0.15533,1.18855,1.27501,1.91064,0.47785,0.17274,0.24295,0.64744,0.47785,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,292,15,112,292,292,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+292 ","Setting
+In a lab 
+     292 ","Tablet
+Computers 
+      292 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      292 ","analysis.type
+Secondary 
+      292 ","subset
+all 
+292 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.053198Z,18,Risen,2,,lse,Secondary,Risen.2,111,57,54,1,Gender,38,,,,,,,,,,,,,,,,2,Gender,73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.220128734974814,0.639896451179488,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1  19.98 19.9842  4.6445 0.03340 *
+Gender             1  14.25 14.2542  3.3128 0.07154 .
+Condition:Gender   1   0.95  0.9472  0.2201 0.63990  
+Residuals        107 460.40  4.3028                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,107,,,,,,,,,,,,,,,,,,,,0.220128734974814,1,5.73167582462323,111,38,73,0.09385,0.04005,0.20004,0.4789,53.73869,52.64559,0.05291,0.64004,0.09321,0.0395,0.19866,0.4756,53.71298,52.62737,0.64004,0.04449,0.00896,0.09449,0.22159,0.64454,0.04452,0.00926,0.09477,0.22533,1.18558,1.43738,2.38366,0.64004,0.17023,0.36283,0.86864,0.64004,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,111,15,67,111,111,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+111 ","Setting
+In a lab 
+     111 ","Tablet
+Computers 
+      111 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      111 ","analysis.type
+Secondary 
+      111 ","subset
+all 
+111 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.175584Z,18,Risen,2,,mcdanielonline,Secondary,Risen.2,157,74,83,1,Gender,32,,,,,,,,,,,,,,,,2,Gender,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.96492935763695,0.163012524532652,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value Pr(>F)
+Condition          1   0.00  0.0004  0.0001 0.9935
+Gender             1   3.94  3.9359  0.6937 0.4062
+Condition:Gender   1  11.15 11.1479  1.9649 0.1630
+Residuals        153 868.04  5.6734               ",,,,,1,153,,,,,,,,,,,,,,,,,,,,1.96492935763695,1,11.327961093199,157,32,125,0.27771,0.0395,0.19812,0.6668,60.93829,57.78403,0.15568,0.16429,0.27637,0.03911,0.19716,0.66357,60.88662,57.74678,0.16429,0.11118,0.00617,0.07956,0.25942,0.16791,0.11164,0.00649,0.07972,0.26548,1.65485,1.43239,3.35161,0.16429,0.50371,0.35934,1.20944,0.16429,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,157,15,82,157,157,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+157 ","Setting
+Online (at home) 
+             157 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            157 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      157 ","analysis.type
+Secondary 
+      157 ","subset
+all 
+157 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.269692Z,18,Risen,2,,metu,Secondary,Risen.2,124,62,62,1,Gender,37,,,,,,,,,,,,,,,,2,Gender,87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.05674674806871,0.306025978982572,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1  34.07  34.073  4.8370 0.02977 *
+Gender             1  35.41  35.411  5.0271 0.02679 *
+Condition:Gender   1   7.44   7.444  1.0567 0.30603  
+Residuals        120 845.29   7.044                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,120,,,,,,,,,,,,,,,,,,,,1.05674674806871,1,8.93764204517852,124,37,87,0.20176,0.03869,0.19627,0.58676,57.9948,55.67231,0.11345,0.30702,0.20052,0.03821,0.19506,0.58315,57.94621,55.6376,0.30702,0.09192,0.0079,0.08944,0.25929,0.31257,0.09218,0.00826,0.08968,0.26535,1.44189,1.4276,2.89872,0.30702,0.36595,0.35599,1.06427,0.30702,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,124,15,77,124,124,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+124 ","Setting
+Online (at home) 
+             124 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            124 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      124 ","analysis.type
+Secondary 
+      124 ","subset
+all 
+124 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.369629Z,18,Risen,2,,osnabruck,Secondary,Risen.2,86,44,42,1,Gender,17,,,,,,,,,,,,,,,,2,Gender,69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.280403086371169,0.597867894337937,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1  28.17 28.1729  6.2929 0.01409 *
+Gender            1   2.02  2.0199  0.4512 0.50367  
+Condition:Gender  1   1.26  1.2554  0.2804 0.59787  
+Residuals        82 367.11  4.4770                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,82,,,,,,,,,,,,,,,,,,,,0.280403086371169,1,6.08281244327278,86,17,69,0.14338,0.07344,0.27077,0.66781,55.70054,54.03778,0.08076,0.59813,0.1421,0.07213,0.26834,0.66183,55.64983,54.00175,0.59813,0.05701,0.01153,0.10721,0.25702,0.60448,0.05707,0.01205,0.10762,0.26291,1.29701,1.63415,3.35775,0.59813,0.26006,0.49112,1.21127,0.59813,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,86,14,59,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+In a classroom 
+            86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.461917Z,18,Risen,2,,ouhk,Secondary,Risen.2,63,31,32,1,Gender,16,,,,,,,,,,,,,,,,2,Gender,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.209481190066387,0.648855457276306,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df  Sum Sq Mean Sq F value Pr(>F)
+Condition         1  10.292 10.2919  2.2901 0.1355
+Gender            1   1.266  1.2659  0.2817 0.5976
+Condition:Gender  1   0.941  0.9414  0.2095 0.6489
+Residuals        59 265.152  4.4941               ",,,,,1,59,,,,,,,,,,,,,,,,,,,,0.209481190066387,1,5.66140361845113,63,16,47,0.13247,0.08392,0.28944,0.68869,55.26957,53.73159,0.07463,0.64907,0.13084,0.08186,0.28587,0.68019,55.20489,53.68566,0.64907,0.05757,0.01574,0.125,0.28715,0.65688,0.05763,0.01667,0.12566,0.29546,1.27161,1.69044,3.48736,0.64907,0.24028,0.52499,1.24914,0.64907,,,,,,,,ouhk,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate2_Traditional_ChineseHong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ouhk,1,1,1,1,1,1,63,14,48,63,63,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 63 ","Setting
+In a lab 
+      63 ","Tablet
+Computers 
+       63 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       63 ","analysis.type
+Secondary 
+       63 ","subset
+all 
+ 63 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.584881Z,18,Risen,2,,puc,Secondary,Risen.2,79,45,34,1,Gender,36,,,,,,,,,,,,,,,,2,Gender,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.00430916134865124,0.947835762308702,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   0.48  0.4765  0.0722 0.7889
+Gender            1   5.64  5.6408  0.8542 0.3583
+Condition:Gender  1   0.03  0.0285  0.0043 0.9478
+Residuals        75 495.27  6.6036               ",,,,,1,75,,,,,,,,,,,,,,,,,,,,0.00430916134865124,1,1.47318514841787,79,36,43,0.01483,0.05103,0.22591,0.27419,50.59159,50.41832,0.00837,0.94783,0.01468,0.05004,0.2237,0.27151,50.58581,50.41424,0.94783,0.00739,0.01266,0.1118,0.1353,0.94883,0.00739,0.01316,0.11227,0.13614,1.02726,1.50644,1.64433,0.94783,0.0269,0.40975,0.49733,0.94783,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,79,15,60,79,79,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 79 ","Setting
+Online (at home) 
+              79 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.683080Z,18,Risen,2,,queensland2,Secondary,Risen.2,139,57,82,1,Gender,44,,,,,,,,,,,,,,,,2,Gender,95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0406434111097813,0.840531253755419,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value   Pr(>F)   
+Condition          1   6.04   6.040  1.3913 0.240265   
+Gender             1  36.17  36.165  8.3299 0.004542 **
+Condition:Gender   1   0.18   0.176  0.0406 0.840531   
+Residuals        135 586.12   4.342                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,135,,,,,,,,,,,,,,,,,,,,0.0406434111097813,1,3.75667683402338,139,44,95,0.03676,0.03326,0.18236,0.35344,51.46631,51.03696,0.02074,0.84054,0.03656,0.03289,0.18136,0.35151,51.45827,51.03127,0.84054,0.0171,0.00719,0.08452,0.16222,0.84224,0.0171,0.00735,0.08472,0.16367,1.06895,1.39202,1.89853,0.84054,0.06668,0.33076,0.64108,0.84054,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,139,15,83,139,139,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+139 ","Setting
+In a lab 
+     139 ","Tablet
+Computers 
+      139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.775008Z,18,Risen,2,,ritonline,Secondary,Risen.2,85,45,40,1,Gender,33,,,,,,,,,,,,,,,,2,Gender,52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0164267400595486,0.898334618796596,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   9.18  9.1779  2.2200 0.1401
+Gender            1   6.23  6.2291  1.5067 0.2232
+Condition:Gender  1   0.07  0.0679  0.0164 0.8983
+Residuals        81 334.88  4.1343               ",,,,,1,81,,,,,,,,,,,,,,,,,,,,0.0164267400595486,1,2.8212005234602,85,33,52,0.02853,0.04954,0.22256,0.37382,51.13783,50.80462,0.01609,0.89833,0.02827,0.04864,0.22054,0.37044,51.12752,50.79733,0.89833,0.0139,0.01176,0.10783,0.17923,0.90013,0.0139,0.0122,0.10825,0.18119,1.0531,1.49733,1.97002,0.89833,0.05174,0.40368,0.67804,0.89833,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,85,15,64,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+Online (at home) 
+              85 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.890525Z,18,Risen,2,,rotterdam,Secondary,Risen.2,77,41,36,1,Gender,40,,,,,,,,,,,,,,,,2,Gender,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.122176704167919,0.727691918520775,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   8.83  8.8340  2.0122 0.1603
+Gender            1   6.22  6.2218  1.4172 0.2377
+Condition:Gender  1   0.54  0.5364  0.1222 0.7277
+Residuals        73 320.49  4.3902               ",,,,,1,73,,,,,,,,,,,,,,,,,,,,0.122176704167919,1,4.97418616552088,77,40,37,0.07973,0.05207,0.22809,0.50872,53.1773,52.24788,0.04496,0.72777,0.07893,0.05103,0.22581,0.50361,53.14549,52.22535,0.72777,0.0398,0.01294,0.11323,0.24633,0.73288,0.03982,0.01351,0.11372,0.25151,1.15559,1.51243,2.5161,0.72777,0.14461,0.41372,0.92271,0.72777,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,77,14,58,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+In a lab 
+      77 ","Tablet
+Computers 
+       77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:28.991108Z,18,Risen,2,,seznam,Secondary,Risen.2,83,40,43,1,Gender,32,,,,,,,,,,,,,,,,2,Gender,51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,2.93617476242367,0.0905373402806492,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df  Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1  25.742 25.7417  6.5367 0.01248 *
+Gender            1   5.471  5.4709  1.3892 0.24207  
+Condition:Gender  1  11.563 11.5627  2.9362 0.09054 .
+Residuals        79 311.104  3.9380                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,79,,,,,,,,,,,,,,,,,,,,2.93617476242367,1,13.5883685505631,83,32,51,0.38643,0.05176,0.22552,0.83131,65.04106,60.76682,0.21534,0.09324,0.38284,0.0508,0.22342,0.82359,64.90808,60.66925,0.09324,0.18484,0.01105,0.10911,0.37508,0.09828,0.18699,0.0125,0.10955,0.39432,2.01558,1.50538,4.51691,0.09324,0.70091,0.40904,1.50783,0.09324,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,83,15,61,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.094016Z,18,Risen,2,,seznamon,Secondary,Risen.2,117,53,64,1,Gender,25,,,,,,,,,,,,,,,,2,Gender,92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,6.58967650492512,0.0115637948999677,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1   3.01  3.0102  0.6563 0.41958  
+Gender             1   0.78  0.7754  0.1691 0.68173  
+Condition:Gender   1  30.23 30.2258  6.5897 0.01156 *
+Residuals        113 518.31  4.5868                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,113,,,,,,,,,,,,,,,,,,,,6.58967650492512,0.307417608188598,20.7005580469973,117,25,92,0.57898,0.0523,0.12505,1.02617,71.86975,65.88763,0.31775,0.0127,0.57519,0.05162,0.12424,1.01946,71.74194,65.78941,0.0127,0.23091,0.00746,0.05119,0.38772,0.01344,0.23515,0.00877,0.05124,0.40912,2.85807,1.2546,6.4319,0.0127,1.05015,0.22682,1.86127,0.0127,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,117,15,79,117,117,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+117 ","Setting
+Online (at home) 
+             117 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            117 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      117 ","analysis.type
+Secondary 
+      117 ","subset
+all 
+117 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.163208Z,18,Risen,2,,simmons,Secondary,Risen.2,95,47,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,6.58967650492512,0.0115637948999677,,,,,,f,,"",,,,,1,113,,,,,,,,,,,,,,,,,,,,6.58967650492512,0.307417608188598,20.7005580469973,117,25,92,0.57898,0.0523,0.12505,1.02617,71.86975,65.88763,0.31775,0.0127,0.57519,0.05162,0.12424,1.01946,71.74194,65.78941,0.0127,0.23091,0.00746,0.05119,0.38772,0.01344,0.23515,0.00877,0.05124,0.40912,2.85807,1.2546,6.4319,0.0127,1.05015,0.22682,1.86127,0.0127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.283945Z,18,Risen,2,,tamu,Secondary,Risen.2,85,37,48,1,Gender,18,,,,,,,,,,,,,,,,2,Gender,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0431259515683994,0.836009529103437,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)  
+Condition         1  20.36 20.3564  3.7190 0.0573 .
+Gender            1   1.15  1.1499  0.2101 0.6479  
+Condition:Gender  1   0.24  0.2361  0.0431 0.8360  
+Residuals        81 443.36  5.4736                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,81,,,,,,,,,,,,,,,,,,,,0.0431259515683994,1,3.81678044466588,85,18,67,0.05513,0.0705,0.26548,0.51866,52.19834,51.55486,0.0311,0.83602,0.05463,0.06923,0.26308,0.51396,52.17844,51.54077,0.83602,0.02252,0.01175,0.10783,0.2073,0.83889,0.02252,0.0122,0.10825,0.21035,1.10517,1.61855,2.5619,0.83602,0.1,0.48153,0.94075,0.83602,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,85,15,62,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.373557Z,18,Risen,2,,tamucc,Secondary,Risen.2,88,49,39,1,Gender,18,,,,,,,,,,,,,,,,2,Gender,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.97739738281262,0.16335340971559,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1   0.00  0.0021  0.0005 0.98160  
+Gender            1  17.93 17.9297  4.4711 0.03744 *
+Condition:Gender  1   7.93  7.9297  1.9774 0.16335  
+Residuals        84 336.85  4.0102                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,84,,,,,,,,,,,,,,,,,,,,1.97739738281262,1,11.3803667544912,88,18,70,0.37162,0.07063,0.26427,0.89153,64.49134,60.36389,0.20728,0.1656,0.36837,0.0694,0.26196,0.88373,64.37025,60.27529,0.1656,0.14825,0.01075,0.106,0.3384,0.17212,0.14935,0.01176,0.1064,0.35228,1.96217,1.61501,5.03821,0.1656,0.67405,0.47934,1.61705,0.1656,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,88,15,61,88,88,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.461149Z,18,Risen,2,,tilburg,Secondary,Risen.2,95,50,45,1,Gender,22,,,,,,,,,,,,,,,,2,Gender,73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0643109086263167,0.800379793343069,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   1.95  1.9463  0.4608 0.4990
+Gender            1   4.70  4.7036  1.1135 0.2941
+Condition:Gender  1   0.27  0.2717  0.0643 0.8004
+Residuals        91 384.40  4.2242               ",,,,,1,91,,,,,,,,,,,,,,,,,,,,0.0643109086263167,1,4.24547346212766,95,22,73,0.06168,0.05917,0.24321,0.50113,52.45904,51.73936,0.03479,0.8004,0.06118,0.05822,0.24125,0.49708,52.43918,51.7253,0.8004,0.02601,0.01051,0.10206,0.20683,0.8035,0.02602,0.01087,0.10242,0.20985,1.11837,1.55448,2.48172,0.8004,0.11187,0.44114,0.90895,0.8004,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,95,15,65,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.550050Z,18,Risen,2,,ulatina,Secondary,Risen.2,203,104,99,1,Gender,95,,,,,,,,,,,,,,,,2,Gender,108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,8.4475728452981,0.00406958731135443,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df  Sum Sq Mean Sq F value  Pr(>F)   
+Condition          1    1.37   1.370  0.2659 0.60664   
+Gender             1    1.78   1.783  0.3462 0.55696   
+Condition:Gender   1   43.51  43.510  8.4476 0.00407 **
+Residuals        199 1024.97   5.151                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,199,,,,,,,,,,,,,,,,,,,,8.4475728452981,0.848112000504038,23.8487950244647,203,95,108,0.40883,0.0202,0.12954,0.68692,65.86669,61.37418,0.22748,0.00445,0.4073,0.02005,0.12906,0.68436,65.81063,61.33285,0.00445,0.19988,0.00445,0.0645,0.32424,0.00461,0.20261,0.005,0.06459,0.33638,2.09915,1.26486,3.4762,0.00445,0.74153,0.23496,1.24594,0.00445,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,203,15,96,203,203,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+203 ","Setting
+In a lab 
+     203 ","Tablet
+Computers 
+      203 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      203 ","analysis.type
+Secondary 
+      203 ","subset
+all 
+203 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.653826Z,18,Risen,2,,umich,Secondary,Risen.2,83,38,45,1,Gender,28,,,,,,,,,,,,,,,,2,Gender,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.391408340539689,0.533363303068694,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   2.15  2.1469  0.4043 0.5267
+Gender            1   1.91  1.9054  0.3588 0.5509
+Condition:Gender  1   2.08  2.0786  0.3914 0.5334
+Residuals        79 419.53  5.3105               ",,,,,1,79,,,,,,,,,,,,,,,,,,,,0.391408340539689,1,6.62625684929607,83,28,55,0.14524,0.05402,0.23216,0.5976,55.77403,54.09002,0.0818,0.5338,0.14389,0.05302,0.23,0.59205,55.72077,54.05217,0.5338,0.06851,0.01191,0.10911,0.2719,0.54111,0.06862,0.0125,0.10955,0.27892,1.3014,1.52361,2.95628,0.5338,0.26344,0.42108,1.08393,0.5338,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,83,15,67,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.752537Z,18,Risen,2,,uned,Secondary,Risen.2,84,43,41,1,Gender,22,,,,,,,,,,,,,,,,2,Gender,62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0618855117276887,0.804177788102582,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   4.26  4.2571  0.8509 0.3591
+Gender            1   0.00  0.0001  0.0000 0.9974
+Condition:Gender  1   0.31  0.3096  0.0619 0.8042
+Residuals        80 400.24  5.0030               ",,,,,1,80,,,,,,,,,,,,,,,,,,,,0.0618855117276887,1,4.2029637894358,84,22,62,0.06173,0.06161,0.24816,0.50876,52.46128,51.74094,0.03482,0.8042,0.06117,0.06048,0.24588,0.50409,52.43873,51.72498,0.8042,0.02713,0.01188,0.10847,0.21829,0.80764,0.02714,0.01235,0.10889,0.22186,1.11848,1.56849,2.51628,0.8042,0.11197,0.45011,0.92278,0.8042,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,84,15,59,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+Online (at home) 
+              84 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.846260Z,18,Risen,2,,unswonline,Secondary,Risen.2,95,48,47,1,Gender,28,,,,,,,,,,,,,,,,2,Gender,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,2.78990254530209,0.0982962676289976,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1  24.19 24.1915  5.1830 0.02515 *
+Gender            1  23.67 23.6706  5.0714 0.02673 *
+Condition:Gender  1  13.02 13.0217  2.7899 0.09830 .
+Residuals        91 424.74  4.6674                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,91,,,,,,,,,,,,,,,,,,,,2.78990254530209,1,13.2544805446507,95,28,67,0.37587,0.05138,0.22503,0.81927,64.64939,60.47963,0.20959,0.10065,0.37283,0.05056,0.22321,0.81264,64.53635,60.39684,0.10065,0.16891,0.00979,0.10206,0.34991,0.10527,0.17054,0.01087,0.10242,0.36534,1.97735,1.50405,4.41934,0.10065,0.68176,0.40816,1.48599,0.10065,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,95,15,69,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+Online (at home) 
+              95 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:29.968244Z,18,Risen,2,,vcu,Secondary,Risen.2,95,39,56,1,Gender,40,,,,,,,,,,,,,,,,2,Gender,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.0379793719664118,0.845919009594767,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value Pr(>F)
+Condition         1   1.99  1.9927  0.3649 0.5473
+Gender            1   7.80  7.7976  1.4280 0.2352
+Condition:Gender  1   0.21  0.2074  0.0380 0.8459
+Residuals        91 496.91  5.4605               ",,,,,1,91,,,,,,,,,,,,,,,,,,,,0.0379793719664118,1,3.68389236577543,95,40,55,0.0405,0.04319,0.2078,0.39884,51.61516,51.14225,0.02284,0.84592,0.04017,0.04249,0.20612,0.39562,51.60211,51.13301,0.84592,0.01999,0.01052,0.10206,0.19321,0.84834,0.01999,0.01087,0.10242,0.19567,1.07622,1.45778,2.06148,0.84592,0.07345,0.37691,0.72342,0.84592,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,95,15,62,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:30.066106Z,18,Risen,2,,vuw,Secondary,Risen.2,97,44,53,1,Gender,22,,,,,,,,,,,,,,,,2,Gender,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,0.000752345079840973,0.978176413260289,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                 Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition         1   2.50   2.500  0.4442 0.50676  
+Gender            1  33.57  33.566  5.9640 0.01649 *
+Condition:Gender  1   0.00   0.004  0.0008 0.97818  
+Residuals        93 523.41   5.628                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,93,,,,,,,,,,,,,,,,,,,,0.000752345079840973,1,1,97,22,75,0.00665,0.05879,0.24246,0.24246,50.26531,50.18761,0.00375,0.97818,0.0066,0.05786,0.24054,0.24054,50.26321,50.18612,0.97818,0.00278,0.01031,0.10102,0.10102,0.97852,0.00278,0.01064,0.10136,0.10136,1.01214,1.55236,1.55236,0.97818,0.01206,0.43978,0.43978,0.97818,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,97,15,69,97,97,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 97 ","Setting
+Online (at home) 
+              97 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:30.173881Z,18,Risen,2,,westernkentucky,Secondary,Risen.2,157,89,68,1,Gender,34,,,,,,,,,,,,,,,,2,Gender,123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,2.4356820890118,0.120668367576357,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df Sum Sq Mean Sq F value  Pr(>F)  
+Condition          1  15.04 15.0378  3.6538 0.05781 .
+Gender             1  13.76 13.7590  3.3431 0.06944 .
+Condition:Gender   1  10.02 10.0245  2.4357 0.12067  
+Residuals        153 629.70  4.1157                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,153,,,,,,,,,,,,,,,,,,,,2.4356820890118,1,12.4317660046296,157,34,123,0.30239,0.03783,0.19376,0.68316,61.88228,58.46572,0.16931,0.12207,0.30092,0.03747,0.19282,0.67985,61.82641,58.42531,0.12207,0.1236,0.00613,0.07956,0.27088,0.12518,0.12423,0.00649,0.07972,0.27781,1.73061,1.42111,3.45257,0.12207,0.54848,0.35144,1.23912,0.12207,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,157,15,93,157,157,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+157 ","Setting
+In a lab 
+     157 ","Tablet
+Computers 
+      157 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      157 ","analysis.type
+Secondary 
+      157 ","subset
+all 
+157 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:00:30.272265Z,18,Risen,2,,yale,Secondary,Risen.2,283,154,129,1,Gender,128,,,,,,,,,,,,,,,,2,Gender,155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,f,,,,1.35834815618616,0.244819393481889,,,,,,f,,"Analysis of Variance Table
+
+Response: Likelihood
+                  Df  Sum Sq Mean Sq F value   Pr(>F)   
+Condition          1   34.86  34.858  6.9199 0.008998 **
+Gender             1   18.28  18.284  3.6298 0.057783 . 
+Condition:Gender   1    6.84   6.842  1.3583 0.244819   
+Residuals        279 1405.40   5.037                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1",,,,,1,279,,,,,,,,,,,,,,,,,,,,1.35834815618616,1,9.77581857573614,283,128,155,0.1392,0.0143,0.11943,0.37342,55.53525,53.92033,0.07841,0.24538,0.13882,0.01422,0.11911,0.37242,55.52056,53.90989,0.24538,0.06912,0.00349,0.05934,0.18273,0.2477,0.06923,0.00357,0.05941,0.18481,1.28721,1.24188,1.96858,0.24538,0.25247,0.21663,0.67731,0.24538,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,283,15,109,283,283,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+283 ","Setting
+Online (at home) 
+             283 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            283 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      283 ","analysis.type
+Secondary 
+      283 ","subset
+all 
+283 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

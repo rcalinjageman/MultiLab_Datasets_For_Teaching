@@ -1,0 +1,89 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~INBAR.2C~~~~~~~
+	# 31 Inbar.2c - START
+
+	# 
+	# 31 Inbar.2c - aus not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - aus not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - badaniaon >> ES r is close to 0:  -0.03
+	# 
+	# 31 Inbar.2c - brasilia >> ES r is close to 0:  0
+	# 
+	# 31 Inbar.2c - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - hunancomp >> ES r is close to 0:  -0.01
+	# 
+	# 31 Inbar.2c - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - leuven >> ES r is close to 0:  0.02
+	# 
+	# 31 Inbar.2c - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 31 Inbar.2c - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 31 Inbar.2c - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 31 Inbar.2c - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 31 Inbar.2c - sandiegosu >> ES r is close to 0:  -0.03
+	# 
+	# 31 Inbar.2c - tilburgcaf >> ES r is close to 0:  -0.01
+	# 
+	# 31 Inbar.2c - ubctab >> ES r is close to 0:  -0.04
+	# 
+	# 31 Inbar.2c - uiuc >> ES r is close to 0:  -0.01
+	# 
+	# 31 Inbar.2c - unibelgrade >> ES r is close to 0:  -0.02
+	# 
+	# 31 Inbar.2c - uniporto >> ES r is close to 0:  0.01
+	# 
+	# 31 Inbar.2c - uva >> ES r is close to 0:  0.02
+	# 
+	# 31 Inbar.2c - washlee >> ES r is close to 0:  -0.05
+	# 
+	# 31 Inbar.2c - zhejiang >> ES r is close to 0:  -0.04
+	# 
+	# 31 Inbar.2c - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

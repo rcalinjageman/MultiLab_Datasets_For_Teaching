@@ -1,0 +1,63 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GIESSNER.1~~~~~~~
+	# 45 Giessner.1 - START
+
+	# 
+	# 45 Giessner.1 - 1: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 2: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 2 >> ES r is close to 0:  -0.04
+	# 
+	# 45 Giessner.1 - 3: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 3 >> ES r is close to 0:  0.01
+	# 
+	# 45 Giessner.1 - 4: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 5: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 5 >> ES r is close to 0:  0.04
+	# 
+	# 45 Giessner.1 - 6: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 6 >> ES r is close to 0:  -0.01
+	# 
+	# 45 Giessner.1 - 7: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 8: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 9: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 9 >> ES r is close to 0:  0
+	# 
+	# 45 Giessner.1 - 10: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 11: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 11 >> ES r is close to 0:  0.01
+	# 
+	# 45 Giessner.1 - 12: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 12 >> ES r is close to 0:  0
+	# 
+	# 45 Giessner.1 - 13: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 13 >> ES r is close to 0:  -0.01
+	# 
+	# 45 Giessner.1 - 14: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 14 >> ES r is close to 0:  0.05
+	# 
+	# 45 Giessner.1 - 15: var.equal set to: TRUE
+	# 
+	# 45 Giessner.1 - 15 >> ES r is close to 0:  0.04
+	# 
+	# 45 Giessner.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

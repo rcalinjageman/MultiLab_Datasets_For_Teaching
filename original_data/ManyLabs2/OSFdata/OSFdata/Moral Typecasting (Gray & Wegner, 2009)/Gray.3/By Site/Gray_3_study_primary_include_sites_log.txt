@@ -1,0 +1,141 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GRAY.3~~~~~~~
+	# 64 Gray.3 - START
+
+	# 
+	# 64 Gray.3 - amity: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - amityon: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - armstrong: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - aus2: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - badaniaon: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - badaniaon >> ES r is close to 0:  0.05
+	# 
+	# 64 Gray.3 - bogota: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - brookcuny: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - carleton: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - cas: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - csunorthonline: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - fmkbelgrade: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - georgefox: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - grazvienna: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - hawaiion: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - help: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - isb: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - jmu: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - jos: var.equal set to: FALSE
+	# 
+	# 64 Gray.3 - kenyon: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - krakowon: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - kwazulu: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - louvain: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - loyola: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - lse: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - mcdanielonline: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - metu: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - moralsense: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - mturk: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - mturk_india: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - munich: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - munichon: var.equal set to: FALSE
+	# 
+	# 64 Gray.3 - northumbria: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - osnabruck: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - ouhk: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - padua: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - pascal: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - psualtoona: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - puc: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - queensland2: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - radboud: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - ritonline: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - rotterdam: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - salford: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - seznam: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - seznamon: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - simmons: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - swps: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - tamu: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - tamucc: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - tanzania: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 64 Gray.3 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 64 Gray.3 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 64 Gray.3 - tilburg: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - ulatina: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - umich: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - uned: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - unswonline: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - vcu: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - vuw: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - westernkentucky: var.equal set to: FALSE
+	# 
+	# 64 Gray.3 - yale: var.equal set to: TRUE
+	# 
+	# 64 Gray.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

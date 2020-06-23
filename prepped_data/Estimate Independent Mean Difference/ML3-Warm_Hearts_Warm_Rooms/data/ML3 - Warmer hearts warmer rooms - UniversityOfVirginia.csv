@@ -1,0 +1,190 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"3424","101","UniversityOfVirginia","Agentic",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",71
+"3425","102","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3426","103","UniversityOfVirginia","Communal",67,"18","First-year","Female","Asian-American","Pass",71
+"3427","104","UniversityOfVirginia","Agentic",70,"18","First-year","Male","African-American","Pass",71
+"3428","105","UniversityOfVirginia","Agentic",71,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3429","106","UniversityOfVirginia","Agentic",75,NA,NA,NA,NA,NA,71
+"3430","107","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"3431","108","UniversityOfVirginia","Communal",77,"21","Senior","Female","White, non-Hispanic or latino","Pass",71
+"3432","109","UniversityOfVirginia","Communal",76,"18","First-year","Female","Other","Pass",72
+"3434","110","UniversityOfVirginia","Agentic",68,"18","First-year","Male","Asian-American","Pass",72
+"3435","111","UniversityOfVirginia","Agentic",75,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3436","112","UniversityOfVirginia","Agentic",55,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"3437","113","UniversityOfVirginia","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3438","114","UniversityOfVirginia","Communal",68,"18","First-year","Male","African-American","Pass",NA
+"3439","115","UniversityOfVirginia","Communal",69,"18","First-year","Male","Asian-American","Pass",NA
+"3440","116","UniversityOfVirginia","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3441","117","UniversityOfVirginia","Agentic",70,"21","Junior","Female","Other","Pass",NA
+"3442","118","UniversityOfVirginia","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3443","119","UniversityOfVirginia","Agentic",75,"20","Junior","Female","Asian-American","Pass",NA
+"3444","12","UniversityOfVirginia","Communal",68,"18","First-year","Female","African-American","Pass",NA
+"3445","120","UniversityOfVirginia","Communal",80,"18","First-year",NA,"Asian-American","Fail",NA
+"3446","121","UniversityOfVirginia","Communal",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"3447","122","UniversityOfVirginia","Communal",75,"18","First-year","Female","Asian-American","Pass",NA
+"3448","123","UniversityOfVirginia","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"3449","124","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3450","125","UniversityOfVirginia","Communal",70,"19","First-year","Female","Asian-American","Pass",NA
+"3451","126","UniversityOfVirginia","Agentic",75,"19","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"3452","127","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"3453","128","UniversityOfVirginia","Communal",74,"20","Junior","Female","Afghan","Pass",74
+"3454","129","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"3455","13","UniversityOfVirginia","Agentic",76,"19","Sophomore","Female","Asian-American","Pass",NA
+"3456","130","UniversityOfVirginia","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3457","131","UniversityOfVirginia","Agentic",73,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"3458","132","UniversityOfVirginia","Communal",75,"18","First-year","Male","Asian-American","Fail",72
+"3459","133","UniversityOfVirginia","Communal",65,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3460","134","UniversityOfVirginia","Communal",65,"19","First-year","Male","Latino or Hispanic","Pass",72
+"3461","135","UniversityOfVirginia","Agentic",72,NA,NA,NA,NA,NA,72
+"3463","137","UniversityOfVirginia","Agentic",68,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3464","138","UniversityOfVirginia","Agentic",72,"20","Junior","Female","Multiracial","Fail",72
+"3465","139","UniversityOfVirginia","Communal",68,"19","First-year","Male","Asian-American","Pass",72
+"3467","140","UniversityOfVirginia","Communal",70,"19","Sophomore",NA,"White, non-Hispanic or latino","Pass",72
+"3469","142","UniversityOfVirginia","Communal",70,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"3473","146","UniversityOfVirginia","Communal",72,"18","First-year","Male","Multiracial","Pass",73
+"3474","147","UniversityOfVirginia","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"3475","148","UniversityOfVirginia","Communal",72,"19","Sophomore","Female","Asian-American","Pass",73
+"3476","149","UniversityOfVirginia","Communal",77,NA,NA,NA,NA,NA,73
+"3478","150","UniversityOfVirginia","Agentic",72,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3479","151","UniversityOfVirginia","Communal",71,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3480","152","UniversityOfVirginia","Agentic",75,"18","First-year","Female","Asian-American","Fail",73
+"3481","153","UniversityOfVirginia","Agentic",72,"22","Senior","Female","Multiracial","Fail",73
+"3482","154","UniversityOfVirginia","Agentic",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"3483","155","UniversityOfVirginia","Agentic",70,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"3484","156","UniversityOfVirginia","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",73
+"3485","157","UniversityOfVirginia","Communal",70,"19","First-year","Male","Other","Fail",73
+"3486","158","UniversityOfVirginia","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"3487","159","UniversityOfVirginia","Communal",60,"18","First-year","Female","Other","Fail",NA
+"3489","161","UniversityOfVirginia","Agentic",75,"20","Junior","Female","Asian-American","Pass",NA
+"3490","162","UniversityOfVirginia","Agentic",70,"18","First-year","Male","Asian-American","Fail",NA
+"3491","163","UniversityOfVirginia","Communal",71,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"3492","164","UniversityOfVirginia","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3493","165","UniversityOfVirginia","Communal",70,"19","First-year","Female","African-American","Pass",NA
+"3494","166","UniversityOfVirginia","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"3495","167","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3496","168","UniversityOfVirginia","Communal",73,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"3497","169","UniversityOfVirginia","Communal",72,"18","First-year","Female","Asian-American","Fail",72
+"3498","169","UniversityOfVirginia","Communal",70,NA,NA,NA,NA,NA,72
+"3499","17","UniversityOfVirginia","Communal",74,"21","Senior","Male","Multiracial","Fail",NA
+"3501","171","UniversityOfVirginia","Communal",70,"18","First-year","Male","Asian-American","Fail",72
+"3502","172","UniversityOfVirginia","Communal",70,"20","Junior","Male","Latino or Hispanic","Pass",72
+"3503","173","UniversityOfVirginia","Agentic",73,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"3504","174","UniversityOfVirginia","Agentic",70,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3505","175","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3507","177","UniversityOfVirginia","Agentic",68,"19","First-year","Female","Asian-American","Pass",73
+"3512","181","UniversityOfVirginia","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3513","182","UniversityOfVirginia","Communal",60,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"3514","183","UniversityOfVirginia","Agentic",73,"19","Sophomore","Male","Asian-American","Fail",72
+"3515","184","UniversityOfVirginia","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"3516","185","UniversityOfVirginia","Communal",70,"19","First-year","Male","Asian-American","Fail",72
+"3518","187","UniversityOfVirginia","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3519","188","UniversityOfVirginia","Agentic",71,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"3520","189","UniversityOfVirginia","Communal",70,"18","First-year","Female","Native Hawaiian and other Pacific Islander","Pass",72
+"3521","19","UniversityOfVirginia","Communal",75,"23","Other","Female","White, non-Hispanic or latino","Pass",NA
+"3522","190","UniversityOfVirginia","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",71
+"3523","191","UniversityOfVirginia","Agentic",71,"18","First-year","Male","Multiracial","Fail",71
+"3524","192","UniversityOfVirginia","Communal",71,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3525","193","UniversityOfVirginia","Agentic",68,"18","First-year","Female","Asian-American","Pass",72
+"3526","194","UniversityOfVirginia","Communal",65,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"3528","196","UniversityOfVirginia","Communal",75,"19","First-year","Female","Other","Pass",73
+"3529","196","UniversityOfVirginia","Agentic",68,"19","First-year","Male","Multiracial","Fail",73
+"3530","197","UniversityOfVirginia","Communal",72,"18","First-year","Male","Multiracial","Fail",73
+"3532","20","UniversityOfVirginia","Communal",72,"18","First-year","Male","Asian-American","Pass",NA
+"3533","200","UniversityOfVirginia","Agentic",69,"19","Sophomore","Male","Asian-American","Fail",73
+"3534","201","UniversityOfVirginia","Communal",67,"19","First-year","Female","Latino or Hispanic","Pass",73
+"3535","202","UniversityOfVirginia","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",74
+"3536","203","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"3537","204","UniversityOfVirginia","Communal",72,"20","Junior","Male","White, non-Hispanic or latino","Pass",74
+"3539","22","UniversityOfVirginia","Agentic",78,"18","First-year","Female","Asian-American","Pass",NA
+"3540","23","UniversityOfVirginia","Agentic",72,"18","First-year","Female","African-American","Fail",NA
+"3541","24","UniversityOfVirginia","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3542","25","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3543","26","UniversityOfVirginia","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"3544","27","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3545","28","UniversityOfVirginia","Communal",73,"18","First-year","Female",NA,"Pass",NA
+"3546","29","UniversityOfVirginia","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"3547","30","UniversityOfVirginia","Agentic",70,"20","First-year","Male","Other","Pass",NA
+"3549","32","UniversityOfVirginia","Communal",74,"19","Junior","Female","White, non-Hispanic or latino","Pass",72
+"3550","33","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3552","35","UniversityOfVirginia","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"3554","37","UniversityOfVirginia","Agentic",75,"19","Junior","Female","Asian-American","Fail",72
+"3556","39","UniversityOfVirginia","Agentic",67,"18","Sophomore","Male","Asian-American","Pass",71
+"3557","40","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3558","41","UniversityOfVirginia","Agentic",70,"17","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3559","42","UniversityOfVirginia","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3560","43","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3563","46","UniversityOfVirginia","Communal",70,"20","Junior","Female","White, non-Hispanic or latino","Pass",71
+"3564","47","UniversityOfVirginia","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3565","48","UniversityOfVirginia","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3566","49","UniversityOfVirginia","Communal",72,"18","First-year","Male","Multiracial","Pass",72
+"3567","50","UniversityOfVirginia","Communal",72,"18","First-year","Male","Multiracial","Pass",72
+"3568","51","UniversityOfVirginia","Agentic",68,"18","First-year","Female","African-American","Pass",72
+"3569","52","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3570","53","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"3571","54","UniversityOfVirginia","Communal",66,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3572","55","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3574","57","UniversityOfVirginia","Agentic",78,"20","Junior","Male","Asian-American","Pass",71
+"3575","58","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3576","59","UniversityOfVirginia","Agentic",74,"18","First-year","Female","African-American","Pass",71
+"3577","60","UniversityOfVirginia","Agentic",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"3578","61","UniversityOfVirginia","Communal",75,"19","First-year","Male","White, non-Hispanic or latino","Fail",71
+"3579","62","UniversityOfVirginia","Communal",70,"18","First-year","Male","Asian-American","Fail",71
+"3580","63","UniversityOfVirginia","Communal",70,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"3581","64","UniversityOfVirginia","Communal",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3582","65","UniversityOfVirginia","Communal",76,"18","First-year","Male","Asian-American","Fail",72
+"3584","67","UniversityOfVirginia","Agentic",70,"19","Sophomore","Female","Asian-American","Fail",72
+"3585","68","UniversityOfVirginia","Communal",60,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3588","70","UniversityOfVirginia","Agentic",70,"18","First-year","Female","Asian-American","Fail",72
+"3590","72","UniversityOfVirginia","Agentic",65,"18","First-year","Male","Multiracial","Pass",72
+"3592","74","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3594","76","UniversityOfVirginia","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"3595","77","UniversityOfVirginia","Communal",69,"19","First-year","Male","White, non-Hispanic or latino","Pass",72
+"3597","79","UniversityOfVirginia","Communal",70,"18","First-year","Male","Asian-American","Pass",74
+"3598","8","UniversityOfVirginia","Communal",70,"21","Senior","Female","White, non-Hispanic or latino","Fail",NA
+"3599","80","UniversityOfVirginia","Agentic",66,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",74
+"3600","81","UniversityOfVirginia","Communal",69,"17","First-year","Male","African-American","Pass",74
+"3601","82","UniversityOfVirginia","Communal",75,"19","Sophomore","Female","Other","Fail",74
+"3602","83","UniversityOfVirginia","Communal",72,"21","Senior","Male","White, non-Hispanic or latino","Pass",74
+"3603","84","UniversityOfVirginia","Communal",75,"19","Sophomore","Female","Asian-American","Pass",74
+"3607","89","UniversityOfVirginia","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3609","90","UniversityOfVirginia","Communal",70,"22","Senior","Female","White, non-Hispanic or latino","Pass",72
+"3610","91","UniversityOfVirginia","Communal",72,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"3612","93","UniversityOfVirginia","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3613","93","UniversityOfVirginia","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"3614","94","UniversityOfVirginia","Communal",65,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"3615","95","UniversityOfVirginia","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3616","96","UniversityOfVirginia","Communal",75,"17","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"3617","97","UniversityOfVirginia","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"3618","98","UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3620",NA,"UniversityOfVirginia","Communal",70,NA,NA,NA,NA,"Fail",NA
+"3621",NA,"UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3623",NA,"UniversityOfVirginia","Communal",74,NA,NA,NA,NA,"Pass",NA
+"3624",NA,"UniversityOfVirginia","Agentic",71,NA,NA,NA,NA,NA,NA
+"3625",NA,"UniversityOfVirginia","Agentic",78,NA,NA,NA,NA,"Fail",NA
+"3626",NA,"UniversityOfVirginia","Communal",68,NA,NA,NA,NA,NA,NA
+"3627",NA,"UniversityOfVirginia","Communal",64,NA,NA,NA,NA,NA,NA
+"3628",NA,"UniversityOfVirginia","Communal",75,NA,NA,NA,NA,"Fail",NA
+"3629",NA,"UniversityOfVirginia","Agentic",75,NA,NA,NA,NA,"Fail",NA
+"3630",NA,"UniversityOfVirginia","Agentic",65,NA,NA,NA,NA,NA,NA
+"3631",NA,"UniversityOfVirginia","Communal",72,"18","First-year","Male","Asian-American","Fail",NA
+"3632",NA,"UniversityOfVirginia","Communal",76,NA,NA,NA,NA,NA,NA
+"3633",NA,"UniversityOfVirginia","Agentic",80,NA,NA,NA,NA,NA,NA
+"3634",NA,"UniversityOfVirginia","Communal",70,NA,NA,NA,NA,"Fail",NA
+"3635",NA,"UniversityOfVirginia","Agentic",72,NA,NA,NA,NA,NA,NA
+"3636",NA,"UniversityOfVirginia","Communal",75,"18","First-year","Female","African-American","Fail",NA
+"3637",NA,"UniversityOfVirginia","Communal",63,NA,NA,NA,NA,"Fail",NA
+"3640",NA,"UniversityOfVirginia","Communal",70,NA,NA,NA,NA,NA,NA
+"3641",NA,"UniversityOfVirginia","Communal",72,NA,NA,NA,NA,NA,NA
+"3643",NA,"UniversityOfVirginia","Communal",75,NA,NA,NA,NA,NA,NA
+"3644",NA,"UniversityOfVirginia","Agentic",75,"21","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"3645",NA,"UniversityOfVirginia","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"3646",NA,"UniversityOfVirginia","Agentic",66,"18","First-year","Female","Asian-American","Fail",NA
+"3647",NA,"UniversityOfVirginia","Agentic",70,"20","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"3648",NA,"UniversityOfVirginia","Agentic",70,NA,NA,NA,NA,NA,NA
+"3649",NA,"UniversityOfVirginia","Communal",75,NA,NA,NA,NA,NA,NA
+"3650",NA,"UniversityOfVirginia","Agentic",78,NA,NA,NA,NA,NA,NA
+"3651",NA,"UniversityOfVirginia","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"3652",NA,"UniversityOfVirginia","Communal",74,NA,NA,NA,NA,"Fail",NA
+"3653",NA,"UniversityOfVirginia","Agentic",75,NA,NA,NA,NA,"Fail",NA
+"3654",NA,"UniversityOfVirginia","Agentic",65,"19","Sophomore","Female","Asian-American","Fail",NA
+"3655",NA,"UniversityOfVirginia","Communal",75,NA,NA,NA,NA,"Fail",NA

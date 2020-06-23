@@ -1,0 +1,77 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HAUSER.2~~~~~~~
+	# 40 Hauser.2 - START
+
+	# 
+	# 40 Hauser.2 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - cas >> ES r is NA
+	# 
+	# 40 Hauser.2 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - johannesburg not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 40 Hauser.2 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 40 Hauser.2 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - poitiers not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - pscio not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - psuabington not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - psuabingtontab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - santiagoon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - ucron not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - uniporto not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 40 Hauser.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

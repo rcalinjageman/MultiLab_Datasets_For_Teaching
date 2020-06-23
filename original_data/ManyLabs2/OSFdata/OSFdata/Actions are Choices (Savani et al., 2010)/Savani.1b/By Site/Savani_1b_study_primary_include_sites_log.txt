@@ -1,0 +1,59 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SAVANI.1B~~~~~~~
+	# 54 Savani.1b - START
+
+	# 
+	# 54 Savani.1b - aus2 >> ES r is close to 0:  0.03
+	# 
+	# 54 Savani.1b - bogota >> ES r is close to 0:  0.01
+	# 
+	# 54 Savani.1b - brookcuny >> ES r is close to 0:  -0.03
+	# 
+	# 54 Savani.1b - csunorthonline >> ES r is close to 0:  0
+	# 
+	# 54 Savani.1b - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 54 Savani.1b - loyola >> ES r is close to 0:  -0.04
+	# 
+	# 54 Savani.1b - lse >> ES r is close to 0:  -0.03
+	# 
+	# 54 Savani.1b - mcdanielonline >> ES r is close to 0:  -0.02
+	# 
+	# 54 Savani.1b - metu >> ES r is close to 0:  -0.04
+	# 
+	# 54 Savani.1b - ouhk >> ES r is close to 0:  -0.03
+	# 
+	# 54 Savani.1b - puc >> ES r is close to 0:  -0.05
+	# 
+	# 54 Savani.1b - queensland2 >> ES r is close to 0:  0
+	# 
+	# 54 Savani.1b - ritonline >> ES r is close to 0:  0.02
+	# 
+	# 54 Savani.1b - seznam >> ES r is close to 0:  0.03
+	# 
+	# 54 Savani.1b - simmons >> ES r is close to 0:  0
+	# 
+	# 54 Savani.1b - tamucc >> ES r is close to 0:  -0.05
+	# 
+	# 54 Savani.1b - tilburg >> ES r is close to 0:  -0.05
+	# 
+	# 54 Savani.1b - umich >> ES r is close to 0:  -0.05
+	# 
+	# 54 Savani.1b - uned >> ES r is close to 0:  -0.04
+	# 
+	# 54 Savani.1b - unswonline >> ES r is close to 0:  0
+	# 
+	# 54 Savani.1b - vuw >> ES r is close to 0:  -0.05
+	# 
+	# 54 Savani.1b - westernkentucky >> ES r is close to 0:  0.03
+	# 
+	# 54 Savani.1b - yale >> ES r is close to 0:  0
+	# 
+	# 54 Savani.1b - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~

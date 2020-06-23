@@ -1,0 +1,67 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.4~~~~~~
+	# 4 Huang.4 - START
+
+	# 
+	# 4 Huang.4 - bc: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - hawaiion: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - ithaca: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - marian: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 4 Huang.4 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 4 Huang.4 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 4 Huang.4 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 4 Huang.4 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 4 Huang.4 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 4 Huang.4 - mturk: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - occid: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - occidtab: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - plu: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - psuabington: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - psumain: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - tamu: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - tufts: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - ufl: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - uiuc: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - umich: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - uva: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - washlee: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - williampat: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - wpi: var.equal set to: TRUE
+	# 
+	# 4 Huang.4 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

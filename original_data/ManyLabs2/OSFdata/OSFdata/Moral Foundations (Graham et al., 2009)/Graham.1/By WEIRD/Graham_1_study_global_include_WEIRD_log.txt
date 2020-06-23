@@ -1,0 +1,13 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GRAHAM.1~~~~~~~
+	# 14 Graham.1 - START
+
+	# 
+	# 14 Graham.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

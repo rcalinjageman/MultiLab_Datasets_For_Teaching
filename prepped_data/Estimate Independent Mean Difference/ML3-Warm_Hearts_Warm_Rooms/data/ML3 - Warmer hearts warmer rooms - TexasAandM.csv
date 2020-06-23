@@ -1,0 +1,173 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"2482","","TexasAandM","Agentic",76,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",NA
+"2483","","TexasAandM","Communal",80,"19","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"2484","","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"2485","","TexasAandM","Agentic",76,"22","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"2486","10","TexasAandM","Agentic",75,"19","Sophomore","Female","Multiracial","Fail",73
+"2487","100","TexasAandM","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2488","101","TexasAandM","Agentic",75,"18","First-year",NA,NA,"Fail",73
+"2489","102","TexasAandM","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2490","103","TexasAandM","Agentic",78,"22","Senior","Female","White, non-Hispanic or latino","Pass",73
+"2491","104","TexasAandM","Agentic",74,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"2492","105","TexasAandM","Communal",80,"18","First-year","Female","Multiracial","Fail",73
+"2493","106","TexasAandM","Communal",80,"19","Sophomore","Male","African-American","Pass",73
+"2494","107","TexasAandM","Communal",72,"20","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"2495","108","TexasAandM","Communal",70,"19","Sophomore","Female","Latino or Hispanic","Fail",73
+"2496","109","TexasAandM","Agentic",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2497","11","TexasAandM","Agentic",75,"21","Junior","Female","White, non-Hispanic or latino","Pass",73
+"2498","110","TexasAandM","Agentic",75,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"2499","111","TexasAandM","Agentic",70,"20","Sophomore","Female","African-American","Fail",73
+"2500","112","TexasAandM","Agentic",72,"18","First-year","Male","Asian-American","Pass",73
+"2501","113","TexasAandM","Communal",75,"19","Sophomore","Female","Latino or Hispanic","Fail",73
+"2502","114","TexasAandM","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2503","115","TexasAandM","Communal",73,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2504","116","TexasAandM","Agentic",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2505","117","TexasAandM","Agentic",75,"21","Junior","Male","White, non-Hispanic or latino","Pass",73
+"2506","118","TexasAandM","Communal",70,"20","Sophomore","Male","Latino or Hispanic","Pass",72
+"2507","119","TexasAandM","Agentic",68,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"2508","12","TexasAandM","Agentic",76,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2509","120","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"2510","121","TexasAandM","Communal",74,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2513","124","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2514","125","TexasAandM","Communal",70,"18","First-year","Male","Asian-American","Fail",73
+"2515","126","TexasAandM","Communal",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2516","127","TexasAandM","Agentic",70,"18","First-year","Female","Latino or Hispanic","Fail",73
+"2518","13","TexasAandM","Communal",70,"20","Junior","Male","Asian-American","Pass",73
+"2519","130","TexasAandM","Communal",80,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"2520","131","TexasAandM","Communal",73,"19","Sophomore","Male","Latino or Hispanic","Fail",73
+"2522","133","TexasAandM","Agentic",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2523","134","TexasAandM","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2524","135","TexasAandM","Communal",73,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2525","136","TexasAandM","Agentic",76,"20","Junior","Male","Asian-American","Pass",73
+"2527","139","TexasAandM","Communal",75,"19","First-year","Male","Latino or Hispanic","Fail",73
+"2528","14","TexasAandM","Communal",65,"18","First-year","Female","Latino or Hispanic","Pass",73
+"2529","140","TexasAandM","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"2530","141","TexasAandM","Agentic",73,"19","Sophomore","Female","Latino or Hispanic","Pass",73
+"2531","142","TexasAandM","Communal",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2532","143","TexasAandM","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2533","144","TexasAandM","Communal",74,"20","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"2534","145","TexasAandM","Communal",75,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2535","146","TexasAandM","Communal",75,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"2538","149","TexasAandM","Communal",73,"18","First-year","Male","Asian-American","Fail",73
+"2539","15","TexasAandM","Agentic",70,"18","First-year","Female","Latino or Hispanic","Pass",73
+"2540","150","TexasAandM","Communal",80,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2542","152","TexasAandM","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2543","153","TexasAandM","Communal",74,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2544","154","TexasAandM","Agentic",75,"20`","Junior","Male","White, non-Hispanic or latino","Fail",73
+"2545","155","TexasAandM","Communal",76,"18","First-year","Female","Latino or Hispanic","Fail",73
+"2546","156","TexasAandM","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2547","157","TexasAandM","Communal",79,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2548","158","TexasAandM","Communal",75,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"2549","159","TexasAandM","Agentic",74,"20","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"2550","16","TexasAandM","Agentic",72,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2551","160","TexasAandM","Communal",72,"20","Sophomore","Female","White, non-Hispanic or latino",NA,73
+"2552","161","TexasAandM","Communal",76,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2553","162","TexasAandM","Communal",70,"20","Sophomore","Female","Asian-American","Fail",73
+"2554","163","TexasAandM","Agentic",72,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"2555","164","TexasAandM","Agentic",76,"20","Junior","Female","Asian-American",NA,73
+"2556","165","TexasAandM","Agentic",76,"19","First-year","Female","Latino or Hispanic","Pass",73
+"2557","166","TexasAandM","Agentic",80,"18","First-year","Female","Latino or Hispanic","Pass",73
+"2558","167","TexasAandM","Communal",75,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2559","168","TexasAandM","Agentic",78,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"2560","169","TexasAandM","Agentic",76,"21","Junior","Male","White, non-Hispanic or latino","Fail",73
+"2561","17","TexasAandM","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2562","170","TexasAandM","Agentic",75,"21","Junior","Male","White, non-Hispanic or latino","Fail",73
+"2564","172","TexasAandM","Agentic",78,"18","First-year","Female","Other","Fail",74
+"2566","174","TexasAandM","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",74
+"2567","175","TexasAandM","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2569","177","TexasAandM","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2570","178","TexasAandM","Communal",70,"18","First-year","Male","Latino or Hispanic","Fail",74
+"2571","179","TexasAandM","Agentic",70,"18","First-year","Female","Latino or Hispanic","Fail",74
+"2572","18","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2573","180","TexasAandM","Agentic",75,"18","First-year","Female","Latino or Hispanic","Fail",74
+"2574","181","TexasAandM","Communal",77,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"2575","182","TexasAandM","Communal",75,"18","First-year","Female","Latino or Hispanic","Fail",73
+"2576","183","TexasAandM","Communal",70,"18","First-year","Male","Asian-American","Fail",73
+"2577","184","TexasAandM","Agentic",70,"18","First-year","Female","Asian-American","Pass",74
+"2578","185","TexasAandM","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",74
+"2579","186","TexasAandM","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2580","19","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2581","20","TexasAandM","Communal",76,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2582","21","TexasAandM","Agentic",75,"18","First-year","Male","African-American","Fail",73
+"2583","22","TexasAandM","Communal",75,"18","First-year","Female","Latino or Hispanic","Fail",73
+"2584","23","TexasAandM","Agentic",73,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"2585","24","TexasAandM","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2586","25","TexasAandM","Communal",75,"18","First-year","Male","Latino or Hispanic","Pass",74
+"2587","26","TexasAandM","Agentic",74,"19","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2588","27","TexasAandM","Agentic",70,"20","Junior","Male","Latino or Hispanic","Pass",74
+"2589","28","TexasAandM","Communal",75,"19","Sophomore","Male","Native American and Alaska Native","Fail",74
+"2590","29","TexasAandM","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",74
+"2591","30","TexasAandM","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2592","31","TexasAandM","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2593","32","TexasAandM","Agentic",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2594","33","TexasAandM","Communal",78,"18","First-year","Male","Latino or Hispanic","Fail",73
+"2595","34","TexasAandM","Communal",63,"18","First-year","Male","Latino or Hispanic","Fail",73
+"2596","35","TexasAandM","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2597","36","TexasAandM","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2598","37","TexasAandM","Agentic",70,"19","Sophomore","Female","African-American","Fail",73
+"2599","38","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2600","39","TexasAandM","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2601","40","TexasAandM","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2604","43","TexasAandM","Agentic",75,"19","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2605","44","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2606","45","TexasAandM","Communal",74,"18","First-year","Male","Latino or Hispanic","Pass",74
+"2607","46","TexasAandM","Agentic",69,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2608","47","TexasAandM","Agentic",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2609","48","TexasAandM","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2610","49","TexasAandM","Agentic",75,"19","First-year","Female","Asian-American","Pass",74
+"2611","50","TexasAandM","Communal",78,"21","Senior","Female","Other","Pass",75
+"2612","51","TexasAandM","Agentic",74,"18","First-year","Male","Asian-American",NA,75
+"2613","52","TexasAandM","Communal",78,"18","First-year","Male","White, non-Hispanic or latino","Fail",75
+"2614","53","TexasAandM","Agentic",70,"18","First-year","Female","Asian-American","Fail",75
+"2615","54","TexasAandM","Communal",72,"18","First-year","Female","Asian-American","Fail",73
+"2616","55","TexasAandM","Communal",74,"19","Sophomore","Male","Native American and Alaska Native","Pass",73
+"2617","56","TexasAandM","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2618","57","TexasAandM","Communal",75,"18","First-year","Female","Asian-American","Fail",73
+"2619","58","TexasAandM","Agentic",77,"19","Sophomore","Female","Asian-American","Pass",73
+"2620","59","TexasAandM","Agentic",75,"19","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2621","60","TexasAandM","Agentic",79,"19","First-year","Female","Latino or Hispanic","Fail",73
+"2623","62","TexasAandM","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"2624","63","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2626","65","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2627","66","TexasAandM","Agentic",75,"19","First-year","Female","Latino or Hispanic","Fail",74
+"2628","67","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2629","68","TexasAandM","Agentic",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",74
+"2630","69","TexasAandM","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2631","7","TexasAandM","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2632","70","TexasAandM","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2633","71","TexasAandM","Communal",74,"18","First-year","Male","White, non-Hispanic or latino","Pass",74
+"2634","72","TexasAandM","Communal",75,"19","First-year","Female","Latino or Hispanic","Fail",74
+"2635","73","TexasAandM","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2636","74","TexasAandM","Agentic",75,"18","First-year","Male","Latino or Hispanic","Fail",74
+"2637","75","TexasAandM","Agentic",75,"19","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2638","76","TexasAandM","Agentic",70,"18","First-year","Female","Asian-American","Pass",74
+"2639","77","TexasAandM","Communal",73,"20","Sophomore","Female","Latino or Hispanic","Pass",74
+"2641","79","TexasAandM","Communal",77,"19","Sophomore","Female","Latino or Hispanic","Fail",74
+"2644","81","TexasAandM","Agentic",77,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2645","82","TexasAandM","Agentic",75,"19","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2646","83","TexasAandM","Agentic",78,"19","Sophomore","Male","Multiracial","Pass",74
+"2647","84","TexasAandM","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2648","85","TexasAandM","Agentic",79,"18","First-year","Female","Multiracial","Fail",74
+"2649","86","TexasAandM","Communal",75,"21","Senior","Female","Latino or Hispanic","Pass",74
+"2650","87","TexasAandM","Communal",80,"18","First-year","Male","White, non-Hispanic or latino","Pass",74
+"2651","88","TexasAandM","Communal",76,"18","First-year","Male","Latino or Hispanic","Fail",74
+"2652","89","TexasAandM","Agentic",78,"19","First-year","Female","White, non-Hispanic or latino","Fail",74
+"2653","9","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2655","91","TexasAandM","Agentic",76,"19","Sophomore","Female","Latino or Hispanic","Pass",74
+"2657","93","TexasAandM","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2658","94","TexasAandM","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"2659","95","TexasAandM","Agentic",75,"18","First-year","Male","Native Hawaiian and other Pacific Islander","Pass",73
+"2660","96","TexasAandM","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2661","97","TexasAandM","Communal",76,"18","First-year","Female","Latino or Hispanic","Pass",73
+"2662","98","TexasAandM","Communal",72,"18","First-year","Female","Latino or Hispanic","Pass",74
+"2663","99","TexasAandM","Agentic",80,"21","Junior","Male","Asian-American","Fail",73
+"2664","no survey?","TexasAandM","Communal",78,"19","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"2665",NA,"TexasAandM","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"2666",NA,"TexasAandM","Agentic",75,"21","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"2667",NA,"TexasAandM","Communal",76,"18","First-year","Female","African-American","Pass",NA
+"2669",NA,"TexasAandM","Agentic",78,"20","Junior","Male","White, non-Hispanic or latino","Fail",NA
+"2670",NA,"TexasAandM","Agentic",75,"18","First-year","Male","Latino or Hispanic","Pass",NA
+"2671",NA,"TexasAandM","Agentic",70,"19","First-year","Female","Latino or Hispanic","Pass",NA
+"2672",NA,"TexasAandM","Communal",74,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"2673",NA,"TexasAandM","Agentic",70,NA,NA,NA,NA,NA,NA
+"2674",NA,"TexasAandM","Communal",81,"18","First-year","Male","Multiracial","Pass",NA

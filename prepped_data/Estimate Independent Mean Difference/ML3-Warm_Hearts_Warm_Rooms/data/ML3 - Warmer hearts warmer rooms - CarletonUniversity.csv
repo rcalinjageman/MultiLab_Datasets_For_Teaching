@@ -1,0 +1,38 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"228","1","CarletonUniversity","Communal",59,"18","First-year","Female","White, non-Hispanic or latino","Pass",70
+"229","10","CarletonUniversity","Communal",69,"24","First-year","Female","Other","Pass",66
+"230","11","CarletonUniversity","Agentic",69,"21","First-year","Male","Native Hawaiian and other Pacific Islander","Pass",66
+"231","12","CarletonUniversity","Agentic",59,"32","First-year","Male",NA,"Pass",67
+"232","13","CarletonUniversity","Agentic",66,"18","First-year","Female","White, non-Hispanic or latino","Pass",68
+"233","14","CarletonUniversity","Agentic",66,"17","First-year","Female","Latino or Hispanic","Pass",62
+"235","16","CarletonUniversity","Agentic",62,"25","Sophomore","Female","White, non-Hispanic or latino","Pass",62
+"236","17","CarletonUniversity","Agentic",53,"18","First-year","Female","Other","Pass",60
+"237","18","CarletonUniversity","Communal",69,"20","Sophomore","Male","African-American","Fail",62
+"239","2","CarletonUniversity","Communal",68,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",70
+"240","20","CarletonUniversity","Agentic",77,"16","First-year","Female","African-American","Fail",64
+"241","21","CarletonUniversity","Agentic",69,"18","First-year","Female","White, non-Hispanic or latino","Pass",75
+"242","22","CarletonUniversity","Agentic",68,"18","First-year","Female","Other","Pass",71
+"243","23","CarletonUniversity","Agentic",69,"18","Sophomore","Female","African-American","Pass",68
+"244","25","CarletonUniversity","Agentic",59,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"245","26","CarletonUniversity","Communal",68,"17","First-year","Female","Other","Fail",77
+"249","3","CarletonUniversity","Agentic",77,"26","Junior","Female","Multiracial",NA,70
+"250","30","CarletonUniversity","Communal",64,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",79
+"252","32","CarletonUniversity","Communal",59,"19","Junior","Female","African-American","Pass",70
+"253","33","CarletonUniversity","Agentic",68,"18","Sophomore","Female","White, non-Hispanic or latino","Fail",69
+"254","34","CarletonUniversity","Communal",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",69
+"255","35","CarletonUniversity","Agentic",57,"18","Sophomore","Female","African-American","Pass",68
+"256","36","CarletonUniversity","Communal",71,"19","First-year","Male","White, non-Hispanic or latino","Pass",70
+"257","37","CarletonUniversity","Communal",59,"20","Sophomore","Female","Asian-American","Pass",69
+"258","38","CarletonUniversity","Communal",68,"22","First-year","Female","Multiracial","Fail",70
+"259","39","CarletonUniversity","Agentic",78,"20","Junior","Female","African-American","Pass",69
+"261","40","CarletonUniversity","Agentic",59,"21","Senior","Female","Multiracial","Pass",70
+"262","41","CarletonUniversity","Agentic",80,"22","Sophomore","Female","African-American","Fail",70
+"263","42","CarletonUniversity","Communal",68,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"265","44","CarletonUniversity","Communal",71,"18","Sophomore","Male","White, non-Hispanic or latino","Pass",79
+"266","45","CarletonUniversity","Communal",80,"27","Junior","Female","Other","Pass",71
+"267","46","CarletonUniversity","Communal",69,"19","First-year","Male","White, non-Hispanic or latino","Fail",71
+"270","7","CarletonUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"271","8","CarletonUniversity","Agentic",69,"17","First-year","Male","White, non-Hispanic or latino","Pass",67
+"272","9","CarletonUniversity","Agentic",66,"17","First-year","Female","White, non-Hispanic or latino","Pass",67
+"274",NA,"CarletonUniversity","Communal",68,NA,NA,NA,NA,NA,NA
+"275",NA,"CarletonUniversity","Agentic",68,NA,NA,NA,NA,NA,NA

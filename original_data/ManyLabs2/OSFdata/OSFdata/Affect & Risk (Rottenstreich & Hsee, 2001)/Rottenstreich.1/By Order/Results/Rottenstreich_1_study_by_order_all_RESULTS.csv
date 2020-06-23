@@ -1,0 +1,456 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:46:57.617348Z,5,Rottenstreich,1,,1,Order,Rottenstreich.1,555,292,263,Low.1,,292,131,0.498098859315589,0.236036036036036,Money,0.498098859315589,,,,,,,,,,,Low.2,,292,132,0.501901140684411,0.237837837837838,Money,0.501901140684411,,,,,,,,,,,Certain.1,,292,161,,0.551369863013699,0.29009009009009,MovieStar,0.551369863013699,,,,,,,,,,,Certain.2,,292,131,,0.448630136986301,0.236036036036036,Money,0.448630136986301,,,,,,,,,,,OR,0.80781914433014,,,,0.233426411484474,,0.5773,1.1404,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.2334
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5773 1.1404
+sample estimates:
+odds ratio 
+ 0.8078191 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            131    132
+Certain        161    131
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.80781914433014,0.5773,1.1404,584,292,292,-0.11766,0.00883,-0.3029,0.07243,45.31673,46.68461,-0.06631,0.21105,-0.11751,0.00881,-0.30251,0.07234,45.32274,46.68888,0.21105,-0.05873,0.00219,-0.14974,0.03619,0.15694,-0.0588,0.00172,-0.15088,0.03621,0.80782,0.5773,1.1404,0.21105,-0.21342,-0.54939,0.13138,0.21105,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,555,1,392,555,555,0,77.1171171171171,"Execution
+        illegal   legal 
+     10     290     255 ","SubjectPool
+     No Yes 
+  8 169 378 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     18                     330                     178                      29 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            334                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            176 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      461                                                                        94 ","analysis.type
+Order 
+  555 ","subset
+all 
+555 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:57.711816Z,5,Rottenstreich,1,,2,Order,Rottenstreich.1,541,272,269,Low.1,,272,114,0.423791821561338,0.210720887245841,MovieStar,0.423791821561338,,,,,,,,,,,Low.2,,272,155,0.576208178438662,0.286506469500924,Money,0.576208178438662,,,,,,,,,,,Certain.1,,272,140,,0.514705882352941,0.258780036968577,MovieStar,0.514705882352941,,,,,,,,,,,Certain.2,,272,132,,0.485294117647059,0.243992606284658,Money,0.485294117647059,,,,,,,,,,,OR,0.693943390595563,,,,0.0387022662070457,,0.4901,0.9767,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.0387
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.4901 0.9767
+sample estimates:
+odds ratio 
+ 0.6939434 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            114    155
+Certain        140    132
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.693943390595563,0.4901,0.9767,544,272,272,-0.20144,0.0091,-0.39318,-0.013,42.01787,44.33675,-0.11327,0.03519,-0.20116,0.00908,-0.39263,-0.01298,42.02878,44.34453,0.03519,-0.10021,0.00221,-0.1929,-0.0065,0.01971,-0.10055,0.00185,-0.19534,-0.0065,0.69394,0.4901,0.9767,0.03519,-0.36536,-0.71315,-0.02358,0.03519,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,541,1,384,541,541,0,69.8706099815157,"Execution
+        illegal   legal 
+     13     273     255 ","SubjectPool
+     No Yes 
+  7 220 314 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     294                     192                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            308                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            191 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      454                                                                        87 ","analysis.type
+Order 
+  541 ","subset
+all 
+541 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:57.820564Z,5,Rottenstreich,1,,3,Order,Rottenstreich.1,558,289,269,Low.1,,289,136,0.505576208178439,0.243727598566308,Money,0.505576208178439,,,,,,,,,,,Low.2,,289,133,0.494423791821561,0.238351254480287,Money,0.494423791821561,,,,,,,,,,,Certain.1,,289,153,,0.529411764705882,0.274193548387097,MovieStar,0.529411764705882,,,,,,,,,,,Certain.2,,289,136,,0.470588235294118,0.243727598566308,Money,0.470588235294118,,,,,,,,,,,OR,0.909095612206714,,,,0.611198734705399,,0.6477,1.2835,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.6112
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6477 1.2835
+sample estimates:
+odds ratio 
+ 0.9090956 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            136    133
+Certain        153    136
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.909095612206714,0.6477,1.2835,578,289,289,-0.05254,0.00874,-0.23946,0.13761,47.90475,48.51809,-0.02964,0.57435,-0.05248,0.00872,-0.23915,0.13743,47.90747,48.52002,0.57435,-0.02626,0.00218,-0.11888,0.06864,0.529,-0.02627,0.00174,-0.11944,0.06875,0.9091,0.6477,1.2835,0.57435,-0.09531,-0.43433,0.24959,0.57435,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,558,1,396,558,558,0,72.9390681003584,"Execution
+        illegal   legal 
+      8     294     256 ","SubjectPool
+     No Yes 
+ 15 216 327 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     35                     308                     189                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            332                                                              38 
+Unable to verify (completed online) but likely mostly computers 
+                                                            188 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      476                                                                        82 ","analysis.type
+Order 
+  558 ","subset
+all 
+558 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:57.919528Z,5,Rottenstreich,1,,4,Order,Rottenstreich.1,540,274,266,Low.1,,274,130,0.488721804511278,0.240740740740741,MovieStar,0.488721804511278,,,,,,,,,,,Low.2,,274,136,0.511278195488722,0.251851851851852,Money,0.511278195488722,,,,,,,,,,,Certain.1,,274,127,,0.463503649635037,0.235185185185185,MovieStar,0.463503649635037,,,,,,,,,,,Certain.2,,274,147,,0.536496350364963,0.272222222222222,Money,0.536496350364963,,,,,,,,,,,OR,1.10620637456528,,,,0.605209687881738,,0.7862,1.5588,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.6052
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.7862 1.5588
+sample estimates:
+odds ratio 
+  1.106206 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            130    136
+Certain        127    147
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,1.10620637456528,0.7862,1.5588,548,274,274,0.05565,0.00903,-0.13262,0.24474,52.21894,51.56943,0.03139,0.55847,0.05557,0.00901,-0.13244,0.24441,52.21589,51.56727,0.55847,0.02781,0.00225,-0.06616,0.12147,0.5163,0.02782,0.00183,-0.06626,0.12207,1.10621,0.7862,1.5588,0.55847,0.10094,-0.24054,0.44392,0.55847,,,,,,,,,,,,,,,,,,,,,,,,,61,61,70,30,58,15,540,1,388,540,540,0,71.2962962962963,"Execution
+        illegal   legal 
+     11     285     244 ","SubjectPool
+     No Yes 
+ 12 186 342 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     31                     315                     160                      34 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            328                                                              55 
+Unable to verify (completed online) but likely mostly computers 
+                                                            157 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      448                                                                        92 ","analysis.type
+Order 
+  540 ","subset
+all 
+540 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.055426Z,5,Rottenstreich,1,,5,Order,Rottenstreich.1,583,303,280,Low.1,,303,139,0.496428571428571,0.238421955403088,MovieStar,0.496428571428571,,,,,,,,,,,Low.2,,303,141,0.503571428571429,0.241852487135506,Money,0.503571428571429,,,,,,,,,,,Certain.1,,303,161,,0.531353135313531,0.276157804459691,MovieStar,0.531353135313531,,,,,,,,,,,Certain.2,,303,142,,0.468646864686469,0.243567753001715,Money,0.468646864686469,,,,,,,,,,,OR,0.869688498711311,,,,0.408070786802684,,0.6241,1.2096,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.4081
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6241 1.2096
+sample estimates:
+odds ratio 
+ 0.8696885 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            139    141
+Certain        161    142
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.869688498711311,0.6241,1.2096,606,303,303,-0.07698,0.00837,-0.25992,0.10491,46.93211,47.8296,-0.04341,0.4005,-0.07688,0.00835,-0.2596,0.10478,46.93591,47.83229,0.4005,-0.03846,0.00208,-0.12888,0.05238,0.34509,-0.03848,0.00166,-0.1296,0.05243,0.86969,0.6241,1.2096,0.4005,-0.13962,-0.47144,0.19029,0.4005,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,583,1,395,583,583,0,68.4391080617496,"Execution
+        illegal   legal 
+     11     273     299 ","SubjectPool
+     No Yes 
+  6 233 344 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     29                     326                     205                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            341                                                              39 
+Unable to verify (completed online) but likely mostly computers 
+                                                            203 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      477                                                                       106 ","analysis.type
+Order 
+  583 ","subset
+all 
+583 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.152556Z,5,Rottenstreich,1,,6,Order,Rottenstreich.1,490,243,247,Low.1,,243,113,0.45748987854251,0.230612244897959,MovieStar,0.45748987854251,,,,,,,,,,,Low.2,,243,134,0.54251012145749,0.273469387755102,Money,0.54251012145749,,,,,,,,,,,Certain.1,,243,118,,0.48559670781893,0.240816326530612,MovieStar,0.48559670781893,,,,,,,,,,,Certain.2,,243,125,,0.51440329218107,0.255102040816327,Money,0.51440329218107,,,,,,,,,,,OR,0.893516149703144,,,,0.587189107507746,,0.6221,1.2809,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.5872
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6221 1.2809
+sample estimates:
+odds ratio 
+ 0.8935161 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            113    134
+Certain        118    125
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.893516149703144,0.6221,1.2809,486,243,243,-0.06207,0.00997,-0.26169,0.13649,47.52517,48.24947,-0.03501,0.53436,-0.06198,0.00994,-0.26128,0.13628,47.529,48.25218,0.53436,-0.03102,0.00248,-0.12974,0.06809,0.49556,-0.03103,0.00207,-0.13047,0.06819,0.89352,0.6221,1.2809,0.53436,-0.11259,-0.47465,0.24756,0.53436,,,,,,,,,,,,,,,,,,,,,,,,,61,61,70,30,58,15,490,1,371,490,490,0,67.7551020408163,"Execution
+        illegal   legal 
+      1     247     242 ","SubjectPool
+     No Yes 
+  8 176 306 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     285                     158                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            293                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      426                                                                        64 ","analysis.type
+Order 
+  490 ","subset
+all 
+490 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.257164Z,5,Rottenstreich,1,,7,Order,Rottenstreich.1,561,292,269,Low.1,,292,125,0.464684014869888,0.222816399286988,MovieStar,0.464684014869888,,,,,,,,,,,Low.2,,292,144,0.535315985130112,0.25668449197861,Money,0.535315985130112,,,,,,,,,,,Certain.1,,292,150,,0.513698630136986,0.267379679144385,MovieStar,0.513698630136986,,,,,,,,,,,Certain.2,,292,142,,0.486301369863014,0.253119429590018,Money,0.486301369863014,,,,,,,,,,,OR,0.822052607128847,,,,0.271946453085905,,0.5871,1.158,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.2719
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5871 1.1580
+sample estimates:
+odds ratio 
+ 0.8220526 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            125    144
+Certain        150    142
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.822052607128847,0.5871,1.158,584,292,292,-0.10803,0.00871,-0.29362,0.08088,45.69846,46.9554,-0.06089,0.2475,-0.10789,0.00869,-0.29324,0.08077,45.70398,46.95931,0.2475,-0.05394,0.00216,-0.14525,0.04041,0.19364,-0.05399,0.00172,-0.14629,0.04043,0.82205,0.5871,1.158,0.2475,-0.19595,-0.53256,0.14669,0.2475,,,,,,,,,,,,,,,,,,,,,,,,,64,64,72,30,59,15,561,1,391,561,561,0,72.5490196078431,"Execution
+        illegal   legal 
+      9     278     274 ","SubjectPool
+     No Yes 
+  6 177 378 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     20                     362                     156                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            358                                                              48 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      458                                                                       103 ","analysis.type
+Order 
+  561 ","subset
+all 
+561 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.351559Z,5,Rottenstreich,1,,8,Order,Rottenstreich.1,532,302,230,Low.1,,302,107,0.465217391304348,0.201127819548872,MovieStar,0.465217391304348,,,,,,,,,,,Low.2,,302,123,0.534782608695652,0.231203007518797,Money,0.534782608695652,,,,,,,,,,,Certain.1,,302,149,,0.493377483443709,0.280075187969925,MovieStar,0.493377483443709,,,,,,,,,,,Certain.2,,302,153,,0.506622516556291,0.287593984962406,Money,0.506622516556291,,,,,,,,,,,OR,0.893463022616953,,,,0.540546977253409,,0.6263,1.2711,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.5405
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6263 1.2711
+sample estimates:
+odds ratio 
+  0.893463 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            107    123
+Certain        149    153
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.893463022616953,0.6263,1.2711,604,302,302,-0.06211,0.00934,-0.25798,0.13225,47.52387,48.24855,-0.03503,0.52067,-0.06203,0.00932,-0.25766,0.13209,47.52695,48.25073,0.52067,-0.03104,0.00233,-0.12793,0.06598,0.44685,-0.03105,0.00166,-0.12864,0.06608,0.89346,0.6263,1.2711,0.52067,-0.11265,-0.46793,0.23988,0.52067,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,532,1,375,532,532,0,71.6165413533835,"Execution
+        illegal   legal 
+      8     303     221 ","SubjectPool
+     No Yes 
+ 14 209 309 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     298                     177                      29 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            305                                                              50 
+Unable to verify (completed online) but likely mostly computers 
+                                                            177 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      463                                                                        69 ","analysis.type
+Order 
+  532 ","subset
+all 
+532 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.475374Z,5,Rottenstreich,1,,9,Order,Rottenstreich.1,545,277,268,Low.1,,277,136,0.507462686567164,0.24954128440367,MovieStar,0.507462686567164,,,,,,,,,,,Low.2,,277,132,0.492537313432836,0.242201834862385,Money,0.492537313432836,,,,,,,,,,,Certain.1,,277,148,,0.534296028880867,0.271559633027523,MovieStar,0.534296028880867,,,,,,,,,,,Certain.2,,277,129,,0.465703971119134,0.236697247706422,Money,0.465703971119134,,,,,,,,,,,OR,0.898213032706759,,,,0.549037128393421,,0.6395,1.2596,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.549
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6395 1.2596
+sample estimates:
+odds ratio 
+  0.898213 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            136    132
+Certain        148    129
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.898213032706759,0.6395,1.2596,554,277,277,-0.05918,0.00895,-0.24648,0.12724,47.64028,48.33094,-0.03338,0.53179,-0.0591,0.00892,-0.24615,0.12707,47.64348,48.3332,0.53179,-0.02958,0.00223,-0.12232,0.06349,0.48765,-0.02959,0.00181,-0.12293,0.06358,0.89821,0.6395,1.2596,0.53179,-0.10735,-0.44707,0.23079,0.53179,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,545,1,386,545,545,0,74.1284403669725,"Execution
+        illegal   legal 
+     12     256     277 ","SubjectPool
+     No Yes 
+ 11 188 346 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     20                     331                     166                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            335                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            164 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      442                                                                       103 ","analysis.type
+Order 
+  545 ","subset
+all 
+545 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.580234Z,5,Rottenstreich,1,,10,Order,Rottenstreich.1,558,283,275,Low.1,,283,133,0.483636363636364,0.238351254480287,Money,0.483636363636364,,,,,,,,,,,Low.2,,283,142,0.516363636363636,0.254480286738351,Money,0.516363636363636,,,,,,,,,,,Certain.1,,283,150,,0.530035335689046,0.268817204301075,MovieStar,0.530035335689046,,,,,,,,,,,Certain.2,,283,133,,0.469964664310954,0.238351254480287,Money,0.469964664310954,,,,,,,,,,,OR,0.830751410533007,,,,0.309533702077965,,0.5945,1.1718,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.3095
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5945 1.1718
+sample estimates:
+odds ratio 
+ 0.8307514 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            133    142
+Certain        150    133
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.830751410533007,0.5945,1.1718,566,283,283,-0.10223,0.00874,-0.28671,0.08741,45.92871,47.11866,-0.05763,0.27458,-0.10209,0.00871,-0.28633,0.08729,45.9341,47.12248,0.27458,-0.05105,0.00217,-0.1419,0.04366,0.2259,-0.05109,0.00178,-0.14287,0.04369,0.83075,0.5945,1.1718,0.27458,-0.18542,-0.52003,0.15854,0.27458,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,558,1,397,558,558,0,73.1182795698925,"Execution
+        illegal   legal 
+     12     297     249 ","SubjectPool
+     No Yes 
+ 10 196 352 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     31                     323                     180                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            334                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            178 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      470                                                                        88 ","analysis.type
+Order 
+  558 ","subset
+all 
+558 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.676584Z,5,Rottenstreich,1,,11,Order,Rottenstreich.1,544,284,260,Low.1,,284,124,0.476923076923077,0.227941176470588,MovieStar,0.476923076923077,,,,,,,,,,,Low.2,,284,136,0.523076923076923,0.25,Money,0.523076923076923,,,,,,,,,,,Certain.1,,284,150,,0.528169014084507,0.275735294117647,MovieStar,0.528169014084507,,,,,,,,,,,Certain.2,,284,134,,0.471830985915493,0.246323529411765,Money,0.471830985915493,,,,,,,,,,,OR,0.814823599390212,,,,0.264479707701042,,0.5789,1.1432,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.2645
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5789 1.1432
+sample estimates:
+odds ratio 
+ 0.8148236 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            124    136
+Certain        150    134
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.814823599390212,0.5789,1.1432,568,284,284,-0.1129,0.00898,-0.30137,0.07379,45.50537,46.81844,-0.06363,0.23401,-0.11275,0.00896,-0.30097,0.07369,45.5113,46.82265,0.23401,-0.05636,0.00222,-0.149,0.03687,0.18042,-0.05642,0.00177,-0.15012,0.03688,0.81482,0.5789,1.1432,0.23401,-0.20478,-0.54663,0.13383,0.23401,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,544,1,390,544,544,0,73.3455882352941,"Execution
+        illegal   legal 
+      4     250     290 ","SubjectPool
+     No Yes 
+  7 169 368 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     354                     134                      31 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            366                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            133 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      434                                                                       110 ","analysis.type
+Order 
+  544 ","subset
+all 
+544 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.773394Z,5,Rottenstreich,1,,12,Order,Rottenstreich.1,542,273,269,Low.1,,273,116,0.431226765799256,0.214022140221402,MovieStar,0.431226765799256,,,,,,,,,,,Low.2,,273,153,0.568773234200744,0.282287822878229,Money,0.568773234200744,,,,,,,,,,,Certain.1,,273,130,,0.476190476190476,0.239852398523985,MovieStar,0.476190476190476,,,,,,,,,,,Certain.2,,273,143,,0.523809523809524,0.263837638376384,Money,0.523809523809524,,,,,,,,,,,OR,0.834270974514301,,,,0.301706169105041,,0.5907,1.1746,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.3017
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.5907 1.1746
+sample estimates:
+odds ratio 
+  0.834271 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            116    153
+Certain        130    143
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.834270974514301,0.5907,1.1746,546,273,273,-0.0999,0.00907,-0.29025,0.08872,46.02122,47.18424,-0.05632,0.29469,-0.09976,0.00905,-0.28985,0.0886,46.02669,47.18812,0.29469,-0.04989,0.00225,-0.14362,0.04432,0.24515,-0.04993,0.00184,-0.14462,0.04435,0.83427,0.5907,1.1746,0.29469,-0.1812,-0.52645,0.16093,0.29469,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,542,1,402,542,542,0,72.140221402214,"Execution
+        illegal   legal 
+     14     291     237 ","SubjectPool
+     No Yes 
+  1 195 346 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     339                     160                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              37 
+Unable to verify (completed online) but likely mostly computers 
+                                                            160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      452                                                                        90 ","analysis.type
+Order 
+  542 ","subset
+all 
+542 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:58.914515Z,5,Rottenstreich,1,,13,Order,Rottenstreich.1,662,336,326,Low.1,,336,141,0.432515337423313,0.212990936555891,MovieStar,0.432515337423313,,,,,,,,,,,Low.2,,336,185,0.567484662576687,0.279456193353474,Money,0.567484662576687,,,,,,,,,,,Certain.1,,336,150,,0.446428571428571,0.226586102719033,MovieStar,0.446428571428571,,,,,,,,,,,Certain.2,,336,186,,0.553571428571429,0.280966767371601,Money,0.553571428571429,,,,,,,,,,,OR,0.945183453391733,,,,0.75422723459291,,0.6949,1.2902,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  Condition and Response
+p-value = 0.7542
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.6949 1.2902
+sample estimates:
+odds ratio 
+ 0.9451835 
+",,,,"
+
+=======  =========  =====
+\        MovieStar  Money
+=======  =========  =====
+Low            141    185
+Certain        150    186
+=======  =========  =====",,,,,,,,,,,,,,,,,,,,,,0.945183453391733,0.6949,1.2902,672,336,336,-0.03108,0.00746,-0.20068,0.14048,48.76021,49.12327,-0.01753,0.71905,-0.03105,0.00744,-0.20045,0.14032,48.7616,49.12425,0.71905,-0.01554,0.00186,-0.09984,0.07007,0.68785,-0.01554,0.00149,-0.10017,0.07018,0.94518,0.6949,1.2902,0.71905,-0.05638,-0.36399,0.2548,0.71905,,,,,,,,,,,,,,,,,,,,,,,,,60,60,70,28,57,15,526,1,380,662,662,0,56.797583081571,"Execution
+        illegal   legal 
+      6     286     370 ","SubjectPool
+     No Yes 
+  8 329 325 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     27                     303                     304                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            320                                                              38 
+Unable to verify (completed online) but likely mostly computers 
+                                                            304 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      591                                                                        71 ","analysis.type
+Order 
+  662 ","subset
+all 
+662 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,54 @@
+"","Participant_ID","referrer","SRCondition","SRMeetingResponse","SRTFCorrect","age","year","Genderfactor","ethnicity","AttentionCheck"
+"2179","1","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"2180","10","PennStateAbington","object-centric","Ego-Inconsistent","Yes","18","First-year","Male","White, non-Hispanic or latino","Pass"
+"2187","106","PennStateAbington","object-centric","Ego-Inconsistent","Yes","19","First-year","Female","White, non-Hispanic or latino","Pass"
+"2192","110","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2193","111","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Male","White, non-Hispanic or latino","Pass"
+"2194","112","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Fail"
+"2195","113","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","Other","Fail"
+"2198","116","PennStateAbington","ego-centric","Ego-Inconsistent","Yes","21","Junior","Female","African-American","Fail"
+"2205","13","PennStateAbington","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2206","14","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2207","15","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","African-American","Pass"
+"2208","16","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"2210","19","PennStateAbington","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2212","20","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2213","21","PennStateAbington","object-centric","Ego-Inconsistent","Yes","18","First-year","Male","Multiracial","Pass"
+"2214","22","PennStateAbington","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2217","25","PennStateAbington","ego-centric","Ego-Consistent","Yes","21","Junior","Female","White, non-Hispanic or latino","Fail"
+"2218","26","PennStateAbington","ego-centric","Ego-Consistent","Yes","21","Senior","Female","Multiracial","Pass"
+"2219","27","PennStateAbington","object-centric","Ego-Inconsistent","Yes","17","First-year","Female","White, non-Hispanic or latino","Fail"
+"2222","3","PennStateAbington","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2224","31","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2225","32","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2226","33","PennStateAbington","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2227","34","PennStateAbington","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2230","37","PennStateAbington","ego-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","Asian-American","Pass"
+"2231","38","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2233","4","PennStateAbington","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2238","44","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"2240","46","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","African-American","Fail"
+"2243","49","PennStateAbington","ego-centric","Ego-Consistent","Yes","21","Junior","Female","Multiracial","Pass"
+"2245","50","PennStateAbington","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2250","55","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Male","Latino or Hispanic","Fail"
+"2257","61","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Multiracial","Pass"
+"2258","62","PennStateAbington","ego-centric","Ego-Consistent","Yes","20","Sophomore","Female","White, non-Hispanic or latino","Fail"
+"2259","63","PennStateAbington","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2260","64","PennStateAbington","object-centric","Ego-Consistent","Yes","44","Other","Male","White, non-Hispanic or latino","Pass"
+"2263","67","PennStateAbington","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Latino or Hispanic","Fail"
+"2265","69","PennStateAbington","object-centric","Ego-Consistent","Yes","20","Sophomore","Female","Asian-American","Fail"
+"2267","70","PennStateAbington","object-centric","Ego-Consistent","Yes","21","Senior",NA,"Other","Pass"
+"2270","73","PennStateAbington","ego-centric","Ego-Consistent","Yes","19","First-year","Male","African-American",NA
+"2271","74","PennStateAbington","ego-centric","Ego-Inconsistent","Yes","20","Sophomore","Female","Native Hawaiian and other Pacific Islander","Pass"
+"2272","75","PennStateAbington","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"2276","79","PennStateAbington","ego-centric","Ego-Consistent","Yes","20","Junior","Male","Latino or Hispanic","Pass"
+"2277","8","PennStateAbington","ego-centric","Ego-Consistent","Yes","19","Sophomore","Female","White, non-Hispanic or latino","Pass"
+"2278","80","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2279","81","PennStateAbington","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"2283","85","PennStateAbington","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","African-American","Fail"
+"2284","86","PennStateAbington","object-centric","Ego-Consistent","Yes","19","First-year","Male","White, non-Hispanic or latino","Pass"
+"2289","90","PennStateAbington","ego-centric","Ego-Consistent","Yes","19","First-year","Male","African-American","Fail"
+"2291","91","PennStateAbington","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2292","92","PennStateAbington","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"2298","97","PennStateAbington","ego-centric","Ego-Consistent","Yes","30","First-year","Female","White, non-Hispanic or latino","Pass"
+"2300","99","PennStateAbington","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","Other","Fail"

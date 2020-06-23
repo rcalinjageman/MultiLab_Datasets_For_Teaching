@@ -1,0 +1,197 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZHONG.3~~~~~~~
+	# 67 Zhong.3 - START
+
+	# 
+	# 67 Zhong.3 - amity: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - amityon: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - armstrong: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - aus2: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - badaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 67 Zhong.3 - badaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - bogota not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - brookcuny: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - brookcuny >> ES r is close to 0:  0.04
+	# 
+	# 67 Zhong.3 - carleton: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - carleton >> ES r is close to 0:  0.03
+	# 
+	# 67 Zhong.3 - cas: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - cas >> ES r is close to 0:  -0.03
+	# 
+	# 67 Zhong.3 - csunorthonline: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - csunorthonline >> ES r is close to 0:  0.02
+	# 
+	# 67 Zhong.3 - fmkbelgrade: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - georgefox: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - grazvienna: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - hawaiion: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - help: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - help >> ES r is close to 0:  -0.01
+	# 
+	# 67 Zhong.3 - isb: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - isb >> ES r is close to 0:  -0.04
+	# 
+	# 67 Zhong.3 - jmu: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - kenyon: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - kenyon >> ES r is close to 0:  -0.01
+	# 
+	# 67 Zhong.3 - krakowon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 67 Zhong.3 - krakowon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - kwazulu: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - louvain: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - loyola: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - lse: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - mcdanielonline: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - metu: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - moralsense: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - moralsense >> ES r is close to 0:  0
+	# 
+	# 67 Zhong.3 - mturk: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - mturk_india: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - mturk_india >> ES r is close to 0:  0.02
+	# 
+	# 67 Zhong.3 - munich: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - munichon: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - munichon >> ES r is close to 0:  0.03
+	# 
+	# 67 Zhong.3 - northumbria: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - osnabruck: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - padua: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - pascal: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - pascal >> ES r is close to 0:  0.01
+	# 
+	# 67 Zhong.3 - psualtoona: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - psualtoona >> ES r is close to 0:  0.02
+	# 
+	# 67 Zhong.3 - puc: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - puc >> ES r is close to 0:  -0.03
+	# 
+	# 67 Zhong.3 - queensland2: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - queensland2 >> ES r is close to 0:  0.05
+	# 
+	# 67 Zhong.3 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - ritonline: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - rotterdam: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - rotterdam >> ES r is close to 0:  0.04
+	# 
+	# 67 Zhong.3 - salford: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - salford >> ES r is close to 0:  -0.04
+	# 
+	# 67 Zhong.3 - seznam: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - seznam >> ES r is close to 0:  0.04
+	# 
+	# 67 Zhong.3 - seznamon: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - seznamon >> ES r is close to 0:  0
+	# 
+	# 67 Zhong.3 - simmons: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - simmons >> ES r is close to 0:  0
+	# 
+	# 67 Zhong.3 - swps not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 67 Zhong.3 - swps not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - tamu: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - tamucc: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 67 Zhong.3 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 67 Zhong.3 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 67 Zhong.3 - tilburg: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - tilburgcaf >> ES r is close to 0:  -0.03
+	# 
+	# 67 Zhong.3 - ulatina: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - ulatina >> ES r is close to 0:  -0.01
+	# 
+	# 67 Zhong.3 - umich: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - umich >> ES r is close to 0:  0
+	# 
+	# 67 Zhong.3 - uned: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - uned >> ES r is close to 0:  -0.02
+	# 
+	# 67 Zhong.3 - unswonline: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - vcu: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - vuw: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - vuw >> ES r is close to 0:  -0.01
+	# 
+	# 67 Zhong.3 - westernkentucky: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - westernkentucky >> ES r is close to 0:  0.03
+	# 
+	# 67 Zhong.3 - yale: var.equal set to: TRUE
+	# 
+	# 67 Zhong.3 - yale >> ES r is close to 0:  0
+	# 
+	# 67 Zhong.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

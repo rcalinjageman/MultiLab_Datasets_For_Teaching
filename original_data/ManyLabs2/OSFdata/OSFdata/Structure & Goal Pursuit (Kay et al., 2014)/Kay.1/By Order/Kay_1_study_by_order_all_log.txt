@@ -1,0 +1,63 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~KAY.1~~~~~~
+	# 7 Kay.1 - START
+
+	# 
+	# 7 Kay.1 - 1: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 1 >> ES r is close to 0:  0
+	# 
+	# 7 Kay.1 - 2: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 2 >> ES r is close to 0:  -0.03
+	# 
+	# 7 Kay.1 - 3: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 3 >> ES r is close to 0:  -0.02
+	# 
+	# 7 Kay.1 - 4: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 4 >> ES r is close to 0:  0.03
+	# 
+	# 7 Kay.1 - 5: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 5 >> ES r is close to 0:  0
+	# 
+	# 7 Kay.1 - 6: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 6 >> ES r is close to 0:  -0.04
+	# 
+	# 7 Kay.1 - 7: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 7 >> ES r is close to 0:  0.01
+	# 
+	# 7 Kay.1 - 8: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 8 >> ES r is close to 0:  -0.01
+	# 
+	# 7 Kay.1 - 9: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 9 >> ES r is close to 0:  0.01
+	# 
+	# 7 Kay.1 - 10: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 11: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 11 >> ES r is close to 0:  -0.05
+	# 
+	# 7 Kay.1 - 12: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 12 >> ES r is close to 0:  -0.02
+	# 
+	# 7 Kay.1 - 13: var.equal set to: TRUE
+	# 
+	# 7 Kay.1 - 13 >> ES r is close to 0:  0.05
+	# 
+	# 7 Kay.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~

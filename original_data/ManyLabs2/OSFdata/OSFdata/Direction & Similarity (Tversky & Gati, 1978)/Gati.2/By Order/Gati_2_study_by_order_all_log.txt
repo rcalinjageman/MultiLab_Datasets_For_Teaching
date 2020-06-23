@@ -1,0 +1,133 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.2~~~~~~~
+	# 83 Gati.2 - START
+
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 1 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 1 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 2 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 2 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 3 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 3 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 4 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 4 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 5 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 5 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 6 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 6 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 7 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 7 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 8 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 8 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 9 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 9 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 10 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 10 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 11 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 11 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 12 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 12 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 13 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 13 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 14 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 14 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 83 Gati.2 - 15 >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 83 Gati.2 - 15 not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 83 Gati.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

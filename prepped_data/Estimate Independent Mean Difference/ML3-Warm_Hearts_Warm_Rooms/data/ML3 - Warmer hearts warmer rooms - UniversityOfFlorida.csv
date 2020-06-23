@@ -1,0 +1,133 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"3078","1","UniversityOfFlorida","Communal",75,"19","Sophomore","Female","Asian-American","Pass",73
+"3080","100","UniversityOfFlorida","Agentic",79,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"3081","101","UniversityOfFlorida","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3082","102","UniversityOfFlorida","Communal",75,"18","First-year","Female","Asian-American","Pass",72
+"3083","103","UniversityOfFlorida","Communal",77,"19","First-year","Male","Asian-American","Fail",72
+"3084","104","UniversityOfFlorida","Communal",78,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"3085","105","UniversityOfFlorida","Agentic",72,"18","First-year","Male","Asian-American","Pass",72
+"3086","106","UniversityOfFlorida","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3087","107","UniversityOfFlorida","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3088","108","UniversityOfFlorida","Communal",70,"18","First-year","Male","Latino or Hispanic","Fail",72
+"3089","109","UniversityOfFlorida","Communal",72,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3090","11","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3091","110","UniversityOfFlorida","Communal",75,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3092","111","UniversityOfFlorida","Communal",70,"20","Junior","Male","African-American","Fail",72
+"3093","112","UniversityOfFlorida","Agentic",70,"19","Sophomore","Male","Latino or Hispanic","Pass",72
+"3094","113","UniversityOfFlorida","Agentic",78,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3095","114","UniversityOfFlorida","Agentic",72,"20","Sophomore","Female","African-American","Fail",73
+"3096","115","UniversityOfFlorida","Communal",72,"19","Sophomore","Female","Multiracial","Pass",73
+"3097","116","UniversityOfFlorida","Agentic",72,"18","First-year","Female","Latino or Hispanic","Pass",73
+"3098","117","UniversityOfFlorida","Communal",74,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"3099","118","UniversityOfFlorida","Agentic",80,"22","Senior","Male","African-American","Pass",73
+"3100","119","UniversityOfFlorida","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",74
+"3101","12","UniversityOfFlorida","Communal",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3102","120","UniversityOfFlorida","Agentic",76,"19","Junior","Female","White, non-Hispanic or latino","Pass",74
+"3104","122","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"3105","123","UniversityOfFlorida","Agentic",69,"18","First-year","Male","White, non-Hispanic or latino","Pass",74
+"3106","124","UniversityOfFlorida","Agentic",76,"18","First-year","Male","Latino or Hispanic","Fail",74
+"3107","125","UniversityOfFlorida","Communal",75,"21","Junior","Male","Latino or Hispanic","Pass",74
+"3108","126","UniversityOfFlorida","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"3109","127","UniversityOfFlorida","Communal",62,"18","First-year","Male","White, non-Hispanic or latino","Fail",74
+"3110","128","UniversityOfFlorida","Communal",78,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",74
+"3111","129","UniversityOfFlorida","Communal",75,"18","First-year","Female","Latino or Hispanic","Pass",75
+"3113","130","UniversityOfFlorida","Communal",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",75
+"3114","131","UniversityOfFlorida","Agentic",75,"20","Junior","Male","White, non-Hispanic or latino","Pass",75
+"3115","132","UniversityOfFlorida","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3116","133","UniversityOfFlorida","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3117","134","UniversityOfFlorida","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",75
+"3118","135","UniversityOfFlorida","Communal",76,"19","First-year","Female","White, non-Hispanic or latino","Pass",75
+"3119","136","UniversityOfFlorida","Communal",75,"20","Sophomore","Male","Asian-American","Fail",75
+"3120","137","UniversityOfFlorida","Communal",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",75
+"3121","14","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3122","15","UniversityOfFlorida","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3123","16","UniversityOfFlorida","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3124","17","UniversityOfFlorida","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3125","18","UniversityOfFlorida","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3126","19","UniversityOfFlorida","Agentic",75,"18","First-year","Female","African-American","Pass",72
+"3127","2","UniversityOfFlorida","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"3128","20","UniversityOfFlorida","Communal",72,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3129","21","UniversityOfFlorida","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3130","22","UniversityOfFlorida","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"3131","23","UniversityOfFlorida","Communal",70,"18","First-year","Male","African-American","Pass",72
+"3132","24","UniversityOfFlorida","Communal",72,"19","First-year","Female","Asian-American","Pass",72
+"3133","25","UniversityOfFlorida","Communal",74,"18","First-year","Female","Latino or Hispanic","Fail",72
+"3134","26","UniversityOfFlorida","Communal",73,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"3135","27","UniversityOfFlorida","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3136","28","UniversityOfFlorida","Agentic",75,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3137","29","UniversityOfFlorida","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3138","3","UniversityOfFlorida","Agentic",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"3139","30","UniversityOfFlorida","Communal",75,"18","First-year","Female","Latino or Hispanic","Fail",72
+"3140","31","UniversityOfFlorida","Agentic",74,"21","Junior","Female","White, non-Hispanic or latino","Pass",72
+"3141","32","UniversityOfFlorida","Agentic",74,"19","Sophomore","Female","Latino or Hispanic","Pass",72
+"3142","33","UniversityOfFlorida","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3143","34","UniversityOfFlorida","Communal",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3144","35","UniversityOfFlorida","Communal",77,"20","Junior","Male","Latino or Hispanic","Pass",73
+"3145","36","UniversityOfFlorida","Agentic",80,"18","First-year","Female","Asian-American","Pass",73
+"3146","37","UniversityOfFlorida","Communal",76,"20","Junior","Female","Asian-American","Pass",73
+"3147","38","UniversityOfFlorida","Agentic",65,"21","Junior","Female","Latino or Hispanic","Pass",73
+"3148","39","UniversityOfFlorida","Agentic",72,"18","First-year","Female","Asian-American","Fail",73
+"3149","4","UniversityOfFlorida","Agentic",78,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"3152","42","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"3153","43","UniversityOfFlorida","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"3154","44","UniversityOfFlorida","Communal",73,"18","First-year","Female","Latino or Hispanic","Fail",73
+"3155","45","UniversityOfFlorida","Communal",77,"18","First-year","Female","Asian-American","Pass",73
+"3156","46","UniversityOfFlorida","Agentic",75,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3157","47","UniversityOfFlorida","Communal",77,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"3158","48","UniversityOfFlorida","Communal",75,"19","Sophomore","Female","Asian-American","Pass",73
+"3159","49","UniversityOfFlorida","Agentic",75,"18","First-year","Female","African-American","Pass",73
+"3160","5","UniversityOfFlorida","Communal",70,"19","Sophomore","Female","Latino or Hispanic","Pass",73
+"3162","51","UniversityOfFlorida","Communal",70,"18","First-year","Male","African-American","Fail",72
+"3163","52","UniversityOfFlorida","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"3164","53","UniversityOfFlorida","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3165","54","UniversityOfFlorida","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"3166","55","UniversityOfFlorida","Agentic",74,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3167","56","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"3168","57","UniversityOfFlorida","Communal",79,"19","First-year","Female","White, non-Hispanic or latino","Fail",73
+"3169","58","UniversityOfFlorida","Agentic",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3170","59","UniversityOfFlorida","Communal",75,"18","First-year","Female","Asian-American","Pass",73
+"3171","6","UniversityOfFlorida","Agentic",72,"18","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"3172","60","UniversityOfFlorida","Agentic",75,"19","First-year","Female","Other","Fail",73
+"3173","61","UniversityOfFlorida","Agentic",78,"20","Sophomore","Female","Asian-American","Fail",73
+"3174","62","UniversityOfFlorida","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3175","63","UniversityOfFlorida","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"3176","64","UniversityOfFlorida","Agentic",70,"18","First-year","Female","African-American","Pass",73
+"3177","65","UniversityOfFlorida","Communal",75,"18","First-year","Female","Asian-American","Fail",73
+"3178","66","UniversityOfFlorida","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3181","69","UniversityOfFlorida","Communal",77,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"3182","7","UniversityOfFlorida","Agentic",75,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3183","70","UniversityOfFlorida","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3184","71","UniversityOfFlorida","Agentic",80,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"3185","72","UniversityOfFlorida","Communal",78,"20","Junior","Female","Asian-American","Fail",73
+"3186","73","UniversityOfFlorida","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"3187","74","UniversityOfFlorida","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"3189","76","UniversityOfFlorida","Communal",70,"18","First-year","Male","African-American","Pass",72
+"3190","77","UniversityOfFlorida","Agentic",73,"18","Sophomore","Female","African-American","Pass",72
+"3191","78","UniversityOfFlorida","Agentic",80,"18","First-year","Female","African-American","Pass",72
+"3192","79","UniversityOfFlorida","Communal",72,"26","Junior","Female","White, non-Hispanic or latino","Fail",72
+"3194","80","UniversityOfFlorida","Agentic",75,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3195","81","UniversityOfFlorida","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3196","82","UniversityOfFlorida","Communal",70,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"3197","83","UniversityOfFlorida","Communal",70,"21","Junior","Male","Latino or Hispanic","Pass",72
+"3198","84","UniversityOfFlorida","Communal",80,"18","First-year","Male","Multiracial","Fail",72
+"3199","85","UniversityOfFlorida","Agentic",76,"19","First-year","Female","African-American","Pass",72
+"3200","86","UniversityOfFlorida","Agentic",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3201","87","UniversityOfFlorida","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3202","88","UniversityOfFlorida","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3203","89","UniversityOfFlorida","Communal",70,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",72
+"3205","90","UniversityOfFlorida","Communal",78,"18","Other","Female","Multiracial","Pass",72
+"3206","91","UniversityOfFlorida","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3207","92","UniversityOfFlorida","Agentic",70,"19","Sophomore","Female","African-American","Fail",72
+"3209","94","UniversityOfFlorida","Communal",68,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3210","95","UniversityOfFlorida","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",72
+"3211","96","UniversityOfFlorida","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",72
+"3212","97","UniversityOfFlorida","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",72
+"3213","98","UniversityOfFlorida","Communal",76,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"3214","99","UniversityOfFlorida","Communal",78,"24","Junior","Male","Latino or Hispanic","Pass",72
+"3216",NA,"UniversityOfFlorida","Communal",74,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"3217",NA,"UniversityOfFlorida","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"3218",NA,"UniversityOfFlorida","Communal",70,"18","First-year","Female","Asian-American","Pass",NA
+"3219",NA,"UniversityOfFlorida","Communal",70,"18","First-year","Male","African-American","Fail",NA
+"3221",NA,"UniversityOfFlorida","Agentic",75,"19","First-year","Female","African-American","Fail",NA
+"3222",NA,"UniversityOfFlorida","Communal",78,"18","First-year","Female","Asian-American","Pass",NA
+"3223",NA,"UniversityOfFlorida","Agentic",72,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,485 @@
+White/(AfricanAmerican+AsianAmerican+Latino+White+Other)
+AfricanAmerican/(AfricanAmerican+AsianAmerican+Latino+White+Other)
+AsianAmerican/(AfricanAmerican+AsianAmerican+Latino+White+Other)
+Latino/(AfricanAmerican+AsianAmerican+Latino+White+Other)
+Other/(AfricanAmerican+AsianAmerican+Latino+White+Other)
+53.7+9.4+16+10.6+10.3
+setwd("Users/Charlie/Desktop")
+setwd("/Users/Charlie/Desktop")
+Selin1<-read.csv(file="selin daily.csv",header=TRUE)
+head(Selin1)
+Selin2<-read.csv(file="selin daily.csv",header=TRUE)
+head(Selin2)
+require(lme4)
+require(dplyr)
+Selin<-cbind(Selin1,Selin2)
+by(Selin1,Selin[,"id"],function(x) lm(mean_lif_s,data=x) )
+by(Selin1,Selin[,"id"],function(x) lm(mean_life_s,data=x) )
+by(Selin1,Selin[,"id"],function(x) lm(mean_lif,data=x) )
+str(Selin1)
+by(Selin1,Selin[,"id"],function(x) lm(mean_lif~health_s,data=x) )
+Selin.lmer<-lmer(mean_lif~health_s+(1+health_s|id),data=Selin1)
+coef(Selin.lmer)
+Selin.lmer<-lmer(daywell~health_s+(1+health_s|id),data=Selin1)
+coef(Selin.lmer)
+by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) )
+Selin.lmer<-lmer(daywell~health_s+(1+health_s|id),data=Selin1)
+coef(Selin.lmer)
+by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) )
+Co<-as.data.frame(by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) ))
+Co<-as.list(by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) ))
+co
+Co
+str(Co)
+(by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) )[2])
+by((Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) )[2])
+by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x) )
+by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x)[2] )
+Co>-by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x)[2] )
+Co<-by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x)[2] )
+write.csv(Co,file="co.csv",row.names=FALSE)
+Co<-as.table(Co)
+Co<-by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x)[2] )
+as.table(Co)
+B<-as.vector(Co)
+B
+Co<-by(Selin1,Selin[,"id"],function(x) lm(daywell~health_s,data=x)[2] )
+Co
+S3<-read.csv(file="selin daily level 21.csv",header=TRUE)
+head(S3)
+require(foreign)
+Uncond<-lmer(daywell~1+(1|id),data=Selin1)
+summary(Uncond)
+0.4014/(0.4014+ 0.9151)
+Uncond<-lmer(daywell~health_s+(1|id),data=Selin1)
+summary(Uncond)
+Uncond<-lmer(daywell~1+(1|id),data=Selin1)
+Health<-lmer(daywell~health_s+(1|id),data=Selin1)
+.9395-.883
+(.9395-.883)/.9395
+.14/.48
+setwd("/Users/Charlie/Desktop/ML3 Final Data")#
+ML3<-read.csv(file="ML3AllSitesandmTurk.csv",header=TRUE,stringsAsFactors=FALSE)#
+head(ML3)
+str(ML3$Site)#
+ML3$Site<-as.factor(ML3$Site)#
+Participants<-subset(ML3,ML3$Participant_ID!="NA")#
+summary(Participants$Site)#
+length(Participants$Site)#
+list(Participants$Participant_ID)#
+Comp<-subset(ML3,ML3$session_id!="NA")
+Samples<-c(86,120,93,97,321,129,134,158,106,121,143,181,120,248,138,89,85,198,96,45)
+Samples
+sum(Samples)
+MichSt<-subset(Pool,Site=="MichiganState")
+Pool<-subset(ML3,ML3$Site!="mTurk")
+MichSt<-subset(Pool,Site=="MichiganState")
+summary(MichSt$gender)
+str(MichSt$gender)
+MichSt<-subset(Pool,Site=="MichiganState")
+head(MichSt)
+MichSt<-subset(Pool,Site=="MichiganStateUniversity")
+head(MichSt)
+str(MichSt$gender)
+summary(MichSt$gender)
+MichSt$gender<-as.factor(MichSt$gender)
+summary(MichSt$gender)
+245/(245+67+1)
+67/(245+67+1)
+mean(MichSt$age,na.rm=TRUE)
+str(MichSt$age)
+MichSt$age<-as.numeric(MichSt$age)
+mean(MichSt$age,na.rm=TRUE)
+min(MichSt$age,na.rm=TRUE)
+max(MichSt$age,na.rm=TRUE)
+MichSt$ethnicity<-as.factor(MichSt$ethnicity)
+summary(MichSt$ethnicity)
+17/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+25/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+1/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+6/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+1/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+221/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+9/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+(1+1+21+2+1+2+1+1+1+1)/(17+25+1+6+1+221+9+1+1+21+2+1+2+1+1+1+1)
+StroopMeta<-read.csv(file="Stroop.csv",header=TRUE)
+setwd("/Users/Charlie/Desktop/ML3 Meta")
+StroopMeta<-read.csv(file="Stroop.csv",header=TRUE)
+head(StroopMeta)
+Model<-escalc(ri=r,ni=N,data=StroopMeta,measure="COR",vtype="UB")
+Model
+require(metafor)
+StroopMeta<-read.csv(file="Stroop.csv",header=TRUE)
+head(StroopMeta)
+Model<-escalc(ri=r,ni=N,data=StroopMeta,measure="COR",vtype="UB")
+Model
+Model2<-rma.uni(yi,vi,data=Model)
+summary(Model2)
+setwd("/Users/Charlie/Desktop/ML3 Meta")
+PPMeta<-read.csv(file="PowerPerspective.csv",header=TRUE)
+head(PPMeta)
+Model<-escalc(n1i=Nhigh,n2i=Nlow,m1i=Mhigh,m2i=Mlow,sd1i=SDHigh,sd2i=SDLow,data=PPMeta,measure="SMD")
+Model
+Model2<-rma.uni(yi,vi,data=Model)
+summary(Model2)
+WEMeta<-read.csv(file="WeightEmbodiment.csv",header=TRUE)
+head(WEMeta)
+Model<-escalc(n1i=NHeavy,n2i=NLight,m1i=MHeavy,m2i=MLight,sd1i=SDHeavy,sd2i=SDLight,data=WEMeta,measure="SMD")
+Model
+Model2<-rma.uni(yi,vi,data=Model)
+summary(Model2)
+WPMeta<-read.csv(file="WarmthPerceptions.csv",header=TRUE)
+head(WPMeta)
+Model<-escalc(n1i=NAgentic,n2i=Ncommunal,m1i=MAgentic,m2i=MCommunal,sd1i=SDAgentic,sd2i=SDCommunal,data=WPMeta,measure="SMD")
+Model
+Model2<-rma.uni(yi,vi,data=Model)
+summary(Model2)
+AVMeta<-read.csv(file="Availability.csv",header=TRUE)#
+head(AVMeta)#
+Model<-escalc(ri=r,ni=N,data=AVMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MRMeta<-read.csv(file="Metaphor.csv",header=TRUE)#
+head(MRMeta)#
+Model<-escalc(ri=r,ni=N,data=MRMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+###Conscientiousness and Persistence#
+CPMeta<-read.csv(file="ConscientiousnessPersistence.csv",header=TRUE)#
+head(CPMeta)#
+#Interaction#
+Model<-escalc(ri=r,ni=N,data= CPMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+#Interaction#
+Model<-escalc(ri=rInter,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+Model<-escalc(ri=rMain,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+SDMeta<-read.csv(file="SubjectiveDistance.csv",header=TRUE)#
+head(SDMeta)#
+#Interaction#
+Model<-escalc(ri=rInter,ni=NT,data=SDMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+0.0788^2
+SDMeta<-read.csv(file="SubjectiveDistance.csv",header=TRUE)#
+head(SDMeta)#
+Model<-escalc(ri=rMain,ni=NT,data=SDMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+ELMMeta<-read.csv(file="ELM.csv",header=TRUE)
+head(ELMMeta)
+Model<-escalc(ri=rInter,ni=NT,data= ELMMeta,measure="COR",vtype="UB")
+Model
+Model2<-rma.uni(yi,vi,data=Model)
+summary(Model2)
+ELMMeta <-read.csv(file="ELM.csv",header=TRUE)#
+head(ELMMeta)#
+Model<-escalc(ri=rMain,ni=NT,data= ELMMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+#Interaction#
+Model<-escalc(ri=rInter,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)#
+#Main Effect#
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+Model<-escalc(ri=rMain,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+#Interaction#
+Model<-escalc(ri=rInter,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+MCMeta<-read.csv(file="Credentials.csv",header=TRUE)#
+head(MCMeta)#
+Model<-escalc(ri=rMain,ni=NT,data=MCMeta,measure="COR",vtype="UB")#
+Model#
+Model2<-rma.uni(yi,vi,data=Model)#
+summary(Model2)
+setwd("/Users/Charlie/Desktop/ML3 Final Data")#
+ML3<-read.csv(file="ML3AllSitesandmTurk.csv",header=TRUE,stringsAsFactors=FALSE)#
+head(ML3)#
+#
+#Required Packages#
+require(car)#
+require(doBy)#
+require(ggplot2)#
+require(effects)#
+require(MBESS)#
+#
+str(ML3$NFCcenter)#
+str(ML3$ArgumentQuality)#
+str(ML3$ELMCond)#
+ML3$ELMCond<-as.factor(ML3$ELMCond)#
+Cond<-subset(ML3,ML3$ELMCond!="NA")#
+NFC<-subset(Cond,Cond$NFCcenter!="NA")#
+DV<-length(unlist(NFC$ArgumentQuality!="NA"))
+ELMStrong<-subset(Pool,Pool$ELMCond==1)
+ELMWeak<-subset(Pool,Pool$ELMCond==-1)
+list(ELMWeak$elmstrong_order)
+list(ELMWeak$elmsweak_order)
+list(ELMStrong$elmsweak_order)
+list(ELMStrong$elmweak_order)
+list(ELMStrong$elmstrong_order)
+list(ELMWeak$elmweak_order)
+list(ELMStrong$ELMCond)
+list(ELMWeak$ELMCond)
+setwd("/Users/Charlie/Desktop/ML3 Final Data")#
+ML3<-read.csv(file="ML3AllSitesandmTurk.csv",header=TRUE,stringsAsFactors=FALSE)#
+head(ML3)#
+#
+#Required Packages#
+require(car)#
+require(doBy)#
+require(ggplot2)#
+require(effects)#
+require(MBESS)#
+#
+str(ML3$bestgrade2)#
+str(ML3$worstgrade2)#
+#
+ML3$SubDistCond[ML3$bestgrade2!="NA"]<-"BestGrade"#
+ML3$SubDistCond[ML3$worstgrade2!="NA"]<-"WorstGrade"#
+list(ML3$SubDistCond)#
+#
+###worst/bestgrade3 is DV#
+BestGrade<-subset(ML3,ML3$SubDistCond=="BestGrade")#
+WorstGrade<-subset(ML3,ML3$SubDistCond=="WorstGrade")#
+head(BestGrade)#
+head(WorstGrade)#
+tail(WorstGrade)#
+#
+BestGrade$SubDist<-BestGrade$bestgrade3#
+WorstGrade$SubDist<-WorstGrade$worstgrade3#
+BestGrade$TimeSince<-BestGrade$bestgrade1#
+WorstGrade$TimeSince<-WorstGrade$worstgrade1#
+BestGrade$SESDOrder<-BestGrade$bestgrade_order#
+WorstGrade$SESDOrder<-WorstGrade$worstgrade_order#
+SESDdata<-rbind(BestGrade,WorstGrade)#
+head(SESDdata)#
+tail(SESDdata)#
+list(SESDdata$SubDistCond)#
+#
+###Adding Months Since data#
+setwd("/Users/Charlie/Desktop/ML3 Data Analysis")#
+Months<-read.csv(file="ML3 SESD Open Response.csv",header=TRUE,stringsAsFactors=FALSE)#
+head(Months)#
+tail(Months)#
+str(Months$Year)#
+str(Months$TermsBack)#
+Months$YearMonths<-(2014-Months$Year)*12#
+Months$TermMonths[Months$TermsBack==0]<-0#
+Months$TermMonths[Months$TermsBack==1]<-1#
+Months$TermMonths[Months$TermsBack==2]<-4#
+Months$TermMonths[Months$TermsBack==3]<-8#
+Months$MonthsSince<-Months$YearMonths+Months$TermMonths#
+head(Months)#
+tail(Months)#
+hist(Months$MonthsSince)#
+mean(Months$MonthsSince,na.rm=TRUE)#
+median(Months$MonthsSince,na.rm=TRUE)#
+#
+#merging data#
+SESDdata<-merge(SESDdata,Months,by="session_id",all.x=TRUE)#
+head(SESDdata)#
+#Centering continuous predictors (months since class and self-esteem)#
+SESDdata$MonthsSince<-SESDdata$MonthsSince-mean(SESDdata$MonthsSince,na.rm=TRUE)#
+#
+SESDdata$SelfEsteem<-SESDdata$SelfEsteem-mean(SESDdata$SelfEsteem,na.rm=TRUE)#
+#
+SESDdata<-subset(SESDdata,SESDdata$SubDistCond!="NA")#
+SESDdata<-subset(SESDdata,SESDdata$SelfEsteem!="NA")#
+SESDdata<-subset(SESDdata,SESDdata$MonthsSince!="NA")#
+str(SESDdata$SelfEsteem)#
+str(SESDdata$SubDistCond)#
+SESDdata$SubDistCond<-as.factor(SESDdata$SubDistCond)#
+length(SESDdata$session_id)#
+#
+###Replicating Previous Effect####
+#First, we will conduct stepwise regression analyses to examine the variables of interest. Subjective distance is the dependent variable. All continuous predictor variables will be centered. In the first step, we will enter a variable that indicates actual time, which is calculated from the number of months since the participant’s course ended. In the second step, grade condition (best vs. worst grade) and self-esteem are entered simultaneously. In the last step, the interaction between grade condition (best vs. worst grade) and self-esteem will be entered.  Follow-up tests will clarify the nature of the interaction effect.#
+#
+SESDmodel1.lm<-lm(SubDist~MonthsSince,data=SESDdata)#
+Anova(SESDmodel1.lm,type="II")#
+SESDmodel2.lm<-lm(SubDist~MonthsSince+SubDistCond+SelfEsteem,data=SESDdata)#
+Anova(SESDmodel2.lm,type="II")#
+SESDmodel3.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=SESDdata)#
+anova(SESDmodel1.lm,SESDmodel2.lm,SESDmodel3.lm)#
+Anova(SESDmodel3.lm,type="II")
+Carleton<-subset(SESDdata,SESDdata$Site=="CarletonUniversity")
+length(Carleton$session_id)
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=Carleton)
+Anova(SESDinter.inter.lm,type="II")
+plot(allEffects(SESDinter.inter.lm))
+Riverside<-subset(SESDdata,SESDdata$Site=="UCRiverside")#
+length(Riverside$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=Riverside)#
+Anova(SESDinter.inter.lm,type="II")
+plot(allEffects(SESDinter.inter.lm))
+VCU<-subset(SESDdata,SESDdata$Site=="VirginiaCommonwealthUniversity")#
+length(VCU$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=VCU)#
+Anova(SESDinter.inter.lm,type="II")
+plot(allEffects(SESDinter.inter.lm))
+Riverside<-subset(SESDdata,SESDdata$Site=="UCRiverside")#
+length(Riverside$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=Riverside)#
+Anova(SESDinter.inter.lm,type="II")#
+plot(allEffects(SESDinter.inter.lm))
+Carleton<-subset(SESDdata,SESDdata$Site=="CarletonUniversity")#
+length(Carleton$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=Carleton)#
+Anova(SESDinter.inter.lm,type="II")#
+plot(allEffects(SESDinter.inter.lm))
+Riverside<-subset(SESDdata,SESDdata$Site=="UCRiverside")#
+length(Riverside$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=Riverside)#
+Anova(SESDinter.inter.lm,type="II")#
+plot(allEffects(SESDinter.inter.lm))
+VCU<-subset(SESDdata,SESDdata$Site=="VirginiaCommonwealthUniversity")#
+length(VCU$session_id)#
+SESDinter.inter.lm<-lm(SubDist~MonthsSince+SubDistCond+ SelfEsteem +SubDistCond* SelfEsteem,data=VCU)#
+Anova(SESDinter.inter.lm,type="II")#
+plot(allEffects(SESDinter.inter.lm))
+require(ggplot2)#
+require(reshape2)#
+#
+###Effects with Cohen's d#
+#
+setwd("/Users/Charlie/Desktop/ML3 Graph Data")
+etalong$Effect<-factor(etalong$Effect,levels=c("Credentials and Prejudice (main effect)","Subjective Distance (main effect)","Elaboration Likelihood (main effect)","Credentials and Prejudice (interaction)","Subjective Distance (interaction)","Elaboration Likelihood (interaction)"))
+etalong<-read.csv(file="etalong.csv",header=TRUE)
+str(etalong$Effect)
+list(levels(etalong$Effect))
+etalong$Effect<-factor(etalong$Effect,levels=c("Credentials and Prejudice (main effect)","Subjective Distance (main effect)","Elaboration Likelihood (main effect)","Credentials and Prejudice (interaction)","Subjective Distance (interaction)","Elaboration Likelihood (interaction)"))
+list(levels(etalong$Effect))
+Aggregate<-subset(etalong,SiteorAgg=="Aggregate")#
+Sites<-subset(etalong,SiteorAgg=="Single Site")#
+Original<-subset(etalong,SiteorAgg=="Original")#
+etalong$SiteorAgg<-factor(etalong$SiteorAgg,levels=c("Single Site","Aggregate"))#
+#
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4)+geom_pointrange(colour='Blue',size=1.2)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))#
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.5,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))#
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.5,width=.45)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.5,width=.50)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.5,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.65,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.75,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=.75,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))+ylim(0,.2)
+e
+e<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=1,width=.35)+coord_flip()+ylab("ηp²")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))+ylim(0,.2)
+e
+d<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=1,width=.35)+coord_flip()+ylab("Cohen's d")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))
+d
+dlong<-read.csv(file="dlong.csv",header=TRUE)#
+str(dlong$Effect)#
+list(levels(dlong$Effect))#
+dlong$Effect<-factor(dlong$Effect,levels=c("Warmth Perceptions","Weight Embodiment","Power and Perspective","Persistence","Availability Heuristic","Metaphoric Restructuring","Stroop Effect"))#
+#
+Aggregate<-subset(dlong,SiteorAgg=="Aggregate")#
+Sites<-subset(dlong,SiteorAgg=="Single Site")#
+Original<-subset(dlong,SiteorAgg=="Original")#
+dlong$SiteorAgg<-factor(dlong$SiteorAgg,levels=c("Single Site","Aggregate","Original"))
+d<-ggplot(Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr))+geom_point(data=Sites,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=4,size=4)+geom_point(data=Aggregate,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=16,size=6,color="blue",fill="blue")+geom_point(data=Original,aes(x=Effect,y=value,ymin=lwr,ymax=upr),shape=24,fill="green",size=4)+geom_errorbar(colour='Blue',size=1,width=.35)+coord_flip()+ylab("Cohen's d")+theme_bw()+theme(panel.grid.major=element_blank())+geom_hline(yintercept=0,color="black")+theme(text=element_text(size=15))#
+d
+setwd("/Users/Charlie/Desktop/ML3 Final Data")#
+ML3<-read.csv(file="ML3AllSitesandmTurk.csv",header=TRUE,stringsAsFactors=FALSE)#
+head(ML3)#
+#
+#Required Packages#
+require(car)#
+require(doBy)#
+require(ggplot2)#
+require(effects)#
+require(lme4)#
+require(compute.es)#
+#
+length(unique(ML3$session_id))#
+#
+Pool<-subset(ML3,ML3$Site!="mTurk")#
+length(unique(Pool$session_id))
+ReportedAttention.Uncond<-lmer(ReportedAttention~1+(1|Site),data=Pool)#
+summary(ReportedAttention.Uncond)#
+0.008686/(0.008686+ 0.535001) #1.6%
+ReportedAttention.MEmodel<-lmer(ReportedAttention~DaysInComp+(1 |Site),data=Pool)
+summary(ReportedAttention.MEmodel)
+AttentionCheck.Uncond<-glmer(AttentionCheck~1+(1|Site),data=Pool,family=binomial)
+summary(AttentionCheck.Uncond)
+Pool$AttentionCheck<-as.factor(Pool$AttentionCheck)
+str(Pool$AttentionCheck)
+AttentionCheck.Uncond<-glmer(AttentionCheck~1+(1|Site),data=Pool,family=binomial)
+summary(AttentionCheck.Uncond)
+AttentionCheck.MEmodel<-glmer(AttentionCheck~DaysInComp+(1|Site),data=Pool,family=binomial)
+summary(AttentionCheck.MEmodel)
+AttentionCheck.Null<-glmer(AttentionCheck~1+(1|Site),data=Pool,family=binomial)
+AttentionCheck.MEmodel2<-glmer(AttentionCheck~DaysInComp+(1|Site),data=Pool,family=binomial)
+anova(AttentionCheck.Null,AttentionCheck.MEmodel2)
+coef(AttentionCheck.MEmodel2)
+chies(6.75,2621)
+Check.glm<-glm(AttentionCheck~DaysInComp,data=Pool,family=binomrial)
+Check.glm<-glm(AttentionCheck~DaysInComp,data=Pool,family=binomial)
+summary(Check.glm)
+anova(Check.glm)
+Anova(Check.glm,type="II")
+AttentionCheck.MEmodel<-glmer(AttentionCheck~DaysInComp+(1|Site),data=Pool,family=binomial)
+summary(AttentionCheck.MEmodel)
+?zes
+summary(Check.glm)
+Anova(Check.glm,type="II")
+summary(Check.glm)
+AttentionCheck.MEmodel<-glmer(AttentionCheck~DaysInComp+(1|Site),data=Pool,family=binomial)
+summary(AttentionCheck.MEmodel)
+plot(allEffects(AttentionCheck.MEmodel))
+74-37
+Genderfactor.MEmodel<-glmer(Genderfactor~DaysInComp+(1 |Site),data=Pool,family=binomial)
+Pool$Genderfactor<-as.factor(Pool$Genderfactor)
+Genderfactor.Uncond<-glmer(Genderfactor~1+(1|Site),data=Pool,family=binomial)#
+summary(Genderfactor.Uncond)#
+0.1278/(0.1278+(pi^2/3))
+Genderfactor.MEmodel<-glmer(Genderfactor~DaysInComp+(1 |Site),data=Pool,family=binomial)
+summary(Genderfactor.MEmodel)
+Check.glm<-glm(AttentionCheck~DaysInComp,data=Pool,family=binomial)
+summary(Check.glm)
+summary(AttentionCheck.MEmodel)
+Check.glm<-glm(AttentionCheck~DaysInComp,data=Pool,family=binomial)
+summary(Check.glm)
+Anova(Check.glm)
+chies(15.863,2621)
+Genderfactor.MEmodel<-glmer(Genderfactor~DaysInComp+(1 |Site),data=Pool,family=binomial)
+summary(Genderfactor.MEmodel)
+str(Pool$Genderfactor)
+Gender.glm<-glm(Genderfactor~DaysInComp,data=Pool,family=binomial)
+Anova(Gender.glm,type="II")
+chies(36.686,2598)
+chies(-36.686,2598)
+chies(36.686,2598)

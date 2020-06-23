@@ -1,0 +1,207 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.1~~~~~~
+	# 1 Huang.1 - START
+
+	# 
+	# 1 Huang.1 - aus: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - bc: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - bilgi: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - bilgi >> ES r is close to 0:  0.04
+	# 
+	# 1 Huang.1 - brasilia: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - cas: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - castab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - doshisha: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - doshisha >> ES r is close to 0:  -0.03
+	# 
+	# 1 Huang.1 - eindhoven: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - eindhoven >> ES r is close to 0:  -0.04
+	# 
+	# 1 Huang.1 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - elte: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - eltetab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - grazvienna: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - hawaiion: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - hkust: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - hunancomp: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ithaca: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - johannesburg: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - koc: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - koc >> ES r is close to 0:  -0.05
+	# 
+	# 1 Huang.1 - lausanne: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - lausanne >> ES r is close to 0:  0.02
+	# 
+	# 1 Huang.1 - leuven: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - lundon: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - lundon >> ES r is close to 0:  -0.04
+	# 
+	# 1 Huang.1 - marian: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 1 Huang.1 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 1 Huang.1 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - mturk: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - mturk_india: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - mturk_india >> ES r is close to 0:  0.03
+	# 
+	# 1 Huang.1 - navarra: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ntnu: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ntnutab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - occid: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - occidtab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - plu: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - poitiers not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 1 Huang.1 - potsdam: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - potsdam >> ES r is close to 0:  0.05
+	# 
+	# 1 Huang.1 - pscio: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - psuabington: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - psumain: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - purkyne: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - santiagoon: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - swps: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - tamu: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - tilburg: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - tilburgcomm: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - tilburgcomm >> ES r is close to 0:  0.02
+	# 
+	# 1 Huang.1 - toronto: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - tufts: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ubc: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ubctab: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - ucron: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - udd: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - ufl: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - uiuc: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - umich: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - unam: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - unibelgrade: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - uniporto: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - uva: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - vuamsterdam: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - vuw: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - washlee: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - williampat: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - winchester: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - wpi: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - wroclaw: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - zhejiang: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

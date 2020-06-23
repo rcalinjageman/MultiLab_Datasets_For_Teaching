@@ -1,0 +1,17 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.7~~~~~~~
+	# 89 Gati.7 - START
+
+	# 
+	# 89 Gati.7 - all: var.equal set to: TRUE
+	# 
+	# 89 Gati.7 - all >> ES r is close to 0:  0.02
+	# 
+	# 89 Gati.7 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

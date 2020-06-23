@@ -1,0 +1,237 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZAVAL.1~~~~~~~
+	# 75 Zaval.1 - START
+
+	# 
+	# 75 Zaval.1 - amity: var.equal set to: FALSE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - armstrong: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - aus2: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - badaniaon: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - badaniaon >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - bogota: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - bogota >> ES r is close to 0:  0.02
+	# 
+	# 75 Zaval.1 - brookcuny: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - carleton: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - cas not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 75 Zaval.1 - cas not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - csunorthonline: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - fmkbelgrade: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - fmkbelgrade >> ES r is close to 0:  -0.03
+	# 
+	# 75 Zaval.1 - georgefox: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - georgefox >> ES r is close to 0:  0
+	# 
+	# 75 Zaval.1 - grazvienna: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - hawaiion: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - help: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - help >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - help not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - isb: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - isb >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - isb not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - jmu: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - kenyon: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 75 Zaval.1 - krakowon: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - kwazulu: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - louvain: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - loyola: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - lse: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - mcdanielonline: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - mcdanielonline >> ES r is close to 0:  -0.04
+	# 
+	# 75 Zaval.1 - metu: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - moralsense: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - moralsense >> ES r is close to 0:  -0.04
+	# 
+	# 75 Zaval.1 - mturk: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - mturk_india: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - munich: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - munich >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - munich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - munichon: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - munichon >> ES r is close to 0:  -0.03
+	# 
+	# 75 Zaval.1 - northumbria: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - osnabruck: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - ouhk: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - ouhk >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - padua: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - pascal: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - psualtoona: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - psualtoona >> ES r is close to 0:  -0.02
+	# 
+	# 75 Zaval.1 - puc: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - queensland2: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - radboud: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - radboud >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - ritonline: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - rotterdam: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - rotterdam >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - rotterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - salford: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - seznam: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - seznamon: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - seznamon >> ES r is close to 0:  -0.05
+	# 
+	# 75 Zaval.1 - simmons: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - simmons >> ES r is close to 0:  -0.04
+	# 
+	# 75 Zaval.1 - swps: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - tamu: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - tamu >> ES r is close to 0:  -0.02
+	# 
+	# 75 Zaval.1 - tamucc: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - tamucc >> ES r is close to 0:  0.01
+	# 
+	# 75 Zaval.1 - tanzania not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 75 Zaval.1 - tanzania not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 75 Zaval.1 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 75 Zaval.1 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - tilburg: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - ulatina: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - umich: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - umich >> ES r is close to 0:  0.03
+	# 
+	# 75 Zaval.1 - uned: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 75 Zaval.1 - uned >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 75 Zaval.1 - uned not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 75 Zaval.1 - unswonline: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - vcu: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - vcu >> ES r is close to 0:  -0.03
+	# 
+	# 75 Zaval.1 - vuw: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - westernkentucky: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - yale: var.equal set to: TRUE
+	# 
+	# 75 Zaval.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

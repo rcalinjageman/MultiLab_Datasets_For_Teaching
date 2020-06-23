@@ -1,0 +1,79 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~NORENZAYAN.2~~~~~~~
+	# 60 Norenzayan.2 - START
+
+	# 
+	# 60 Norenzayan.2 - amity >> ES r is close to 0:  0.04
+	# 
+	# 60 Norenzayan.2 - badaniaon >> ES r is close to 0:  0.04
+	# 
+	# 60 Norenzayan.2 - bogota >> ES r is close to 0:  0
+	# 
+	# 60 Norenzayan.2 - brookcuny >> ES r is close to 0:  -0.01
+	# 
+	# 60 Norenzayan.2 - carleton >> ES r is close to 0:  0.02
+	# 
+	# 60 Norenzayan.2 - grazvienna >> ES r is close to 0:  -0.01
+	# 
+	# 60 Norenzayan.2 - hawaiion >> ES r is close to 0:  -0.01
+	# 
+	# 60 Norenzayan.2 - jmu >> ES r is close to 0:  -0.01
+	# 
+	# 60 Norenzayan.2 - jos >> ES r is close to 0:  0.02
+	# 
+	# 60 Norenzayan.2 - kenyon >> ES r is close to 0:  0.01
+	# 
+	# 60 Norenzayan.2 - kwazulu >> ES r is close to 0:  0.04
+	# 
+	# 60 Norenzayan.2 - loyola >> ES r is close to 0:  0
+	# 
+	# 60 Norenzayan.2 - lse >> ES r is close to 0:  0.05
+	# 
+	# 60 Norenzayan.2 - mcdanielonline >> ES r is close to 0:  0.05
+	# 
+	# 60 Norenzayan.2 - metu >> ES r is close to 0:  0.03
+	# 
+	# 60 Norenzayan.2 - moralsense >> ES r is close to 0:  0
+	# 
+	# 60 Norenzayan.2 - mturk >> ES r is close to 0:  -0.02
+	# 
+	# 60 Norenzayan.2 - northumbria >> ES r is close to 0:  0.02
+	# 
+	# 60 Norenzayan.2 - padua not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 60 Norenzayan.2 - padua not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 60 Norenzayan.2 - pascal >> ES r is close to 0:  -0.03
+	# 
+	# 60 Norenzayan.2 - queensland2 >> ES r is close to 0:  -0.02
+	# 
+	# 60 Norenzayan.2 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 60 Norenzayan.2 - seznamon >> ES r is close to 0:  0.04
+	# 
+	# 60 Norenzayan.2 - swps >> ES r is close to 0:  0.01
+	# 
+	# 60 Norenzayan.2 - tamu >> ES r is close to 0:  0.01
+	# 
+	# 60 Norenzayan.2 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 60 Norenzayan.2 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 60 Norenzayan.2 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 60 Norenzayan.2 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 60 Norenzayan.2 - unswonline >> ES r is close to 0:  -0.02
+	# 
+	# 60 Norenzayan.2 - vcu >> ES r is close to 0:  0.01
+	# 
+	# 60 Norenzayan.2 - yale >> ES r is close to 0:  -0.02
+	# 
+	# 60 Norenzayan.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,29 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ROTTENSTREICH.1~~~~~~~
+	# 16 Rottenstreich.1 - START
+
+	# 
+	# 16 Rottenstreich.1 - 3 >> ES r is close to 0:  -0.03
+	# 
+	# 16 Rottenstreich.1 - 4 >> ES r is close to 0:  0.03
+	# 
+	# 16 Rottenstreich.1 - 5 >> ES r is close to 0:  -0.04
+	# 
+	# 16 Rottenstreich.1 - 6 >> ES r is close to 0:  -0.03
+	# 
+	# 16 Rottenstreich.1 - 8 >> ES r is close to 0:  -0.03
+	# 
+	# 16 Rottenstreich.1 - 9 >> ES r is close to 0:  -0.03
+	# 
+	# 16 Rottenstreich.1 - 12 >> ES r is close to 0:  -0.05
+	# 
+	# 16 Rottenstreich.1 - 13 >> ES r is close to 0:  -0.02
+	# 
+	# 16 Rottenstreich.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

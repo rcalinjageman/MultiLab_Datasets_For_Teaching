@@ -1,0 +1,117 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"97","1","BradleyUniversity","Agentic",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"98","10","BradleyUniversity","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"99","100","BradleyUniversity","Agentic",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"100","101","BradleyUniversity","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"101","102","BradleyUniversity","Agentic",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"102","103","BradleyUniversity","Agentic",65,"23","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"103","104","BradleyUniversity","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"104","105","BradleyUniversity","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"105","106","BradleyUniversity","Agentic",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"106","107","BradleyUniversity","Agentic",72,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"107","108","BradleyUniversity","Agentic",64,"19","First-year","Female","African-American","Pass",NA
+"108","109","BradleyUniversity","Communal",68,"19","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"109","11","BradleyUniversity","Agentic",70,"18","First-year","Female","Asian-American","Pass",NA
+"110","110","BradleyUniversity","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"111","111","BradleyUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"112","112","BradleyUniversity","Agentic",68,"19","Sophomore","Male","Latino or Hispanic","Pass",NA
+"113","113","BradleyUniversity","Agentic",70,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"114","114","BradleyUniversity","Communal",75,"20","Sophomore","Female","African-American","Fail",NA
+"115","115","BradleyUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"116","116","BradleyUniversity","Agentic",65,"18","First-year","Female",NA,"Fail",NA
+"118","118","BradleyUniversity","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",NA
+"119","119","BradleyUniversity","Agentic",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"120","12","BradleyUniversity","Agentic",70,"18","Sophomore","Female","African-American","Pass",NA
+"122","121","BradleyUniversity","Agentic",70,"19","First-year","Male","Latino or Hispanic","Fail",NA
+"123","13","BradleyUniversity","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"124","14","BradleyUniversity","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"125","15","BradleyUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"126","16","BradleyUniversity","Agentic",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"128","18","BradleyUniversity","Agentic",70,"19","Sophomore","Female","Asian-American","Pass",NA
+"129","19","BradleyUniversity","Agentic",69,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"130","2","BradleyUniversity","Agentic",71,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",NA
+"132","21","BradleyUniversity","Communal",65,"18 almost 19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"133","22","BradleyUniversity","Communal",65,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"134","23","BradleyUniversity","Agentic",69,"18","First-year",NA,"White, non-Hispanic or latino","Fail",NA
+"135","24","BradleyUniversity","Communal",76,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"136","25","BradleyUniversity","Agentic",76,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",NA
+"137","26","BradleyUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"139","28","BradleyUniversity","Agentic",65,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"140","29","BradleyUniversity","Communal",60,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"141","3","BradleyUniversity","Communal",72,"19","Sophomore","Female","White, non-Hispanic or latino",NA,NA
+"142","30","BradleyUniversity","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"143","31","BradleyUniversity","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"144","32","BradleyUniversity","Agentic",55,"18","First-year","Male","Other","Fail",NA
+"146","34","BradleyUniversity","Agentic",68,"20","Sophomore","Female","Asian-American","Fail",NA
+"149","37","BradleyUniversity","Communal",70,"21","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"150","38","BradleyUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"153","40","BradleyUniversity","Communal",70,"20","Sophomore","Female","Other","Fail",NA
+"154","41","BradleyUniversity","Communal",67,"19","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"155","42","BradleyUniversity","Agentic",70,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",NA
+"156","43","BradleyUniversity","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"157","44","BradleyUniversity","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"158","45","BradleyUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"159","46","BradleyUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"160","47","BradleyUniversity","Communal",79,"19","Sophomore","Male","Asian-American","Pass",NA
+"161","48","BradleyUniversity","Agentic",66,"21","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"162","49","BradleyUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"163","5","BradleyUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"164","50","BradleyUniversity","Agentic",65,"19","Sophomore","Female","Multiracial","Fail",NA
+"165","51","BradleyUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"166","52","BradleyUniversity","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"167","53","BradleyUniversity","Agentic",68,"18","First-year","Female","Latino or Hispanic","Fail",NA
+"168","54","BradleyUniversity","Communal",70,"21","Senior","Female","Multiracial","Fail",NA
+"169","55","BradleyUniversity","Communal",70,"18","First-year","Female","African-American","Pass",NA
+"170","56","BradleyUniversity","Agentic",76,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"171","57","BradleyUniversity","Communal",60,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"172","58","BradleyUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"173","59","BradleyUniversity","Agentic",60,"18","First-year","Female","Latino or Hispanic","Fail",NA
+"174","6","BradleyUniversity","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"176","61","BradleyUniversity","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"177","62","BradleyUniversity","Communal",74,NA,"First-year","Female","Latino or Hispanic","Pass",NA
+"178","63","BradleyUniversity","Agentic",79,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"179","64","BradleyUniversity","Communal",73,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"181","66","BradleyUniversity","Agentic",70,"22","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"182","67","BradleyUniversity","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"183","68","BradleyUniversity","Communal",60,"20","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"184","69","BradleyUniversity","Communal",75,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"185","7","BradleyUniversity","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"186","70","BradleyUniversity","Communal",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"187","71","BradleyUniversity","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"188","72","BradleyUniversity","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"189","73","BradleyUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"190","74","BradleyUniversity","Agentic",76,"21","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"191","75","BradleyUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"192","76","BradleyUniversity","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"193","77","BradleyUniversity","Agentic",70,"21","Senior","Male","African-American","Pass",NA
+"194","78","BradleyUniversity","Agentic",73,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"195","79","BradleyUniversity","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"196","8","BradleyUniversity","Agentic",73,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"197","80","BradleyUniversity","Agentic",73,"19","Sophomore",NA,"Multiracial","Pass",NA
+"198","81","BradleyUniversity","Agentic",69,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"199","82","BradleyUniversity","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"200","83","BradleyUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"201","84","BradleyUniversity","Agentic",72,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"202","85","BradleyUniversity","Communal",78,"19","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"203","86","BradleyUniversity","Agentic",65,"21","Senior","Female","African-American","Pass",NA
+"205","88","BradleyUniversity","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"206","89","BradleyUniversity","Communal",70,"20","Junior","Female","African-American","Fail",NA
+"207","9","BradleyUniversity","Agentic",65,"18","First-year","Male","Other","Fail",NA
+"208","90","BradleyUniversity","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"209","91","BradleyUniversity","Agentic",75,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"210","92","BradleyUniversity","Agentic",72,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"211","93","BradleyUniversity","Agentic",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"212","94","BradleyUniversity","Agentic",70,"21","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"215","97","BradleyUniversity","Agentic",68,"20","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"216","98","BradleyUniversity","Agentic",62,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"217","99","BradleyUniversity","Communal",65,"18","First-year","Female","Multiracial","Pass",NA
+"218",NA,"BradleyUniversity","Communal",72,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"219",NA,"BradleyUniversity","Communal",67,"19","Sophomore","Male","Other","Pass",NA
+"220",NA,"BradleyUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"221",NA,"BradleyUniversity","Communal",60,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"222",NA,"BradleyUniversity","Agentic",72,"19","Sophomore","Female","Latino or Hispanic","Fail",NA
+"223",NA,"BradleyUniversity","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"224",NA,"BradleyUniversity","Agentic",65,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"225",NA,"BradleyUniversity","Agentic",64,NA,NA,NA,NA,NA,NA
+"226",NA,"BradleyUniversity","Agentic",70,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"227",NA,"BradleyUniversity","Agentic",70,NA,NA,NA,NA,"Pass",NA

@@ -1,0 +1,27 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~VANLANGE.1~~~~~~~
+	# 38 vanLange.1 - START
+
+	# 
+	# 38 vanLange.1 - 1 >> ES r is close to 0:  -0.04
+	# 
+	# 38 vanLange.1 - 2 >> ES r is close to 0:  -0.03
+	# 
+	# 38 vanLange.1 - 5 >> ES r is close to 0:  -0.04
+	# 
+	# 38 vanLange.1 - 7 >> ES r is close to 0:  -0.02
+	# 
+	# 38 vanLange.1 - 8 >> ES r is close to 0:  0.03
+	# 
+	# 38 vanLange.1 - 9 >> ES r is close to 0:  -0.04
+	# 
+	# 38 vanLange.1 - 11 >> ES r is close to 0:  0.01
+	# 
+	# 38 vanLange.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

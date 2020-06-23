@@ -1,0 +1,1587 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:47:57.122051Z,6,Bauer,1,,aus,Secondary,Bauer.3,92,42,50,Consumer,as.numeric.ignore.,42,,,,,5.02380952380952,1.70348416614224,5.5,5.17647058823529,1.5,1,7,6,-0.666671875138649,2.56150780722586,0.262853313443129,Individual,as.numeric.ignore.,50,,,,,5.74,1.3063424559605,6,5.925,1,1,7,6,-1.28444200259809,5.00837560790403,0.184744721832311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.74,5.02380952380952,2.28060405678845,0.0249329804348265,90,0.0923042820451558,1.3400766703358, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.2806, df = 90, p-value = 0.02493
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.09230428 1.34007667
+sample estimates:
+mean of x mean of y 
+  5.74000   5.02381 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.28060405678845,0.286445733664724,4.26244817787396,92,42,50,0.47735,0.04505,0.05996,0.89216,68.34425,63.21433,0.26429,0.02695,0.47336,0.0443,0.05945,0.88471,68.20211,63.10798,0.02695,0.23374,0.00982,0.03018,0.40983,0.02711,0.23814,0.01124,0.03019,0.43541,2.37693,1.11488,5.04401,0.02695,0.86581,0.10875,1.6182,0.02695,,,,,,,,aus,aus,"American University of Sharjah, United Arab Emirates",Angela Maitner,ML2_Slate1_UAEEng_Inlab_execution_legal_r.csv,DO.BR.FL_6,DO.BR.FL_7,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,aus,1,1,1,1,1,1,92,12,61,92,92,0,0,"Execution
+legal 
+   92 ","SubjectPool
+Yes 
+ 92 ","Setting
+In a lab 
+      92 ","Tablet
+Computers 
+       92 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       92 ","analysis.type
+Secondary 
+       92 ","subset
+all 
+ 92 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.283493Z,6,Bauer,1,,badaniaon,Secondary,Bauer.3,38,15,23,Consumer,as.numeric.ignore.,15,,,,,5.46666666666667,1.50554530541816,6,5.61538461538462,1,2,7,5,-0.973895861233543,3.10920838923805,0.38873012632302,Individual,as.numeric.ignore.,23,,,,,5.73913043478261,1.45281517639337,6,5.94736842105263,1,1,7,6,-1.62555562366294,5.89903421285191,0.302932905238889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.73913043478261,5.46666666666667,0.557138198945295,0.580880694932479,36,-0.719358610329029,1.26428614656091, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.55714, df = 36, p-value = 0.5809
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7193586  1.2642861
+sample estimates:
+mean of x mean of y 
+ 5.739130  5.466667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.557138198945295,-1.41085569827876,2.51745354958615,38,15,23,0.1849,0.11059,-0.46824,0.83549,57.33476,55.20121,0.10402,0.58165,0.18102,0.106,-0.45841,0.81797,57.18258,55.09269,0.58165,0.09246,0.02657,-0.2289,0.3869,0.58669,0.09272,0.02857,-0.23303,0.40815,1.39847,0.42772,4.55133,0.58165,0.33538,-0.84929,1.51542,0.58165,,,,,,,,badaniaon,badaniaon,badania.net,"Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate1_Polish_Inlab_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate1,badaniaon,1,1,1,1,1,1,38,12,37,38,38,0,100,"Execution
+   
+38 ","SubjectPool
+No 
+38 ","Setting
+Online (at home) 
+              38 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.404659Z,6,Bauer,1,,bc,Secondary,Bauer.3,76,35,41,Consumer,as.numeric.ignore.,35,,,,,4.97142857142857,1.65361839053411,5,5.03448275862069,2,2,7,5,-0.191584272736612,1.72182787465212,0.279512523691444,Individual,as.numeric.ignore.,41,,,,,5.73170731707317,1.14071009121298,6,5.81818181818182,1,3,7,4,-0.482833152356981,2.20841879016837,0.178148986169026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.760278745644599,5.73170731707317,4.97142857142857,2.29374179979215,0.0253859363850027,58.9632715691376,0.0970244577770669,1.42353303351213,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.2937, df = 58.963, p-value = 0.02539
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.09702446 1.42353303
+sample estimates:
+mean of x mean of y 
+ 5.731707  4.971429 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.29374179979215,0.281407203866309,4.28745818712909,76,35,41,0.52787,0.05479,0.06476,0.98669,70.12045,64.55222,0.29104,0.02709,0.5225,0.05369,0.0641,0.97666,69.93388,64.41088,0.02709,0.25764,0.01162,0.0327,0.44607,0.02729,0.26358,0.0137,0.03271,0.47979,2.60504,1.12464,5.9874,0.02709,0.95745,0.11746,1.78966,0.02709,,,,,,,,bc,bc,"Boston College, Chestnut Hill, MA","Jordan Theriault, Liane Young",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,bc,1,1,1,1,1,1,76,13,72,76,76,0,100,"Execution
+legal 
+   76 ","SubjectPool
+Yes 
+ 76 ","Setting
+In a lab 
+      76 ","Tablet
+Computers 
+       76 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.529644Z,6,Bauer,1,,bilgi,Secondary,Bauer.3,151,75,76,Consumer,as.numeric.ignore.,75,,,,,5.85333333333333,1.13534532588504,6,5.98360655737705,1,2,7,5,-0.88120410374505,3.50362635853626,0.131098385904582,Individual,as.numeric.ignore.,76,,,,,5.60526315789474,1.41495768952923,6,5.79032258064516,1,2,7,5,-0.954716693193436,3.07946106502168,0.162306778369571,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.60526315789474,5.85333333333333,-1.18727543574929,0.237008348623609,149,-0.66093977662678,0.164799425749587, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.1873, df = 149, p-value = 0.237
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6609398  0.1647994
+sample estimates:
+mean of x mean of y 
+ 5.605263  5.853333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.18727543574929,-3.14988026392082,0.77929237200797,151,75,76,-0.19324,0.02661,-0.51268,0.12684,42.33845,44.56565,-0.10869,0.2381,-0.19227,0.02635,-0.51009,0.1262,42.37661,44.59288,0.2381,-0.09681,0.00654,-0.24986,0.06371,0.23932,-0.09711,0.00676,-0.25527,0.0638,0.70433,0.39459,1.25868,0.2381,-0.3505,-0.9299,0.23006,0.2381,,,,,,,,bilgi,bilgi,"Bilgi University, Istanbul, Turkey",Serdar Karabati,ML2_Slate1_Turkish_execution_illegal_Bilgi_r.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,bilgi,1,1,1,1,1,1,151,13,132,151,151,0,0,"Execution
+illegal 
+    151 ","SubjectPool
+ No 
+151 ","Setting
+Online (at home) 
+             151 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            151 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      151 ","analysis.type
+Secondary 
+      151 ","subset
+all 
+151 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.686585Z,6,Bauer,1,,brasilia,Secondary,Bauer.3,103,55,48,Consumer,as.numeric.ignore.,55,,,,,5.87272727272727,1.44086580780247,6,6.11111111111111,1,1,7,6,-1.64990061468839,5.73982194847305,0.194286305889683,Individual,as.numeric.ignore.,48,,,,,5.54166666666667,1.50118156772949,6,5.725,1,1,7,6,-0.977168975856862,3.48509478216784,0.216676895557782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.54166666666667,5.87272727272727,-1.14076881814112,0.256663900606373,101,-0.906755854436913,0.244634642315701, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.1408, df = 101, p-value = 0.2567
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9067559  0.2446346
+sample estimates:
+mean of x mean of y 
+ 5.541667  5.872727 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.14076881814112,-3.10421741288465,0.828285749469772,103,55,48,-0.22533,0.03926,-0.61315,0.16361,41.08622,43.67042,-0.12659,0.25815,-0.22365,0.03868,-0.60859,0.16239,41.15148,43.71714,0.25815,-0.11279,0.00956,-0.29512,0.08214,0.26003,-0.11327,0.01,-0.30417,0.08232,0.66451,0.32886,1.34547,0.25815,-0.4087,-1.11214,0.29675,0.25815,,,,,,,,brasilia,brasilia,"Social and Work Psychology Department, University of Brasilia, DF, Brazil","Ronaldo Pilati, Victor Keller",ML2_Slate1_Brazil__Portuguese_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Brazil,Portuguese,0,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,brasilia,1,1,1,1,1,1,103,13,98,103,103,0,0,"Execution
+illegal 
+    103 ","SubjectPool
+ No 
+103 ","Setting
+In a classroom 
+           103 ","Tablet
+Computers 
+      103 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      103 ","analysis.type
+Secondary 
+      103 ","subset
+all 
+103 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.812985Z,6,Bauer,1,,cas,Secondary,Bauer.3,69,42,27,Consumer,as.numeric.ignore.,42,,,,,5.57142857142857,1.15067015771101,6,5.67647058823529,1,2,7,5,-0.857107366020058,3.84914127423823,0.177552260036218,Individual,as.numeric.ignore.,27,,,,,5.88888888888889,0.933699561847853,6,5.95652173913044,1,4,7,3,-0.356670036818138,2.20847750865052,0.179690564458364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.88888888888889,5.57142857142857,1.20087498592165,0.23402802215692,67,-0.210199474900168,0.845120109820804, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.2009, df = 67, p-value = 0.234
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2101995  0.8451201
+sample estimates:
+mean of x mean of y 
+ 5.888889  5.571429 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.20087498592165,-0.773994862062681,3.16689082150128,69,42,27,0.29622,0.06148,-0.19092,0.78118,61.64693,58.29554,0.16591,0.23644,0.29289,0.06011,-0.18878,0.7724,61.51979,58.20366,0.23644,0.14516,0.01409,-0.09414,0.36083,0.23917,0.14619,0.01515,-0.09442,0.37784,1.71135,0.7073,4.12433,0.23644,0.53729,-0.34629,1.4169,0.23644,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r__Revised_by_Huajian.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,cas,1,1,1,1,1,1,69,13,68,69,69,0,0,"Execution
+legal 
+   69 ","SubjectPool
+No 
+69 ","Setting
+In a lab 
+      69 ","Tablet
+Computers 
+       69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:57.931372Z,6,Bauer,1,,castab,Secondary,Bauer.3,66,25,41,Consumer,as.numeric.ignore.,25,,,,,5.44,1.3253930234714,6,5.57142857142857,1,2,7,5,-0.964040034471937,3.45975933373901,0.265078604694281,Individual,as.numeric.ignore.,41,,,,,5.95121951219512,0.804711734479966,6,6,0,4,7,3,-0.495654017433391,2.91114196644217,0.125674858809641,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.511219512195122,5.95121951219512,5.44,1.74262780514448,0.0901945980574386,34.9425005033406,-0.0843705696440054,1.10680959403425,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.7426, df = 34.943, p-value = 0.09019
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.08437057  1.10680959
+sample estimates:
+mean of x mean of y 
+  5.95122   5.44000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.74262780514448,-0.271090802640147,3.73249384650562,66,25,41,0.4422,0.06587,-0.06879,0.94713,67.08263,62.2738,0.24548,0.08973,0.43699,0.06433,-0.06798,0.93599,66.8942,62.13397,0.08973,0.21284,0.01402,-0.03387,0.42281,0.09108,0.21614,0.01587,-0.03388,0.45111,2.23012,0.8827,5.57282,0.08973,0.80205,-0.12477,1.7179,0.08973,,,,,,,,castab,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r__Revised_by_Huajian.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,castab,1,1,1,1,1,1,66,13,60,66,66,0,0,"Execution
+legal 
+   66 ","SubjectPool
+No 
+66 ","Setting
+In a lab 
+      66 ","Tablet
+Tablets 
+     66 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       66 ","analysis.type
+Secondary 
+       66 ","subset
+all 
+ 66 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.039577Z,6,Bauer,1,,doshisha,Secondary,Bauer.3,114,60,54,Consumer,as.numeric.ignore.,60,,,,,5.25,1.11423759752075,5,5.33333333333333,1,2,7,5,-0.653302863921363,3.55793311512074,0.143847455297201,Individual,as.numeric.ignore.,54,,,,,5.16666666666667,1.34234376835922,5,5.27272727272727,1,1,7,6,-0.874006779374268,3.76001206107289,0.182669849549157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.16666666666667,5.25,-0.36193114268709,0.718085448322879,112,-0.539537009757798,0.372870343091132, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.36193, df = 112, p-value = 0.7181
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5395370  0.3728703
+sample estimates:
+mean of x mean of y 
+ 5.166667  5.250000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.36193114268709,-2.32166032787485,1.59941108692668,114,60,54,-0.06789,0.03521,-0.43549,0.30001,47.29366,48.08559,-0.03829,0.71816,-0.06743,0.03473,-0.43257,0.298,47.3118,48.09843,0.71816,-0.03418,0.00883,-0.21428,0.14943,0.71934,-0.03419,0.00901,-0.21765,0.15056,0.88414,0.45389,1.72317,0.71816,-0.12314,-0.78989,0.54416,0.71816,,,,,,,,doshisha,doshisha,"Doshisha University, Kyoto, Japan","Masanori Oikawa, Haruka Oikawa",ML2_Slate1_Japanese_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Japan,Japanese,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,doshisha,1,1,1,1,1,1,114,13,107,114,114,0,0,"Execution
+legal 
+  114 ","SubjectPool
+Yes 
+114 ","Setting
+In a lab 
+     114 ","Tablet
+Computers 
+      114 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      114 ","analysis.type
+Secondary 
+      114 ","subset
+all 
+114 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.204717Z,6,Bauer,1,,elte,Secondary,Bauer.3,94,42,52,Consumer,as.numeric.ignore.,42,,,,,5.95238095238095,1.05812491660509,6,6.08823529411765,1,2,7,5,-1.40520734495571,5.91020299237272,0.163272219310525,Individual,as.numeric.ignore.,52,,,,,6.21153846153846,0.956639101772828,6,6.38095238095238,1,3,7,4,-1.38205806973212,4.68049187065782,0.132661974367529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.21153846153846,5.95238095238095,1.24527876366557,0.216191715258797,92,-0.154170974304124,0.672485992619142, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.2453, df = 92, p-value = 0.2162
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.154171  0.672486
+sample estimates:
+mean of x mean of y 
+ 6.211538  5.952381 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.24527876366557,-0.726256926894169,3.21010968020399,94,42,52,0.25835,0.0434,-0.15067,0.66597,60.19306,57.24751,0.14495,0.21806,0.25624,0.04269,-0.14944,0.66053,60.11155,57.18892,0.21806,0.12875,0.0104,-0.0755,0.31737,0.21996,0.12947,0.01099,-0.07565,0.32872,1.59774,0.76088,3.3466,0.21806,0.46859,-0.27329,1.20794,0.21806,,,,,,,,elte,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,elte,1,1,1,1,1,1,94,13,86,94,94,0,100,"Execution
+illegal 
+     94 ","SubjectPool
+Yes 
+ 94 ","Setting
+In a lab 
+      94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.308721Z,6,Bauer,1,,eltetab,Secondary,Bauer.3,88,48,40,Consumer,as.numeric.ignore.,48,,,,,6.29166666666667,0.797825057700644,6,6.375,1,4,7,3,-0.820043398975079,2.84129545860135,0.115156127957424,Individual,as.numeric.ignore.,40,,,,,6.35,0.802240452476528,7,6.46875,0,4,7,3,-1.009408101209,3.24117077506706,0.126845353047495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.35,6.29166666666667,0.34066550558905,0.734186203244766,86,-0.282067519687468,0.398734186354133, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.34067, df = 86, p-value = 0.7342
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2820675  0.3987342
+sample estimates:
+mean of x mean of y 
+ 6.350000  6.291667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.34066550558905,-1.62094586718706,2.30030047058309,88,48,40,0.07293,0.04586,-0.34702,0.49246,52.90699,52.05647,0.04113,0.73427,0.07229,0.04506,-0.34399,0.48816,52.88161,52.03849,0.73427,0.03671,0.01146,-0.17218,0.24075,0.73573,0.03673,0.01176,-0.17391,0.24557,1.14143,0.53289,2.44301,0.73427,0.13228,-0.62943,0.89323,0.73427,,,,,,,,eltetab,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,eltetab,1,1,1,1,1,1,88,13,84,88,88,0,100,"Execution
+illegal 
+     88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Tablets 
+     88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.402401Z,6,Bauer,1,,grazvienna,Secondary,Bauer.3,124,62,62,Consumer,as.numeric.ignore.,62,,,,,5.79032258064516,1.13277689806653,6,5.9,1,3,7,4,-0.604797395139405,2.4652885923845,0.143862809917331,Individual,as.numeric.ignore.,62,,,,,6.12903225806452,1.15210243977228,6,6.34,1,1,7,6,-2.00453877837925,8.29996031809019,0.146317156168309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.12903225806452,5.79032258064516,1.65066766414861,0.101378522539887,122,-0.0674954302619895,0.7449147851007, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.6507, df = 122, p-value = 0.1014
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.06749543  0.74491479
+sample estimates:
+mean of x mean of y 
+ 6.129032  5.790323 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.65066766414861,-0.323530390773165,3.61817859619199,124,62,62,0.29647,0.03261,-0.05811,0.64984,61.65639,58.30237,0.16605,0.10323,0.29464,0.03221,-0.05775,0.64584,61.58665,58.25197,0.10323,0.1478,0.00778,-0.02928,0.3113,0.10403,0.14889,0.00826,-0.02929,0.32198,1.71212,0.89997,3.2501,0.10323,0.53773,-0.1054,1.17869,0.10323,,,,,,,,eltetab,elte,"Eotvos Lorand University, in Budapest, Hungary","Adrienn Ujhelyi, Anna Kende, Mihály Berkics, Gábor Orosz",ML2_Slate1_Hungarian_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Hungary,Hungarian,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,eltetab,1,1,1,1,1,1,88,13,84,88,88,0,100,"Execution
+illegal 
+     88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Tablets 
+     88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.539341Z,6,Bauer,1,,hawaiion,Secondary,Bauer.3,102,52,50,Consumer,as.numeric.ignore.,52,,,,,5.23076923076923,1.50313899811765,6,5.35714285714286,1,1,7,6,-0.643685780031739,2.73725358778327,0.208447874302414,Individual,as.numeric.ignore.,50,,,,,5.34,1.45138920081586,5.5,5.5,1.5,1,7,6,-0.770360326042166,3.26681915748286,0.205257429207564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.34,5.23076923076923,0.373125380211436,0.709844894677111,100,-0.471567928990893,0.690029467452431, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.37313, df = 100, p-value = 0.7098
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4715679  0.6900295
+sample estimates:
+mean of x mean of y 
+ 5.340000  5.230769 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.373125380211436,-1.58844997285688,2.33283869921108,102,52,50,0.0739,0.03926,-0.31462,0.46206,52.94566,52.08385,0.04168,0.70994,0.07335,0.03867,-0.31225,0.45859,52.92356,52.06819,0.70994,0.03729,0.00987,-0.15688,0.22718,0.7113,0.0373,0.0101,-0.15818,0.23122,1.14345,0.56515,2.31193,0.70994,0.13405,-0.57066,0.83808,0.70994,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate1_USEng_execution_legal_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,hawaiion,1,1,1,1,1,1,102,13,95,102,102,0,100,"Execution
+legal 
+  102 ","SubjectPool
+Yes 
+102 ","Setting
+Online (at home) 
+             102 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.691209Z,6,Bauer,1,,hkust,Secondary,Bauer.3,105,54,51,Consumer,as.numeric.ignore.,54,,,,,5.59259259259259,1.03738638420445,6,5.63636363636364,1,3,7,4,-0.352044238669922,2.35837746668916,0.141170405967318,Individual,as.numeric.ignore.,51,,,,,5.58823529411765,0.983391490470307,6,5.65853658536585,1,2,7,5,-1.14077653682129,5.53804145132932,0.137702351890819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.58823529411765,5.59259259259259,-0.0220609181612699,0.982442043020063,103,-0.396075982632317,0.387361385682425, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.022061, df = 103, p-value = 0.9824
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3960760  0.3873614
+sample estimates:
+mean of x mean of y 
+ 5.588235  5.592593 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0220609181612699,-1.98197373668061,1.93795886043772,105,54,51,-0.00431,0.03813,-0.387,0.37841,49.82815,49.87848,-0.00243,0.98244,-0.00428,0.03757,-0.38417,0.37564,49.82941,49.87937,0.98244,-0.00217,0.00962,-0.19167,0.18756,0.98253,-0.00217,0.0098,-0.19407,0.18981,0.99222,0.49562,1.98645,0.98244,-0.00781,-0.70194,0.68635,0.98244,,,,,,,,hkust,hkust,"Division of Social Science, The Hong Kong University of Science and Technology, Hong Kong, China",Eva Chen,ML2_Slate1_Chinese_Inlab_execution_illegal_DEPLOY__Hong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,hkust,1,1,1,1,1,1,105,13,94,105,105,0,0,"Execution
+illegal 
+    105 ","SubjectPool
+Yes 
+105 ","Setting
+In a classroom 
+           105 ","Tablet
+Computers 
+      105 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      105 ","analysis.type
+Secondary 
+      105 ","subset
+all 
+105 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.814006Z,6,Bauer,1,,hunancomp,Secondary,Bauer.3,151,80,71,Consumer,as.numeric.ignore.,80,,,,,5.0375,1.48787291889624,5,5.140625,1,1,7,6,-0.528577692068765,2.64183104303332,0.166349249426651,Individual,as.numeric.ignore.,71,,,,,5.46478873239437,1.47193736197758,6,5.63157894736842,1,1,7,6,-0.783189802429599,3.04312258378245,0.174686826320524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.46478873239437,5.0375,1.77021402078077,0.0787366149727359,149,-0.0496751578345534,0.904252622623286, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.7702, df = 149, p-value = 0.07874
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.04967516  0.90425262
+sample estimates:
+mean of x mean of y 
+ 5.464789  5.037500 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.77021402078077,-0.202949205073634,3.73750060436451,151,80,71,0.28863,0.02686,-0.03309,0.60939,61.35674,58.0859,0.16172,0.08027,0.28717,0.02659,-0.03292,0.60632,61.30104,58.04569,0.08027,0.14352,0.00639,-0.01662,0.29277,0.08078,0.14452,0.00676,-0.01663,0.30159,1.68795,0.94175,3.02017,0.08027,0.52352,-0.06002,1.10531,0.08027,,,,,,,,hunancomp,hunancomp,"Guangdong Literature & Art Vocational College, Guangzhou, China",Zeng Zhijia,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,hunancomp,1,1,1,1,1,1,151,13,135,151,151,0,0,"Execution
+legal 
+  151 ","SubjectPool
+ No 
+151 ","Setting
+Online (at home) 
+             151 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            151 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      151 ","analysis.type
+Secondary 
+      151 ","subset
+all 
+151 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:58.926503Z,6,Bauer,1,,ithaca,Secondary,Bauer.3,79,39,40,Consumer,as.numeric.ignore.,39,,,,,5.41025641025641,1.33215197327183,6,5.54545454545455,1,2,7,5,-0.988895904252194,3.43636166490769,0.213315036067822,Individual,as.numeric.ignore.,40,,,,,5.35,1.68781454808221,6,5.59375,1,1,7,6,-1.04975545938226,3.20778549502115,0.266866911995378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.35,5.41025641025641,-0.175846851145845,0.860875900499252,77,-0.742587887855004,0.622075067342182, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.17585, df = 77, p-value = 0.8609
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7425879  0.6220751
+sample estimates:
+mean of x mean of y 
+ 5.350000  5.410256 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.175846851145845,-2.13543707578126,1.78488313469644,79,39,40,-0.03957,0.05065,-0.48055,0.40166,48.42173,48.88385,-0.02232,0.86089,-0.03919,0.04967,-0.47585,0.39774,48.43714,48.89475,0.86089,-0.02004,0.01281,-0.23645,0.19932,0.86178,-0.02004,0.01316,-0.24102,0.20203,0.93074,0.41827,2.07204,0.86089,-0.07178,-0.87162,0.72853,0.86089,,,,,,,,ithaca,ithaca,"Department of Psychology, Ithaca College, Ithaca, NY 14850",Leigh Ann Vaughn,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ithaca,1,1,1,1,1,1,79,13,77,79,79,0,100,"Execution
+legal 
+   79 ","SubjectPool
+Yes 
+ 79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.070180Z,6,Bauer,1,,johannesburg,Secondary,Bauer.3,52,32,20,Consumer,as.numeric.ignore.,32,,,,,5.34375,1.31024191314724,5,5.46153846153846,1,1,7,6,-1.0080192867444,5.08372086287575,0.231620235445312,Individual,as.numeric.ignore.,20,,,,,6.15,1.13670808176853,7,6.3125,0,4,7,3,-0.960125011490541,2.43385832977298,0.254175654140783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.15,5.34375,2.26798660770742,0.0276827232069005,50,0.0922242739979395,1.52027572600206, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.268, df = 50, p-value = 0.02768
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.09222427 1.52027573
+sample estimates:
+mean of x mean of y 
+  6.15000   5.34375 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.26798660770742,0.247712406013564,4.26669542967392,52,32,20,0.64648,0.08527,0.07061,1.2162,74.10143,67.62102,0.35242,0.03143,0.63673,0.08272,0.06954,1.19786,73.78496,67.37298,0.03143,0.30542,0.01612,0.03501,0.51664,0.03183,0.31548,0.02041,0.03502,0.57174,3.23031,1.13663,9.07873,0.03143,1.17258,0.12807,2.20593,0.03143,,,,,,,,johannesburg,johannesburg,"University of Johannesburg, Johanneburg, South Africa",Byron Adams,ML2_Slate1_South_Africa_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,johannesburg,1,1,1,1,1,1,52,12,51,52,52,0,0,"Execution
+illegal 
+     52 ","SubjectPool
+Yes 
+ 52 ","Setting
+Online (at home) 
+              52 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             52 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       52 ","analysis.type
+Secondary 
+       52 ","subset
+all 
+ 52 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.202026Z,6,Bauer,1,,koc,Secondary,Bauer.3,87,41,46,Consumer,as.numeric.ignore.,41,,,,,5.58536585365854,1.26442891765606,6,5.75757575757576,1,2,7,5,-1.20857372049678,4.32806109892181,0.197470620711086,Individual,as.numeric.ignore.,46,,,,,5.45652173913044,1.32843302409904,6,5.57894736842105,1,2,7,5,-0.653026060098785,2.56844233416407,0.195866763693927,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.45652173913044,5.58536585365854,-0.46191792192184,0.645320266551968,85,-0.683437486696266,0.425749257640063, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.46192, df = 85, p-value = 0.6453
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6834375  0.4257493
+sample estimates:
+mean of x mean of y 
+ 5.456522  5.585366 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.46191792192184,-2.42175292955053,1.50062695736843,87,41,46,-0.09921,0.04619,-0.52014,0.3223,46.04859,47.20364,-0.05593,0.64552,-0.09833,0.04537,-0.51554,0.31945,46.08345,47.22835,0.64552,-0.05004,0.01157,-0.25406,0.16065,0.64741,-0.05008,0.0119,-0.25975,0.16206,0.83532,0.38929,1.79425,0.64552,-0.17995,-0.94343,0.58459,0.64552,,,,,,,,koc,koc,"Koç University, Istanbul, Turkey","Zeynep Cemalcilar, Roza Kamiloglu",ML2_Slate1_Turkish_execution_illegal_Koc_r.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,koc,1,1,1,1,1,1,87,13,82,87,87,0,0,"Execution
+illegal 
+     87 ","SubjectPool
+Yes 
+ 87 ","Setting
+Online (at home) 
+              87 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.315850Z,6,Bauer,1,,lausanne,Secondary,Bauer.3,112,57,55,Consumer,as.numeric.ignore.,57,,,,,5.75438596491228,1.19941506211489,6,5.91489361702128,1,2,7,5,-1.14637597330469,4.591207895264,0.158866405932235,Individual,as.numeric.ignore.,55,,,,,5.89090909090909,1.16543947000655,6,6.04444444444444,1,2,7,5,-1.06169601815645,3.98236101220931,0.157147826077531,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.89090909090909,5.75438596491228,0.610637317455178,0.542699355864162,110,-0.306549682648758,0.579595934642378, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.61064, df = 110, p-value = 0.5427
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3065497  0.5795959
+sample estimates:
+mean of x mean of y 
+ 5.890909  5.754386 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.610637317455178,-1.35236713707772,2.57087379557436,112,57,55,0.11542,0.03579,-0.25561,0.48593,54.59431,53.25227,0.06505,0.54303,0.11463,0.0353,-0.25387,0.48261,54.56305,53.23009,0.54303,0.05812,0.00895,-0.12788,0.23808,0.54476,0.05819,0.00917,-0.12859,0.24273,1.23287,0.62899,2.41421,0.54303,0.20935,-0.46363,0.88137,0.54303,,,,,,,,lausanne,lausanne,"University of Lausanne, Switzerland",Eva Green,ML2_Slate1_French_Inlab_execution_illegal__swiss_r.csv,DO.BR.FL_5,DO.BR.FL_6,Switzerland,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,lausanne,1,1,1,1,1,1,112,13,104,112,112,0,100,"Execution
+illegal 
+    112 ","SubjectPool
+ No 
+112 ","Setting
+Online (at home) 
+             112 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.442976Z,6,Bauer,1,,lundon,Secondary,Bauer.3,112,50,62,Consumer,as.numeric.ignore.,50,,,,,6.02,1.07835854095804,6,6.2,1,2,7,5,-1.61800986570215,6.1714087853084,0.152502927372372,Individual,as.numeric.ignore.,62,,,,,6,1.31822036019506,7,6.22,0,2,7,5,-1.16883191467455,3.43218227127092,0.167414153159009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6,6.02,-0.0864432361541456,0.931271232652511,110,-0.47851251533398,0.438512515333981, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.086443, df = 110, p-value = 0.9313
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4785125  0.4385125
+sample estimates:
+mean of x mean of y 
+     6.00      6.02 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0864432361541456,-2.04624420291457,1.87375019022381,112,50,62,-0.01643,0.03613,-0.38894,0.35616,49.34453,49.53651,-0.00927,0.93127,-0.01632,0.03564,-0.38628,0.35372,49.34901,49.53967,0.93127,-0.00824,0.00901,-0.19149,0.17587,0.93158,-0.00824,0.00917,-0.19388,0.17772,0.97064,0.49388,1.90788,0.93127,-0.0298,-0.70546,0.64599,0.93127,,,,,,,,lundon,lundon,"Lund University, Lund, Sweden","Åse Innes-Ker, Oskar Sundfelt, Anna Cabak Rédei",ML2_Slate1_Swedish_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Sweden,Swedish,1,,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,lundon,1,1,1,1,1,1,112,13,103,112,112,0,100,"Execution
+illegal 
+    112 ","SubjectPool
+    
+112 ","Setting
+Online (at home) 
+             112 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.599358Z,6,Bauer,1,,marian,Secondary,Bauer.3,79,36,43,Consumer,as.numeric.ignore.,36,,,,,4.94444444444445,1.58464857653396,5,5.03333333333333,1,1,7,6,-0.344770928690376,2.47870240585858,0.264108096088994,Individual,as.numeric.ignore.,43,,,,,5.16279069767442,1.51075875856408,5,5.28571428571429,1,2,7,5,-0.572920696387641,2.3730297964485,0.230388550798483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.16279069767442,4.94444444444445,0.625676910747651,0.533377042296919,77,-0.476553828572994,0.913246335032943, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.62568, df = 77, p-value = 0.5334
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4765538  0.9132463
+sample estimates:
+mean of x mean of y 
+ 5.162791  4.944444 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.625676910747651,-1.33879167322964,2.58609914482201,79,36,43,0.14134,0.05116,-0.30244,0.58422,55.6201,53.98062,0.07961,0.53388,0.13996,0.05017,-0.29949,0.57851,55.56554,53.94185,0.53388,0.07112,0.01269,-0.15082,0.28269,0.53638,0.07124,0.01316,-0.15198,0.29061,1.29223,0.57778,2.88536,0.53388,0.25637,-0.54857,1.05965,0.53388,,,,,,,,marian,marian,"Marian University, Indianapolis, IN",Brian Collisson,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,marian,1,1,1,1,1,1,79,13,73,79,79,0,100,"Execution
+legal 
+   79 ","SubjectPool
+No 
+79 ","Setting
+In a classroom 
+            79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.718576Z,6,Bauer,1,,mturk,Secondary,Bauer.3,331,168,163,Consumer,as.numeric.ignore.,168,,,,,6.07142857142857,1.14028795906909,6.5,6.25,0.5,2,7,5,-1.08800058296586,3.46357167590028,0.0879751260028985,Individual,as.numeric.ignore.,163,,,,,6.05521472392638,1.1772091590819,7,6.22900763358779,0,1,7,6,-1.17739792094777,4.07941427774185,0.0922061375672433,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.05521472392638,6.07142857142857,-0.127286212968831,0.898791632640448,329,-0.266797874964489,0.234370179960108, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.12729, df = 329, p-value = 0.8988
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2667979  0.2343702
+sample estimates:
+mean of x mean of y 
+ 6.055215  6.071429 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.127286212968831,-2.087177627052,1.83279856691705,331,168,163,-0.01399,0.01209,-0.22947,0.2015,49.44173,49.60524,-0.0079,0.89879,-0.01396,0.01203,-0.22895,0.20104,49.44301,49.60614,0.89879,-0.00702,0.00303,-0.11432,0.10053,0.89895,-0.00702,0.00305,-0.11482,0.10087,0.97494,0.65954,1.44121,0.89879,-0.02538,-0.41621,0.36548,0.89879,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate1_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,mturk,1,1,1,1,1,1,331,13,267,331,331,0,100,"Execution
+legal 
+  331 ","SubjectPool
+ No 
+331 ","Setting
+Online (at home) 
+             331 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            331 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      331 ","analysis.type
+Secondary 
+      331 ","subset
+all 
+331 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.830988Z,6,Bauer,1,,mturk_india,Secondary,Bauer.3,358,184,174,Consumer,as.numeric.ignore.,184,,,,,5.68478260869565,1.26257043585229,6,5.79054054054054,1,3,7,4,-0.50195487913215,2.01904625624094,0.0930779274227013,Individual,as.numeric.ignore.,174,,,,,5.69540229885058,1.28768359000632,6,5.82857142857143,1,1,7,6,-0.933856288429309,3.75280473167462,0.097619041033245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.69540229885058,5.68478260869565,0.0787770145327451,0.93725424734436,356,-0.254498424769956,0.275737805079801, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.078777, df = 356, p-value = 0.9373
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2544984  0.2757378
+sample estimates:
+mean of x mean of y 
+ 5.695402  5.684783 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0787770145327451,-1.88125080715826,2.0386942342501,358,184,174,0.00833,0.01118,-0.19893,0.21558,50.33232,50.23499,0.0047,0.93725,0.00831,0.01113,-0.19851,0.21513,50.33162,50.23449,0.93725,0.00418,0.0028,-0.09921,0.10743,0.93734,0.00418,0.00282,-0.09954,0.10784,1.01522,0.6971,1.47849,0.93725,0.01511,-0.36082,0.39102,0.93725,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate1_IndiaEng_execution_legal_MTurk_r.csv,DO.BR.FL_eDp84FUKYplaCwd,DO.BR.FL_0qZ2pBW0Kp8oO5D,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,mturk_india,1,1,1,1,1,1,225,13,195,358,358,0,0,"Execution
+legal 
+  358 ","SubjectPool
+ No 
+358 ","Setting
+Online (at home) 
+             358 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            358 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      358 ","analysis.type
+Secondary 
+      358 ","subset
+all 
+358 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:47:59.986561Z,6,Bauer,1,,navarra,Secondary,Bauer.3,54,29,25,Consumer,as.numeric.ignore.,29,,,,,4.72413793103448,1.62341244922403,5,4.84,1,1,7,6,-0.61438419767258,2.93085334963752,0.301460123759492,Individual,as.numeric.ignore.,25,,,,,4.64,1.68027775481714,5,4.76190476190476,1,1,7,6,-0.651271786667348,2.8600637850933,0.336055550963428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.64,4.72413793103448,-0.186855517345604,0.852501042897774,52,-0.987697605874445,0.819421743805478, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.18686, df = 52, p-value = 0.8525
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9876976  0.8194217
+sample estimates:
+mean of x mean of y 
+ 4.640000  4.724138 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.186855517345604,-2.14625103333666,1.77433169037162,54,29,25,-0.051,0.07451,-0.58574,0.48424,47.96645,48.56175,-0.02877,0.85252,-0.05026,0.07236,-0.57726,0.47722,47.99589,48.58258,0.85252,-0.0259,0.01884,-0.28526,0.23893,0.85393,-0.02591,0.01961,-0.2934,0.24364,0.91165,0.34562,2.40685,0.85252,-0.0925,-1.06242,0.87832,0.85252,,,,,,,,navarra,navarra,"University of Navarra, Spain",Austin Lee Nichols,ML2_Slate1_EngSpain_Inlab_execution_illegal__navarra_r.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,navarra,1,1,1,1,1,1,54,13,53,54,54,0,100,"Execution
+illegal 
+     54 ","SubjectPool
+No 
+54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.108608Z,6,Bauer,1,,ntnu,Secondary,Bauer.3,84,43,41,Consumer,as.numeric.ignore.,43,,,,,5.81395348837209,1.13925234366538,6,5.97142857142857,0,1,7,6,-2.07406363452785,9.17290460576127,0.17373435365704,Individual,as.numeric.ignore.,41,,,,,5.46341463414634,1.39816953506379,6,5.63636363636364,1,1,7,6,-1.03520825556042,3.93992296104193,0.218357396048955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.46341463414634,5.81395348837209,-1.26235962475551,0.210397833020411,82,-0.902943600095006,0.201865891643505, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.2624, df = 82, p-value = 0.2104
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9029436  0.2018659
+sample estimates:
+mean of x mean of y 
+ 5.463415  5.813953 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.26235962475551,-3.22798629565015,0.710882058124376,84,43,41,-0.27555,0.0481,-0.7046,0.15517,39.14478,42.27585,-0.15448,0.21253,-0.27302,0.04722,-0.69814,0.15375,39.24191,42.34583,0.21253,-0.13807,0.01159,-0.33578,0.07826,0.21463,-0.13896,0.01235,-0.34932,0.07842,0.60666,0.27859,1.32505,0.21253,-0.49979,-1.27801,0.28145,0.21253,,,,,,,,ntnu,ntnu,"Academia Sinica, Taiwan National Taiwan Normal University, Taiwan",Jen-Ho Chang,ML2_Slate1_Taiwan_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Taiwan,Chinese (traditional),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ntnu,1,1,1,1,1,1,84,13,78,84,84,0,0,"Execution
+legal 
+   84 ","SubjectPool
+No 
+84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.212462Z,6,Bauer,1,,ntnutab,Secondary,Bauer.3,52,30,22,Consumer,as.numeric.ignore.,30,,,,,5.76666666666667,1.19433528860584,6,5.91666666666667,1,1,7,6,-2.13405374071951,9.5484958258689,0.218054792931287,Individual,as.numeric.ignore.,22,,,,,5.22727272727273,1.34276963885482,5,5.33333333333333,1,1,7,6,-1.26978692524596,5.53273650396533,0.286279448904412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.22727272727273,5.76666666666667,-1.52656640990626,0.133170388085632,50,-1.24909422164248,0.170306342854605, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.5266, df = 50, p-value = 0.1332
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.2490942  0.1703063
+sample estimates:
+mean of x mean of y 
+ 5.227273  5.766667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.52656640990626,-3.50167460542768,0.46343740866539,52,30,22,-0.42849,0.08055,-0.98289,0.13008,33.41455,38.09482,-0.2381,0.1374,-0.42203,0.07814,-0.96807,0.12812,33.64998,38.26899,0.1374,-0.21103,0.0179,-0.44378,0.0654,0.13997,-0.21425,0.02041,-0.47692,0.06549,0.45969,0.16817,1.2661,0.1374,-0.7772,-1.78277,0.23594,0.1374,,,,,,,,ntnutab,ntnu,"Academia Sinica, Taiwan National Taiwan Normal University, Taiwan",Jen-Ho Chang,ML2_Slate1_Taiwan_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Taiwan,Chinese (traditional),0,No,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,ntnutab,1,1,1,1,1,1,52,13,50,52,52,0,0,"Execution
+legal 
+   52 ","SubjectPool
+No 
+52 ","Setting
+In a lab 
+      52 ","Tablet
+Tablets 
+     52 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       52 ","analysis.type
+Secondary 
+       52 ","subset
+all 
+ 52 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.319198Z,6,Bauer,1,,occid,Secondary,Bauer.3,67,44,23,Consumer,as.numeric.ignore.,44,,,,,5.40909090909091,1.40295670867887,6,5.55555555555556,1,1,7,6,-1.01278052224276,3.81025565294239,0.211503681809081,Individual,as.numeric.ignore.,23,,,,,6.1304347826087,1.05762804194046,7,6.26315789473684,0,4,7,3,-0.733871805227967,2.1355055001311,0.220530691455547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.1304347826087,5.40909090909091,2.16247441804102,0.0342668918480853,65,0.0551518562759121,1.38753589075966, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.1625, df = 65, p-value = 0.03427
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.05515186 1.38753589
+sample estimates:
+mean of x mean of y 
+ 6.130435  5.409091 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.16247441804102,0.1596784080647,4.1492178411867,67,44,23,0.55641,0.06852,0.04109,1.06761,71.10361,65.30043,0.30601,0.03733,0.54997,0.06694,0.04061,1.05525,70.88297,65.13201,0.03733,0.25906,0.01319,0.0198,0.4576,0.03775,0.26511,0.01562,0.0198,0.49427,2.74347,1.07737,6.93398,0.03733,1.00922,0.07452,1.93643,0.03733,,,,,,,,occid,occid,"Department of Cognitive Science, Occidental College, Los Angeles, CA",Carmel Levitan,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,occid,1,1,2,1,1,1,67,13,63,67,67,0,100,"Execution
+legal 
+   67 ","SubjectPool
+Yes 
+ 67 ","Setting
+In a lab 
+      67 ","Tablet
+Computers   Tablets 
+       66         1 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       67 ","analysis.type
+Secondary 
+       67 ","subset
+all 
+ 67 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.453323Z,6,Bauer,1,,occidtab,Secondary,Bauer.3,81,38,43,Consumer,as.numeric.ignore.,38,,,,,5.65789473684211,1.19178076592367,6,5.78125,1,1,7,6,-1.54596152092968,7.2213099318482,0.193332369524446,Individual,as.numeric.ignore.,43,,,,,5.76744186046512,1.32444434534648,6,5.91428571428572,1,2,7,5,-0.871646363080134,2.92934314738292,0.201975869150441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.76744186046512,5.65789473684211,0.389243908223826,0.698142986697656,79,-0.450636582887673,0.669730830133694, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.38924, df = 79, p-value = 0.6981
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4506366  0.6697308
+sample estimates:
+mean of x mean of y 
+ 5.767442  5.657895 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.389243908223826,-1.57288527706889,2.34891572197248,81,38,43,0.08666,0.04962,-0.3502,0.52298,53.45307,52.44321,0.04886,0.69828,0.08584,0.04868,-0.34686,0.518,53.42026,52.41997,0.69828,0.04375,0.01245,-0.17426,0.2555,0.70006,0.04378,0.01282,-0.17605,0.26129,1.17022,0.52984,2.58204,0.69828,0.15719,-0.63519,0.94858,0.69828,,,,,,,,occidtab,occid,"Department of Cognitive Science, Occidental College, Los Angeles, CA",Carmel Levitan,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,occidtab,1,1,2,1,1,1,81,13,79,81,81,0,100,"Execution
+legal 
+   81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers   Tablets 
+       42        39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.571709Z,6,Bauer,1,,ouhktab,Secondary,Bauer.3,40,21,19,Consumer,as.numeric.ignore.,21,,,,,5.76190476190476,1.17918454470714,6,5.88235294117647,1,2,7,5,-1.40154490381463,5.88579001688872,0.257319163544882,Individual,as.numeric.ignore.,19,,,,,5.26315789473684,1.28418176556808,6,5.35294117647059,1,2,7,5,-0.991320319851175,3.56413158291837,0.294611502170994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.26315789473684,5.76190476190476,-1.28061378456332,0.208090883932841,38,-1.28716587322164,0.289672138885805, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.2806, df = 38, p-value = 0.2081
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.2871659  0.2896721
+sample estimates:
+mean of x mean of y 
+ 5.263158  5.761905 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.28061378456332,-3.25324527675008,0.708471334452142,40,21,19,-0.40547,0.10231,-1.03005,0.22432,34.2565,38.71662,-0.22567,0.21262,-0.39742,0.09828,-1.00959,0.21986,34.553,38.9349,0.21262,-0.2034,0.02356,-0.46674,0.11418,0.21724,-0.20628,0.02703,-0.50589,0.11468,0.47929,0.15438,1.50211,0.21262,-0.73545,-1.86831,0.40687,0.21262,,,,,,,,ouhktab,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate1_Chinese_Inlab_execution_illegal_DEPLOY__Hong_Kong_r__For_Andrew_Tang.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,Other (please indicate),Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ouhktab,1,1,1,1,1,1,40,13,39,40,40,0,0,"Execution
+illegal 
+     40 ","SubjectPool
+Yes 
+ 40 ","Setting
+Other (please indicate) 
+                     40 ","Tablet
+Tablets 
+     40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.677490Z,6,Bauer,1,,plu,Secondary,Bauer.3,95,49,46,Consumer,as.numeric.ignore.,49,,,,,5.36734693877551,1.45335642495541,6,5.48780487804878,1,1,7,6,-0.823926535457617,3.13455341237057,0.207622346422202,Individual,as.numeric.ignore.,46,,,,,5.60869565217391,1.4059913208135,6,5.78947368421053,1,1,7,6,-1.17065972735629,4.40933313840324,0.20730211067755,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.60869565217391,5.36734693877551,0.821734846111118,0.413329522433965,93,-0.341893819426802,0.824591246223608, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.82173, df = 93, p-value = 0.4133
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3418938  0.8245912
+sample estimates:
+mean of x mean of y 
+ 5.608696  5.367347 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.821734846111118,-1.14397237242706,2.78304534480472,95,49,46,0.1687,0.0423,-0.23486,0.57135,56.69839,54.74769,0.09495,0.41415,0.16734,0.04162,-0.23296,0.56673,56.64473,54.70948,0.41415,0.0849,0.01049,-0.1178,0.27727,0.4164,0.08511,0.01087,-0.11835,0.28473,1.35797,0.65313,2.81883,0.41415,0.30599,-0.42598,1.03632,0.41415,,,,,,,,plu,plu,"Pacific Lutheran University, Tacoma, WA",Jon Grahe,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,plu,1,1,1,1,1,1,95,13,87,95,95,0,100,"Execution
+legal 
+   95 ","SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.823545Z,6,Bauer,1,,poitiers,Secondary,Bauer.3,44,25,19,Consumer,as.numeric.ignore.,25,,,,,5.64,1.55134350376268,6,5.85714285714286,1,2,7,5,-1.15556203528211,3.33891506357379,0.310268700752536,Individual,as.numeric.ignore.,19,,,,,5.47368421052632,1.17229220156408,5,5.52941176470588,1,3,7,4,-0.147801276520373,2.31776369397918,0.268942275732559,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.47368421052632,5.64,-0.389906011554878,0.698576391900265,42,-1.02713568370454,0.694504104757174, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.38991, df = 42, p-value = 0.6986
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.0271357  0.6945041
+sample estimates:
+mean of x mean of y 
+ 5.473684  5.640000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.389906011554878,-2.34932237678281,1.57412988145022,44,25,19,-0.11867,0.09279,-0.71503,0.47909,45.27686,46.65632,-0.06687,0.69882,-0.11654,0.08949,-0.70218,0.47049,45.36132,46.71625,0.69882,-0.06006,0.02309,-0.34081,0.23603,0.70218,-0.06013,0.02439,-0.355,0.24057,0.80635,0.27337,2.38448,0.69882,-0.21524,-1.29691,0.86898,0.69882,,,,,,,,poitiers,poitiers,"Université de Poitiers, France",Armand Chatard,ML2_Slate1_French_Inlab_execution_illegal_pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",illegal,Slate1,poitiers,1,1,1,1,1,1,44,11,44,44,44,0,100,"Execution
+illegal 
+     44 ","SubjectPool
+No 
+44 ","Setting
+In a lab 
+      44 ","Tablet
+Computers 
+       44 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               44 ","analysis.type
+Secondary 
+       44 ","subset
+all 
+ 44 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:00.935830Z,6,Bauer,1,,potsdam,Secondary,Bauer.3,90,50,40,Consumer,as.numeric.ignore.,50,,,,,6.06,1.21906622009618,6,6.3,1,2,7,5,-1.68545826220359,5.87407075616052,0.172401998189092,Individual,as.numeric.ignore.,40,,,,,6.05,0.95943359359198,6,6.15625,1,3,7,4,-0.981758662308277,3.91490599855681,0.151699770971549,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.05,6.06,-0.0424111801353621,0.966266997642633,88,-0.478576884323514,0.458576884323515, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.042411, df = 88, p-value = 0.9663
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4785769  0.4585769
+sample estimates:
+mean of x mean of y 
+     6.05      6.06 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0424111801353621,-2.00226484002928,1.91768308871162,90,50,40,-0.009,0.045,-0.42474,0.4068,49.64109,49.74621,-0.00508,0.96627,-0.00892,0.04423,-0.42111,0.40333,49.64415,49.74838,0.96627,-0.00452,0.01124,-0.20874,0.20028,0.96646,-0.00452,0.01149,-0.21185,0.20303,0.98381,0.46283,2.09145,0.96627,-0.01632,-0.7704,0.73786,0.96627,,,,,,,,potsdam,potsdam,"University of Potsdam, Germany",Robert Busching,Slate_1_Deutsch_germany_Revised_Version_2__potsdam_r_manuallyrecode_vanp21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,potsdam,1,1,1,1,1,1,90,13,85,90,90,0,100,"Execution
+illegal 
+     90 ","SubjectPool
+Yes 
+ 90 ","Setting
+Online (at home) 
+              90 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.049888Z,6,Bauer,1,,pscio,Secondary,Bauer.3,87,48,39,Consumer,as.numeric.ignore.,48,,,,,5.29166666666667,1.28755637485887,5,5.4,1,2,7,5,-0.557743276252118,3.11891904258057,0.185842754905397,Individual,as.numeric.ignore.,39,,,,,5.58974358974359,1.44582791285002,6,5.78787878787879,1,1,7,6,-1.2661330911393,4.50642410334913,0.231517754404536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.58974358974359,5.29166666666667,1.01623512367613,0.312401369309577,85,-0.285111717332913,0.881265563486758, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.0162, df = 85, p-value = 0.3124
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2851117  0.8812656
+sample estimates:
+mean of x mean of y 
+ 5.589744  5.291667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.01623512367613,-0.952622908616653,2.97915852555524,87,48,39,0.21908,0.04675,-0.20537,0.64224,58.67058,56.15548,0.12311,0.31382,0.21714,0.04593,-0.20355,0.63656,58.59505,56.10143,0.31382,0.10956,0.01135,-0.10278,0.30748,0.31622,0.11,0.0119,-0.10314,0.31776,1.4879,0.68902,3.20561,0.31382,0.39737,-0.37249,1.1649,0.31382,,,,,,,,pscio,pscio,"University of the Republic, Montevideo, Uruguay",Alejandro Vasquez Echeverría,ML2_Slate1_Spanish_execution_illegal__Uruguay_r.csv,DO.BR.FL_5,DO.BR.FL_6,Uruguay,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,pscio,1,1,1,1,1,1,87,13,82,87,87,0,0,"Execution
+illegal 
+     87 ","SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.160997Z,6,Bauer,1,,psuabington,Secondary,Bauer.3,90,45,45,Consumer,as.numeric.ignore.,45,,,,,4.91111111111111,1.36218778278017,5,4.94594594594595,1,2,7,5,-0.00178720489027127,2.39018834701557,0.203062965361079,Individual,as.numeric.ignore.,45,,,,,5.06666666666667,1.55797070809201,5,5.16216216216216,1,1,7,6,-0.403406606918839,2.46911164415267,0.232248560683148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.06666666666667,4.91111111111111,0.504227412006593,0.615361733422306,88,-0.457528881372469,0.768639992483579, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.50423, df = 88, p-value = 0.6154
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4575289  0.7686400
+sample estimates:
+mean of x mean of y 
+ 5.066667  4.911111 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.504227412006593,-1.45857611628958,2.46417407770201,90,45,45,0.1063,0.04451,-0.30749,0.51949,54.2328,52.99586,0.05992,0.61561,0.10539,0.04375,-0.30487,0.51505,54.19676,52.9703,0.61561,0.05367,0.01117,-0.15364,0.25406,0.61754,0.05372,0.01149,-0.15486,0.25975,1.21265,0.5725,2.56577,0.61561,0.19281,-0.55773,0.94226,0.61561,,,,,,,,psuabington,psuabington,"Department of Psychology, Pennsylvania State University Abington, Abington, PA 19001",Michael J. Bernstein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psuabington,1,1,1,1,1,1,90,13,86,90,90,0,100,"Execution
+legal 
+   90 ","SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.313535Z,6,Bauer,1,,psuabingtontab,Secondary,Bauer.3,81,34,47,Consumer,as.numeric.ignore.,34,,,,,5.41176470588235,1.41673219938603,5.5,5.57142857142857,0.5,1,7,6,-0.953988568204641,4.03697206982386,0.242967567720539,Individual,as.numeric.ignore.,47,,,,,5.19148936170213,1.52712144490642,6,5.33333333333333,1,1,7,6,-0.845036892154502,3.03131592284469,0.222753556577527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.19148936170213,5.41176470588235,-0.660177459600671,0.511060262210533,79,-0.884410568362604,0.443859880002152, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.66018, df = 79, p-value = 0.5111
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8844106  0.4438599
+sample estimates:
+mean of x mean of y 
+ 5.191489  5.411765 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.660177459600671,-2.62075386164472,1.30455964441021,81,34,47,-0.14863,0.05082,-0.59004,0.29371,44.09217,45.81485,-0.0837,0.51163,-0.14722,0.04986,-0.58442,0.29091,44.14803,45.85456,0.51163,-0.07407,0.01236,-0.28282,0.14522,0.51412,-0.07421,0.01282,-0.29074,0.14625,0.76369,0.34294,1.70358,0.51163,-0.26959,-1.07021,0.53273,0.51163,,,,,,,,psuabingtontab,psuabington,"Department of Psychology, Pennsylvania State University Abington, Abington, PA 19001",Michael J. Bernstein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psuabingtontab,1,1,1,1,1,1,81,13,77,81,81,0,100,"Execution
+legal 
+   81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Tablets 
+     81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.428440Z,6,Bauer,1,,psumain,Secondary,Bauer.3,81,36,45,Consumer,as.numeric.ignore.,36,,,,,5.02777777777778,1.74824174711314,6,5.2,1,1,7,6,-0.953998959524302,2.88819962723364,0.291373624518857,Individual,as.numeric.ignore.,45,,,,,5.57777777777778,1.38971692488547,6,5.75675675675676,1,2,7,5,-1.0102658866515,3.32413675574657,0.207166767568392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.57777777777778,5.02777777777778,1.57796430463584,0.118569929302112,79,-0.143772103976214,1.24377210397621, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.578, df = 79, p-value = 0.1186
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1437721  1.2437721
+sample estimates:
+mean of x mean of y 
+ 5.577778  5.027778 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.57796430463584,-0.402246271403871,3.54835104283544,81,36,45,0.35284,0.05077,-0.08995,0.79344,63.78971,59.85122,0.19702,0.12135,0.34948,0.04981,-0.08909,0.78588,63.66367,59.75931,0.12135,0.1748,0.01175,-0.04521,0.37077,0.1228,0.17662,0.01282,-0.04524,0.38931,1.89646,0.84947,4.21704,0.12135,0.63999,-0.16314,1.43913,0.12135,,,,,,,,psumain,psumain,The Pennsylvania State University,"Reginald B. Adams, Jr, Anthony J. Nelson, Troy G. Steiner",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,psumain,1,1,1,1,1,1,81,13,80,81,81,0,100,"Execution
+legal 
+   81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.537001Z,6,Bauer,1,,purkyne,Secondary,Bauer.3,141,64,77,Consumer,as.numeric.ignore.,64,,,,,4.265625,1.58607219255619,4,4.32692307692308,1,1,7,6,-0.32274639900909,2.44895413510491,0.198259024069524,Individual,as.numeric.ignore.,77,,,,,4.84415584415585,1.46057788729897,5,4.93650793650794,1,1,7,6,-0.569188279847862,2.94352265934039,0.16644829800079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.84415584415585,4.265625,2.25199957538745,0.0258901223909857,139,0.0706007759191648,1.08646091239252, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.252, df = 139, p-value = 0.02589
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.07060078 1.08646091
+sample estimates:
+mean of x mean of y 
+ 4.844156  4.265625 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.25199957538745,0.270292915417842,4.22575058124103,141,64,77,0.38093,0.02913,0.04572,0.71479,64.83715,60.61723,0.21234,0.02721,0.37887,0.02881,0.04547,0.71093,64.76073,60.56121,0.02721,0.18762,0.00665,0.02292,0.33741,0.02732,0.18987,0.00725,0.02292,0.35116,1.99556,1.08646,3.65642,0.02721,0.69093,0.08293,1.29648,0.02721,,,,,,,,purkyne,purkyne,"The University of J. E. Purkyně, Ústí nad Labem, Czech Republic",Petr Houdek,ML2_Slate1_Czech_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,purkyne,1,1,1,1,1,1,141,13,130,141,141,0,100,"Execution
+illegal 
+    141 ","SubjectPool
+Yes 
+141 ","Setting
+In a lab 
+     141 ","Tablet
+Computers 
+      141 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      141 ","analysis.type
+Secondary 
+      141 ","subset
+all 
+141 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.704066Z,6,Bauer,1,,sandiegosu,Secondary,Bauer.3,173,93,80,Consumer,as.numeric.ignore.,93,,,,,5.36559139784946,1.47283331088903,6,5.52,1,1,7,6,-0.791614619412811,2.89713675590814,0.15272569977818,Individual,as.numeric.ignore.,80,,,,,5.4,1.27884441507741,6,5.484375,1,2,7,5,-0.524755396264837,2.6348186985402,0.142979152237952,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.4,5.36559139784946,0.162735566980374,0.870918792413622,171,-0.382957492787784,0.451774697088861, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.16274, df = 171, p-value = 0.8709
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3829575  0.4517747
+sample estimates:
+mean of x mean of y 
+ 5.400000  5.365591 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.162735566980374,-1.7975419149082,2.12253759919455,173,93,80,0.02482,0.02325,-0.2741,0.32366,50.98988,50.69999,0.014,0.87092,0.02471,0.02305,-0.2729,0.32224,50.98554,50.69692,0.87092,0.01244,0.00581,-0.13618,0.16022,0.8713,0.01244,0.00588,-0.13703,0.16161,1.04604,0.60825,1.79869,0.87092,0.04501,-0.49717,0.58706,0.87092,,,,,,,,sandiegosu,sandiegosu,"Department of Psychology, San Diego State University, San Diego, CA 92182",Thierry Devos,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,sandiegosu,1,1,1,1,1,1,173,13,153,173,173,0,100,"Execution
+legal 
+  173 ","SubjectPool
+Yes 
+173 ","Setting
+In a lab 
+     173 ","Tablet
+Computers 
+      173 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              173 ","analysis.type
+Secondary 
+      173 ","subset
+all 
+173 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.827422Z,6,Bauer,1,,santiagoon,Secondary,Bauer.3,60,30,30,Consumer,as.numeric.ignore.,30,,,,,5.13333333333333,1.73668994182122,6,5.33333333333333,1,1,7,6,-0.810568011875354,2.58505446906603,0.317074752175939,Individual,as.numeric.ignore.,30,,,,,5.7,1.23595558451611,6,5.83333333333333,1,3,7,4,-0.637532482615165,2.47111068081876,0.225653584571318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.7,5.13333333333333,1.45607757429082,0.150763286881017,58,-0.212348541298079,1.34568187463141, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.4561, df = 58, p-value = 0.1508
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2123485  1.3456819
+sample estimates:
+mean of x mean of y 
+ 5.700000  5.133333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.45607757429082,-0.527794747542556,3.42763945401754,60,30,30,0.37596,0.06784,-0.13628,0.88501,64.65258,60.48196,0.20964,0.15429,0.37108,0.06609,-0.13451,0.87352,64.47092,60.34895,0.15429,0.18779,0.01577,-0.06914,0.41042,0.15671,0.19005,0.01754,-0.06925,0.43611,1.97765,0.781,4.97903,0.15429,0.68191,-0.24718,1.60524,0.15429,,,,,,,,santiagoon,santiagoon,"Santiago, Chile","David Sirlopú, Francisco Ceric",ML2_Slate1_Spanish_execution_illegal__Chile_r.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,santiagoon,1,1,1,1,1,1,60,13,59,60,60,0,100,"Execution
+illegal 
+     60 ","SubjectPool
+Yes 
+ 60 ","Setting
+Online (at home) 
+              60 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             60 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       60 ","analysis.type
+Secondary 
+       60 ","subset
+all 
+ 60 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:01.944815Z,6,Bauer,1,,swps,Secondary,Bauer.3,95,39,56,Consumer,as.numeric.ignore.,39,,,,,4.94871794871795,1.3945140249284,5,5,1,2,7,5,-0.14378413470341,2.38416219556066,0.223300956267085,Individual,as.numeric.ignore.,56,,,,,4.85714285714286,1.43246223403902,5,4.89130434782609,1,2,7,5,-0.15897137913226,2.11748117288896,0.191420817830957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.85714285714286,4.94871794871795,-0.309847303561144,0.757370301720422,93,-0.678477029751285,0.495326846601101, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.30985, df = 93, p-value = 0.7574
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6784770  0.4953268
+sample estimates:
+mean of x mean of y 
+ 4.857143  4.948718 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.309847303561144,-2.2694843015365,1.65145246479271,95,39,56,-0.06462,0.04352,-0.47333,0.34443,47.42373,48.17767,-0.03645,0.75743,-0.0641,0.04282,-0.4695,0.34165,47.44454,48.1924,0.75743,-0.03211,0.01062,-0.22908,0.16879,0.75868,-0.03212,0.01087,-0.23321,0.17042,0.8894,0.42379,1.86774,0.75743,-0.11721,-0.85852,0.62473,0.75743,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate1_Polish_Inlab_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,swps,1,1,1,1,1,1,95,13,86,95,95,0,100,"Execution
+illegal 
+     95 ","SubjectPool
+No 
+95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.046722Z,6,Bauer,1,,tamu,Secondary,Bauer.3,98,48,50,Consumer,as.numeric.ignore.,48,,,,,5.20833333333333,1.42855876387497,5.5,5.275,1.5,2,7,5,-0.415833574668158,2.06564835020505,0.206194696719103,Individual,as.numeric.ignore.,50,,,,,5.44,1.40203933101546,6,5.6,1,2,7,5,-0.683697653691283,2.70064761978345,0.198278303690257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.44,5.20833333333333,0.810165295643356,0.419848935116383,96,-0.335939353128175,0.79927268646151, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.81017, df = 96, p-value = 0.4198
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3359394  0.7992727
+sample estimates:
+mean of x mean of y 
+ 5.440000  5.208333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.810165295643356,-1.1552374303679,2.77136762613559,98,48,50,0.16371,0.04097,-0.23344,0.56002,56.50211,54.60794,0.09216,0.42062,0.16243,0.04033,-0.23161,0.55563,56.45163,54.57201,0.42062,0.08241,0.01017,-0.11709,0.27217,0.4228,0.08259,0.01053,-0.11763,0.27921,1.34574,0.65481,2.76146,0.42062,0.29694,-0.42342,1.01576,0.42062,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,tamu,1,1,1,1,1,1,98,13,92,98,98,0,100,"Execution
+legal 
+   98 ","SubjectPool
+Yes 
+ 98 ","Setting
+In a lab 
+      98 ","Tablet
+Computers 
+       98 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       98 ","analysis.type
+Secondary 
+       98 ","subset
+all 
+ 98 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.229957Z,6,Bauer,1,,toronto,Secondary,Bauer.3,351,166,185,Consumer,as.numeric.ignore.,166,,,,,5.32530120481928,1.32672697047296,5.5,5.44776119402985,0.5,1,7,6,-0.69019931982266,3.11477501236983,0.102973983560136,Individual,as.numeric.ignore.,185,,,,,5.58378378378378,1.278907803709,6,5.71140939597315,1,1,7,6,-0.718718813172623,3.01348881057292,0.0940271717596734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.58378378378378,5.32530120481928,1.85735601896225,0.0641026973611365,349,-0.0152288362196828,0.532193994148698, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.8574, df = 349, p-value = 0.0641
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.01522884  0.53219399
+sample estimates:
+mean of x mean of y 
+ 5.583784  5.325301 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.85735601896225,-0.108765764076075,3.82083019411762,351,166,185,0.19857,0.01149,-0.01163,0.40848,57.86996,55.58314,0.11166,0.06475,0.19814,0.01144,-0.0116,0.4076,57.85325,55.57121,0.06475,0.09893,0.0028,-0.00582,0.20038,0.06492,0.09926,0.00287,-0.00582,0.20312,1.43356,0.97913,2.09783,0.06475,0.36016,-0.02109,0.7409,0.06475,,,,,,,,toronto,toronto,"University of Toronto, Scarborough",Yoel Inbar,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,toronto,1,1,1,1,1,1,351,13,285,351,351,0,100,"Execution
+illegal 
+    351 ","SubjectPool
+Yes 
+351 ","Setting
+In a lab 
+     351 ","Tablet
+Computers 
+      351 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      351 ","analysis.type
+Secondary 
+      351 ","subset
+all 
+351 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.327379Z,6,Bauer,1,,tufts,Secondary,Bauer.3,88,46,42,Consumer,as.numeric.ignore.,46,,,,,5.56521739130435,1.20466083586568,6,5.68421052631579,1,2,7,5,-0.733065844161257,3.44178290464024,0.177617550143229,Individual,as.numeric.ignore.,42,,,,,5.90476190476191,1.18547147787487,6,6.08823529411765,1,2,7,5,-1.68180535756235,6.37121234888328,0.182922220320604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.90476190476191,5.56521739130435,1.3307328990791,0.186794487207537,86,-0.167688871476546,0.846777898391661, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.3307, df = 86, p-value = 0.1868
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1676889  0.8467779
+sample estimates:
+mean of x mean of y 
+ 5.904762  5.565217 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.3307328990791,-0.643090700033726,3.29690598141365,88,46,42,0.28401,0.04601,-0.13725,0.70363,61.17974,57.95816,0.15916,0.18898,0.28152,0.04521,-0.13605,0.69748,61.08453,57.88947,0.18898,0.14204,0.01104,-0.06918,0.33498,0.19085,0.14301,0.01176,-0.06929,0.34842,1.67386,0.77962,3.58315,0.18898,0.51513,-0.24894,1.27624,0.18898,,,,,,,,tufts,tufts,Tufts,Satia Marotta,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,tufts,1,1,1,1,1,1,88,13,84,88,88,0,100,"Execution
+legal 
+   88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.422291Z,6,Bauer,1,,ubc,Secondary,Bauer.3,81,38,43,Consumer,as.numeric.ignore.,38,,,,,5.89473684210526,0.89410905931957,6,5.90625,1,4,7,3,-0.0235647859345825,1.72732108255974,0.14504364224871,Individual,as.numeric.ignore.,43,,,,,5.76744186046512,1.28798863686066,6,5.97142857142857,1,1,7,6,-1.58810165156742,6.07854085821594,0.19641642572589,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.76744186046512,5.89473684210526,-0.510076978891656,0.611419717002804,79,-0.624032402563214,0.36944243928292, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.51008, df = 79, p-value = 0.6114
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6240324  0.3694424
+sample estimates:
+mean of x mean of y 
+ 5.767442  5.894737 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.510076978891656,-2.4700398492241,1.45310399525462,81,38,43,-0.11357,0.04965,-0.54995,0.32353,45.47905,46.79977,-0.064,0.61171,-0.11249,0.04871,-0.54471,0.32045,45.52193,46.83019,0.61171,-0.05729,0.01242,-0.26775,0.16134,0.61387,-0.05736,0.01282,-0.27444,0.16277,0.81384,0.3688,1.79825,0.61171,-0.20599,-0.99749,0.58682,0.61171,,,,,,,,ubc,ubc,"University of British Columbia, Vancouver, Canada",Chris NH Street,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ubc,1,1,1,1,1,1,81,13,77,81,81,0,100,"Execution
+illegal 
+     81 ","SubjectPool
+Yes 
+ 81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.545819Z,6,Bauer,1,,ubctab,Secondary,Bauer.3,76,37,39,Consumer,as.numeric.ignore.,37,,,,,5.43243243243243,1.19118383086697,5,5.51612903225807,1,3,7,4,-0.387532055389405,2.43368942638784,0.195829415489046,Individual,as.numeric.ignore.,39,,,,,5.7948717948718,1.10452388360175,6,5.90909090909091,1,2,7,5,-1.01169118168422,4.68674377398387,0.176865370314773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.7948717948718,5.43243243243243,1.37628642378931,0.172883530610365,74,-0.162288762130609,0.887167487009333, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.3763, df = 74, p-value = 0.1729
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1622888  0.8871675
+sample estimates:
+mean of x mean of y 
+ 5.794872  5.432432 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.37628642378931,-0.600723299580523,3.34412455152349,76,37,39,0.31585,0.05332,-0.13786,0.76746,62.39423,58.83647,0.17673,0.17552,0.31264,0.05225,-0.13646,0.75966,62.27226,58.74807,0.17552,0.15798,0.01268,-0.06966,0.36233,0.17758,0.15932,0.0137,-0.06978,0.37957,1.77339,0.77876,4.02297,0.17552,0.57289,-0.25006,1.39202,0.17552,,,,,,,,ubctab,ubc,"University of British Columbia, Vancouver, Canada",Chris NH Street,ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Tablets,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ubctab,1,1,1,1,1,1,76,13,71,76,76,0,100,"Execution
+illegal 
+     76 ","SubjectPool
+Yes 
+ 76 ","Setting
+In a lab 
+      76 ","Tablet
+Tablets 
+     76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.671679Z,6,Bauer,1,,ucron,Secondary,Bauer.3,103,50,53,Consumer,as.numeric.ignore.,50,,,,,6.06,0.977502022546057,6,6.2,1,3,7,4,-1.04705120482835,3.77200676388674,0.138239661753177,Individual,as.numeric.ignore.,53,,,,,5.77358490566038,1.4229102008798,6,6.02325581395349,1,2,7,5,-1.29303917341673,3.89069449261957,0.195451747641191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.77358490566038,6.06,-1.18383723754145,0.23925621096974,101,-0.766354805930311,0.193524617251066, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.1838, df = 101, p-value = 0.2393
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7663548  0.1935246
+sample estimates:
+mean of x mean of y 
+ 5.773585  6.060000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.18383723754145,-3.14766426042752,0.785804683803651,103,50,53,-0.23339,0.03913,-0.62056,0.15492,40.77282,43.44587,-0.13108,0.24084,-0.23166,0.03855,-0.61594,0.15377,40.84028,43.49423,0.24084,-0.11699,0.00954,-0.29889,0.07795,0.24266,-0.11753,0.01,-0.3083,0.07811,0.65486,0.32447,1.32445,0.24084,-0.42333,-1.12557,0.281,0.24084,,,,,,,,ucron,ucron,"Universidad de Costa Rica, Costa Rica","Vanessa Smith-Castro, Rolando Pérez, David Torres",ML2_Slate1_Spanish_execution_illegal__Costa_Rica_r.csv,DO.BR.FL_6,DO.BR.FL_7,Costa Rica,Spanish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,ucron,1,1,1,1,1,1,103,13,96,103,103,0,0,"Execution
+illegal 
+    103 ","SubjectPool
+ No 
+103 ","Setting
+Online (at home) 
+             103 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            103 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      103 ","analysis.type
+Secondary 
+      103 ","subset
+all 
+103 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.787648Z,6,Bauer,1,,udd,Secondary,Bauer.3,95,51,44,Consumer,as.numeric.ignore.,51,,,,,5.33333333333333,1.68126936172247,6,5.58536585365854,1,1,7,6,-1.0720166558009,3.28962709149163,0.235424800310645,Individual,as.numeric.ignore.,44,,,,,5.5,1.77187326965586,6,5.75,1,1,7,6,-0.98955865791198,3.01481481481481,0.267119945977668,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.5,5.33333333333333,0.469919221422073,0.639512778911428,93,-0.537639422486408,0.870972755819742, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.46992, df = 93, p-value = 0.6395
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5376394  0.8709728
+sample estimates:
+mean of x mean of y 
+ 5.500000  5.333333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.469919221422073,-1.49246482666095,2.4297831072894,95,51,44,0.09669,0.04238,-0.30708,0.49994,53.8513,52.7254,0.05451,0.63971,0.09591,0.0417,-0.3046,0.4959,53.82025,52.7034,0.63971,0.04867,0.01059,-0.15294,0.24432,0.64145,0.04871,0.01087,-0.15415,0.24936,1.19169,0.57293,2.47636,0.63971,0.17537,-0.55699,0.90679,0.63971,,,,,,,,udd,udd,"Concepción, Chile","David Sirlopú, Francisco Ceric",ML2_Slate1_Spanish_execution_illegal__Chile_r.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,udd,1,1,1,1,1,1,95,13,92,95,95,0,100,"Execution
+illegal 
+     95 ","SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:02.899069Z,6,Bauer,1,,ufl,Secondary,Bauer.3,116,57,59,Consumer,as.numeric.ignore.,57,,,,,5.40350877192982,1.23721532256352,6,5.48936170212766,1,2,7,5,-0.575637265519116,2.69503944959401,0.163873172739205,Individual,as.numeric.ignore.,59,,,,,5.22033898305085,1.36543281770324,5,5.36734693877551,1,1,7,6,-1.14150286217833,4.53422480124999,0.177764211554263,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.22033898305085,5.40350877192982,-0.756314327408922,0.45102086070783,114,-0.662941132407853,0.2966015546499, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.75631, df = 114, p-value = 0.451
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6629411  0.2966016
+sample estimates:
+mean of x mean of y 
+ 5.220339  5.403509 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.756314327408922,-2.71707715967683,1.20775411652747,116,57,59,-0.14046,0.03458,-0.50462,0.22431,44.41463,46.04406,-0.07912,0.45158,-0.13954,0.03412,-0.5013,0.22283,44.45122,46.07006,0.45158,-0.07066,0.00861,-0.24662,0.1124,0.45338,-0.07078,0.00885,-0.25181,0.11288,0.77509,0.4004,1.50208,0.45158,-0.25478,-0.91529,0.40685,0.45158,,,,,,,,ufl,ufl,"University of Florida, Florida",Richard A. Klein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,ufl,1,1,1,1,1,1,116,13,109,116,116,0,100,"Execution
+legal 
+  116 ","SubjectPool
+Yes 
+116 ","Setting
+In a lab 
+     116 ","Tablet
+Computers 
+      116 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              116 ","analysis.type
+Secondary 
+      116 ","subset
+all 
+116 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.047521Z,6,Bauer,1,,uiuc,Secondary,Bauer.3,204,100,104,Consumer,as.numeric.ignore.,100,,,,,5.39,1.23823758755431,6,5.4875,1,1,7,6,-0.772826210045749,3.69625144509896,0.123823758755431,Individual,as.numeric.ignore.,104,,,,,5.45192307692308,1.39958251536891,6,5.60714285714286,1,1,7,6,-0.818944711998701,3.10527308971005,0.137240356860564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.45192307692308,5.39,0.334198590697493,0.738576419121158,202,-0.303424132983692,0.427270286829845, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.3342, df = 202, p-value = 0.7386
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3034241  0.4272703
+sample estimates:
+mean of x mean of y 
+ 5.451923  5.390000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.334198590697493,-1.6264492082869,2.29401989160941,204,100,104,0.04681,0.01962,-0.22779,0.32129,51.86661,51.32014,0.0264,0.73861,0.04663,0.01948,-0.22695,0.32009,51.85968,51.31523,0.73861,0.02351,0.00492,-0.11369,0.15934,0.73922,0.02351,0.00498,-0.11419,0.16071,1.0886,0.66155,1.79096,0.73861,0.0849,-0.41317,0.58275,0.73861,,,,,,,,uiuc,uiuc,"University of Illinois at Urbana-Champaign, Champaign, IL","Erika Salomon, Marie Heffernan",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uiuc,1,1,1,1,1,1,204,13,178,204,204,0,100,"Execution
+legal 
+  204 ","SubjectPool
+Yes 
+204 ","Setting
+In a lab 
+     204 ","Tablet
+Computers 
+      204 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                              204 ","analysis.type
+Secondary 
+      204 ","subset
+all 
+204 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.161449Z,6,Bauer,1,,umich,Secondary,Bauer.3,88,45,43,Consumer,as.numeric.ignore.,45,,,,,4.93333333333333,1.6431676725155,5,5.05405405405405,1,1,7,6,-0.607306615426652,2.45054926368058,0.244948974278318,Individual,as.numeric.ignore.,43,,,,,5.74418604651163,1.19708024268205,6,5.85714285714286,1,2,7,5,-0.843915419563585,3.43889584313763,0.18255302558242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.810852713178295,5.74418604651163,4.93333333333333,2.65424838776387,0.00957703496195195,80.4507006340095,0.202955740927075,1.41874968542951,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.6542, df = 80.451, p-value = 0.009577
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2029557 1.4187497
+sample estimates:
+mean of x mean of y 
+ 5.744186  4.933333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.65424838776387,0.64406086792085,4.64862336003572,88,45,43,0.56603,0.0473,0.13735,0.99135,71.43146,65.55125,0.31102,0.01089,0.56108,0.04647,0.13615,0.98268,71.26296,65.42225,0.01089,0.27517,0.00982,0.06928,0.44812,0.01085,0.28244,0.01176,0.0694,0.48235,2.79176,1.2829,6.03818,0.01089,1.02667,0.24912,1.7981,0.01089,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,umich,1,1,1,1,1,1,88,13,83,88,88,0,100,"Execution
+legal 
+   88 ","SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.273469Z,6,Bauer,1,,unam,Secondary,Bauer.3,144,84,60,Consumer,as.numeric.ignore.,84,,,,,5.54761904761905,1.45125423033961,6,5.73529411764706,1,1,7,6,-1.03490939466006,3.77575415874501,0.158344818170384,Individual,as.numeric.ignore.,60,,,,,5.78333333333333,1.56326111406075,6,6.08333333333333,1,1,7,6,-1.40785892912258,4.43759861146611,0.201816142017698,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.78333333333333,5.54761904761905,0.930408392817092,0.353738719553576,142,-0.265100834778634,0.736529406207205, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.93041, df = 142, p-value = 0.3537
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2651008  0.7365294
+sample estimates:
+mean of x mean of y 
+ 5.783333  5.547619 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.930408392817092,-1.03416699631394,2.89172005107675,144,84,60,0.15727,0.02866,-0.17481,0.48879,56.24831,54.42731,0.08855,0.35446,0.15644,0.02835,-0.17388,0.4862,56.21552,54.40398,0.35446,0.07784,0.00691,-0.08646,0.23582,0.35592,0.078,0.00709,-0.08668,0.24035,1.3301,0.72828,2.42678,0.35446,0.28525,-0.31706,0.88657,0.35446,,,,,,,,unam,unam,National Autonomous University of Mexico in Mexico City,"Anja Eller, Miguel-Ángel Freyre",ML2_Slate1_Spanish_execution_illegal__Mexico_unam_r.csv,DO.BR.FL_5,DO.BR.FL_6,Mexico,Spanish,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,unam,1,1,1,1,1,1,144,13,128,144,144,0,0,"Execution
+illegal 
+    144 ","SubjectPool
+ No 
+144 ","Setting
+Online (at home) 
+             144 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            144 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      144 ","analysis.type
+Secondary 
+      144 ","subset
+all 
+144 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.404551Z,6,Bauer,1,,unibelgrade,Secondary,Bauer.3,81,38,43,Consumer,as.numeric.ignore.,38,,,,,6.10526315789474,0.831458298322422,6,6.1875,0,3,7,4,-1.34002284700802,6.28039424884418,0.134880346764829,Individual,as.numeric.ignore.,43,,,,,6.04651162790698,1.1117015780645,6,6.2,1,2,7,5,-1.5649124072071,6.06346350252438,0.169532901291337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.04651162790698,6.10526315789474,-0.266443318887166,0.790592019708496,79,-0.497651614643297,0.380148554667777, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.26644, df = 79, p-value = 0.7906
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4976516  0.3801486
+sample estimates:
+mean of x mean of y 
+ 6.046512  6.105263 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.266443318887166,-2.22600471460876,1.69480099676819,81,38,43,-0.05932,0.04959,-0.49561,0.37734,47.63475,48.32703,-0.03346,0.79064,-0.05876,0.04865,-0.49089,0.37375,47.65725,48.34295,0.79064,-0.02996,0.01248,-0.24294,0.18731,0.79192,-0.02997,0.01282,-0.2479,0.18954,0.89799,0.407,1.98263,0.79064,-0.1076,-0.89894,0.68442,0.79064,,,,,,,,unibelgrade,unibelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate1_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate1,unibelgrade,1,1,1,1,1,1,81,13,76,81,81,0,0,"Execution
+   
+81 ","SubjectPool
+No 
+81 ","Setting
+In a lab 
+      81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.526911Z,6,Bauer,1,,uniporto,Secondary,Bauer.3,36,17,19,Consumer,as.numeric.ignore.,17,,,,,5.47058823529412,1.32842232831014,6,5.53333333333333,1,3,7,4,-0.264732569460831,1.7865625,0.322189739708921,Individual,as.numeric.ignore.,19,,,,,5.89473684210526,1.37010692373119,6,6.05882352941176,1,2,7,5,-1.40494615775904,4.47813491716889,0.314324085388928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.89473684210526,5.47058823529412,0.940643243944188,0.353523191134716,34,-0.492217595653021,1.34051480927531, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.94064, df = 34, p-value = 0.3535
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4922176  1.3405148
+sample estimates:
+mean of x mean of y 
+ 5.894737  5.470588 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.940643243944188,-1.03874185748237,2.90641757981411,36,17,19,0.31403,0.11282,-0.34678,0.9703,62.32519,58.78643,0.17573,0.35642,0.30705,0.10787,-0.33908,0.94874,62.0599,58.59426,0.35642,0.15926,0.02714,-0.17538,0.4461,0.36265,0.16063,0.0303,-0.17721,0.47982,1.76755,0.53313,5.81207,0.35642,0.56959,-0.62899,1.75994,0.35642,,,,,,,,uniporto,uniporto,"Universidade do Porto, Portugal",Félix Neto,ML2_Slate1_Portugal__Portuguese_execution_illegal_r.csv,DO.BR.FL_5,DO.BR.FL_6,Portugal,Portuguese,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,uniporto,1,1,1,1,1,1,36,12,34,36,36,0,100,"Execution
+illegal 
+     36 ","SubjectPool
+Yes 
+ 36 ","Setting
+Online (at home) 
+              36 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             36 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       36 ","analysis.type
+Secondary 
+       36 ","subset
+all 
+ 36 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.648440Z,6,Bauer,1,,uva,Secondary,Bauer.3,86,47,39,Consumer,as.numeric.ignore.,47,,,,,5.59574468085106,1.22757403864351,6,5.69230769230769,1,3,7,4,-0.473094027058984,2.26310925253265,0.179060076709771,Individual,as.numeric.ignore.,39,,,,,5.56410256410256,1.29360515807307,6,5.6969696969697,1,2,7,5,-0.918908822565391,3.34673257023933,0.207142605714979,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.56410256410256,5.59574468085106,-0.116134207025085,0.907823375751139,84,-0.573461972082343,0.510177738585342, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.11613, df = 84, p-value = 0.9078
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5734620  0.5101777
+sample estimates:
+mean of x mean of y 
+ 5.564103  5.595745 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.116134207025085,-2.07583153912783,1.84425329675929,86,47,39,-0.02516,0.04692,-0.44963,0.39947,48.99656,49.29042,-0.01419,0.90783,-0.02493,0.04608,-0.44561,0.3959,49.00554,49.29678,0.90783,-0.01267,0.01176,-0.2209,0.19727,0.90837,-0.01267,0.01205,-0.2246,0.19989,0.9554,0.4424,2.06383,0.90783,-0.04563,-0.81555,0.72457,0.90783,,,,,,,,uva,uva,"University of Virginia, VA",Charles Ebersole,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uva,1,1,1,1,1,1,86,13,81,86,86,0,100,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.780080Z,6,Bauer,1,,vuw,Secondary,Bauer.3,102,50,52,Consumer,as.numeric.ignore.,50,,,,,5.5,1.29756443747035,6,5.625,1,2,7,5,-0.764344417904041,3.24793388429752,0.183503322552359,Individual,as.numeric.ignore.,52,,,,,5.76923076923077,1.33747471466493,6,5.97619047619048,1,2,7,5,-1.11057019105172,3.3039365958669,0.185474371667729,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.76923076923077,5.5,1.03127124593567,0.304901412702789,100,-0.248718490160639,0.787180028622177, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.0313, df = 100, p-value = 0.3049
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2487185  0.7871800
+sample estimates:
+mean of x mean of y 
+ 5.769231  5.500000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.03127124593567,-0.936445898062335,2.99386445528994,102,50,52,0.20426,0.03944,-0.18548,0.59299,58.09254,55.74214,0.11484,0.30615,0.20273,0.03884,-0.18408,0.58853,58.03252,55.69926,0.30615,0.10258,0.00969,-0.09324,0.28681,0.30817,0.10295,0.0101,-0.09351,0.29509,1.44844,0.71432,2.93164,0.30615,0.37049,-0.33642,1.07556,0.30615,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate1_New_ZealandEng_online_execution_illegal_DEPLOY__vuw_r.csv,DO.BR.FL_6,DO.BR.FL_7,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,vuw,1,1,1,1,1,1,102,13,100,102,102,0,100,"Execution
+illegal 
+    102 ","SubjectPool
+Yes 
+102 ","Setting
+Online (at home) 
+             102 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:03.927849Z,6,Bauer,1,,washlee,Secondary,Bauer.3,97,51,46,Consumer,as.numeric.ignore.,51,,,,,5.6078431372549,1.18454094690811,6,5.75609756097561,1,2,7,5,-0.952626461840698,3.82448185779753,0.165868909667111,Individual,as.numeric.ignore.,46,,,,,5.89130434782609,1.03769532821676,6,6,1,3,7,4,-0.746777344105857,2.92708497494486,0.152999829085078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.89130434782609,5.6078431372549,1.2475751851695,0.215253253121916,95,-0.167607117358784,0.734529538501154, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 1.2476, df = 95, p-value = 0.2153
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1676071  0.7345295
+sample estimates:
+mean of x mean of y 
+ 5.891304  5.607843 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.2475751851695,-0.723632483196722,3.21227609495551,97,51,46,0.25368,0.04168,-0.14714,0.65318,60.01291,57.11803,0.14236,0.21707,0.25167,0.04102,-0.14598,0.64801,59.93532,57.06228,0.21707,0.12696,0.01008,-0.07404,0.31301,0.2189,0.12765,0.01064,-0.07418,0.32388,1.58428,0.76576,3.26984,0.21707,0.46013,-0.26689,1.18474,0.21707,,,,,,,,washlee,washlee,"Department of Psychology, Washington and Lee University, Lexington, VA 24450",Julie A. Woodzicka,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,washlee,1,1,1,1,1,1,97,13,92,97,97,0,100,"Execution
+legal 
+   97 ","SubjectPool
+No 
+97 ","Setting
+In a lab 
+      97 ","Tablet
+Computers 
+       97 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.055229Z,6,Bauer,1,,wilfredlaur,Secondary,Bauer.3,90,42,48,Consumer,as.numeric.ignore.,42,,,,,5.04761904761905,1.43054451431377,5,5.20588235294118,1,1,7,6,-0.994931896981182,3.77840035765775,0.220737810828508,Individual,as.numeric.ignore.,48,,,,,5.58333333333333,0.963886930186522,6,5.65,1,3,7,4,-0.67095135954275,3.48633529514597,0.139125094652888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.58333333333333,5.04761904761905,2.10582299387269,0.0380683496729796,88,0.0301544292861864,1.04127414214238, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 2.1058, df = 88, p-value = 0.03807
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.03015443 1.04127414
+sample estimates:
+mean of x mean of y 
+ 5.583333  5.047619 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.10582299387269,0.115556525513388,4.08442112106716,90,42,48,0.44494,0.04574,0.02442,0.86299,67.18171,62.34739,0.24695,0.0404,0.44113,0.04496,0.02421,0.85562,67.04418,62.24525,0.0404,0.21903,0.01018,0.01232,0.3992,0.04075,0.22264,0.01149,0.01232,0.4227,2.24123,1.04528,4.78408,0.0404,0.80703,0.04429,1.56529,0.0404,,,,,,,,wilfredlaur,wilfredlaur,"Wilfrid Laurier University, Waterloo, Ontario, Canada","Grant Packard, Tripat Gill",ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY__pencilpapercritcher_wilfredlaur_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",illegal,Slate1,wilfredlaur,1,1,1,1,1,1,90,13,83,90,90,0,100,"Execution
+illegal 
+     90 ","SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.163008Z,6,Bauer,1,,williampat,Secondary,Bauer.3,125,54,71,Consumer,as.numeric.ignore.,54,,,,,5.12962962962963,1.55461936488375,5,5.29545454545455,1,1,7,6,-0.856290785288279,3.63230791485377,0.211556899345269,Individual,as.numeric.ignore.,71,,,,,5.25352112676056,1.44141111275578,5,5.40350877192982,1,1,7,6,-0.825215833742756,3.59773313287243,0.171064027053535,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.25352112676056,5.12962962962963,0.460111668476339,0.64624839845888,123,-0.409100032919134,0.656883027181001, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.46011, df = 123, p-value = 0.6462
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.409100  0.656883
+sample estimates:
+mean of x mean of y 
+ 5.253521  5.129630 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.460111668476339,-1.50162723179353,2.41998364236003,125,54,71,0.08308,0.03263,-0.27114,0.43696,53.31057,52.34227,0.04685,0.64639,0.08257,0.03223,-0.26948,0.43429,53.29039,52.32798,0.64639,0.04145,0.00804,-0.13417,0.21319,0.64768,0.04147,0.0082,-0.13499,0.21651,1.16263,0.61153,2.20904,0.64639,0.15069,-0.49179,0.79256,0.64639,,,,,,,,williampat,williampat,"William Paterson University, Wayne, NJ",Elizabeth Haines,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,williampat,1,1,1,1,1,1,125,13,114,125,125,0,100,"Execution
+legal 
+  125 ","SubjectPool
+Yes 
+125 ","Setting
+In a lab 
+     125 ","Tablet
+Computers 
+      125 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      125 ","analysis.type
+Secondary 
+      125 ","subset
+all 
+125 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.310252Z,6,Bauer,1,,winchester,Secondary,Bauer.3,142,72,70,Consumer,as.numeric.ignore.,72,,,,,5.80555555555556,1.20607486849673,6,5.94827586206897,1,3,7,4,-0.737515687647201,2.5888174390264,0.142137286355452,Individual,as.numeric.ignore.,70,,,,,5.68571428571429,1.40952101169215,6,5.89285714285714,1,2,7,5,-0.93085199826874,2.97089484798185,0.168469983863241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.68571428571429,5.80555555555556,-0.544888025073087,0.586697477698901,140,-0.554669376545084,0.314986836862545, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.54489, df = 140, p-value = 0.5867
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5546694  0.3149868
+sample estimates:
+mean of x mean of y 
+ 5.685714  5.805556 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.544888025073087,-2.50491785477124,1.41708412447418,142,72,70,-0.09146,0.0282,-0.42046,0.23786,46.35631,47.42173,-0.05157,0.58689,-0.09097,0.0279,-0.4182,0.23659,46.37581,47.43555,0.58689,-0.046,0.00706,-0.20711,0.11892,0.58817,-0.04604,0.00719,-0.21015,0.11948,0.84714,0.46644,1.53946,0.58689,-0.16589,-0.76263,0.43143,0.58689,,,,,,,,winchester,winchester,"University of Winchester, Winchester, Hampshire, England","Manuela Thomae, Michael Wood",ML2_Slate1_Inlab_execution_illegal_DEPLOY__UK_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,winchester,1,1,1,1,1,1,142,13,132,142,142,0,100,"Execution
+illegal 
+    142 ","SubjectPool
+Yes 
+142 ","Setting
+In a lab 
+     142 ","Tablet
+Computers 
+      142 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      142 ","analysis.type
+Secondary 
+      142 ","subset
+all 
+142 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.415502Z,6,Bauer,1,,wpi,Secondary,Bauer.3,86,34,52,Consumer,as.numeric.ignore.,34,,,,,5.44117647058824,1.07847188386071,5,5.5,1,3,7,4,-0.360945564544378,2.78941824107104,0.184956402198088,Individual,as.numeric.ignore.,52,,,,,5.63461538461539,1.54702556037855,6,5.90476190476191,1,1,7,6,-1.42602483440195,4.77677378858903,0.214533845476856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.63461538461539,5.44117647058824,0.634627672416238,0.527396010693609,84,-0.412703098247684,0.799580926301983, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = 0.63463, df = 84, p-value = 0.5274
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4127031  0.7995809
+sample estimates:
+mean of x mean of y 
+ 5.634615  5.441176 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.634627672416238,-1.32955885542408,2.59505096015891,86,34,52,0.13997,0.04876,-0.29323,0.57234,55.56572,53.94197,0.07884,0.52788,0.13871,0.04789,-0.29061,0.56721,55.51619,53.90679,0.52788,0.06908,0.01165,-0.14356,0.27243,0.53019,0.06919,0.01205,-0.14456,0.27949,1.28901,0.58751,2.82387,0.52788,0.25387,-0.53187,1.03811,0.52788,,,,,,,,wpi,wpi,"Social Science and Policy Studies Department, Worcester Polytechnic Institute, Worcester, MA 01609","Jeanine L. M. Skorinko, Melissa-Sue John",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,wpi,1,1,1,1,1,1,86,13,80,86,86,0,100,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.519310Z,6,Bauer,1,,wroclaw,Secondary,Bauer.3,97,47,50,Consumer,as.numeric.ignore.,47,,,,,5.40425531914894,1.29647640311337,5,5.51282051282051,1,2,7,5,-0.664261883665215,3.16401039046321,0.189110519517353,Individual,as.numeric.ignore.,50,,,,,5.34,1.39401051148205,6,5.475,1,2,7,5,-0.898678575016209,2.79528825032522,0.197142857142857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.34,5.40425531914894,-0.234679484685653,0.814962583342569,95,-0.607817688871447,0.479307050573575, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -0.23468, df = 95, p-value = 0.815
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6078177  0.4793071
+sample estimates:
+mean of x mean of y 
+ 5.340000  5.404255 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.234679484685653,-2.19431018400251,1.72618438388518,97,47,50,-0.04768,0.04129,-0.44581,0.3507,48.0986,48.65526,-0.02689,0.81499,-0.0473,0.04064,-0.44228,0.34793,48.11364,48.6659,0.81499,-0.02407,0.0104,-0.21963,0.17439,0.81594,-0.02408,0.01064,-0.22327,0.17619,0.91715,0.44548,1.88911,0.81499,-0.08648,-0.80861,0.6361,0.81499,,,,,,,,wroclaw,wroclaw,"University of Social Sciences and Humanities, Wroclaw, Poland","Katarzyna Cantarero, Agata Sobków, Jakub Traczyk",ML2_Slate1_Polish_execution_illegal__Wroclaw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",illegal,Slate1,wroclaw,1,1,1,1,1,1,97,13,92,97,97,0,100,"Execution
+illegal 
+     97 ","SubjectPool
+Yes 
+ 97 ","Setting
+In a lab 
+      97 ","Tablet
+Computers 
+       97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:48:04.641010Z,6,Bauer,1,,zhejiang,Secondary,Bauer.3,86,50,36,Consumer,as.numeric.ignore.,50,,,,,5.68,0.978128158207068,6,5.7,1,2,7,5,-0.778890755916905,5.21937355123531,0.138328210707545,Individual,as.numeric.ignore.,36,,,,,5.38888888888889,1.29345114829122,5.5,5.5,0.5,2,7,5,-0.594971166560398,2.84702353733316,0.21557519138187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.38888888888889,5.68,-1.18875376782919,0.237886395049402,84,-0.778097049987877,0.195874827765656, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Individual and Consumer
+t = -1.1888, df = 84, p-value = 0.2379
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7780970  0.1958748
+sample estimates:
+mean of x mean of y 
+ 5.388889  5.680000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.18875376782919,-3.1534144747823,0.782916099212554,86,50,36,-0.25984,0.04817,-0.68928,0.17113,39.74939,42.7111,-0.14578,0.23979,-0.25751,0.04731,-0.6831,0.1696,39.83916,42.77565,0.23979,-0.12863,0.01138,-0.32535,0.08511,0.24198,-0.12934,0.01205,-0.33762,0.08532,0.62419,0.28644,1.36397,0.23979,-0.4713,-1.25021,0.3104,0.23979,,,,,,,,zhejiang,zhejiang,"Shanghai International Studies University, SISU Intercultural Institute, Shanghai, China",Alex English,ML2_Slate1_Chinese_Mainland_execution_legal_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,Yes,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",legal,Slate1,zhejiang,1,1,1,1,1,1,86,13,80,86,86,0,0,"Execution
+legal 
+   86 ","SubjectPool
+Yes 
+ 86 ","Setting
+Other (please indicate) 
+                     86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

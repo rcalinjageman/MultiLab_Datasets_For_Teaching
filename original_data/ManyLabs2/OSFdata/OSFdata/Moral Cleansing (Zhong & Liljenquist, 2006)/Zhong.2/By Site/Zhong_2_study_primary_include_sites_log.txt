@@ -1,0 +1,79 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZHONG.2~~~~~~~
+	# 66 Zhong.2 - START
+
+	# 
+	# 66 Zhong.2 - aus2 >> ES r is close to 0:  -0.03
+	# 
+	# 66 Zhong.2 - badaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 66 Zhong.2 - badaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - bogota not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - cas >> ES r is close to 0:  -0.02
+	# 
+	# 66 Zhong.2 - isb >> ES r is close to 0:  0.04
+	# 
+	# 66 Zhong.2 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - kenyon >> ES r is close to 0:  -0.01
+	# 
+	# 66 Zhong.2 - krakowon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 66 Zhong.2 - krakowon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - lse >> ES r is close to 0:  0.04
+	# 
+	# 66 Zhong.2 - mcdanielonline >> ES r is close to 0:  -0.04
+	# 
+	# 66 Zhong.2 - mturk >> ES r is close to 0:  0.02
+	# 
+	# 66 Zhong.2 - mturk_india >> ES r is close to 0:  -0.01
+	# 
+	# 66 Zhong.2 - munich >> ES r is close to 0:  -0.02
+	# 
+	# 66 Zhong.2 - munichon >> ES r is close to 0:  -0.03
+	# 
+	# 66 Zhong.2 - osnabruck >> ES r is close to 0:  0.04
+	# 
+	# 66 Zhong.2 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - pascal >> ES r is close to 0:  -0.03
+	# 
+	# 66 Zhong.2 - psualtoona >> ES r is close to 0:  0.01
+	# 
+	# 66 Zhong.2 - puc >> ES r is close to 0:  0.02
+	# 
+	# 66 Zhong.2 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - rotterdam >> ES r is close to 0:  0.05
+	# 
+	# 66 Zhong.2 - seznam >> ES r is close to 0:  0
+	# 
+	# 66 Zhong.2 - simmons >> ES r is close to 0:  -0.02
+	# 
+	# 66 Zhong.2 - swps not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 66 Zhong.2 - swps not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - tamucc >> ES r is close to 0:  0.02
+	# 
+	# 66 Zhong.2 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 66 Zhong.2 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 66 Zhong.2 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 66 Zhong.2 - vuw >> ES r is close to 0:  -0.02
+	# 
+	# 66 Zhong.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

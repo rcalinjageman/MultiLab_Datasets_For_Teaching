@@ -1,0 +1,21 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.5~~~~~~~
+	# 87 Gati.5 - START
+
+ListIT = FALSE
+
+	# 
+	# 87 Gati.5 - all >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 87 Gati.5 - all not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 87 Gati.5 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

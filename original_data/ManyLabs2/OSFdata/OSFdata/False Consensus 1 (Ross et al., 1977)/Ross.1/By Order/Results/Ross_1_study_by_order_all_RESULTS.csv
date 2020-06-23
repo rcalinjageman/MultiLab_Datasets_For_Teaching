@@ -1,0 +1,365 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:57:54.436901Z,13,Ross,1,,1,Order,Ross.1,693,411,282,Sign,You,411,,,,,,,,,,,,,,,,Refuse,You,282,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,25.531552518507,67.7372262773723,42.2056737588652,15.7931427788539,1.1057485776837e-46,555.583381331588,22.3561127425172,28.7069922944968,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 15.793, df = 555.58, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.35611 28.70699
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            67.73723             42.20567 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.7931427788539,13.6185497806436,17.9559951212283,693,411,282,1.22121,0.00706,1.05306,1.38845,88.89964,80.60755,0.61215,0,1.21988,0.00704,1.05191,1.38694,88.87452,80.58177,0,0.515,0.00078,0.46001,0.56405,0,0.56951,0.00145,0.49732,0.63875,9.16165,6.75332,12.40838,0,2.21503,1.91003,2.51837,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,557,1,381,693,693,0,57.8643578643579,"Execution
+        illegal   legal 
+      8     282     403 ","SubjectPool
+     No Yes 
+  7 361 325 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     29                     309                     333                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            313                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            333 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      607                                                                        86 ","analysis.type
+Order 
+  693 ","subset
+all 
+693 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:54.565468Z,13,Ross,1,,2,Order,Ross.1,541,298,243,Sign,You,298,,,,,,,,,,,,,,,,Refuse,You,243,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.9880956721076,69.6711409395973,44.6830452674897,13.9496652976036,1.65899570826915e-37,492.258331581792,21.4685502409947,28.5076411032206,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.95, df = 492.26, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 21.46855 28.50764
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.67114             44.68305 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.9496652976036,11.798848586713,16.0885327260204,541,298,243,1.20573,0.00881,1.01983,1.39061,88.60398,80.30544,0.60611,0,1.20405,0.00879,1.01841,1.38867,88.57157,80.2725,0,0.51503,0.001,0.45306,0.56958,0,0.56956,0.00186,0.48855,0.64691,8.90807,6.35832,12.45695,0,2.18696,1.84976,2.52228,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,541,1,380,541,541,0,71.3493530499076,"Execution
+        illegal   legal 
+      8     288     245 ","SubjectPool
+     No Yes 
+ 10 191 340 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     333                     161                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            333                                                              50 
+Unable to verify (completed online) but likely mostly computers 
+                                                            158 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      446                                                                        95 ","analysis.type
+Order 
+  541 ","subset
+all 
+541 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:54.662585Z,13,Ross,1,,3,Order,Ross.1,531,291,240,Sign,You,291,,,,,,,,,,,,,,,,Refuse,You,240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,26.6336340206186,70.3711340206186,43.7375,14.3717634742857,1.25489767136351e-38,436.853494615449,22.9913539020592,30.2759141391779,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 14.372, df = 436.85, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.99135 30.27591
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            70.37113             43.73750 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.3717634742857,12.1857960986537,16.5442674374859,531,291,240,1.25316,0.00908,1.06255,1.44259,89.49256,81.22223,0.62444,0,1.25138,0.00906,1.06104,1.44054,89.46018,81.18835,0,0.52991,0.00098,0.46817,0.58394,0,0.59002,0.00189,0.50772,0.66842,9.70823,6.8706,13.68866,0,2.27297,1.92725,2.61657,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,531,1,381,531,531,0,65.9133709981168,"Execution
+        illegal   legal 
+     13     273     245 ","SubjectPool
+     No Yes 
+  5 202 324 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     30                     309                     164                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            326                                                              43 
+Unable to verify (completed online) but likely mostly computers 
+                                                            162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      445                                                                        86 ","analysis.type
+Order 
+  531 ","subset
+all 
+531 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:54.749258Z,13,Ross,1,,4,Order,Ross.1,558,311,247,Sign,You,311,,,,,,,,,,,,,,,,Refuse,You,247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,26.12191311819,69.8263665594855,43.7044534412956,13.7128127692888,3.02075158052236e-36,470.788979349695,22.3787008770824,29.8651253592976,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.713, df = 470.79, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.37870 29.86513
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.82637             43.70445 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.7128127692888,11.56000519183,15.8533582519217,558,311,247,1.16873,0.00849,0.98525,1.35117,87.87442,79.57166,0.59143,0,1.16715,0.00847,0.98392,1.34935,87.84261,79.54002,0,0.50272,0.001,0.4402,0.55795,0,0.55294,0.0018,0.47248,0.62985,8.32985,5.97179,11.59704,0,2.11985,1.78705,2.45075,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,558,1,380,558,558,0,69.3548387096774,"Execution
+        illegal   legal 
+      9     286     263 ","SubjectPool
+     No Yes 
+  8 202 348 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     35                     313                     179                      31 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              37 
+Unable to verify (completed online) but likely mostly computers 
+                                                            176 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      488                                                                        70 ","analysis.type
+Order 
+  558 ","subset
+all 
+558 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:54.842523Z,13,Ross,1,,5,Order,Ross.1,548,291,257,Sign,You,291,,,,,,,,,,,,,,,,Refuse,You,257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,27.5348068514582,69.7927835051547,42.2579766536965,14.4394941683564,1.09530357621226e-39,494.50365456549,23.7881631237236,31.2814505791927,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 14.439, df = 494.5, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 23.78816 31.28145
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.79278             42.25798 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.4394941683564,12.276808865639,16.5899923629121,548,291,257,1.23603,0.00872,1.0509,1.42011,89.17764,80.89424,0.61788,0,1.23433,0.0087,1.04946,1.41816,89.14604,80.86152,0,0.52568,0.00096,0.46511,0.57891,0,0.58416,0.00183,0.50381,0.66083,9.4113,6.72699,13.14187,0,2.24191,1.90613,2.5758,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,548,1,388,548,548,0,73.9051094890511,"Execution
+        illegal   legal 
+     12     281     255 ","SubjectPool
+     No Yes 
+ 13 173 362 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     337                     164                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            341                                                              44 
+Unable to verify (completed online) but likely mostly computers 
+                                                            163 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      462                                                                        86 ","analysis.type
+Order 
+  548 ","subset
+all 
+548 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:54.958452Z,13,Ross,1,,6,Order,Ross.1,518,265,253,Sign,You,265,,,,,,,,,,,,,,,,Refuse,You,253,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.7236706689537,69.5509433962264,44.8272727272727,13.2957357448987,1.40917463426605e-34,481.269747272112,21.0698921501816,28.3774491877258,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.296, df = 481.27, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 21.06989 28.37745
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.55094             44.82727 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.2957357448987,11.1575712433693,15.4221218979119,518,265,253,1.16868,0.00904,0.98073,1.35558,87.87329,79.57053,0.59141,0,1.16698,0.00902,0.97931,1.35361,87.839,79.53644,0,0.50514,0.00107,0.44087,0.5617,0,0.55619,0.00194,0.47331,0.63531,8.329,5.92307,11.69024,0,2.11974,1.77886,2.45875,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,69,29,57,15,518,1,374,518,518,0,75.0965250965251,"Execution
+        illegal   legal 
+      7     263     248 ","SubjectPool
+     No Yes 
+  7 163 348 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     321                     154                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            330                                                              35 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      415                                                                       103 ","analysis.type
+Order 
+  518 ","subset
+all 
+518 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.051065Z,13,Ross,1,,7,Order,Ross.1,544,296,248,Sign,You,296,,,,,,,,,,,,,,,,Refuse,You,248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,26.2481473408893,68.9054054054054,42.6572580645161,13.7749969762448,2.72639442895707e-36,451.784234822489,22.5034195938383,29.9928750879403,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.775, df = 451.78, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.50342 29.99288
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            68.90541             42.65726 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.7749969762448,11.6127734266315,15.9244873663273,544,296,248,1.18582,0.0087,0.99969,1.37086,88.21536,79.91257,0.59825,0,1.18418,0.00868,0.9983,1.36896,88.1829,79.87997,0,0.50923,0.00101,0.44636,0.56457,0,0.56168,0.00185,0.48015,0.63952,8.59209,6.13022,12.01872,0,2.15084,1.81323,2.48647,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,544,1,398,544,544,0,73.3455882352941,"Execution
+        illegal   legal 
+      4     246     294 ","SubjectPool
+     No Yes 
+  7 190 347 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     344                     154                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      448                                                                        96 ","analysis.type
+Order 
+  544 ","subset
+all 
+544 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.146943Z,13,Ross,1,,8,Order,Ross.1,581,287,294,Sign,You,287,,,,,,,,,,,,,,,,Refuse,You,294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,29.6464244234279,69.006968641115,39.3605442176871,16.5800116418893,1.03028731196056e-50,572.580001410379,26.1344239548941,33.1584248919617,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 16.58, df = 572.58, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 26.13442 33.15842
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.00697             39.36054 
+",,,,,,,,,,,,,,,,,,,,,,,,,,16.5800116418893,14.3916270626724,18.7565771635059,581,287,294,1.37581,0.00851,1.19422,1.55642,91.55597,83.46846,0.66937,0,1.37403,0.00849,1.19267,1.5544,91.52833,83.43711,0,0.56739,0.00079,0.51329,0.61478,0,0.64367,0.00173,0.56719,0.71658,12.1271,8.72394,16.82785,0,2.49544,2.16607,2.82304,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,581,1,403,581,581,0,70.223752151463,"Execution
+        illegal   legal 
+      8     315     258 ","SubjectPool
+     No Yes 
+ 10 212 359 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     32                     308                     218                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            320                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            215 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      504                                                                        77 ","analysis.type
+Order 
+  581 ","subset
+all 
+581 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.244144Z,13,Ross,1,,9,Order,Ross.1,522,274,248,Sign,You,274,,,,,,,,,,,,,,,,Refuse,You,248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,27.0053706145514,70.8440802919708,43.8387096774194,14.5680881642489,4.45079541759627e-40,480.404458011395,23.3629407691535,30.6478004599494,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 14.568, df = 480.4, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 23.36294 30.64780
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            70.84408             43.83871 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.5680881642489,12.3962750988128,16.7273427855233,522,274,248,1.27684,0.00924,1.08649,1.46609,89.91707,81.67006,0.6334,0,1.275,0.00922,1.08492,1.46398,89.8845,81.63546,0,0.53837,0.00097,0.4776,0.59147,0,0.60185,0.00193,0.51988,0.67993,10.13437,7.1755,14.2848,0,2.31593,1.97067,2.6592,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,522,1,366,522,522,0,73.3716475095785,"Execution
+        illegal   legal 
+      6     276     240 ","SubjectPool
+     No Yes 
+ 10 172 340 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     313                     149                      35 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            333                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            147 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      432                                                                        90 ","analysis.type
+Order 
+  522 ","subset
+all 
+522 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.365635Z,13,Ross,1,,10,Order,Ross.1,528,291,237,Sign,You,291,,,,,,,,,,,,,,,,Refuse,You,237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.0205306885902,68.0880412371134,45.0675105485232,11.5171289993703,5.05875669731824e-27,442.174970988233,19.092186277429,26.9488750997514,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 11.517, df = 442.17, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.09219 26.94888
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            68.08804             45.06751 
+",,,,,,,,,,,,,,,,,,,,,,,,,,11.5171289993703,9.40968336913234,13.6131648596441,528,291,237,1.00772,0.00862,0.82333,1.19112,84.32059,76.1943,0.52389,0,1.00628,0.00859,0.82215,1.18942,84.28605,76.16283,0,0.44876,0.00121,0.37958,0.51042,0,0.48315,0.0019,0.39956,0.5633,6.22022,4.45197,8.67506,0,1.8278,1.49335,2.16045,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,528,1,385,528,528,0,73.2954545454546,"Execution
+        illegal   legal 
+      7     268     253 ","SubjectPool
+     No Yes 
+  6 197 325 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     18                     318                     165                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            316                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            165 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      436                                                                        92 ","analysis.type
+Order 
+  528 ","subset
+all 
+528 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.458916Z,13,Ross,1,,11,Order,Ross.1,530,284,246,Sign,You,284,,,,,,,,,,,,,,,,Refuse,You,246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.3632485972747,68.306338028169,43.9430894308943,13.0448172457585,1.13590789766082e-33,498.690581741087,20.6938018058524,28.032695388697,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.045, df = 498.69, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 20.6938 28.0327
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            68.30634             43.94309 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.0448172457585,10.9186792028576,15.159686063435,530,284,246,1.13619,0.0088,0.951,1.32039,87.20605,78.91295,0.57826,0,1.13457,0.00878,0.94965,1.31851,87.17224,78.87995,0,0.49369,0.00108,0.42919,0.55069,0,0.54093,0.0019,0.4589,0.61937,7.85235,5.61211,10.9673,0,2.06081,1.72493,2.39492,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,530,1,383,530,530,0,72.6415094339623,"Execution
+        illegal   legal 
+     10     272     248 ","SubjectPool
+     No Yes 
+  8 187 335 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     306                     169                      30 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            319                                                              43 
+Unable to verify (completed online) but likely mostly computers 
+                                                            168 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      429                                                                       101 ","analysis.type
+Order 
+  530 ","subset
+all 
+530 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.549560Z,13,Ross,1,,12,Order,Ross.1,569,297,272,Sign,You,297,,,,,,,,,,,,,,,,Refuse,You,272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.3915428797782,69.8680134680135,46.4764705882353,12.289864075079,1.15164721920348e-30,521.456278053636,19.6524258207101,27.1306599388462,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 12.29, df = 521.46, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.65243 27.13066
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            69.86801             46.47647 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.289864075079,10.1876501178493,14.381709421424,569,297,272,1.03143,0.00798,0.855,1.20699,84.88308,76.71008,0.5342,0,1.03007,0.00796,0.85387,1.20539,84.85107,76.68056,0,0.45864,0.0011,0.39335,0.517,0,0.49559,0.00177,0.41576,0.57223,6.49356,4.71526,8.92842,0,1.87081,1.5508,2.18924,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,569,1,408,569,569,0,74.1652021089631,"Execution
+        illegal   legal 
+     11     283     275 ","SubjectPool
+     No Yes 
+ 12 208 349 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     336                     185                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            337                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            185 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      480                                                                        89 ","analysis.type
+Order 
+  569 ","subset
+all 
+569 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:57:55.644245Z,13,Ross,1,,13,Order,Ross.1,542,296,246,Sign,You,296,,,,,,,,,,,,,,,,Refuse,You,246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,26.671403537684,68.1120945945946,41.4406910569106,12.9669033362161,4.21712743047292e-33,471.655923807336,22.6296152816161,30.713191793752,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 12.967, df = 471.66, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.62962 30.71319
+sample estimates:
+  mean in group Sign mean in group Refuse 
+            68.11209             41.44069 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.9669033362161,10.8336215078554,15.0884135100001,542,296,246,1.11872,0.0086,0.93467,1.30176,86.83708,78.55445,0.57109,0,1.11717,0.00857,0.93337,1.29995,86.80388,78.52237,0,0.48728,0.00107,0.42254,0.54458,0,0.53248,0.00186,0.45078,0.61064,7.60753,5.44833,10.60288,0,2.02914,1.69531,2.36113,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,29,59,15,542,1,378,542,542,0,71.9557195571956,"Execution
+        illegal   legal 
+     16     290     236 ","SubjectPool
+     No Yes 
+ 10 193 339 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     32                     326                     154                      30 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            342                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      458                                                                        84 ","analysis.type
+Order 
+  542 ","subset
+all 
+542 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

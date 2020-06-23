@@ -1,0 +1,24 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SCHWARZ.2C~~~~~~~
+	# 73 Schwarz.2c - START
+
+	
+	cor_test_fisherZ~
+	# r1 needs to be:
+	# 
+	# - Either a single numerical value representing a correlation,
+	# 
+	# - Or a 2 column matrix from which a correlation r1 can be calculated
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ListIT = FALSE
+
+	# 
+	# 73 Schwarz.2c - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

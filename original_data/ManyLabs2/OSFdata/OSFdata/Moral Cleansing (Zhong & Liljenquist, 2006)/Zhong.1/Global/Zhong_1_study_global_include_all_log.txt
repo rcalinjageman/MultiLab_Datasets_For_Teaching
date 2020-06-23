@@ -1,0 +1,17 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZHONG.1~~~~~~~
+	# 65 Zhong.1 - START
+
+	# 
+	# 65 Zhong.1 - all: var.equal set to: TRUE
+	# 
+	# 65 Zhong.1 - all >> ES r is close to 0:  0
+	# 
+	# 65 Zhong.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

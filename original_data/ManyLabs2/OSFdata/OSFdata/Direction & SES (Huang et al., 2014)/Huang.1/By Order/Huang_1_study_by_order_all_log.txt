@@ -1,0 +1,39 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.1~~~~~~
+	# 1 Huang.1 - START
+
+	# 
+	# 1 Huang.1 - 1: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 2: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 3: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 4: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 5: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - 6: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 7: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 8: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 9: var.equal set to: FALSE
+	# 
+	# 1 Huang.1 - 10: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 11: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 12: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - 13: var.equal set to: TRUE
+	# 
+	# 1 Huang.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

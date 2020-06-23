@@ -1,0 +1,15 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SAVANI.1B~~~~~~~
+	# 54 Savani.1b - START
+
+	# 
+	# 54 Savani.1b - all >> ES r is close to 0:  -0.02
+	# 
+	# 54 Savani.1b - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~

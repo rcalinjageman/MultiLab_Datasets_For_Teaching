@@ -1,0 +1,154 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"1907","10","OSUNewark","Communal",72,NA,"First-year","Female","White, non-Hispanic or latino","Pass",72
+"1908","100","OSUNewark","Communal",74,NA,"First-year","Male","African-American","Pass",72
+"1909","101","OSUNewark","Communal",68,"21",NA,"Female","White, non-Hispanic or latino","Pass",72
+"1910","102","OSUNewark","Communal",68,"22","Junior","Female","White, non-Hispanic or latino","Pass",72
+"1911","103","OSUNewark","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1912","104","OSUNewark","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"1913","105","OSUNewark","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",73
+"1914","106","OSUNewark","Communal",60,"19","First-year","Male","Multiracial","Fail",73
+"1915","107","OSUNewark","Communal",68,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"1916","108","OSUNewark","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",71
+"1917","109","OSUNewark","Agentic",71,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1918","11","OSUNewark","Communal",74,"18","Other","Female","White, non-Hispanic or latino","Fail",71
+"1919","110","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1920","111","OSUNewark","Agentic",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1921","112","OSUNewark","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1922","113","OSUNewark","Communal",72,"20","Junior","Female","Latino or Hispanic","Pass",72
+"1923","114","OSUNewark","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"1924","115","OSUNewark","Communal",72,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"1925","116","OSUNewark","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1926","117","OSUNewark","Agentic",74,"18","First-year","Male","Other","Fail",72
+"1927","118","OSUNewark","Communal",60,"Too Old (18)","First-year","Male","Asian-American","Pass",72
+"1928","119","OSUNewark","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"1929","12","OSUNewark","Communal",72,"21","Junior","Female","White, non-Hispanic or latino","Fail",71
+"1930","120","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"1931","121","OSUNewark","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"1932","122","OSUNewark","Communal",75,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"1933","123","OSUNewark","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"1934","124","OSUNewark","Agentic",75,"18","First-year","Female","African-American","Pass",74
+"1935","125","OSUNewark","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"1936","126","OSUNewark","Agentic",72,NA,"First-year","Male","White, non-Hispanic or latino","Pass",74
+"1937","127","OSUNewark","Agentic",78,"19","First-year","Male","African-American","Fail",74
+"1938","128","OSUNewark","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",74
+"1939","129","OSUNewark","Communal",70,"18","First-year","Male","African-American","Fail",74
+"1940","13","OSUNewark","Communal",65,"18","First-year","Female","African-American","Pass",70
+"1941","130","OSUNewark","Communal",70,"19","First-year",NA,"White, non-Hispanic or latino","Pass",74
+"1942","131","OSUNewark","Communal",72,"22","First-year","Male","White, non-Hispanic or latino","Pass",74
+"1943","132","OSUNewark","Agentic",60,"18","First-year","Male","African-American","Fail",74
+"1944","133","OSUNewark","Agentic",72,"19","Sophomore","Male","African-American","Fail",71
+"1945","134","OSUNewark","Agentic",68,"19",NA,"Male","White, non-Hispanic or latino","Fail",71
+"1947","137","OSUNewark","Communal",70,"20","First-year","Female","White, non-Hispanic or latino","Fail",71
+"1948","138","OSUNewark","Agentic",70,"18 years","First-year","Male","White, non-Hispanic or latino","Pass",71
+"1949","139","OSUNewark","Agentic",67,"19","First-year","Male","African-American","Pass",71
+"1951","140","OSUNewark","Agentic",65,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"1952","141","OSUNewark","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1953","142","OSUNewark","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1954","143","OSUNewark","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1955","144","OSUNewark","Communal",70,"19","First-year","Male","Multiracial","Pass",72
+"1956","145","OSUNewark","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1957","146","OSUNewark","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"1958","147","OSUNewark","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1959","148","OSUNewark","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",72
+"1960","149","OSUNewark","Communal",73,"19","First-year","Male","Multiracial","Pass",72
+"1961","15","OSUNewark","Agentic",72,"18","First-year","Female","African-American","Fail",70
+"1962","150","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1963","151","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1965","153","OSUNewark","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",74
+"1966","154","OSUNewark","Communal",65,"19","First-year","Male","White, non-Hispanic or latino","Pass",74
+"1967","155","OSUNewark","Agentic",70,"18","First-year","Female","Multiracial","Pass",74
+"1968","156","OSUNewark","Communal",67,"18","First-year","Female","White, non-Hispanic or latino","Fail",74
+"1969","157","OSUNewark","Communal",65,"19","First-year","Female","Other","Fail",74
+"1971","17","OSUNewark","Agentic",70,"18","First-year","Female","Asian-American","Pass",72
+"1972","18","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1973","19","OSUNewark","Agentic",76,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1974","2","OSUNewark","Communal",55,"19","First-year","Female","Asian-American","Fail",72
+"1975","20","OSUNewark","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1976","21","OSUNewark","Agentic",65,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"1977","22","OSUNewark","Agentic",68,"19","First-year","Male","Asian-American","Fail",72
+"1978","23","OSUNewark","Agentic",68,"18","First-year","Female","Asian-American","Fail",72
+"1979","24","OSUNewark","Agentic",60,"19","First-year","Female","African-American","Fail",72
+"1980","25","OSUNewark","Communal",75,"18","First-year","Male","African-American","Pass",72
+"1981","26","OSUNewark","Communal",70,NA,"First-year","Male","White, non-Hispanic or latino","Fail",72
+"1982","27","OSUNewark","Agentic",67,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"1983","28","OSUNewark","Agentic",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1984","29","OSUNewark","Communal",82,"19","First-year","Female","African-American","Fail",72
+"1985","3","OSUNewark","Agentic",67,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"1986","30","OSUNewark","Communal",80,"21","Junior","Female","Multiracial","Pass",72
+"1987","31","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1988","32","OSUNewark","Agentic",73,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"1989","33","OSUNewark","Communal",76,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"1990","34","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"1991","35","OSUNewark","Communal",74,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"1992","36","OSUNewark","Agentic",63,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"1994","38","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"1995","39","OSUNewark","Agentic",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"1996","4","OSUNewark","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"1997","40","OSUNewark","Communal",65,"19","First-year","Female","African-American","Fail",72
+"1998","41","OSUNewark","Communal",68,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"1999","42","OSUNewark","Agentic",70,"18","First-year",NA,"White, non-Hispanic or latino","Pass",72
+"2000","43","OSUNewark","Agentic",68,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"2001","44","OSUNewark","Agentic",65,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"2002","45","OSUNewark","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"2003","46","OSUNewark","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"2004","47","OSUNewark","Communal",68,"19","First-year","Female","African-American","Pass",72
+"2005","48","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"2006","49","OSUNewark","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"2007","5","OSUNewark","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2008","50","OSUNewark","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",76
+"2009","51","OSUNewark","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"2010","52","OSUNewark","Agentic",76,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"2011","53","OSUNewark","Communal",70,"18","First-year","Male","African-American","Fail",71
+"2012","54","OSUNewark","Communal",68,"19","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2013","55","OSUNewark","Agentic",68,"18","First-year","Male","Multiracial","Fail",71
+"2014","56","OSUNewark","Agentic",75,"19",NA,"Female","African-American","Pass",71
+"2015","57","OSUNewark","Communal",60,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"2016","58","OSUNewark","Agentic",67,"18","First-year","Female","African-American","Fail",71
+"2017","59","OSUNewark","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2018","6","OSUNewark","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",70
+"2019","60","OSUNewark","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"2020","61","OSUNewark","Agentic",71,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"2021","62","OSUNewark","Communal",68,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"2022","63","OSUNewark","Communal",80,"18","First-year","Male","African-American","Fail",72
+"2023","64","OSUNewark","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"2024","65","OSUNewark","Communal",65,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2025","66","OSUNewark","Communal",68,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"2026","67","OSUNewark","Communal",60,"18","First-year","Male","Asian-American","Fail",71
+"2027","68","OSUNewark","Communal",70,"20","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2028","69","OSUNewark","Agentic",60,"18","First-year","Female","Asian-American","Pass",73
+"2029","7","OSUNewark","Communal",75,"18","First-year","Male","African-American","Pass",70
+"2030","70","OSUNewark","Agentic",72,"21","Junior","Male","White, non-Hispanic or latino","Pass",73
+"2031","71","OSUNewark","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2032","72","OSUNewark","Agentic",72,"18","First-year","Female","Asian-American","Fail",73
+"2033","73","OSUNewark","Communal",75,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2034","74","OSUNewark","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",73
+"2035","75","OSUNewark","Communal",68,"19","First-year","Male","White, non-Hispanic or latino","Pass",73
+"2036","76","OSUNewark","Agentic",60,"20","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2037","77","OSUNewark","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"2038","78","OSUNewark","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2039","79","OSUNewark","Communal",70,"18","First-year","Male","Asian-American","Pass",71
+"2040","8","OSUNewark","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"2041","80","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"2042","81","OSUNewark","Agentic",68,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"2043","82","OSUNewark","Agentic",68,"33","First-year","Female","White, non-Hispanic or latino","Pass",71
+"2044","83","OSUNewark","Agentic",70,"18","First-year","Female","Multiracial","Fail",71
+"2045","84","OSUNewark","Communal",74,"20","Other","Female","White, non-Hispanic or latino","Fail",71
+"2046","85","OSUNewark","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"2047","86","OSUNewark","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"2048","87","OSUNewark","Communal",68,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2049","88","OSUNewark","Agentic",65,"19","First-year","Female","White, non-Hispanic or latino","Pass",71
+"2050","89","OSUNewark","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"2051","9","OSUNewark","Agentic",65,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"2052","90","OSUNewark","Agentic",65,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",71
+"2053","91","OSUNewark","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",70
+"2054","92","OSUNewark","Agentic",68,"18","First-year","Male","White, non-Hispanic or latino","Fail",70
+"2055","93","OSUNewark","Communal",80,"22","First-year","Male","Multiracial","Fail",70
+"2056","94","OSUNewark","Communal",65,"18","First-year","Male","Asian-American","Fail",71
+"2057","95","OSUNewark","Agentic",73,"18","First-year","Male","White, non-Hispanic or latino","Pass",71
+"2058","96","OSUNewark","Communal",70,"19","First-year","Male","African-American","Fail",71
+"2059","97","OSUNewark","Communal",76,"19","First-year","Female","African-American","Pass",72
+"2060","98","OSUNewark","Agentic",67,"19","First-year","Male","African-American","Pass",72
+"2061","99","OSUNewark","Agentic",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"2062",NA,"OSUNewark","Communal",70,NA,NA,NA,NA,NA,NA
+"2063",NA,"OSUNewark","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"2064",NA,"OSUNewark","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA

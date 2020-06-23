@@ -1,0 +1,365 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:46:17.137545Z,4,Graham,1,,1,Order,Graham.1,549,549,,Politics,as.numeric.ignore.,549,,,,,3.57377049180328,1.31683532873184,4,3.52154195011338,1,1,7,6,0.170853344934899,2.750621297467,0.056201162292078,Binding,as.numeric.ignore.,549,,,,,372.650273224044,214.038522747228,387.2,374.474376417234,183.4,3.6,727.4,723.8,-0.0775628110071235,1.77004882291912,9.13494154600043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0472493764477802,,,-1.10488201403184,0.26921071686007,549,-0.13041627102341,0.0365778040983948,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -1.1049, n1 = 549, p-value = 0.2692
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1304163  0.0365778
+sample estimates:
+        cor 
+-0.04724938 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1098,549,549,-0.0946,0.00365,-0.26308,0.0732,46.23145,47.33325,-0.05334,0.11788,,,,,,,,-0.04725,0.00091,-0.13042,0.03658,0.11795,-0.04728,0.00091,-0.13116,0.03659,0.84232,0.62053,1.142,0.11788,-0.17159,-0.47717,0.13278,0.11788,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,549,1,381,549,549,0,73.4061930783242,"Execution
+        illegal   legal 
+      5     279     265 ","SubjectPool
+     No Yes 
+  8 200 341 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     28                     332                     160                      29 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              44 
+Unable to verify (completed online) but likely mostly computers 
+                                                            160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      449                                                                       100 ","analysis.type
+Order 
+  549 ","subset
+all 
+549 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.280402Z,4,Graham,1,,2,Order,Graham.1,493,493,,Politics,as.numeric.ignore.,493,,,,,3.61257606490872,1.35175437677006,4,3.56455696202532,1,1,7,6,0.104245162871254,2.73056838615199,0.0608799552858951,Binding,as.numeric.ignore.,493,,,,,367.214198782961,209.915100049708,375.6,367.85746835443,186.5,5.1,730.1,725,-0.027579222532326,1.76916705286063,9.45410062987675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0738781216401674,,,-1.63834697280436,0.101349334129047,493,-0.161138298267285,0.0145281533220655,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -1.6383, n1 = 493, p-value = 0.1013
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.16113830  0.01452815
+sample estimates:
+        cor 
+-0.07387812 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,986,493,493,-0.14816,0.00408,-0.32654,0.02906,44.11078,45.82808,-0.08344,0.02062,,,,,,,,-0.07388,0.001,-0.16114,0.01453,0.02052,-0.07401,0.00102,-0.16256,0.01453,0.76435,0.55306,1.05412,0.02062,-0.26873,-0.59229,0.05271,0.02062,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,493,1,358,493,493,0,71.1967545638945,"Execution
+        illegal   legal 
+      6     255     232 ","SubjectPool
+     No Yes 
+  5 158 330 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     20                     306                     139                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            321                                                              33 
+Unable to verify (completed online) but likely mostly computers 
+                                                            139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      422                                                                        71 ","analysis.type
+Order 
+  493 ","subset
+all 
+493 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.383534Z,4,Graham,1,,3,Order,Graham.1,537,537,,Politics,as.numeric.ignore.,537,,,,,3.73184357541899,1.40586821508001,4,3.69605568445476,1,1,7,6,0.107930876547267,2.75913027895529,0.060667691452437,Binding,as.numeric.ignore.,537,,,,,371.893482309125,205.235272560452,380,376.323897911833,175.8,3.3,727.2,723.9,-0.187080493736956,1.80079641035759,8.85655572641681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0654521240083557,,,-1.51466188542803,0.129858051362289,537,-0.149238762205912,0.0192677215739982,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -1.5147, n1 = 537, p-value = 0.1299
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.14923876  0.01926772
+sample estimates:
+        cor 
+-0.06545212 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1074,537,537,-0.13119,0.00374,-0.30186,0.03854,44.78143,46.30462,-0.07391,0.03226,,,,,,,,-0.06545,0.00092,-0.14924,0.01927,0.03217,-0.06555,0.00093,-0.15036,0.01927,0.78825,0.57839,1.07241,0.03226,-0.23794,-0.54751,0.06991,0.03226,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,29,58,15,537,1,392,537,537,0,72.2532588454376,"Execution
+        illegal   legal 
+     11     250     276 ","SubjectPool
+     No Yes 
+  6 157 374 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     338                     152                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            355                                                              34 
+Unable to verify (completed online) but likely mostly computers 
+                                                            148 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      423                                                                       114 ","analysis.type
+Order 
+  537 ","subset
+all 
+537 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.482479Z,4,Graham,1,,4,Order,Graham.1,485,485,,Politics,as.numeric.ignore.,485,,,,,3.64742268041237,1.36719934397978,4,3.60154241645244,1,1,7,6,0.104558640449448,2.64331133770705,0.0620813242196347,Binding,as.numeric.ignore.,485,,,,,389.725154639175,214.624136540538,402.1,393.217223650386,193.1,3.1,728.6,725.5,-0.106032290935291,1.75325675149342,9.74558001699078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0802952703715313,,,-1.76664565078992,0.0772875906467758,485,-0.168130755629254,0.00880518124601768,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -1.7666, n1 = 485, p-value = 0.07729
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.168130756  0.008805181
+sample estimates:
+        cor 
+-0.08029527 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,970,485,485,-0.16111,0.00415,-0.34112,0.01761,43.60031,45.46496,-0.0907,0.0126,,,,,,,,-0.0803,0.00102,-0.16813,0.00881,0.0125,-0.08047,0.00103,-0.16974,0.00881,0.7466,0.53863,1.03246,0.0126,-0.29222,-0.61872,0.03194,0.0126,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,485,1,343,485,485,0,74.639175257732,"Execution
+        illegal   legal 
+      7     240     238 ","SubjectPool
+     No Yes 
+  6 180 299 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     278                     162                      20 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            283                                                              40 
+Unable to verify (completed online) but likely mostly computers 
+                                                            162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      404                                                                        81 ","analysis.type
+Order 
+  485 ","subset
+all 
+485 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.615309Z,4,Graham,1,,5,Order,Graham.1,545,545,,Politics,as.numeric.ignore.,545,,,,,3.78165137614679,1.38996965804899,4,3.74599542334096,1,1,7,6,0.122735562779266,2.95806556615517,0.0595397585196759,Binding,as.numeric.ignore.,545,,,,,367.126055045872,211.456481016791,376.5,367.312585812357,188.9,5.1,729,723.9,-0.0282608414240435,1.749764930852,9.05780046654545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.12698615477636,,,-2.97239754541559,0.00295483810315211,545,-0.208749074257781,-0.0434603514086716,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -2.9724, n1 = 545, p-value = 0.002955
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.20874907 -0.04346035
+sample estimates:
+       cor 
+-0.1269862 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1090,545,545,-0.25605,0.00373,-0.4269,-0.087,39.8958,42.81637,-0.14367,3e-05,,,,,,,,-0.12699,0.00089,-0.20875,-0.04346,3e-05,-0.12768,0.00092,-0.21186,-0.04349,0.6285,0.46102,0.85402,3e-05,-0.46441,-0.77432,-0.15781,3e-05,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,545,1,384,545,545,0,73.394495412844,"Execution
+        illegal   legal 
+      6     276     263 ","SubjectPool
+     No Yes 
+ 10 186 349 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     29                     332                     157                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            350                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            154 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      453                                                                        92 ","analysis.type
+Order 
+  545 ","subset
+all 
+545 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.717035Z,4,Graham,1,,6,Order,Graham.1,565,565,,Politics,as.numeric.ignore.,565,,,,,3.71858407079646,1.38011130400701,4,3.67549668874172,1,1,7,6,0.177231531248217,2.77330174432908,0.058061718938579,Binding,as.numeric.ignore.,565,,,,,376.971504424779,210.250205012597,380.6,379.082560706402,188.6,2.4,729.7,727.3,-0.0840280513289092,1.8033388057274,8.84529260413767,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,0.0370020108940703,,,0.877590284650376,0.38016610350134,565,-0.0456254799870363,0.11912664033896,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.87759, n1 = 565, p-value = 0.3802
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.04562548  0.11912664
+sample estimates:
+       cor 
+0.03700201 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1130,565,565,0.07405,0.00355,-0.09135,0.23996,52.95166,52.08809,0.04176,0.21402,,,,,,,,0.037,0.00088,-0.04563,0.11913,0.21422,0.03702,0.00089,-0.04566,0.1197,1.14376,0.84731,1.54534,0.21402,0.13432,-0.16568,0.43524,0.21402,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,565,1,387,565,565,0,72.212389380531,"Execution
+        illegal   legal 
+     13     281     271 ","SubjectPool
+     No Yes 
+  8 199 358 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     342                     171                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            345                                                              51 
+Unable to verify (completed online) but likely mostly computers 
+                                                            169 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      478                                                                        87 ","analysis.type
+Order 
+  565 ","subset
+all 
+565 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.811311Z,4,Graham,1,,7,Order,Graham.1,531,531,,Politics,as.numeric.ignore.,531,,,,,3.57815442561205,1.35250054325459,4,3.56941176470588,1,1,7,6,-0.0467107704070932,2.5516470997324,0.0586935242757626,Binding,as.numeric.ignore.,531,,,,,365.915630885122,210.925748538968,360.1,365.757882352941,174.7,5.7,729.2,723.5,0.0156158414752026,1.82297624275314,9.15339783336777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.151305993072811,,,-3.50364917310215,0.000458929532693775,531,-0.233391384436066,-0.0670793911422419,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -3.5036, n1 = 531, p-value = 0.0004589
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.23339138 -0.06707939
+sample estimates:
+      cor 
+-0.151306 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1062,531,531,-0.30614,0.00386,-0.48004,-0.13446,37.97503,41.43102,-0.17138,0,,,,,,,,-0.15131,9e-04,-0.23339,-0.06708,0,-0.15248,0.00094,-0.23777,-0.06718,0.57392,0.41866,0.78358,0,-0.55527,-0.8707,-0.24389,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,531,1,376,531,531,0,73.6346516007533,"Execution
+        illegal   legal 
+     16     296     219 ","SubjectPool
+     No Yes 
+ 11 185 335 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     26                     296                     183                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            314                                                              37 
+Unable to verify (completed online) but likely mostly computers 
+                                                            180 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      447                                                                        84 ","analysis.type
+Order 
+  531 ","subset
+all 
+531 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:17.906573Z,4,Graham,1,,8,Order,Graham.1,529,529,,Politics,as.numeric.ignore.,529,,,,,3.68998109640832,1.42963553565008,4,3.67058823529412,1,1,7,6,0.00223145707751676,2.55240871469151,0.0621580667673948,Binding,as.numeric.ignore.,529,,,,,373.824763705104,214.897425697014,382.6,374.458588235294,193.1,5.4,729,723.6,-0.0340705785022102,1.7562414122722,9.34336633465277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.203639490050257,,,-4.73662316683363,2.17308693217788e-06,529,-0.283960850747734,-0.120480023398441,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -4.7366, n1 = 529, p-value = 2.173e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2839609 -0.1204800
+sample estimates:
+       cor 
+-0.2036395 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1058,529,529,-0.416,0.00395,-0.5923,-0.24273,33.87065,38.43203,-0.23136,0,,,,,,,,-0.20364,0.00087,-0.28396,-0.12048,0,-0.20653,0.00095,-0.29199,-0.12107,0.47023,0.34153,0.64387,0,-0.75453,-1.07432,-0.44026,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,529,1,378,529,529,0,70.132325141777,"Execution
+        illegal   legal 
+      7     272     250 ","SubjectPool
+     No Yes 
+ 11 190 328 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     30                     316                     156                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            327                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            156 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      450                                                                        79 ","analysis.type
+Order 
+  529 ","subset
+all 
+529 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:18.032358Z,4,Graham,1,,9,Order,Graham.1,699,699,,Politics,as.numeric.ignore.,699,,,,,3.79828326180258,1.35659164383729,4,3.7807486631016,1,1,7,6,0.0103870602289258,2.8080609066578,0.0513110083943511,Binding,as.numeric.ignore.,699,,,,,354.518884120172,193.775652154257,313.7,351.222816399287,144.3,3.7,729.9,726.2,0.196311284476583,2.02640957084335,7.32926828753225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0915356216512082,,,-2.42165422731274,0.0154500434814993,699,-0.164574369665897,-0.0174985371507026,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -2.4217, n1 = 699, p-value = 0.01545
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.16457437 -0.01749854
+sample estimates:
+        cor 
+-0.09153562 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1398,699,699,-0.18384,0.00289,-0.3337,-0.035,42.70683,44.82845,-0.10343,0.00064,,,,,,,,-0.09154,7e-04,-0.16457,-0.0175,0.00062,-0.09179,0.00072,-0.16608,-0.0175,0.71644,0.54593,0.93849,0.00064,-0.33345,-0.60526,-0.06349,0.00064,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,569,1,409,699,699,0,56.5092989985694,"Execution
+        illegal   legal 
+     13     269     417 ","SubjectPool
+     No Yes 
+  7 355 337 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     32                     333                     317                      17 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            338                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            315 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      591                                                                       108 ","analysis.type
+Order 
+  699 ","subset
+all 
+699 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:18.127432Z,4,Graham,1,,10,Order,Graham.1,495,495,,Politics,as.numeric.ignore.,495,,,,,3.77979797979798,1.3874786935651,4,3.7808564231738,1,1,7,6,-0.0936760769653464,2.68649288301859,0.0623625296248181,Binding,as.numeric.ignore.,495,,,,,370.925656565657,216.952381872906,382,371.558438287154,193,3.1,725.6,722.5,-0.0270679635167828,1.7717826462484,9.75128440131906,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.156215492233894,,,-3.49363328065712,0.000476495068136851,495,-0.241029810361891,-0.069033176039127,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -3.4936, n1 = 495, p-value = 0.0004765
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.24102981 -0.06903318
+sample estimates:
+       cor 
+-0.1562155 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,990,495,495,-0.31631,0.00415,-0.4967,-0.1384,37.58819,41.15078,-0.17698,0,,,,,,,,-0.15622,0.00096,-0.24103,-0.06903,0,-0.15751,0.00101,-0.24587,-0.06914,0.56342,0.4062,0.778,0,-0.57373,-0.90092,-0.25102,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,29,58,15,495,1,358,495,495,0,70.7070707070707,"Execution
+        illegal   legal 
+      7     260     228 ","SubjectPool
+     No Yes 
+  9 190 296 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     293                     156                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            304                                                              36 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      420                                                                        75 ","analysis.type
+Order 
+  495 ","subset
+all 
+495 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:18.220827Z,4,Graham,1,,11,Order,Graham.1,546,546,,Politics,as.numeric.ignore.,546,,,,,3.69230769230769,1.44648114135916,4,3.67123287671233,1,1,7,6,0.0403520463267717,2.43257950308262,0.0619036781663813,Binding,as.numeric.ignore.,546,,,,,364.253296703297,216.982058528019,376.55,363.475570776256,191.95,3.8,728.3,724.5,0.0226791594908979,1.7331145114971,9.28597486336828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.157703148131101,,,-3.70578333033543,0.000210738399773147,546,-0.238459871140573,-0.0747804161229217,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -3.7058, n1 = 546, p-value = 0.0002107
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.23845987 -0.07478042
+sample estimates:
+       cor 
+-0.1577031 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1092,546,546,-0.3194,0.00376,-0.49109,-0.14998,37.47104,41.06582,-0.17868,0,,,,,,,,-0.1577,0.00087,-0.23846,-0.07478,0,-0.15903,0.00092,-0.24314,-0.07492,0.56027,0.41036,0.76183,0,-0.57933,-0.89073,-0.27204,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,71,30,58,15,546,1,369,546,546,0,70.8791208791209,"Execution
+        illegal   legal 
+      7     290     249 ","SubjectPool
+     No Yes 
+ 12 205 329 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     31                     302                     181                      32 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            308                                                              58 
+Unable to verify (completed online) but likely mostly computers 
+                                                            180 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      466                                                                        80 ","analysis.type
+Order 
+  546 ","subset
+all 
+546 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:18.344307Z,4,Graham,1,,12,Order,Graham.1,492,492,,Politics,as.numeric.ignore.,492,,,,,3.71341463414634,1.42753791109244,4,3.68274111675127,1,1,7,6,0.100106604366579,2.4946133522742,0.0643583793384317,Binding,as.numeric.ignore.,492,,,,,373.104268292683,211.040776655792,367.45,374.288578680203,184.8,4.1,729.9,725.8,-0.0343783938878449,1.79172266109982,9.51445299935795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.0635296891939986,,,-1.40674849287856,0.159501980709602,492,-0.151082464527705,0.0250120514719656,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -1.4067, n1 = 492, p-value = 0.1595
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.15108246  0.02501205
+sample estimates:
+        cor 
+-0.06352969 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,984,492,492,-0.12732,0.00409,-0.30567,0.05004,44.93449,46.41331,-0.07173,0.04667,,,,,,,,-0.06353,0.00101,-0.15108,0.02501,0.04659,-0.06362,0.00102,-0.15225,0.02502,0.7938,0.5744,1.09501,0.04667,-0.23093,-0.55443,0.09076,0.04667,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,492,1,357,492,492,0,75.4065040650407,"Execution
+        illegal   legal 
+     10     247     235 ","SubjectPool
+     No Yes 
+  8 170 314 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     295                     151                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            305                                                              36 
+Unable to verify (completed online) but likely mostly computers 
+                                                            151 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      408                                                                        84 ","analysis.type
+Order 
+  492 ","subset
+all 
+492 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:46:18.435536Z,4,Graham,1,,13,Order,Graham.1,500,500,,Politics,as.numeric.ignore.,500,,,,,3.758,1.36203755182637,4,3.715,1,1,7,6,0.104920123614845,2.84258674073174,0.0609121710758231,Binding,as.numeric.ignore.,500,,,,,348.0144,206.286174826354,339,344.4115,178.55,7.9,727.8,719.9,0.115272489207981,1.83525420307842,9.22539819460266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z.f,-0.171677654465233,,,-3.86557540210161,0.000110827601701224,500,-0.255521490155941,-0.0852707769601534,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -3.8656, n1 = 500, p-value = 0.0001108
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.25552149 -0.08527078
+sample estimates:
+       cor 
+-0.1716777 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1000,500,500,-0.34853,0.00413,-0.52859,-0.17116,36.37211,40.26678,-0.19466,0,,,,,,,,-0.17168,0.00094,-0.25552,-0.08527,0,-0.17339,0.001,-0.26131,-0.08548,0.53144,0.38337,0.73311,0,-0.63216,-0.95876,-0.31046,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,29,59,15,500,1,356,500,500,0,72,"Execution
+        illegal   legal 
+      8     274     218 ","SubjectPool
+     No Yes 
+  9 187 304 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     294                     159                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            300                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            158 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      423                                                                        77 ","analysis.type
+Order 
+  500 ","subset
+all 
+500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

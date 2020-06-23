@@ -1,0 +1,38 @@
+"","Participant_ID","referrer","SRCondition","SRMeetingResponse","SRTFCorrect","age","year","Genderfactor","ethnicity","AttentionCheck"
+"3320","10","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3324","14","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes","21","Other","Female","Asian-American","Pass"
+"3325","15","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Male","Asian-American","Pass"
+"3330","20","UniversityOfToronto","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3332","22","UniversityOfToronto","object-centric","Ego-Consistent","Yes","22 years","Junior","Male","Native Hawaiian and other Pacific Islander","Pass"
+"3335","25","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3336","26","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes","20","Sophomore","Female",NA,"Pass"
+"3342","31","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3344","33","UniversityOfToronto","object-centric","Ego-Consistent","Yes","19","Sophomore","Female","Other","Fail"
+"3345","34","UniversityOfToronto","object-centric","Ego-Consistent","Yes","20","Junior","Female","White, non-Hispanic or latino","Pass"
+"3348","37","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","19","Sophomore","Female","Multiracial","Pass"
+"3351","40","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3354","43","UniversityOfToronto","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3355","44","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3360","49","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","18","First-year","Male","Asian-American","Fail"
+"3361","50","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes","20","Sophomore","Female","Asian-American","Pass"
+"3362","51","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","21","Senior","Male","White, non-Hispanic or latino","Pass"
+"3363","52","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3366","55","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3367","56","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3368","57","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","Asian-American","Pass"
+"3369","58","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3372","61","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3374","63","UniversityOfToronto","object-centric","Ego-Consistent","Yes","17","First-year","Male","White, non-Hispanic or latino","Pass"
+"3375","64","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","Asian-American","Pass"
+"3378","67","UniversityOfToronto","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3379","68","UniversityOfToronto","ego-centric","Ego-Inconsistent","Yes","19","First-year","Female","Asian-American","Fail"
+"3380","69","UniversityOfToronto","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3381","7","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Other","Pass"
+"3382","70","UniversityOfToronto","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3385","73","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","26","Sophomore","Male","Other","Pass"
+"3386","74","UniversityOfToronto","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3392","8","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3393","80","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","19","Sophomore","Male","Native Hawaiian and other Pacific Islander","Pass"
+"3395","82","UniversityOfToronto","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3398","85","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","20","Sophomore","Female","Asian-American","Fail"
+"3399","86","UniversityOfToronto","ego-centric","Ego-Consistent","Yes","20","Junior","Male","Other","Pass"

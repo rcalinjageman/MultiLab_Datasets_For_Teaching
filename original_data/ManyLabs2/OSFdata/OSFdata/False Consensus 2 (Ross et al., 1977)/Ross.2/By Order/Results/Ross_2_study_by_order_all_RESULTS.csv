@@ -1,0 +1,391 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:58:14.570352Z,14,Ross,2,,1,Order,Ross.2,662,356,306,Pay,You,356,,,,,,,,,,,,,,,,Court,You,306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,25.9362745098039,71.75,45.8137254901961,13.4430266907027,4.08670206234536e-36,587.950394911904,22.1470218902064,29.7255271294015,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 13.443, df = 587.95, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.14702 29.72553
+sample estimates:
+  mean in group Pay mean in group Court 
+           71.75000            45.81373 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.4430266907027,11.3329039729204,15.5431628433405,662,356,306,1.04795,0.00691,0.88346,1.21167,85.26691,77.0657,0.54131,0,1.04676,0.00689,0.88245,1.21029,85.23944,77.04015,0,0.46363,0.00093,0.40361,0.51765,0,0.50193,0.00152,0.42795,0.57312,6.69105,4.96499,9.00444,0,1.90077,1.60241,2.19772,0,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,55,11,527,1,119,662,662,0,64.8036253776435,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 346 313 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      22                     229                     406                       2 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             253 
+Unable to verify (completed online) but likely mostly computers 
+                                                            406 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       659 ","analysis.type
+Order 
+  662 ","subset
+all 
+662 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:14.660310Z,14,Ross,2,,2,Order,Ross.2,504,286,218,Pay,You,286,,,,,,,,,,,,,,,,Court,You,218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,21.4436710078912,72.5629370629371,51.1192660550459,9.72616642431015,2.6290695019821e-20,421.776912391661,17.1100238897684,25.777318126014,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 9.7262, df = 421.78, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 17.11002 25.77732
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.56294            51.11927 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.72616642431015,7.6540739731336,11.7878341880089,504,286,218,0.87447,0.00884,0.68817,1.05983,80.90693,73.1826,0.46365,0,0.87316,0.00882,0.68714,1.05825,80.87133,73.15213,0,0.3982,0.00141,0.32327,0.46561,0,0.42151,0.002,0.3353,0.50445,4.88474,3.48408,6.83685,0,1.58612,1.2482,1.92233,0,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,504,1,118,504,504,0,77.7777777777778,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 222 279 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      20                     224                     254                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             247 
+Unable to verify (completed online) but likely mostly computers 
+                                                            254 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       501 ","analysis.type
+Order 
+  504 ","subset
+all 
+504 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:14.748309Z,14,Ross,2,,3,Order,Ross.2,502,277,225,Pay,You,277,,,,,,,,,,,,,,,,Court,You,225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.6884235860409,72.6750902527076,47.9866666666667,10.786282266742,4.93019833368874e-24,407.960077568011,20.1889675491227,29.1878796229591,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.786, df = 407.96, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 20.18897 29.18788
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.67509            47.98667 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.786282266742,8.68549009606373,12.8754224191606,502,277,225,0.96804,0.00899,0.7795,1.15553,83.34874,75.31723,0.50634,0,0.96659,0.00896,0.77833,1.1538,83.31243,75.28479,0,0.43447,0.00131,0.36207,0.499,0,0.46539,0.002,0.37927,0.54797,5.78823,4.11177,8.13279,0,1.75583,1.41385,2.0959,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,502,1,118,502,502,0,75.4980079681275,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 202 298 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      17                     218                     260                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             240 
+Unable to verify (completed online) but likely mostly computers 
+                                                            260 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       500 ","analysis.type
+Order 
+  502 ","subset
+all 
+502 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:14.872584Z,14,Ross,2,,4,Order,Ross.2,497,285,212,Pay,You,285,,,,,,,,,,,,,,,,Court,You,212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.5760840781198,72.3543859649123,48.7783018867925,10.4065278088748,1.50041650710532e-22,390.822249022374,19.1219742303658,28.0301939258738,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.407, df = 390.82, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.12197 28.03019
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.35439            48.77830 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.4065278088748,8.30938642562797,12.4918955885542,497,285,212,0.94383,0.00912,0.75363,1.13296,82.73717,74.7738,0.49548,0,0.9424,0.00909,0.75249,1.13125,82.70058,74.74148,0,0.42368,0.00136,0.34987,0.48958,0,0.45217,0.00202,0.3653,0.53551,5.53958,3.92328,7.8066,0,1.71192,1.36693,2.05497,0,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,497,1,118,497,497,0,75.0503018108652,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 200 295 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      22                     236                     232                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             263 
+Unable to verify (completed online) but likely mostly computers 
+                                                            232 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       495 ","analysis.type
+Order 
+  497 ","subset
+all 
+497 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:14.961082Z,14,Ross,2,,5,Order,Ross.2,498,238,260,Pay,You,238,,,,,,,,,,,,,,,,Court,You,260,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,22.1343568196509,72.4151260504202,50.2807692307692,9.6436683975288,2.94811487961006e-20,486.959666426254,17.6245962170853,26.6441174222166,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 9.6437, df = 486.96, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 17.62460 26.64412
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.41513            50.28077 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.6436683975288,7.5877637488873,11.690491571105,498,238,260,0.86513,0.0088,0.6807,1.04875,80.65165,72.96451,0.45929,0,0.86382,0.00877,0.67967,1.04716,80.61572,72.93388,0,0.39736,0.00143,0.3225,0.46478,0,0.42051,0.00202,0.33443,0.50339,4.80268,3.43716,6.70078,0,1.56917,1.23465,1.90222,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,26,54,12,498,1,118,498,498,0,80.7228915662651,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 204 293 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      18                     201                     272                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             225 
+Unable to verify (completed online) but likely mostly computers 
+                                                            272 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       497 ","analysis.type
+Order 
+  498 ","subset
+all 
+498 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.050676Z,14,Ross,2,,6,Order,Ross.2,501,268,233,Pay,You,268,,,,,,,,,,,,,,,,Court,You,233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.0515021459228,73,48.9484978540773,10.9124087001125,1.04385034603069e-24,441.503630977347,19.7197674287917,28.3832368630538,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.912, df = 441.5, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.71977 28.38324
+sample estimates:
+  mean in group Pay mean in group Court 
+            73.0000             48.9485 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.9124087001125,8.81905385703047,12.9948007109355,501,268,233,0.97745,0.00898,0.78994,1.16397,83.58266,75.52678,0.51054,0,0.97598,0.00895,0.78875,1.16222,83.54626,75.49411,0,0.43893,0.0013,0.36721,0.50283,0,0.47091,0.00201,0.3852,0.55309,5.88788,4.1904,8.25827,0,1.7729,1.4328,2.11121,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,501,1,117,501,501,0,79.0419161676647,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 180 319 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      12                     229                     252                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             247 
+Unable to verify (completed online) but likely mostly computers 
+                                                            252 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       499 ","analysis.type
+Order 
+  501 ","subset
+all 
+501 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.139129Z,14,Ross,2,,7,Order,Ross.2,539,306,233,Pay,You,306,,,,,,,,,,,,,,,,Court,You,233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,21.003296025134,73.2908496732026,52.2875536480687,10.0932581160607,1.13448381267853e-21,436.885301898239,16.913431121724,25.0931609285439,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.093, df = 436.89, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 16.91343 25.09316
+sample estimates:
+  mean in group Pay mean in group Court 
+           73.29085            52.28755 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.0932581160607,8.01704599128435,12.1590653269601,539,306,233,0.87758,0.00827,0.69706,1.0572,80.99144,73.25499,0.4651,0,0.87635,0.00825,0.69609,1.05572,80.95813,73.22645,0,0.39932,0.00131,0.32695,0.46463,0,0.42284,0.00187,0.33941,0.5032,4.91236,3.54071,6.80422,0,1.59176,1.26433,1.91754,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,539,1,119,539,539,0,78.6641929499072,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 201 337 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      23                     243                     266                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             272 
+Unable to verify (completed online) but likely mostly computers 
+                                                            266 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       538 ","analysis.type
+Order 
+  539 ","subset
+all 
+539 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.260711Z,14,Ross,2,,8,Order,Ross.2,520,281,239,Pay,You,281,,,,,,,,,,,,,,,,Court,You,239,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.7450825652556,72.4982206405694,48.7531380753138,10.7006519381923,6.29917954171738e-24,443.688684694176,19.3839645759618,28.1062005545494,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.701, df = 443.69, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.38396 28.10620
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.49822            48.75314 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.7006519381923,8.6127630848532,12.7777916767316,520,281,239,0.94159,0.0086,0.75787,1.12436,82.67976,74.7231,0.49446,0,0.94022,0.00857,0.75677,1.12273,82.64481,74.69227,0,0.42548,0.00129,0.35393,0.48955,0,0.45436,0.00193,0.36993,0.53547,5.51707,3.95356,7.68571,0,1.70785,1.37462,2.03936,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,520,1,120,520,520,0,80.3846153846154,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 217 301 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      22                     210                     279                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             239 
+Unable to verify (completed online) but likely mostly computers 
+                                                            279 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       518 ","analysis.type
+Order 
+  520 ","subset
+all 
+520 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.351553Z,14,Ross,2,,9,Order,Ross.2,503,271,232,Pay,You,271,,,,,,,,,,,,,,,,Court,You,232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,24.9046956848836,73.3874538745388,48.4827581896552,11.6066058258367,2.58978385861523e-27,434.362942684688,20.6873820659104,29.1220093038567,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 11.607, df = 434.36, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 20.68738 29.12201
+sample estimates:
+  mean in group Pay mean in group Court 
+           73.38745            48.48276 
+",,,,,,,,,,,,,,,,,,,,,,,,,,11.6066058258367,9.4944041222241,13.7071508286747,503,271,232,1.03815,0.00907,0.84923,1.22603,85.04002,76.85511,0.5371,0,1.0366,0.00904,0.84795,1.2242,85.0038,76.8216,0,0.46034,0.00124,0.3905,0.52224,0,0.49774,0.002,0.41239,0.57942,6.57318,4.66611,9.2422,0,1.883,1.54032,2.22378,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,503,1,118,503,503,0,77.7335984095428,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 198 301 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      25                     234                     235                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             264 
+Unable to verify (completed online) but likely mostly computers 
+                                                            235 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       499 ","analysis.type
+Order 
+  503 ","subset
+all 
+503 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.439888Z,14,Ross,2,,10,Order,Ross.2,495,272,223,Pay,You,272,,,,,,,,,,,,,,,,Court,You,223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,22.4680328409391,72.9669117647059,50.4988789237668,10.0474977672793,2.20216144197517e-21,410.624553244743,18.0722403705355,26.8638253113426,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.047, df = 410.62, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 18.07224 26.86383
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.96691            50.49888 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.0474977672793,7.96514881515673,12.1188853835367,495,272,223,0.90766,0.00899,0.71955,1.09478,81.79713,73.95028,0.47901,0,0.90628,0.00897,0.71845,1.09312,81.7606,73.91855,0,0.41227,0.00139,0.33766,0.47909,0,0.43834,0.00203,0.35145,0.5218,5.18783,3.68811,7.28428,0,1.64631,1.30512,1.98572,0,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,495,1,120,495,495,0,77.1717171717172,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 218 276 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      16                     223                     246                       9 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             248 
+Unable to verify (completed online) but likely mostly computers 
+                                                            246 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       494 ","analysis.type
+Order 
+  495 ","subset
+all 
+495 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.527185Z,14,Ross,2,,11,Order,Ross.2,500,266,234,Pay,You,266,,,,,,,,,,,,,,,,Court,You,234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.6710944026734,72.1988721804511,48.5277777777778,10.3006537217207,1.78847403486957e-22,448.095040161427,19.1548622376205,28.1873265677262,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.301, df = 448.1, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.15486 28.18733
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.19887            48.52778 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.3006537217207,8.22280337751186,12.3681666431876,500,266,234,0.92321,0.00889,0.73698,1.10852,82.20514,74.30602,0.48612,0,0.92182,0.00886,0.73587,1.10684,82.16888,74.2743,0,0.41909,0.00136,0.34575,0.48476,0,0.44659,0.00201,0.36061,0.52918,5.33623,3.8066,7.46797,0,1.67452,1.33674,2.01062,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,500,1,115,500,500,0,76.8,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 209 290 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      13                     237                     245                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             254 
+Unable to verify (completed online) but likely mostly computers 
+                                                            245 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       499 ","analysis.type
+Order 
+  500 ","subset
+all 
+500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.643747Z,14,Ross,2,,12,Order,Ross.2,525,271,254,Pay,You,271,,,,,,,,,,,,,,,,Court,You,254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.7685300868757,72.6937269372694,48.9251968503937,10.9830042007712,3.98787480501585e-25,468.28997341019,19.5159434891632,28.0211166845882,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.983, df = 468.29, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.51594 28.02112
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.69373            48.92520 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.9830042007712,8.8954814451899,13.0600713823504,525,271,254,0.95918,0.0085,0.77687,1.14057,83.12655,75.11907,0.50238,0,0.9578,0.00848,0.77575,1.13894,83.09187,75.08821,0,0.43292,0.00126,0.36251,0.49591,0,0.46348,0.00192,0.37978,0.54387,5.69596,4.0922,7.91511,0,1.73976,1.40908,2.06877,0,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,525,1,118,525,525,0,77.5238095238095,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 214 309 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      16                     222                     282                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             241 
+Unable to verify (completed online) but likely mostly computers 
+                                                            282 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       523 ","analysis.type
+Order 
+  525 ","subset
+all 
+525 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.730791Z,14,Ross,2,,13,Order,Ross.2,502,280,222,Pay,You,280,,,,,,,,,,,,,,,,Court,You,222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,22.9925032175032,71.6321428571429,48.6396396396397,10.4750060150753,4.23621455540443e-23,445.248495224974,18.6786813855103,27.3063250494961,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.475, df = 445.25, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 18.67868 27.30633
+sample estimates:
+  mean in group Pay mean in group Court 
+           71.63214            48.63964 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.4750060150753,8.39259282215141,12.546882453039,502,280,222,0.94135,0.00896,0.75421,1.12754,82.6737,74.71775,0.49436,0,0.93994,0.00893,0.75308,1.12585,82.63749,74.68581,0,0.42422,0.00134,0.35139,0.48934,0,0.45282,0.002,0.36703,0.5352,5.5147,3.92743,7.73018,0,1.70742,1.36799,2.04513,0,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,26,54,11,502,1,118,502,502,0,80.2788844621514,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 230 271 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      23                     221                     247                      10 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             254 
+Unable to verify (completed online) but likely mostly computers 
+                                                            247 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       501 ","analysis.type
+Order 
+  502 ","subset
+all 
+502 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.820622Z,14,Ross,2,,14,Order,Ross.2,521,301,220,Pay,You,301,,,,,,,,,,,,,,,,Court,You,220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,27.3251887647237,72.7797342192691,45.4545454545455,12.1930408684263,2.15173822621408e-29,410.094779025874,22.9198141097987,31.7305634196486,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 12.193, df = 410.09, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.91981 31.73056
+sample estimates:
+  mean in group Pay mean in group Court 
+           72.77973            45.45455 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.1930408684263,10.0565865169374,14.3167959078344,521,301,220,1.08152,0.00899,0.89202,1.2699,86.0268,77.77907,0.55558,0,1.07996,0.00896,0.89073,1.26807,85.99202,77.74613,0,0.47188,0.00116,0.40384,0.53209,0,0.51249,0.00193,0.42823,0.59306,7.11118,5.04272,10.00762,0,1.96167,1.61795,2.30335,0,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,521,1,120,521,521,0,78.5028790786948,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 234 284 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      13                     221                     280                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             238 
+Unable to verify (completed online) but likely mostly computers 
+                                                            280 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       518 ","analysis.type
+Order 
+  521 ","subset
+all 
+521 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:58:15.940724Z,14,Ross,2,,15,Order,Ross.2,558,321,237,Pay,You,321,,,,,,,,,,,,,,,,Court,You,237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,23.5991249654955,71.3333021806854,47.7341772151899,10.8659267313961,1.41878337319317e-24,448.816232007095,19.3308739966151,27.8673759343759,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Peers by You
+t = 10.866, df = 448.82, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.33087 27.86738
+sample estimates:
+  mean in group Pay mean in group Court 
+           71.33330            47.73418 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.8659267313961,8.77572745901,12.9453579526784,558,321,237,0.93059,0.00811,0.75158,1.10868,82.39665,74.47389,0.48948,0,0.92933,0.00809,0.75056,1.10718,82.36414,74.44535,0,0.41852,0.00122,0.3488,0.48125,0,0.44589,0.0018,0.36408,0.52461,5.40811,3.90872,7.47015,0,1.6879,1.36321,2.01092,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,558,1,117,558,558,0,77.9569892473118,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 198 358 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      10                     254                     286                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             270 
+Unable to verify (completed online) but likely mostly computers 
+                                                            286 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       556 ","analysis.type
+Order 
+  558 ","subset
+all 
+558 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

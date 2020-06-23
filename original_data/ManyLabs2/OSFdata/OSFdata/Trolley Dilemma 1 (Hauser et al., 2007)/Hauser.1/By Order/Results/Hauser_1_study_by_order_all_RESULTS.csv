@@ -1,0 +1,456 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:56:18.531576Z,11,Hauser,1,,1,Order,Hauser.1,567,292,275,SideEffect.1,,292,220,0.753424657534247,0.388007054673721,Yes,0.753424657534247,,,,,,,,,,,SideEffect.2,,292,72,0.246575342465753,0.126984126984127,No,0.246575342465753,,,,,,,,,,,GreaterGood.1,,292,41,,0.149090909090909,0.072310405643739,Yes,0.149090909090909,,,,,,,,,,,GreaterGood.2,,292,234,,0.850909090909091,0.412698412698413,No,0.850909090909091,,,,,,,,,,,OR,17.3212180922617,,,,2.26966539796343e-50,,11.2129,26.713,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 11.2129 26.7130
+sample estimates:
+odds ratio 
+  17.32122 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   220   72
+GreaterGood   41  234
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,17.3212180922617,11.2129,26.713,584,292,292,1.57235,0.01432,1.3326,1.8112,94.20656,86.68925,0.73378,0,1.57033,0.01428,1.33088,1.80886,94.18303,86.6584,0,0.61805,0.00084,0.55449,0.67125,0,0.72184,0.00172,0.62484,0.81302,17.32122,11.2129,26.713,0,2.85193,2.41706,3.28515,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,567,1,408,567,567,0,74.2504409171076,"Execution
+        illegal   legal 
+      9     288     270 ","SubjectPool
+     No Yes 
+ 13 184 370 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     352                     162                      30 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            364                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            161 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      471                                                                        96 ","analysis.type
+Order 
+  567 ","subset
+all 
+567 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:18.634652Z,11,Hauser,1,,2,Order,Hauser.1,523,267,256,SideEffect.1,,267,185,0.692883895131086,0.353728489483748,Yes,0.692883895131086,,,,,,,,,,,SideEffect.2,,267,82,0.307116104868914,0.15678776290631,No,0.307116104868914,,,,,,,,,,,GreaterGood.1,,267,46,,0.1796875,0.0879541108986616,Yes,0.1796875,,,,,,,,,,,GreaterGood.2,,267,210,,0.8203125,0.401529636711281,No,0.8203125,,,,,,,,,,,OR,10.2437956214483,,,,1.24252694900177e-33,,6.7751,15.6703,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  6.7751 15.6703
+sample estimates:
+odds ratio 
+   10.2438 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   185   82
+GreaterGood   46  210
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,10.2437956214483,6.7751,15.6703,534,267,267,1.28276,0.01341,1.05483,1.51713,90.02122,81.78097,0.63562,0,1.28095,0.01337,1.05334,1.51499,89.98948,81.74712,0,0.53988,0.00119,0.46651,0.60436,0,0.60398,0.00188,0.5056,0.69998,10.2438,6.7751,15.6703,0,2.32667,1.91325,2.75177,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,523,1,368,523,523,0,72.2753346080306,"Execution
+        illegal   legal 
+     10     268     245 ","SubjectPool
+     No Yes 
+ 13 188 322 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     323                     153                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            324                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            152 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      435                                                                        88 ","analysis.type
+Order 
+  523 ","subset
+all 
+523 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:18.762541Z,11,Hauser,1,,3,Order,Hauser.1,500,243,257,SideEffect.1,,243,169,0.695473251028807,0.338,Yes,0.695473251028807,,,,,,,,,,,SideEffect.2,,243,74,0.304526748971193,0.148,No,0.304526748971193,,,,,,,,,,,GreaterGood.1,,243,33,,0.1284046692607,0.066,Yes,0.1284046692607,,,,,,,,,,,GreaterGood.2,,243,224,,0.8715953307393,0.448,No,0.8715953307393,,,,,,,,,,,OR,15.3929259774482,,,,1.97794890740776e-40,,9.6143,24.7965,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  9.6143 24.7965
+sample estimates:
+odds ratio 
+  15.39293 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   169   74
+GreaterGood   33  224
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,15.3929259774482,9.6143,24.7965,486,243,243,1.50728,0.01647,1.2478,1.77015,93.41309,85.67452,0.71349,0,1.50495,0.01642,1.24586,1.76741,93.3831,85.63713,0,0.60186,0.00107,0.52933,0.66277,0,0.69606,0.00207,0.58921,0.79773,15.39293,9.6143,24.7965,0,2.73391,2.26325,3.2107,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,73,30,59,15,500,1,361,500,500,0,73.4,"Execution
+        illegal   legal 
+     14     271     215 ","SubjectPool
+     No Yes 
+  8 177 315 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     316                     143                      20 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            322                                                              36 
+Unable to verify (completed online) but likely mostly computers 
+                                                            142 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      418                                                                        82 ","analysis.type
+Order 
+  500 ","subset
+all 
+500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:18.867726Z,11,Hauser,1,,4,Order,Hauser.1,506,259,247,SideEffect.1,,259,183,0.706563706563707,0.361660079051383,Yes,0.706563706563707,,,,,,,,,,,SideEffect.2,,259,76,0.293436293436293,0.150197628458498,No,0.293436293436293,,,,,,,,,,,GreaterGood.1,,259,46,,0.186234817813765,0.0909090909090909,Yes,0.186234817813765,,,,,,,,,,,GreaterGood.2,,259,201,,0.813765182186235,0.397233201581028,No,0.813765182186235,,,,,,,,,,,OR,10.4614650955606,,,,3.35724978957559e-33,,6.8426,16.2023,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  6.8426 16.2023
+sample estimates:
+odds ratio 
+  10.46147 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   183   76
+GreaterGood   46  201
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,10.4614650955606,6.8426,16.2023,518,259,259,1.29435,0.01378,1.0603,1.53554,90.22284,81.99689,0.63994,0,1.29247,0.01374,1.05876,1.5333,90.19031,81.96194,0,0.54332,0.00121,0.4684,0.60898,0,0.60886,0.00194,0.50801,0.7073,10.46147,6.8426,16.2023,0,2.3477,1.92317,2.78515,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,506,1,362,506,506,0,69.1699604743083,"Execution
+        illegal   legal 
+      8     267     231 ","SubjectPool
+     No Yes 
+  7 187 312 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     290                     163                      29 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            299                                                              46 
+Unable to verify (completed online) but likely mostly computers 
+                                                            161 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      435                                                                        71 ","analysis.type
+Order 
+  506 ","subset
+all 
+506 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:18.968827Z,11,Hauser,1,,5,Order,Hauser.1,480,242,238,SideEffect.1,,242,175,0.723140495867769,0.364583333333333,Yes,0.723140495867769,,,,,,,,,,,SideEffect.2,,242,67,0.276859504132231,0.139583333333333,No,0.276859504132231,,,,,,,,,,,GreaterGood.1,,242,44,,0.184873949579832,0.0916666666666667,Yes,0.184873949579832,,,,,,,,,,,GreaterGood.2,,242,194,,0.815126050420168,0.404166666666667,No,0.815126050420168,,,,,,,,,,,OR,11.4426898935082,,,,8.04524759639466e-34,,7.4358,17.8023,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.4358 17.8023
+sample estimates:
+odds ratio 
+  11.44269 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   175   67
+GreaterGood   44  194
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,11.4426898935082,7.4358,17.8023,484,242,242,1.34378,0.01475,1.10613,1.58746,91.04906,82.8994,0.65799,0,1.34169,0.0147,1.10441,1.58499,91.01517,82.8618,0,0.5577,0.00121,0.48398,0.6217,0,0.62949,0.00208,0.52817,0.72776,11.44269,7.4358,17.8023,0,2.43735,2.00631,2.87933,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,480,1,367,480,480,0,73.9583333333334,"Execution
+        illegal   legal 
+      5     238     237 ","SubjectPool
+     No Yes 
+  6 157 317 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     287                     149                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            286                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            149 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      397                                                                        83 ","analysis.type
+Order 
+  480 ","subset
+all 
+480 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.147167Z,11,Hauser,1,,6,Order,Hauser.1,550,295,255,SideEffect.1,,295,207,0.701694915254237,0.376363636363636,Yes,0.701694915254237,,,,,,,,,,,SideEffect.2,,295,88,0.298305084745763,0.16,No,0.298305084745763,,,,,,,,,,,GreaterGood.1,,295,49,,0.192156862745098,0.0890909090909091,Yes,0.192156862745098,,,,,,,,,,,GreaterGood.2,,295,206,,0.807843137254902,0.374545454545455,No,0.807843137254902,,,,,,,,,,,OR,9.84038948389394,,,,2.92489903968386e-34,,6.5399,14.9683,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  6.5399 14.9683
+sample estimates:
+odds ratio 
+  9.840389 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   207   88
+GreaterGood   49  206
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,9.84038948389394,6.5399,14.9683,590,295,295,1.26061,0.0126,1.03535,1.49186,89.62755,81.36391,0.62728,0,1.259,0.01257,1.03403,1.48996,89.59853,81.33339,0,0.53322,0.00115,0.45973,0.59791,0,0.59464,0.0017,0.49697,0.68989,9.84039,6.5399,14.9683,0,2.2865,1.87792,2.70593,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,550,1,391,550,550,0,72,"Execution
+        illegal   legal 
+     12     277     261 ","SubjectPool
+     No Yes 
+ 11 192 347 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     334                     171                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            339                                                              44 
+Unable to verify (completed online) but likely mostly computers 
+                                                            167 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      448                                                                       102 ","analysis.type
+Order 
+  550 ","subset
+all 
+550 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.250369Z,11,Hauser,1,,7,Order,Hauser.1,513,256,257,SideEffect.1,,256,173,0.67578125,0.337231968810916,Yes,0.67578125,,,,,,,,,,,SideEffect.2,,256,83,0.32421875,0.161793372319688,No,0.32421875,,,,,,,,,,,GreaterGood.1,,256,34,,0.132295719844358,0.0662768031189084,Yes,0.132295719844358,,,,,,,,,,,GreaterGood.2,,256,223,,0.867704280155642,0.434697855750487,No,0.867704280155642,,,,,,,,,,,OR,13.5843316626848,,,,3.5214461260901e-38,,8.6518,21.3588,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  8.6518 21.3588
+sample estimates:
+odds ratio 
+  13.58433 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   173   83
+GreaterGood   34  223
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,13.5843316626848,8.6518,21.3588,512,256,256,1.43837,0.01572,1.18964,1.68787,92.48356,84.54428,0.69089,0,1.43626,0.01568,1.18789,1.68539,92.45351,84.50866,0,0.58387,0.00113,0.51122,0.64495,0,0.66831,0.00196,0.56438,0.76661,13.58433,8.6518,21.3588,0,2.60892,2.15777,3.06146,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,513,1,367,513,513,0,71.9298245614035,"Execution
+        illegal   legal 
+      5     273     235 ","SubjectPool
+     No Yes 
+  9 174 330 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     34                     303                     154                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            326                                                              34 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      424                                                                        89 ","analysis.type
+Order 
+  513 ","subset
+all 
+513 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.365469Z,11,Hauser,1,,8,Order,Hauser.1,549,271,278,SideEffect.1,,271,196,0.723247232472325,0.357012750455373,Yes,0.723247232472325,,,,,,,,,,,SideEffect.2,,271,75,0.276752767527675,0.136612021857924,No,0.276752767527675,,,,,,,,,,,GreaterGood.1,,271,47,,0.169064748201439,0.0856102003642987,Yes,0.169064748201439,,,,,,,,,,,GreaterGood.2,,271,231,,0.830935251798561,0.420765027322404,No,0.830935251798561,,,,,,,,,,,OR,12.7678264871632,,,,8.36763769947068e-41,,8.4578,19.5318,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  8.4578 19.5318
+sample estimates:
+odds ratio 
+  12.76783 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   196   75
+GreaterGood   47  231
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,12.7678264871632,8.4578,19.5318,542,271,271,1.4042,0.01339,1.17714,1.63857,91.98696,83.96245,0.67925,0,1.40224,0.01335,1.1755,1.6363,91.95788,83.92881,0,0.57461,0.00101,0.50723,0.63375,0,0.65438,0.00186,0.559,0.74766,12.76783,8.4578,19.5318,0,2.54693,2.13509,2.97204,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,549,1,385,549,549,0,74.8633879781421,"Execution
+        illegal   legal 
+      7     279     263 ","SubjectPool
+     No Yes 
+  6 191 352 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     338                     163                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            349                                                              40 
+Unable to verify (completed online) but likely mostly computers 
+                                                            160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      454                                                                        95 ","analysis.type
+Order 
+  549 ","subset
+all 
+549 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.463144Z,11,Hauser,1,,9,Order,Hauser.1,518,278,240,SideEffect.1,,278,193,0.694244604316547,0.372586872586873,Yes,0.694244604316547,,,,,,,,,,,SideEffect.2,,278,85,0.305755395683453,0.164092664092664,No,0.305755395683453,,,,,,,,,,,GreaterGood.1,,278,38,,0.158333333333333,0.0733590733590734,Yes,0.158333333333333,,,,,,,,,,,GreaterGood.2,,278,202,,0.841666666666667,0.38996138996139,No,0.841666666666667,,,,,,,,,,,OR,11.9969841521869,,,,2.74906544337341e-36,,7.688,18.7324,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.6880 18.7324
+sample estimates:
+odds ratio 
+  11.99698 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   193   85
+GreaterGood   38  202
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,11.9969841521869,7.688,18.7324,556,278,278,1.36986,0.01465,1.12452,1.61553,91.4635,83.36373,0.66727,0,1.36801,0.01462,1.123,1.61335,91.4345,83.33097,0,0.56509,0.00116,0.4901,0.62837,0,0.64028,0.00181,0.5362,0.73872,11.99698,7.688,18.7324,0,2.48466,2.03966,2.93025,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,518,1,379,518,518,0,72.5868725868726,"Execution
+        illegal   legal 
+     11     273     234 ","SubjectPool
+     No Yes 
+  6 183 329 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     31                     296                     162                      29 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            317                                                              40 
+Unable to verify (completed online) but likely mostly computers 
+                                                            161 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      427                                                                        91 ","analysis.type
+Order 
+  518 ","subset
+all 
+518 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.591983Z,11,Hauser,1,,10,Order,Hauser.1,522,257,265,SideEffect.1,,257,180,0.700389105058366,0.344827586206897,Yes,0.700389105058366,,,,,,,,,,,SideEffect.2,,257,77,0.299610894941634,0.147509578544061,No,0.299610894941634,,,,,,,,,,,GreaterGood.1,,257,50,,0.188679245283019,0.0957854406130268,Yes,0.188679245283019,,,,,,,,,,,GreaterGood.2,,257,215,,0.811320754716981,0.411877394636015,No,0.811320754716981,,,,,,,,,,,OR,9.99752323917764,,,,2.99019877028674e-33,,6.6571,15.1183,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  6.6571 15.1183
+sample estimates:
+odds ratio 
+  9.997523 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   180   77
+GreaterGood   50  215
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,9.99752323917764,6.6571,15.1183,514,257,257,1.26935,0.01313,1.04515,1.49736,89.7841,81.52906,0.63058,0,1.26748,0.01309,1.04361,1.49516,89.7509,81.49396,0,0.53586,0.00119,0.46315,0.59932,0,0.59833,0.00196,0.50131,0.69209,9.99752,6.6571,15.1183,0,2.30234,1.89568,2.71591,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,522,1,382,522,522,0,72.6053639846743,"Execution
+        illegal   legal 
+     10     254     258 ","SubjectPool
+     No Yes 
+  6 191 325 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     30                     313                     155                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            324                                                              43 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      435                                                                        87 ","analysis.type
+Order 
+  522 ","subset
+all 
+522 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.695590Z,11,Hauser,1,,11,Order,Hauser.1,469,240,229,SideEffect.1,,240,164,0.683333333333333,0.349680170575693,Yes,0.683333333333333,,,,,,,,,,,SideEffect.2,,240,76,0.316666666666667,0.162046908315565,No,0.316666666666667,,,,,,,,,,,GreaterGood.1,,240,37,,0.161572052401747,0.0788912579957356,Yes,0.161572052401747,,,,,,,,,,,GreaterGood.2,,240,192,,0.838427947598253,0.409381663113006,No,0.838427947598253,,,,,,,,,,,OR,11.124225702419,,,,1.3700535604436e-31,,7.0728,17.5174,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.0728 17.5174
+sample estimates:
+odds ratio 
+  11.12423 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   164   76
+GreaterGood   37  192
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,11.124225702419,7.0728,17.5174,480,240,240,1.32822,0.01565,1.07854,1.57856,90.79473,82.61843,0.65237,0,1.32614,0.0156,1.07685,1.57608,90.76025,82.58056,0,0.55322,0.00131,0.47465,0.61955,0,0.62302,0.0021,0.51606,0.72428,11.12423,7.0728,17.5174,0,2.40913,1.95626,2.86319,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,74,30,59,15,469,1,360,469,469,0,73.3475479744137,"Execution
+        illegal   legal 
+      7     237     225 ","SubjectPool
+     No Yes 
+  4 179 286 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     270                     151                      25 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            274                                                              47 
+Unable to verify (completed online) but likely mostly computers 
+                                                            148 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      392                                                                        77 ","analysis.type
+Order 
+  469 ","subset
+all 
+469 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.800656Z,11,Hauser,1,,12,Order,Hauser.1,633,338,295,SideEffect.1,,338,238,0.70414201183432,0.375987361769352,Yes,0.70414201183432,,,,,,,,,,,SideEffect.2,,338,100,0.29585798816568,0.157977883096367,No,0.29585798816568,,,,,,,,,,,GreaterGood.1,,338,55,,0.186440677966102,0.0868878357030016,Yes,0.186440677966102,,,,,,,,,,,GreaterGood.2,,338,240,,0.813559322033898,0.37914691943128,No,0.813559322033898,,,,,,,,,,,OR,10.3392570118376,,,,1.21714936009107e-40,,7.0799,15.2639,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  7.0799 15.2639
+sample estimates:
+odds ratio 
+  10.33926 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   238  100
+GreaterGood   55  240
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,10.3392570118376,7.0799,15.2639,676,338,338,1.28788,0.01111,1.07909,1.50264,90.11054,81.87642,0.63753,0,1.28644,0.01109,1.07789,1.50097,90.08556,81.84969,0,0.5414,0.00098,0.47484,0.60068,0,0.60613,0.00149,0.5163,0.6942,10.33926,7.0799,15.2639,0,2.33595,1.95726,2.72549,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,511,1,357,633,633,0,59.8736176935229,"Execution
+        illegal   legal 
+     10     280     343 ","SubjectPool
+     No Yes 
+ 11 287 335 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     320                     264                      24 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            328                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            264 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      541                                                                        92 ","analysis.type
+Order 
+  633 ","subset
+all 
+633 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:56:19.942292Z,11,Hauser,1,,13,Order,Hauser.1,512,246,266,SideEffect.1,,246,175,0.711382113821138,0.341796875,Yes,0.711382113821138,,,,,,,,,,,SideEffect.2,,246,71,0.288617886178862,0.138671875,No,0.288617886178862,,,,,,,,,,,GreaterGood.1,,246,57,,0.214285714285714,0.111328125,Yes,0.214285714285714,,,,,,,,,,,GreaterGood.2,,246,209,,0.785714285714286,0.408203125,No,0.785714285714286,,,,,,,,,,,OR,8.99009176168111,,,,2.18851423963435e-30,,5.9217,13.7475,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value < 2.2e-16
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+  5.9217 13.7475
+sample estimates:
+odds ratio 
+  8.990092 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   175   71
+GreaterGood   57  209
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,8.99009176168111,5.9217,13.7475,492,246,246,1.21079,0.01281,0.98061,1.44495,88.70113,80.4044,0.60809,0,1.20893,0.01277,0.9791,1.44274,88.66555,80.36812,0,0.51788,0.00125,0.44023,0.58563,0,0.57344,0.00204,0.47252,0.67098,8.99009,5.9217,13.7475,0,2.19612,1.77862,2.62086,0,,,,,,,,,,,,,,,,,,,,,,,,,61,61,70,29,58,15,512,1,353,512,512,0,72.0703125,"Execution
+        illegal   legal 
+      6     266     240 ","SubjectPool
+     No Yes 
+ 10 176 326 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     299                     158                      32 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            309                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            158 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      439                                                                        73 ","analysis.type
+Order 
+  512 ","subset
+all 
+512 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

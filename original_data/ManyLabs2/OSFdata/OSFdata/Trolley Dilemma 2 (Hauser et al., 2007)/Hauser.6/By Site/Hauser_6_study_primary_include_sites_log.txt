@@ -1,0 +1,81 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HAUSER.6~~~~~~~
+	# 49 Hauser.6 - START
+
+	# 
+	# 49 Hauser.6 - amity >> ES r is close to 0:  -0.02
+	# 
+	# 49 Hauser.6 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - cas not included in results >> Valid cases after varfun (n1=12) < Nmin.cond (15) 
+	# 
+	# 49 Hauser.6 - cas not included in results >> Valid cases after varfun (n2=8) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - csunorthonline >> ES r is close to 0:  0.01
+	# 
+	# 49 Hauser.6 - fmkbelgrade not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - georgefox >> ES r is close to 0:  -0.01
+	# 
+	# 49 Hauser.6 - grazvienna not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - kenyon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - krakowon >> ES r is close to 0:  0.04
+	# 
+	# 49 Hauser.6 - kwazulu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - louvain >> ES r is close to 0:  -0.02
+	# 
+	# 49 Hauser.6 - mcdanielonline >> ES r is close to 0:  0.01
+	# 
+	# 49 Hauser.6 - munich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - osnabruck not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - padua >> ES r is close to 0:  -0.02
+	# 
+	# 49 Hauser.6 - radboud not included in results >> Valid cases after varfun (n1=8) < Nmin.cond (15) 
+	# 
+	# 49 Hauser.6 - radboud not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - salford >> ES r is close to 0:  -0.03
+	# 
+	# 49 Hauser.6 - seznam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - swps >> ES r is close to 0:  -0.04
+	# 
+	# 49 Hauser.6 - tamu >> ES r is close to 0:  0
+	# 
+	# 49 Hauser.6 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 49 Hauser.6 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 49 Hauser.6 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - tilburg not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - tilburgcaf >> ES r is close to 0:  0.04
+	# 
+	# 49 Hauser.6 - uned not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - vcu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - vuw not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - yale not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 49 Hauser.6 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~

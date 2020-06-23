@@ -1,0 +1,95 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"418","100","MiamiUniversity","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",70
+"419","101","MiamiUniversity","Agentic",69,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",70
+"420","102","MiamiUniversity","Communal",70,"20","Sophomore","Female","White, non-Hispanic or latino","Fail",71
+"421","103","MiamiUniversity","Communal",70,"22","Sophomore",NA,"Asian-American","Fail",71
+"422","104","MiamiUniversity","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",71
+"423","105","MiamiUniversity","Agentic",71,"20","Sophomore","Male","White, non-Hispanic or latino","Fail",71
+"424","11","MiamiUniversity","Communal",74,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"425","12","MiamiUniversity","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"426","13","MiamiUniversity","Communal",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"427","14","MiamiUniversity","Agentic",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"428","15","MiamiUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"429","16","MiamiUniversity","Agentic",71,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"430","17","MiamiUniversity","Agentic",69,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",72
+"432","19","MiamiUniversity","Agentic",75,"19",NA,"Female","White, non-Hispanic or latino","Fail",72
+"433","20","MiamiUniversity","Agentic",70,"18","First-year","Female","African-American","Pass",72
+"434","21","MiamiUniversity","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"436","23","MiamiUniversity","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"437","24","MiamiUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"438","25","MiamiUniversity","Agentic",75,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"439","26","MiamiUniversity","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"441","28","MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"442","29","MiamiUniversity","Agentic",68,"21","Senior","Female","White, non-Hispanic or latino","Pass",73
+"443","30","MiamiUniversity","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"444","31","MiamiUniversity","Communal",63,"19","Sophomore","Male","African-American","Fail",72
+"445","32","MiamiUniversity","Agentic",72,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"446","33","MiamiUniversity","Agentic",70,"19","Sophomore","Female","Native American and Alaska Native","Pass",72
+"447","34","MiamiUniversity","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",71
+"448","35","MiamiUniversity","Communal",66,"19","First-year","Male","White, non-Hispanic or latino","Fail",71
+"449","36","MiamiUniversity","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Pass",71
+"450","37","MiamiUniversity","Agentic",73,"19","First-year","Female","White, non-Hispanic or latino","Pass",73
+"451","38","MiamiUniversity","Communal",69,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"452","39","MiamiUniversity","Agentic",75,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",73
+"453","40","MiamiUniversity","Communal",70,"18","First-year","Male","African-American","Pass",73
+"454","41","MiamiUniversity","Agentic",70,"20","Sophomore","Male","White, non-Hispanic or latino","Pass",73
+"455","42","MiamiUniversity","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Fail",73
+"456","43","MiamiUniversity","Communal",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"457","44","MiamiUniversity","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"458","45","MiamiUniversity","Communal",71,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"459","46","MiamiUniversity","Agentic",70,"18","First-year","Female","African-American","Fail",72
+"460","47","MiamiUniversity","Agentic",75,"18","First-year","Female","Asian-American","Fail",72
+"461","48","MiamiUniversity","Agentic",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"462","49","MiamiUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"463","50","MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"464","51","MiamiUniversity","Communal",80,"20","Sophomore","Male","Asian-American","Fail",73
+"465","52","MiamiUniversity","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",73
+"466","53","MiamiUniversity","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",73
+"468","55","MiamiUniversity","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",71
+"470","57","MiamiUniversity","Communal",75,"18","First-year","Male","White, non-Hispanic or latino","Fail",71
+"472","61","MiamiUniversity","Communal",72,"18","First-year","Male","White, non-Hispanic or latino","Pass",73
+"473","62","MiamiUniversity","Agentic",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"474","63","MiamiUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",73
+"475","64","MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"476","65","MiamiUniversity","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",71
+"477","66","MiamiUniversity","Agentic",68,"19","First-year","Female","White, non-Hispanic or latino","Pass",71
+"478","67","MiamiUniversity","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Fail",71
+"479","68","MiamiUniversity","Communal",70,"18","First-year","Female","Latino or Hispanic","Fail",70
+"480","69","MiamiUniversity","Agentic",74,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",70
+"481","7","MiamiUniversity","Agentic",70,"19","First-year","Male","Latino or Hispanic","Pass",73
+"482","70","MiamiUniversity","Agentic",65,"19","First-year","Male","White, non-Hispanic or latino","Fail",70
+"483","71","MiamiUniversity","Agentic",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",70
+"484","72","MiamiUniversity","Agentic",68,"19","Sophomore","Male","African-American","Fail",70
+"485","73","MiamiUniversity","Communal",70,"19","Sophomore","Male","Latino or Hispanic","Pass",70
+"486","74","MiamiUniversity","Agentic",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",69
+"487","75","MiamiUniversity","Agentic",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",69
+"488","76","MiamiUniversity","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Fail",69
+"489","77","MiamiUniversity","Agentic",69,"20","Junior","Male","White, non-Hispanic or latino","Fail",69
+"490","78","MiamiUniversity","Communal",68,"18","First-year","Male","White, non-Hispanic or latino","Fail",69
+"491","79","MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",70
+"492","8","MiamiUniversity","Communal",75,"21","Junior","Female","Asian-American","Fail",73
+"493","80","MiamiUniversity","Agentic",71,"18","First-year","Female","Multiracial","Pass",72
+"495","82","MiamiUniversity","Agentic",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",70
+"496","83","MiamiUniversity","Agentic",68,"19","First-year","Female","White, non-Hispanic or latino","Fail",70
+"497","84","MiamiUniversity","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Fail",70
+"498","85","MiamiUniversity","Communal",70,"19","First-year","Male","Asian-American",NA,71
+"499","86","MiamiUniversity","Communal",68,"19","First-year","Male","White, non-Hispanic or latino","Fail",71
+"500","87","MiamiUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",70
+"501","88","MiamiUniversity","Agentic",70,"18","First-year","Female","Other","Pass",70
+"502","89","MiamiUniversity","Agentic",70,"18","First-year","Female","African-American","Fail",70
+"504","90","MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",70
+"505","91","MiamiUniversity","Communal",70,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",70
+"506","92","MiamiUniversity","Communal",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",70
+"507","93","MiamiUniversity","Agentic",73,"21","Senior","Female","White, non-Hispanic or latino","Fail",71
+"508","94","MiamiUniversity","Agentic",65,"19","First-year","Female","White, non-Hispanic or latino","Fail",71
+"509","95","MiamiUniversity","Agentic",68,"21","Junior","Male","White, non-Hispanic or latino","Fail",71
+"510","96","MiamiUniversity","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",71
+"512","98","MiamiUniversity","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Fail",71
+"514",NA,"MiamiUniversity","Communal",70,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"515",NA,"MiamiUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"516",NA,"MiamiUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"517",NA,"MiamiUniversity","Agentic",60,"18","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"518",NA,"MiamiUniversity","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",NA
+"519",NA,"MiamiUniversity","Agentic",70,NA,NA,NA,NA,NA,NA
+"520",NA,"MiamiUniversity","Communal",70,"18","First-year","Female","Other","Fail",NA
+"521",NA,"MiamiUniversity","Communal",76,"20","Sophomore","Male","White, non-Hispanic or latino","Fail",NA

@@ -1,0 +1,203 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.8~~~~~~~
+	# 90 Gati.8 - START
+
+	# 
+	# 90 Gati.8 - amity: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - armstrong: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 90 Gati.8 - armstrong >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 90 Gati.8 - armstrong not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - aus2: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - bogota: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - brookcuny: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - brookcuny >> ES r is close to 0:  0.03
+	# 
+	# 90 Gati.8 - carleton: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - csunorthonline: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - csunorthonline >> ES r is close to 0:  -0.05
+	# 
+	# 90 Gati.8 - fmkbelgrade: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - fmkbelgrade >> ES r is close to 0:  0
+	# 
+	# 90 Gati.8 - georgefox: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - grazvienna: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - hawaiion: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - help: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - help >> ES r is close to 0:  0.04
+	# 
+	# 90 Gati.8 - isb: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - jmu: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - jos: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 90 Gati.8 - jos >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 90 Gati.8 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - kenyon: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 90 Gati.8 - krakowon: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - kwazulu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - louvain: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - loyola: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - loyola >> ES r is close to 0:  -0.03
+	# 
+	# 90 Gati.8 - lse: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - lse >> ES r is close to 0:  0.02
+	# 
+	# 90 Gati.8 - mcdanielonline: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - metu: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - moralsense: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - moralsense >> ES r is close to 0:  0.01
+	# 
+	# 90 Gati.8 - mturk: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - mturk >> ES r is close to 0:  0.05
+	# 
+	# 90 Gati.8 - mturk_india: var.equal set to: FALSE
+	# 
+	# 90 Gati.8 - mturk_india >> ES r is close to 0:  0.03
+	# 
+	# 90 Gati.8 - munich: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - munichon: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - munichon >> ES r is close to 0:  0.01
+	# 
+	# 90 Gati.8 - northumbria: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - osnabruck: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - ouhk: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 90 Gati.8 - ouhk >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 90 Gati.8 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - padua: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - pascal: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - psualtoona: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - psualtoona >> ES r is close to 0:  -0.04
+	# 
+	# 90 Gati.8 - puc: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - queensland2: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - ritonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - rotterdam: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - salford: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - seznam: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - seznamon: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - simmons: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - simmons >> ES r is close to 0:  -0.02
+	# 
+	# 90 Gati.8 - swps: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - tamu: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - tamucc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 90 Gati.8 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 90 Gati.8 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - tilburg: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - tilburgcaf: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 90 Gati.8 - tilburgcaf >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 90 Gati.8 - tilburgcaf not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 90 Gati.8 - ulatina: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - umich: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - umich >> ES r is close to 0:  0
+	# 
+	# 90 Gati.8 - uned: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - unswonline: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - vcu: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - vuw: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - vuw >> ES r is close to 0:  0.04
+	# 
+	# 90 Gati.8 - westernkentucky: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - westernkentucky >> ES r is close to 0:  -0.03
+	# 
+	# 90 Gati.8 - yale: var.equal set to: TRUE
+	# 
+	# 90 Gati.8 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

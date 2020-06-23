@@ -1,0 +1,13 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~MIYAMOTO.4~~~~~~~
+	# 25 Miyamoto.4 - START
+
+	# 
+	# 25 Miyamoto.4 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~

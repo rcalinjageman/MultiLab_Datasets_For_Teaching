@@ -1,0 +1,492 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:59:03.161413Z,16,Tversky,2,,1,Order,Tversky.1,492,270,222,Cheap.1,,270,140,0.518518518518519,0.284552845528455,Yes,0.518518518518519,,,,,,,,,,,Cheap.2,,270,130,0.481481481481482,0.264227642276423,No,0.481481481481482,,,,,,,,,,,Expensive.1,,270,70,,0.315315315315315,0.142276422764228,Yes,0.315315315315315,,,,,,,,,,,Expensive.2,,270,152,,0.684684684684685,0.308943089430894,No,0.684684684684685,,,,,,,,,,,OR,2.33434959991271,,,,6.75581950848202e-06,,1.5919,3.4353,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 6.756e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.5919 3.4353
+sample estimates:
+odds ratio 
+   2.33435 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      140  130
+Expensive   70  152
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.33434959991271,1.5919,3.4353,540,270,270,0.46738,0.01085,0.25633,0.6804,67.98859,62.94842,0.25897,1e-05,0.46673,0.01082,0.25597,0.67945,67.96528,62.931,1e-05,0.22756,0.00231,0.12712,0.32207,0,0.23161,0.00186,0.12782,0.33396,2.33435,1.5919,3.4353,1e-05,0.84773,0.46493,1.2341,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,53,12,492,1,120,492,492,0,82.9268292682927,< table of extent 0 >,"SubjectPool
+     No Yes 
+  5 185 302 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      5                      24                     215                     242                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              5                                                             245 
+Unable to verify (completed online) but likely mostly computers 
+                                                            242 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        5                                                                       487 ","analysis.type
+Order 
+  492 ","subset
+all 
+492 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.262252Z,16,Tversky,2,,2,Order,Tversky.1,494,250,244,Cheap.1,,250,108,0.432,0.218623481781377,Yes,0.432,,,,,,,,,,,Cheap.2,,250,142,0.568,0.287449392712551,No,0.568,,,,,,,,,,,Expensive.1,,250,81,,0.331967213114754,0.163967611336032,Yes,0.331967213114754,,,,,,,,,,,Expensive.2,,250,163,,0.668032786885246,0.329959514170041,No,0.668032786885246,,,,,,,,,,,OR,1.52915652388927,,,,0.0262221210093056,,1.0474,2.2156,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.02622
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0474 2.2156
+sample estimates:
+odds ratio 
+  1.529157 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      108  142
+Expensive   81  163
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.52915652388927,1.0474,2.2156,500,250,250,0.23416,0.01057,0.02553,0.43859,59.2569,56.57543,0.13151,0.02319,0.23381,0.01054,0.02549,0.43793,59.2432,56.56561,0.02319,0.11628,0.00254,0.01277,0.21421,0.00948,0.11681,0.00201,0.01277,0.21758,1.52916,1.0474,2.2156,0.02319,0.42472,0.04631,0.79552,0.02319,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,494,1,117,494,494,0,87.246963562753,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 193 299 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      13                     203                     266                      10 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             226 
+Unable to verify (completed online) but likely mostly computers 
+                                                            266 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       492 ","analysis.type
+Order 
+  494 ","subset
+all 
+494 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.390136Z,16,Tversky,2,,3,Order,Tversky.1,498,250,248,Cheap.1,,250,124,0.496,0.248995983935743,Yes,0.496,,,,,,,,,,,Cheap.2,,250,126,0.504,0.253012048192771,No,0.504,,,,,,,,,,,Expensive.1,,250,73,,0.294354838709677,0.146586345381526,Yes,0.294354838709677,,,,,,,,,,,Expensive.2,,250,175,,0.705645161290323,0.35140562248996,No,0.705645161290323,,,,,,,,,,,OR,2.35504282714126,,,,4.46024513106222e-06,,1.6095,3.4514,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 4.46e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.6095 3.4514
+sample estimates:
+odds ratio 
+  2.355043 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      124  126
+Expensive   73  175
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.35504282714126,1.6095,3.4514,500,250,250,0.47225,0.01076,0.26239,0.68298,68.16243,63.07831,0.26157,1e-05,0.47153,0.01073,0.262,0.68195,68.13703,63.05932,1e-05,0.2298,0.00229,0.13008,0.32316,0,0.23398,0.00201,0.13082,0.33518,2.35504,1.6095,3.4514,1e-05,0.85656,0.47592,1.23878,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,53,12,498,1,119,498,498,0,84.136546184739,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 187 309 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      19                     217                     253                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             243 
+Unable to verify (completed online) but likely mostly computers 
+                                                            253 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       496 ","analysis.type
+Order 
+  498 ","subset
+all 
+498 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.480714Z,16,Tversky,2,,4,Order,Tversky.1,456,227,229,Cheap.1,,227,120,0.52863436123348,0.263157894736842,Yes,0.52863436123348,,,,,,,,,,,Cheap.2,,227,107,0.47136563876652,0.234649122807018,No,0.47136563876652,,,,,,,,,,,Expensive.1,,227,77,,0.336244541484716,0.168859649122807,Yes,0.336244541484716,,,,,,,,,,,Expensive.2,,227,152,,0.663755458515284,0.333333333333333,No,0.663755458515284,,,,,,,,,,,OR,2.20991389093083,,,,4.55549154197894e-05,,1.5061,3.2346,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 4.555e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.5061 3.2346
+sample estimates:
+odds ratio 
+  2.209914 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      120  107
+Expensive   77  152
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.20991389093083,1.5061,3.2346,454,227,227,0.43718,0.01132,0.22578,0.64721,66.90089,62.13893,0.24278,5e-05,0.43645,0.01128,0.22541,0.64613,66.87457,62.11941,5e-05,0.21355,0.00246,0.11218,0.30788,1e-05,0.21688,0.00222,0.11265,0.31821,2.20991,1.5061,3.2346,5e-05,0.79295,0.40952,1.17391,5e-05,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,456,1,117,456,456,0,82.0175438596491,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 186 267 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      17                     198                     232                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             221 
+Unable to verify (completed online) but likely mostly computers 
+                                                            232 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       453 ","analysis.type
+Order 
+  456 ","subset
+all 
+456 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.566939Z,16,Tversky,2,,5,Order,Tversky.1,514,258,256,Cheap.1,,258,125,0.484496124031008,0.243190661478599,Yes,0.484496124031008,,,,,,,,,,,Cheap.2,,258,133,0.515503875968992,0.25875486381323,No,0.515503875968992,,,,,,,,,,,Expensive.1,,258,73,,0.28515625,0.142023346303502,Yes,0.28515625,,,,,,,,,,,Expensive.2,,258,183,,0.71484375,0.356031128404669,No,0.71484375,,,,,,,,,,,OR,2.35204145676748,,,,3.65017748893072e-06,,1.6202,3.4198,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 3.65e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.6202 3.4198
+sample estimates:
+odds ratio 
+  2.352041 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      125  133
+Expensive   73  183
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.35204145676748,1.6202,3.4198,516,258,258,0.47154,0.01054,0.26604,0.6779,68.13733,63.05955,0.26119,1e-05,0.47085,0.01051,0.26566,0.67691,68.11276,63.04118,1e-05,0.22948,0.00224,0.13186,0.32101,0,0.23364,0.00195,0.13263,0.33278,2.35204,1.6202,3.4198,1e-05,0.85528,0.48255,1.22958,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,514,1,119,514,514,0,84.0466926070039,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 218 295 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      25                     211                     270                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             243 
+Unable to verify (completed online) but likely mostly computers 
+                                                            270 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       513 ","analysis.type
+Order 
+  514 ","subset
+all 
+514 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.659198Z,16,Tversky,2,,6,Order,Tversky.1,463,243,220,Cheap.1,,243,128,0.526748971193416,0.276457883369331,Yes,0.526748971193416,,,,,,,,,,,Cheap.2,,243,115,0.473251028806584,0.248380129589633,No,0.473251028806584,,,,,,,,,,,Expensive.1,,243,78,,0.354545454545455,0.168466522678186,Yes,0.354545454545455,,,,,,,,,,,Expensive.2,,243,142,,0.645454545454546,0.306695464362851,No,0.645454545454546,,,,,,,,,,,OR,2.02318030562012,,,,0.000252605266301105,,1.3905,2.9903,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0002526
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.3905 2.9903
+sample estimates:
+odds ratio 
+   2.02318 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      128  115
+Expensive   78  142
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.02318030562012,1.3905,2.9903,486,243,243,0.38851,0.01106,0.18175,0.60391,65.11789,60.82323,0.21646,0.00025,0.3879,0.01102,0.18147,0.60297,65.09561,60.80687,0.00025,0.19069,0.00247,0.0905,0.28906,3e-05,0.19305,0.00207,0.09075,0.29755,2.02318,1.3905,2.9903,0.00025,0.70467,0.32966,1.09537,0.00025,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,463,1,118,463,463,0,80.3455723542117,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 175 287 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      17                     217                     225                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             237 
+Unable to verify (completed online) but likely mostly computers 
+                                                            225 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       462 ","analysis.type
+Order 
+  463 ","subset
+all 
+463 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.799195Z,16,Tversky,2,,7,Order,Tversky.1,454,211,243,Cheap.1,,211,114,0.540284360189574,0.251101321585903,Yes,0.540284360189574,,,,,,,,,,,Cheap.2,,211,97,0.459715639810427,0.213656387665198,No,0.459715639810427,,,,,,,,,,,Expensive.1,,211,67,,0.275720164609054,0.147577092511013,Yes,0.275720164609054,,,,,,,,,,,Expensive.2,,211,176,,0.724279835390947,0.387665198237885,No,0.724279835390947,,,,,,,,,,,OR,3.07915710184056,,,,1.1611227310366e-08,,2.054,4.6414,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1.161e-08
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 2.0540 4.6414
+sample estimates:
+odds ratio 
+  3.079157 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      114   97
+Expensive   67  176
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,3.07915710184056,2.054,4.6414,422,211,211,0.62006,0.01206,0.39684,0.8463,73.23893,66.94682,0.33894,0,0.61895,0.01202,0.39613,0.84479,73.20245,66.91843,0,0.29612,0.00229,0.19463,0.3897,0,0.30526,0.00239,0.19714,0.41144,3.07916,2.054,4.6414,0,1.12466,0.71979,1.53502,0,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,52,12,454,1,116,454,454,0,83.4801762114538,< table of extent 0 >,"SubjectPool
+ No Yes 
+180 274 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     15                     198                     235                       6 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            219                                                             235 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      454 ","analysis.type
+Order 
+  454 ","subset
+all 
+454 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.884736Z,16,Tversky,2,,8,Order,Tversky.1,496,244,252,Cheap.1,,244,127,0.520491803278689,0.256048387096774,Yes,0.520491803278689,,,,,,,,,,,Cheap.2,,244,117,0.479508196721312,0.235887096774194,No,0.479508196721312,,,,,,,,,,,Expensive.1,,244,80,,0.317460317460317,0.161290322580645,Yes,0.317460317460317,,,,,,,,,,,Expensive.2,,244,172,,0.682539682539683,0.346774193548387,No,0.682539682539683,,,,,,,,,,,OR,2.32966450530114,,,,5.07361055619507e-06,,1.6024,3.3847,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 5.074e-06
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.6024 3.3847
+sample estimates:
+odds ratio 
+  2.329665 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      127  117
+Expensive   80  172
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.32966450530114,1.6024,3.3847,488,244,244,0.46627,0.01056,0.25995,0.67222,67.94897,62.91883,0.25838,1e-05,0.46555,0.01053,0.25955,0.67118,67.9232,62.89959,1e-05,0.22705,0.00225,0.12889,0.31859,0,0.23107,0.00206,0.12961,0.33008,2.32966,1.6024,3.3847,1e-05,0.84572,0.4715,1.21927,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,26,52,12,496,1,119,496,496,0,85.6854838709677,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 197 297 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      18                     209                     262                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             232 
+Unable to verify (completed online) but likely mostly computers 
+                                                            262 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       494 ","analysis.type
+Order 
+  496 ","subset
+all 
+496 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:03.992218Z,16,Tversky,2,,9,Order,Tversky.1,487,250,237,Cheap.1,,250,125,0.5,0.256673511293634,No,0.5,,,,,,,,,,,Cheap.2,,250,125,0.5,0.256673511293634,No,0.5,,,,,,,,,,,Expensive.1,,250,85,,0.358649789029536,0.174537987679671,Yes,0.358649789029536,,,,,,,,,,,Expensive.2,,250,152,,0.641350210970464,0.31211498973306,No,0.641350210970464,,,,,,,,,,,OR,1.78610463174337,,,,0.00185562598051948,,1.2309,2.5779,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.001856
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.2309 2.5779
+sample estimates:
+odds ratio 
+  1.786105 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      125  125
+Expensive   85  152
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.78610463174337,1.2309,2.5779,500,250,250,0.31979,0.01044,0.11454,0.52209,62.54367,58.94485,0.1789,0.00185,0.31931,0.01041,0.11436,0.52131,62.5254,58.9316,0.00185,0.15789,0.00242,0.05717,0.25258,0.00042,0.15922,0.00201,0.05724,0.25817,1.7861,1.2309,2.5779,0.00185,0.58004,0.20775,0.94698,0.00185,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,52,12,487,1,119,487,487,0,82.9568788501027,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 192 293 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      20                     216                     244                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             241 
+Unable to verify (completed online) but likely mostly computers 
+                                                            244 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       485 ","analysis.type
+Order 
+  487 ","subset
+all 
+487 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.127148Z,16,Tversky,2,,10,Order,Tversky.1,487,235,252,Cheap.1,,235,112,0.476595744680851,0.229979466119097,Yes,0.476595744680851,,,,,,,,,,,Cheap.2,,235,123,0.523404255319149,0.252566735112936,No,0.523404255319149,,,,,,,,,,,Expensive.1,,235,90,,0.357142857142857,0.184804928131417,Yes,0.357142857142857,,,,,,,,,,,Expensive.2,,235,162,,0.642857142857143,0.33264887063655,No,0.642857142857143,,,,,,,,,,,OR,1.63738192231642,,,,0.00777414800794724,,1.1267,2.3597,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.007774
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.1267 2.3597
+sample estimates:
+odds ratio 
+  1.637382 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      112  123
+Expensive   90  162
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.63738192231642,1.1267,2.3597,470,235,235,0.27186,0.01044,0.06577,0.47333,60.7135,57.62204,0.15244,0.00806,0.27142,0.01041,0.06566,0.47258,60.69674,57.60997,0.00806,0.13469,0.00247,0.03287,0.23031,0.00357,0.13551,0.00214,0.03288,0.23451,1.63738,1.1267,2.3597,0.00806,0.4931,0.11929,0.85853,0.00806,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,52,12,487,1,118,487,487,0,86.0369609856263,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 182 302 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      18                     207                     254                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             230 
+Unable to verify (completed online) but likely mostly computers 
+                                                            254 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       484 ","analysis.type
+Order 
+  487 ","subset
+all 
+487 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.266748Z,16,Tversky,2,,11,Order,Tversky.1,453,205,248,Cheap.1,,205,111,0.541463414634146,0.245033112582781,Yes,0.541463414634146,,,,,,,,,,,Cheap.2,,205,94,0.458536585365854,0.207505518763797,No,0.458536585365854,,,,,,,,,,,Expensive.1,,205,93,,0.375,0.205298013245033,Yes,0.375,,,,,,,,,,,Expensive.2,,205,155,,0.625,0.342163355408389,No,0.625,,,,,,,,,,,OR,1.96509477151104,,,,0.000446652577200517,,1.342,2.9135,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0004467
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.3420 2.9135
+sample estimates:
+odds ratio 
+  1.965095 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      111   94
+Expensive   93  155
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.96509477151104,1.342,2.9135,410,205,205,0.37244,0.0112,0.16218,0.58957,64.52192,60.38628,0.20773,0.00048,0.37176,0.01116,0.16188,0.58848,64.49642,60.36761,0.00048,0.18308,0.00253,0.08082,0.28275,0.00021,0.18516,0.00246,0.081,0.29067,1.96509,1.342,2.9135,0.00048,0.67554,0.29416,1.06936,0.00048,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,453,1,118,453,453,0,82.7814569536424,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 160 291 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      19                     201                     227                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             224 
+Unable to verify (completed online) but likely mostly computers 
+                                                            227 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       451 ","analysis.type
+Order 
+  453 ","subset
+all 
+453 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.408759Z,16,Tversky,2,,12,Order,Tversky.1,503,251,252,Cheap.1,,251,114,0.454183266932271,0.226640159045726,Yes,0.454183266932271,,,,,,,,,,,Cheap.2,,251,137,0.545816733067729,0.272365805168986,No,0.545816733067729,,,,,,,,,,,Expensive.1,,251,68,,0.26984126984127,0.135188866799205,Yes,0.26984126984127,,,,,,,,,,,Expensive.2,,251,184,,0.73015873015873,0.365805168986084,No,0.73015873015873,,,,,,,,,,,OR,2.24791075827951,,,,1.89281221544709e-05,,1.5409,3.2971,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 1.893e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.5409 3.2971
+sample estimates:
+odds ratio 
+  2.247911 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      114  137
+Expensive   68  184
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.24791075827951,1.5409,3.2971,502,251,251,0.44658,0.01101,0.23838,0.65776,67.24098,62.39144,0.24783,2e-05,0.44591,0.01097,0.23802,0.65677,67.21677,62.37345,2e-05,0.21792,0.00238,0.11835,0.31242,0,0.22147,0.002,0.11891,0.32322,2.24791,1.5409,3.2971,2e-05,0.81,0.43237,1.19304,2e-05,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,503,1,117,503,503,0,84.2942345924453,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 188 311 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      18                     222                     255                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             244 
+Unable to verify (completed online) but likely mostly computers 
+                                                            255 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       499 ","analysis.type
+Order 
+  503 ","subset
+all 
+503 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.555655Z,16,Tversky,2,,13,Order,Tversky.1,487,237,250,Cheap.1,,237,120,0.506329113924051,0.246406570841889,Yes,0.506329113924051,,,,,,,,,,,Cheap.2,,237,117,0.493670886075949,0.240246406570842,No,0.493670886075949,,,,,,,,,,,Expensive.1,,237,83,,0.332,0.170431211498973,Yes,0.332,,,,,,,,,,,Expensive.2,,237,167,,0.668,0.342915811088296,No,0.668,,,,,,,,,,,OR,2.06051614996049,,,,0.00011062245657273,,1.4126,2.9955,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0001106
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.4126 2.9955
+sample estimates:
+odds ratio 
+  2.060516 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      120  117
+Expensive   83  167
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.06051614996049,1.4126,2.9955,474,237,237,0.39859,0.01061,0.19045,0.60487,65.49012,61.09682,0.22194,0.00012,0.39795,0.01058,0.19014,0.60391,65.46676,61.07964,0.00012,0.19545,0.00236,0.09479,0.28949,2e-05,0.198,0.00212,0.09508,0.298,2.06052,1.4126,2.9955,0.00012,0.72296,0.34543,1.09711,0.00012,,,,,,,,,,,,,,,,,,,,,,,,,57,57,57,26,53,12,487,1,119,487,487,0,84.394250513347,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 179 306 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      16                     211                     253                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             232 
+Unable to verify (completed online) but likely mostly computers 
+                                                            253 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       485 ","analysis.type
+Order 
+  487 ","subset
+all 
+487 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.664115Z,16,Tversky,2,,14,Order,Tversky.1,466,234,232,Cheap.1,,234,98,0.418803418803419,0.210300429184549,Yes,0.418803418803419,,,,,,,,,,,Cheap.2,,234,136,0.581196581196581,0.291845493562232,No,0.581196581196581,,,,,,,,,,,Expensive.1,,234,74,,0.318965517241379,0.158798283261803,Yes,0.318965517241379,,,,,,,,,,,Expensive.2,,234,158,,0.681034482758621,0.339055793991416,No,0.681034482758621,,,,,,,,,,,OR,1.5370883733011,,,,0.0274971790651475,,1.0425,2.2476,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0275
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0425 2.2476
+sample estimates:
+odds ratio 
+  1.537088 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap       98  136
+Expensive   74  158
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.5370883733011,1.0425,2.2476,468,234,234,0.23701,0.01137,0.02295,0.4465,59.36758,56.65478,0.1331,0.0267,0.23663,0.01133,0.02291,0.44578,59.35277,56.64417,0.0267,0.11768,0.00273,0.01147,0.21789,0.01111,0.11823,0.00215,0.01147,0.22144,1.53709,1.0425,2.2476,0.0267,0.42989,0.04162,0.80986,0.0267,,,,,,,,,,,,,,,,,,,,,,,,,55,55,55,26,51,12,466,1,117,466,466,0,83.2618025751073,< table of extent 0 >,"SubjectPool
+ No Yes 
+197 269 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     20                     199                     245                       2 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            221                                                             245 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      466 ","analysis.type
+Order 
+  466 ","subset
+all 
+466 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:04.769671Z,16,Tversky,2,,15,Order,Tversky.1,478,244,234,Cheap.1,,244,116,0.475409836065574,0.242677824267782,Yes,0.475409836065574,,,,,,,,,,,Cheap.2,,244,128,0.524590163934426,0.267782426778243,No,0.524590163934426,,,,,,,,,,,Expensive.1,,244,70,,0.299145299145299,0.146443514644351,Yes,0.299145299145299,,,,,,,,,,,Expensive.2,,244,164,,0.700854700854701,0.343096234309623,No,0.700854700854701,,,,,,,,,,,OR,2.11982367313797,,,,8.14504986101159e-05,,1.4518,3.0919,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 8.145e-05
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.4518 3.0919
+sample estimates:
+odds ratio 
+  2.119824 
+",,,,"
+
+=========  ===  ===
+\          Yes   No
+=========  ===  ===
+Cheap      116  128
+Expensive   70  164
+=========  ===  ===",,,,,,,,,,,,,,,,,,,,,,2.11982367313797,1.4518,3.0919,488,244,244,0.41423,0.01119,0.20554,0.62233,66.06477,61.5203,0.23041,1e-04,0.41359,0.01116,0.20522,0.62137,66.04135,61.50301,1e-04,0.20281,0.00247,0.10223,0.29711,1e-05,0.20566,0.00206,0.10259,0.30635,2.11982,1.4518,3.0919,1e-04,0.75133,0.3728,1.12879,1e-04,,,,,,,,,,,,,,,,,,,,,,,,,56,56,56,26,53,12,478,1,119,478,478,0,83.6820083682008,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 178 299 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      13                     229                     229                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             248 
+Unable to verify (completed online) but likely mostly computers 
+                                                            229 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       477 ","analysis.type
+Order 
+  478 ","subset
+all 
+478 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

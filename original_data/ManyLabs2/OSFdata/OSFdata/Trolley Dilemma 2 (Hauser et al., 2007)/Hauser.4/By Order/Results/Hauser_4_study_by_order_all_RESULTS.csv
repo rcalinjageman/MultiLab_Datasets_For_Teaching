@@ -1,0 +1,494 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:59:29.262122Z,17,Hauser,2,,1,Order,Hauser.4,526,284,242,SideEffect.1,,284,192,0.676056338028169,0.365019011406844,Yes,0.676056338028169,,,,,,,,,,,SideEffect.2,,284,92,0.323943661971831,0.174904942965779,No,0.323943661971831,,,,,,,,,,,GreaterGood.1,,284,143,,0.590909090909091,0.271863117870722,Yes,0.590909090909091,,,,,,,,,,,GreaterGood.2,,284,99,,0.409090909090909,0.188212927756654,No,0.409090909090909,,,,,,,,,,,OR,1.44376469332923,,,,0.0457556247065169,,1.004,2.0866,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.04576
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0040 2.0866
+sample estimates:
+odds ratio 
+  1.443765 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   192   92
+GreaterGood  143   99
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.44376469332923,1.004,2.0866,568,284,284,0.20248,0.01008,0.0022,0.40552,58.02284,55.69234,0.11385,0.04423,0.20221,0.01006,0.0022,0.40498,58.01235,55.68484,0.04423,0.10072,0.00244,0.0011,0.19872,0.01661,0.10107,0.00177,0.0011,0.2014,1.44376,1.004,2.0866,0.04423,0.36725,0.00399,0.73554,0.04423,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,526,1,119,526,526,0,77.3764258555133,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 223 302 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      17                     219                     284                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             241 
+Unable to verify (completed online) but likely mostly computers 
+                                                            284 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       525 ","analysis.type
+Order 
+  526 ","subset
+all 
+526 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.392977Z,17,Hauser,2,,2,Order,Hauser.4,499,241,258,SideEffect.1,,241,161,0.66804979253112,0.322645290581162,Yes,0.66804979253112,,,,,,,,,,,SideEffect.2,,241,80,0.33195020746888,0.160320641282565,No,0.33195020746888,,,,,,,,,,,GreaterGood.1,,241,133,,0.515503875968992,0.266533066132265,Yes,0.515503875968992,,,,,,,,,,,GreaterGood.2,,241,125,,0.484496124031008,0.250501002004008,No,0.484496124031008,,,,,,,,,,,OR,1.88902410174489,,,,0.000553114215758633,,1.3046,2.726,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0005531
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.3046 2.7260
+sample estimates:
+odds ratio 
+  1.889024 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   161   80
+GreaterGood  133  125
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.88902410174489,1.3046,2.726,482,241,241,0.35068,0.0104,0.1466,0.55289,63.70852,59.79201,0.19584,0.00064,0.35013,0.01037,0.14637,0.55203,63.68795,59.77701,0.00064,0.1727,0.00238,0.0731,0.26645,0.00015,0.17445,0.00209,0.07323,0.27304,1.88902,1.3046,2.726,0.00064,0.63606,0.2659,1.00284,0.00064,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,499,1,116,499,499,0,73.74749498998,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 190 308 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      17                     226                     249                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             249 
+Unable to verify (completed online) but likely mostly computers 
+                                                            249 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       498 ","analysis.type
+Order 
+  499 ","subset
+all 
+499 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.485356Z,17,Hauser,2,,3,Order,Hauser.4,524,249,275,SideEffect.1,,249,162,0.650602409638554,0.309160305343511,Yes,0.650602409638554,,,,,,,,,,,SideEffect.2,,249,87,0.349397590361446,0.166030534351145,No,0.349397590361446,,,,,,,,,,,GreaterGood.1,,249,143,,0.52,0.272900763358779,Yes,0.52,,,,,,,,,,,GreaterGood.2,,249,132,,0.48,0.251908396946565,No,0.48,,,,,,,,,,,OR,1.71707373167391,,,,0.0026042302127129,,1.1915,2.4635,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.002604
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.1915 2.4635
+sample estimates:
+odds ratio 
+  1.717074 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   162   87
+GreaterGood  143  132
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.71707373167391,1.1915,2.4635,498,249,249,0.29806,0.0098,0.0966,0.49707,61.71714,58.34629,0.16693,0.00274,0.29761,0.00977,0.09645,0.49632,61.69993,58.33385,0.00274,0.1474,0.00229,0.04824,0.2412,0.00102,0.14848,0.00202,0.04828,0.24604,1.71707,1.1915,2.4635,0.00274,0.54062,0.17521,0.90158,0.00274,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,524,1,120,524,524,0,77.0992366412214,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 213 307 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      19                     236                     260                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             260 
+Unable to verify (completed online) but likely mostly computers 
+                                                            260 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       520 ","analysis.type
+Order 
+  524 ","subset
+all 
+524 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.584918Z,17,Hauser,2,,4,Order,Hauser.4,514,237,277,SideEffect.1,,237,146,0.616033755274262,0.284046692607004,Yes,0.616033755274262,,,,,,,,,,,SideEffect.2,,237,91,0.383966244725738,0.17704280155642,No,0.383966244725738,,,,,,,,,,,GreaterGood.1,,237,143,,0.516245487364621,0.278210116731518,Yes,0.516245487364621,,,,,,,,,,,GreaterGood.2,,237,134,,0.483754512635379,0.260700389105058,No,0.483754512635379,,,,,,,,,,,OR,1.50218991825091,,,,0.0258288691513633,,1.0517,2.1539,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.02583
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0517 2.1539
+sample estimates:
+odds ratio 
+   1.50219 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   146   91
+GreaterGood  143  134
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.50218991825091,1.0517,2.1539,474,237,237,0.22435,0.00982,0.02779,0.42302,58.87571,56.30232,0.12605,0.024,0.22399,0.00979,0.02775,0.42235,58.86183,56.29239,0.024,0.11148,0.00236,0.01389,0.20693,0.0155,0.11194,0.00212,0.0139,0.20997,1.50219,1.0517,2.1539,0.024,0.40692,0.05041,0.76728,0.024,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,514,1,119,514,514,0,78.2101167315175,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 207 306 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      15                     239                     252                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             261 
+Unable to verify (completed online) but likely mostly computers 
+                                                            252 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       513 ","analysis.type
+Order 
+  514 ","subset
+all 
+514 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.706825Z,17,Hauser,2,,5,Order,Hauser.4,538,262,276,SideEffect.1,,262,173,0.66030534351145,0.321561338289963,Yes,0.66030534351145,,,,,,,,,,,SideEffect.2,,262,89,0.33969465648855,0.16542750929368,No,0.33969465648855,,,,,,,,,,,GreaterGood.1,,262,146,,0.528985507246377,0.271375464684015,Yes,0.528985507246377,,,,,,,,,,,GreaterGood.2,,262,130,,0.471014492753623,0.241635687732342,No,0.471014492753623,,,,,,,,,,,OR,1.72904967583986,,,,0.00212998162903542,,1.2088,2.4612,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.00213
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.2088 2.4612
+sample estimates:
+odds ratio 
+   1.72905 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   173   89
+GreaterGood  146  130
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.72904967583986,1.2088,2.4612,524,262,262,0.30189,0.00959,0.10455,0.49655,61.86329,58.45198,0.16904,0.00216,0.30146,0.00956,0.1044,0.49584,61.84675,58.44002,0.00216,0.14926,0.00224,0.0522,0.24096,0.00065,0.15038,0.00192,0.05225,0.24579,1.72905,1.2088,2.4612,0.00216,0.54757,0.18963,0.90065,0.00216,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,55,12,538,1,118,538,538,0,76.7657992565056,< table of extent 0 >,"SubjectPool
+ No Yes 
+234 304 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     13                     238                     283                       4 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            255                                                             283 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      538 ","analysis.type
+Order 
+  538 ","subset
+all 
+538 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.795852Z,17,Hauser,2,,6,Order,Hauser.4,523,268,255,SideEffect.1,,268,161,0.600746268656716,0.307839388145315,Yes,0.600746268656716,,,,,,,,,,,SideEffect.2,,268,107,0.399253731343284,0.204588910133843,No,0.399253731343284,,,,,,,,,,,GreaterGood.1,,268,125,,0.490196078431373,0.239005736137667,Yes,0.490196078431373,,,,,,,,,,,GreaterGood.2,,268,130,,0.509803921568627,0.248565965583174,No,0.509803921568627,,,,,,,,,,,OR,1.56346560533344,,,,0.0138076374112174,,1.0951,2.2136,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.01381
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0951 2.2136
+sample estimates:
+odds ratio 
+  1.563466 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   161  107
+GreaterGood  125  130
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.56346560533344,1.0951,2.2136,536,268,268,0.24639,0.0095,0.05009,0.4381,59.73104,56.91557,0.13831,0.01176,0.24605,0.00947,0.05002,0.43748,59.71764,56.90595,0.01176,0.12227,0.00227,0.02504,0.21398,0.00473,0.12289,0.00188,0.02504,0.21733,1.56347,1.0951,2.2136,0.01176,0.4469,0.09085,0.79462,0.01176,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,523,1,118,523,523,0,77.6290630975143,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 210 310 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      18                     230                     263                       9 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             257 
+Unable to verify (completed online) but likely mostly computers 
+                                                            263 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       520 ","analysis.type
+Order 
+  523 ","subset
+all 
+523 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:29.900391Z,17,Hauser,2,,7,Order,Hauser.4,539,271,268,SideEffect.1,,271,181,0.66789667896679,0.335807050092764,Yes,0.66789667896679,,,,,,,,,,,SideEffect.2,,271,90,0.33210332103321,0.166975881261596,No,0.33210332103321,,,,,,,,,,,GreaterGood.1,,271,137,,0.511194029850746,0.25417439703154,Yes,0.511194029850746,,,,,,,,,,,GreaterGood.2,,271,131,,0.488805970149254,0.2430426716141,No,0.488805970149254,,,,,,,,,,,OR,1.92068371567079,,,,0.000235123943842547,,1.3434,2.7356,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.0002351
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.3434 2.7356
+sample estimates:
+odds ratio 
+  1.920684 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   181   90
+GreaterGood  137  131
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.92068371567079,1.3434,2.7356,542,271,271,0.35984,0.0096,0.16275,0.55483,64.05174,60.04248,0.20085,0.00026,0.35934,0.00957,0.16253,0.55406,64.03304,60.02882,0.00026,0.17708,0.00218,0.08111,0.26732,4e-05,0.17896,0.00186,0.08129,0.27397,1.92068,1.3434,2.7356,0.00026,0.65268,0.2952,1.00635,0.00026,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,539,1,120,539,539,0,78.8497217068646,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 227 308 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      17                     229                     281                       8 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             254 
+Unable to verify (completed online) but likely mostly computers 
+                                                            281 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       535 ","analysis.type
+Order 
+  539 ","subset
+all 
+539 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.041325Z,17,Hauser,2,,8,Order,Hauser.4,515,269,246,SideEffect.1,,269,160,0.594795539033457,0.310679611650485,Yes,0.594795539033457,,,,,,,,,,,SideEffect.2,,269,109,0.405204460966543,0.211650485436893,No,0.405204460966543,,,,,,,,,,,GreaterGood.1,,269,132,,0.536585365853659,0.256310679611651,Yes,0.536585365853659,,,,,,,,,,,GreaterGood.2,,269,114,,0.463414634146342,0.221359223300971,No,0.463414634146342,,,,,,,,,,,OR,1.26712486140368,,,,0.212614959406197,,0.8858,1.8011,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.2126
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.8858 1.8011
+sample estimates:
+odds ratio 
+  1.267125 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   160  109
+GreaterGood  132  114
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.26712486140368,0.8858,1.8011,538,269,269,0.13053,0.00966,-0.06686,0.3244,55.19254,53.67689,0.07354,0.18467,0.13034,0.00963,-0.06676,0.32395,55.18531,53.67176,0.18467,0.06513,0.00238,-0.03341,0.16011,0.13202,0.06522,0.00187,-0.03342,0.1615,1.26712,0.8858,1.8011,0.18467,0.23675,-0.12126,0.5884,0.18467,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,55,12,515,1,118,515,515,0,76.8932038834952,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 211 303 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      23                     234                     252                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             262 
+Unable to verify (completed online) but likely mostly computers 
+                                                            252 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       514 ","analysis.type
+Order 
+  515 ","subset
+all 
+515 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.177659Z,17,Hauser,2,,9,Order,Hauser.4,518,276,242,SideEffect.1,,276,174,0.630434782608696,0.335907335907336,Yes,0.630434782608696,,,,,,,,,,,SideEffect.2,,276,102,0.369565217391304,0.196911196911197,No,0.369565217391304,,,,,,,,,,,GreaterGood.1,,276,131,,0.541322314049587,0.252895752895753,Yes,0.541322314049587,,,,,,,,,,,GreaterGood.2,,276,111,,0.458677685950413,0.214285714285714,No,0.458677685950413,,,,,,,,,,,OR,1.44437416650465,,,,0.048865010384766,,1.0157,2.0648,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.04887
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0157 2.0648
+sample estimates:
+odds ratio 
+  1.444374 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   174  102
+GreaterGood  131  111
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.44437416650465,1.0157,2.0648,552,276,276,0.20271,0.00979,0.00859,0.39973,58.03193,55.69884,0.11398,0.04092,0.20243,0.00976,0.00858,0.39919,58.02112,55.69111,0.04092,0.10084,0.00237,0.00429,0.19599,0.01809,0.10118,0.00182,0.00429,0.19856,1.44437,1.0157,2.0648,0.04092,0.36768,0.01558,0.72503,0.04092,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,518,1,119,518,518,0,79.1505791505792,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 219 298 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      18                     215                     279                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             238 
+Unable to verify (completed online) but likely mostly computers 
+                                                            279 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       517 ","analysis.type
+Order 
+  518 ","subset
+all 
+518 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.291734Z,17,Hauser,2,,10,Order,Hauser.4,633,312,321,SideEffect.1,,312,201,0.644230769230769,0.317535545023697,Yes,0.644230769230769,,,,,,,,,,,SideEffect.2,,312,111,0.355769230769231,0.175355450236967,No,0.355769230769231,,,,,,,,,,,GreaterGood.1,,312,170,,0.529595015576324,0.268562401263823,Yes,0.529595015576324,,,,,,,,,,,GreaterGood.2,,312,151,,0.470404984423676,0.238546603475513,No,0.470404984423676,,,,,,,,,,,OR,1.60716720661696,,,,0.00368757746558773,,1.1582,2.2178,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.003688
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.1582 2.2178
+sample estimates:
+odds ratio 
+  1.607167 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   201  111
+GreaterGood  170  151
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.60716720661696,1.1582,2.2178,624,312,312,0.26159,0.00805,0.08097,0.43914,60.31815,57.33747,0.14675,0.00368,0.26128,0.00803,0.08087,0.43861,60.30599,57.32872,0.00368,0.12969,0.00191,0.04045,0.21446,0.00122,0.13043,0.00161,0.04047,0.21784,1.60717,1.1582,2.2178,0.00368,0.47447,0.14687,0.79652,0.00368,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,490,1,121,633,633,0,59.7156398104265,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 357 273 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      19                     207                     401                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             229 
+Unable to verify (completed online) but likely mostly computers 
+                                                            401 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       630 ","analysis.type
+Order 
+  633 ","subset
+all 
+633 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.395683Z,17,Hauser,2,,11,Order,Hauser.4,518,250,268,SideEffect.1,,250,167,0.668,0.322393822393822,Yes,0.668,,,,,,,,,,,SideEffect.2,,250,83,0.332,0.16023166023166,No,0.332,,,,,,,,,,,GreaterGood.1,,250,145,,0.541044776119403,0.27992277992278,Yes,0.541044776119403,,,,,,,,,,,GreaterGood.2,,250,123,,0.458955223880597,0.237451737451737,No,0.458955223880597,,,,,,,,,,,OR,1.70502985585313,,,,0.00399868684502512,,1.1913,2.47,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.003999
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.1913 2.4700
+sample estimates:
+odds ratio 
+   1.70503 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   167   83
+GreaterGood  145  123
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.70502985585313,1.1913,2.47,500,250,250,0.29418,0.01005,0.09651,0.49852,61.56896,58.23919,0.16478,0.0035,0.29374,0.01002,0.09636,0.49777,61.55203,58.22695,0.0035,0.14552,0.00236,0.0482,0.24186,0.00116,0.14656,0.00201,0.04824,0.24675,1.70503,1.1913,2.47,0.0035,0.53358,0.17505,0.90422,0.0035,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,518,1,119,518,518,0,77.7992277992278,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 195 322 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      17                     220                     277                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             240 
+Unable to verify (completed online) but likely mostly computers 
+                                                            277 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       517 ","analysis.type
+Order 
+  518 ","subset
+all 
+518 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.540236Z,17,Hauser,2,,12,Order,Hauser.4,500,250,250,SideEffect.1,,250,155,0.62,0.31,Yes,0.62,,,,,,,,,,,SideEffect.2,,250,95,0.38,0.19,No,0.38,,,,,,,,,,,GreaterGood.1,,250,138,,0.552,0.276,Yes,0.552,,,,,,,,,,,GreaterGood.2,,250,112,,0.448,0.224,No,0.448,,,,,,,,,,,OR,1.32341756617239,,,,0.146214876500734,,0.9209,1.9125,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.1462
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.9209 1.9125
+sample estimates:
+odds ratio 
+  1.323418 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   155   95
+GreaterGood  138  112
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.32341756617239,0.9209,1.9125,500,250,250,0.15449,0.01008,-0.04543,0.35749,56.13891,54.34949,0.08699,0.12444,0.15426,0.01005,-0.04536,0.35695,56.12973,54.34296,0.12444,0.07702,0.00247,-0.02271,0.17596,0.08599,0.07717,0.00201,-0.02271,0.17781,1.32342,0.9209,1.9125,0.12444,0.28022,-0.0824,0.64841,0.12444,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,500,1,118,500,500,0,75.6,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 213 286 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      16                     249                     229                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             270 
+Unable to verify (completed online) but likely mostly computers 
+                                                            229 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       499 ","analysis.type
+Order 
+  500 ","subset
+all 
+500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.639978Z,17,Hauser,2,,13,Order,Hauser.4,509,257,252,SideEffect.1,,257,156,0.607003891050584,0.306483300589391,Yes,0.607003891050584,,,,,,,,,,,SideEffect.2,,257,101,0.392996108949416,0.198428290766208,No,0.392996108949416,,,,,,,,,,,GreaterGood.1,,257,134,,0.531746031746032,0.263261296660118,Yes,0.531746031746032,,,,,,,,,,,GreaterGood.2,,257,118,,0.468253968253968,0.231827111984283,No,0.468253968253968,,,,,,,,,,,OR,1.35928363832838,,,,0.0897535386485665,,0.9554,1.9444,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.08975
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.9554 1.9444
+sample estimates:
+odds ratio 
+  1.359284 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   156  101
+GreaterGood  134  118
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.35928363832838,0.9554,1.9444,514,257,257,0.16923,0.0098,-0.02515,0.36661,56.7194,54.76265,0.09525,0.088,0.16899,0.00977,-0.02512,0.36607,56.70964,54.75571,0.088,0.08432,0.0024,-0.01258,0.1803,0.05662,0.08452,0.00196,-0.01258,0.18229,1.35928,0.9554,1.9444,0.088,0.30696,-0.04563,0.66495,0.088,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,509,1,119,509,509,0,76.6208251473478,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 188 318 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      25                     234                     241                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             265 
+Unable to verify (completed online) but likely mostly computers 
+                                                            241 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       506 ","analysis.type
+Order 
+  509 ","subset
+all 
+509 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.742235Z,17,Hauser,2,,14,Order,Hauser.4,536,277,259,SideEffect.1,,277,178,0.642599277978339,0.332089552238806,Yes,0.642599277978339,,,,,,,,,,,SideEffect.2,,277,99,0.357400722021661,0.184701492537313,No,0.357400722021661,,,,,,,,,,,GreaterGood.1,,277,131,,0.505791505791506,0.244402985074627,Yes,0.505791505791506,,,,,,,,,,,GreaterGood.2,,277,128,,0.494208494208494,0.238805970149254,No,0.494208494208494,,,,,,,,,,,OR,1.7549633651206,,,,0.00162297469703499,,1.2315,2.4848,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.001623
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.2315 2.4848
+sample estimates:
+odds ratio 
+  1.754963 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   178   99
+GreaterGood  131  128
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.7549633651206,1.2315,2.4848,554,277,277,0.31009,0.00947,0.1148,0.50182,62.17552,58.67799,0.17356,0.00152,0.30967,0.00945,0.11465,0.50113,62.15949,58.66638,0.00152,0.15322,0.00221,0.05731,0.24336,0.00032,0.15443,0.00181,0.05737,0.24835,1.75496,1.2315,2.4848,0.00152,0.56245,0.20823,0.91019,0.00152,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,27,56,12,536,1,117,536,536,0,78.9179104477612,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 214 319 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      23                     256                     247                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             286 
+Unable to verify (completed online) but likely mostly computers 
+                                                            247 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       533 ","analysis.type
+Order 
+  536 ","subset
+all 
+536 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:59:30.837651Z,17,Hauser,2,,15,Order,Hauser.4,531,252,279,SideEffect.1,,252,169,0.670634920634921,0.318267419962335,Yes,0.670634920634921,,,,,,,,,,,SideEffect.2,,252,83,0.329365079365079,0.156308851224105,No,0.329365079365079,,,,,,,,,,,GreaterGood.1,,252,159,,0.56989247311828,0.299435028248588,Yes,0.56989247311828,,,,,,,,,,,GreaterGood.2,,252,120,,0.43010752688172,0.225988700564972,No,0.43010752688172,,,,,,,,,,,OR,1.5354334725742,,,,0.0200205908154583,,1.0777,2.2112,Two-sided Fisher's Exact Test (usual method using minimum likelihood),two.sided,OR,,"
+	Two-sided Fisher's Exact Test (usual method using minimum likelihood)
+
+data:  table(Condition, Response)
+p-value = 0.02002
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.0777 2.2112
+sample estimates:
+odds ratio 
+  1.535433 
+",,,,"
+
+===========  ===  ===
+\            Yes   No
+===========  ===  ===
+SideEffect   169   83
+GreaterGood  159  120
+===========  ===  ===",,,,,,,,,,,,,,,,,,,,,,1.5354334725742,1.0777,2.2112,504,252,252,0.23642,0.00991,0.04126,0.4375,59.34454,56.63826,0.13277,0.0179,0.23606,0.00988,0.04119,0.43685,59.33083,56.62843,0.0179,0.11739,0.00238,0.02062,0.2137,0.00856,0.11793,0.002,0.02063,0.21704,1.53543,1.0777,2.2112,0.0179,0.42881,0.07483,0.79354,0.0179,,,,,,,,,,,,,,,,,,,,,,,,,61,61,61,27,56,12,531,1,120,531,531,0,77.9661016949153,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 234 294 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      14                     238                     273                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             255 
+Unable to verify (completed online) but likely mostly computers 
+                                                            273 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       528 ","analysis.type
+Order 
+  531 ","subset
+all 
+531 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

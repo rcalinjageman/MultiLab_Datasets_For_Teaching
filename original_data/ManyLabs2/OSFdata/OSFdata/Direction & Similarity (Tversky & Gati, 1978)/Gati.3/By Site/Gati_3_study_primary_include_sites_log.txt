@@ -1,0 +1,189 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.3~~~~~~~
+	# 84 Gati.3 - START
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - aus2 >> ES r is close to 0:  -0.05
+	# 
+	# 84 Gati.3 - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - brookcuny >> ES r is close to 0:  0[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - carleton >> ES r is close to 0:  0.02
+	# 
+	# 84 Gati.3 - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - georgefox >> ES r is close to 0:  0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - hawaiion >> ES r is close to 0:  0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - isb >> ES r is close to 0:  0.03[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - jmu >> ES r is close to 0:  0.02
+	# 
+	# 84 Gati.3 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - kwazulu >> ES r is close to 0:  -0.04[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - louvain >> ES r is close to 0:  -0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - lse >> ES r is close to 0:  -0.03[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - metu >> ES r is close to 0:  0.02[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - mturk >> ES r is close to 0:  -0.05[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - munich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - munichon >> ES r is close to 0:  -0.04[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - northumbria >> ES r is close to 0:  -0.03[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - osnabruck >> ES r is close to 0:  -0.03
+	# 
+	# 84 Gati.3 - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 84 Gati.3 - padua not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - puc >> ES r is close to 0:  -0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - ritonline >> ES r is close to 0:  0.05
+	# 
+	# 84 Gati.3 - rotterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - seznam >> ES r is close to 0:  -0.04[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - seznamon >> ES r is close to 0:  0.05[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - simmons >> ES r is close to 0:  0.05[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - tamu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - tamucc >> ES r is close to 0:  -0.02
+	# 
+	# 84 Gati.3 - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 84 Gati.3 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 84 Gati.3 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 84 Gati.3 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - tilburg >> ES r is close to 0:  0.05[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - tilburgcaf >> ES r is close to 0:  -0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - westernkentucky >> ES r is close to 0:  0.01[1] "The 0.95 confidence limits for the standardized mean are given as:"
+[1] "The 0.95 confidence limits for the standardized mean are given as:"
+
+	# 
+	# 84 Gati.3 - yale >> ES r is close to 0:  -0.04
+	# 
+	# 84 Gati.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

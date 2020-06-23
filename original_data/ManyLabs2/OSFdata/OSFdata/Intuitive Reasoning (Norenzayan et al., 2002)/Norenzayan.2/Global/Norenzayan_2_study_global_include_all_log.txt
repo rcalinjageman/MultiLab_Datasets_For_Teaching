@@ -1,0 +1,15 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~NORENZAYAN.2~~~~~~~
+	# 60 Norenzayan.2 - START
+
+	# 
+	# 60 Norenzayan.2 - all >> ES r is close to 0:  0.03
+	# 
+	# 60 Norenzayan.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

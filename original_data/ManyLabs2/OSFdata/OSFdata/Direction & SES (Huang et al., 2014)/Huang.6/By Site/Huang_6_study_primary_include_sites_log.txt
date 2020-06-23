@@ -1,0 +1,57 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~HUANG.6~~~~~~
+	# 6 Huang.6 - START
+
+	# 
+	# 6 Huang.6 - castab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - eindhoventab not included in results >> Cases in source file (8) < Nmin.raw (30)
+	# 
+	# 6 Huang.6 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - eltetab not included in results >> Valid cases after varfun (n1=8) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - eltetab not included in results >> Valid cases after varfun (n2=12) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 6 Huang.6 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 6 Huang.6 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 6 Huang.6 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - ntnutab not included in results >> Valid cases after varfun (n1=4) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - occidtab not included in results >> Valid cases after varfun (n1=12) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - occidtab not included in results >> Valid cases after varfun (n2=8) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - ouhktab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - psuabingtontab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 6 Huang.6 - psuabingtontab not included in results >> Valid cases after varfun (n2=12) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - ubctab not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 6 Huang.6 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

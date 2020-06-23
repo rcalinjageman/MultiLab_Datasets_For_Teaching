@@ -1,0 +1,17 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZAVAL.3~~~~~~~
+	# 77 Zaval.3 - START
+
+	# 
+	# 77 Zaval.3 - all: var.equal set to: TRUE
+	# 
+	# 77 Zaval.3 - all >> ES r is close to 0:  -0.02
+	# 
+	# 77 Zaval.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

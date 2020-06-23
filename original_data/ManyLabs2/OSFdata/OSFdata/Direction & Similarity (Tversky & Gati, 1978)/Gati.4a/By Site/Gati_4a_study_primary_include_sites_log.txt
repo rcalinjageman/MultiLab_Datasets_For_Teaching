@@ -1,0 +1,95 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.4A~~~~~~~
+	# 85 Gati.4a - START
+
+	# 
+	# 85 Gati.4a - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - aus2 >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - brookcuny >> ES r is extreme hi/lo:  0.97
+	# 
+	# 85 Gati.4a - carleton >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - fmkbelgrade >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - georgefox >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - hawaiion >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - help >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - isb >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - kwazulu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - louvain >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - loyola >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - lse >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - mcdanielonline >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - metu >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - moralsense >> ES r is extreme hi/lo:  0.97
+	# 
+	# 85 Gati.4a - mturk >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - mturk_india >> ES r is extreme hi/lo:  0.97
+	# 
+	# 85 Gati.4a - munichon >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - ouhk >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - pascal >> ES r is extreme hi/lo:  0.97
+	# 
+	# 85 Gati.4a - psualtoona >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - queensland2 >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - ritonline not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+ListIT = FALSE
+
+	# 
+	# 85 Gati.4a - seznamon >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - tamu >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - tamucc not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 85 Gati.4a - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 85 Gati.4a - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 85 Gati.4a - ulatina >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - umich >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - vcu >> ES r is extreme hi/lo:  0.97
+	# 
+	# 85 Gati.4a - vuw >> ES r is extreme hi/lo:  0.95
+	# 
+	# 85 Gati.4a - westernkentucky >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - yale >> ES r is extreme hi/lo:  0.96
+	# 
+	# 85 Gati.4a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

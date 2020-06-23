@@ -1,0 +1,1441 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:07:31.526979Z,22,Gray,2,,amity,Secondary,Gray.2,158,75,83,adultHbaby,as.numeric.ignore.,75,,,,,3.89333333333333,1.72088391283126,4,3.9016393442623,1,1,7,6,-0.122214718149092,2.27613993192679,0.198710558063445,babyHadult,as.numeric.ignore.,83,,,,,3.91566265060241,1.7888872360616,4,3.94029850746269,1,1,7,6,-0.30982020087946,2.12509520448664,0.196355883671304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.89333333333333,3.91566265060241,-0.0797728928218654,0.936520126505146,156,-0.575234193812089,0.530575559273937, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.079773, df = 156, p-value = 0.9365
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5752342  0.5305756
+sample estimates:
+mean of x mean of y 
+ 3.893333  3.915663 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0797728928218654,-2.03962909804745,1.88033878329488,158,75,83,-0.01271,0.02538,-0.32495,0.29957,49.49299,49.64149,-0.00717,0.93652,-0.01265,0.02514,-0.32338,0.29813,49.49544,49.64321,0.93652,-0.00639,0.00637,-0.16117,0.14887,0.93672,-0.00639,0.00645,-0.16258,0.14998,0.97721,0.55467,1.72177,0.93652,-0.02305,-0.58939,0.54336,0.93652,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,158,15,90,158,158,0,0,< table of extent 0 >,"SubjectPool
+ No 
+158 ","Setting
+In a lab 
+     158 ","Tablet
+Computers 
+      158 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      158 ","analysis.type
+Secondary 
+      158 ","subset
+all 
+158 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:31.625730Z,22,Gray,2,,amityon,Secondary,Gray.2,48,23,25,adultHbaby,as.numeric.ignore.,23,,,,,2.60869565217391,1.5591119393827,2,2.52631578947368,1,1,5,4,0.23492175293588,1.45815982550069,0.325097312489774,babyHadult,as.numeric.ignore.,25,,,,,2.76,1.92093727122985,2,2.52380952380952,1,1,7,6,0.960569505010872,2.85933196730341,0.384187454245971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.60869565217391,2.76,-0.298016942227843,0.767032182029412,46,-1.17325918556031,0.870650489908135, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.29802, df = 46, p-value = 0.767
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.1732592  0.8706505
+sample estimates:
+mean of x mean of y 
+ 2.608696  2.760000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.298016942227843,-2.25730790275533,1.66450131837384,48,23,25,-0.0861,0.08356,-0.6522,0.48092,46.56915,47.57253,-0.04855,0.76714,-0.08469,0.08084,-0.6415,0.47303,46.62526,47.61227,0.76714,-0.0439,0.02119,-0.31579,0.23834,0.76958,-0.04393,0.02222,-0.32696,0.24302,0.85541,0.30637,2.39238,0.76714,-0.15618,-1.18295,0.87229,0.76714,,,,,,,,amityon,amityon,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amityon,1,1,1,1,1,1,48,14,39,48,48,0,0,< table of extent 0 >,"SubjectPool
+No 
+48 ","Setting
+Online (at home) 
+              48 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:31.725459Z,22,Gray,2,,armstrong,Secondary,Gray.2,85,48,37,adultHbaby,as.numeric.ignore.,48,,,,,4.14583333333333,1.97849699383394,4,4.175,1.5,1,7,6,-0.0545260147098394,1.92996202255925,0.285571442995222,babyHadult,as.numeric.ignore.,37,,,,,2.43243243243243,1.4247912233131,2,2.32258064516129,1,1,5,4,0.664016272189349,2.06961032964532,0.234234234234234,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.7134009009009,4.14583333333333,2.43243243243243,4.6390086307919,1.29792117099144e-05,82.6651191093357,0.978741853874374,2.44805994792743,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.639, df = 82.665, p-value = 1.298e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.9787419 2.4480599
+sample estimates:
+mean of x mean of y 
+ 4.145833  2.432432 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.6390086307919,2.54327943079965,6.70979350103625,85,48,37,1.01488,0.05392,0.55639,1.4679,84.49176,76.3506,0.52701,4e-05,1.00568,0.05295,0.55135,1.4546,84.27148,76.14956,4e-05,0.45376,0.00751,0.26888,0.59302,3e-05,0.48942,0.0122,0.27566,0.68231,6.30147,2.74337,14.33179,4e-05,1.84078,1.00919,2.66248,4e-05,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,85,15,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:31.853734Z,22,Gray,2,,aus2,Secondary,Gray.2,180,86,94,adultHbaby,as.numeric.ignore.,86,,,,,3.05813953488372,1.79774140103821,3,2.91428571428571,2,1,7,6,0.3036166606636,2.01795524380616,0.193855440776585,babyHadult,as.numeric.ignore.,94,,,,,2.43617021276596,1.74478338081978,2,2.11842105263158,1,1,7,6,1.291842862725,3.85006927811853,0.179960664909677,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.05813953488372,2.43617021276596,2.35454157258081,0.0196355319506124,178,0.100686373528528,1.143252270707, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.3545, df = 178, p-value = 0.01964
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1006864 1.1432523
+sample estimates:
+mean of x mean of y 
+  3.05814   2.43617 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.35454157258081,0.376140444041783,4.32642968181236,180,86,94,0.35134,0.02261,0.05613,0.64558,63.73339,59.81014,0.1962,0.02057,0.34986,0.02242,0.05589,0.64286,63.67778,59.76959,0.02057,0.17379,0.00525,0.02818,0.30847,0.02061,0.17558,0.00565,0.02819,0.31885,1.8913,1.10717,3.22509,0.02057,0.63726,0.1018,1.17096,0.02057,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,180,15,102,180,180,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+180 ","Setting
+In a lab 
+     180 ","Tablet
+Computers 
+      180 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      180 ","analysis.type
+Secondary 
+      180 ","subset
+all 
+180 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:31.955806Z,22,Gray,2,,badaniaon,Secondary,Gray.2,43,23,20,adultHbaby,as.numeric.ignore.,23,,,,,2.1304347826087,1.57550418556574,1,1.89473684210526,0,1,6,5,1.06459377080506,2.79723822467443,0.32851533209771,babyHadult,as.numeric.ignore.,20,,,,,1.95,1.14593101656986,1.5,1.8125,0.5,1,4,3,0.744427849626341,2.08110409195144,0.256237965057565,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.1304347826087,1.95,0.423655696110496,0.674031315370946,41,-0.679686866448289,1.04055643166568, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.42366, df = 41, p-value = 0.674
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6796869  1.0405564
+sample estimates:
+mean of x mean of y 
+ 2.130435  1.950000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.423655696110496,-1.54100869307504,2.38318053052914,43,23,20,0.12953,0.09367,-0.47115,0.72864,55.15306,53.64885,0.07298,0.67435,0.12715,0.09026,-0.46248,0.71523,55.05874,53.58188,0.67435,0.06602,0.0236,-0.23398,0.34881,0.67802,0.06612,0.025,-0.2384,0.36409,1.26483,0.42546,3.74943,0.67435,0.23494,-0.85457,1.3216,0.67435,,,,,,,,badaniaon,badaniaon,badania.net,"Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,badaniaon,1,1,1,1,1,1,43,13,40,43,43,0,100,< table of extent 0 >,"SubjectPool
+No 
+43 ","Setting
+Online (at home) 
+              43 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.058015Z,22,Gray,2,,bogota,Secondary,Gray.2,102,56,46,adultHbaby,as.numeric.ignore.,56,,,,,3.08928571428571,1.95659059418335,3,2.89130434782609,1.5,1,7,6,0.667598239575142,2.43486910351328,0.261460416057805,babyHadult,as.numeric.ignore.,46,,,,,2.47826086956522,1.61574379755074,2,2.26315789473684,1,1,7,6,1.01423172650034,3.18673450211785,0.238228426156023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.08928571428571,2.47826086956522,1.69540600824153,0.0931100178468954,100,-0.103999098301321,1.32604878774231, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.6954, df = 100, p-value = 0.09311
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1039991  1.3260488
+sample estimates:
+mean of x mean of y 
+ 3.089286  2.478261 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.69540600824153,-0.282733033521468,3.66519279353321,102,56,46,0.33737,0.04015,-0.05626,0.72933,63.20794,59.42741,0.18855,0.09538,0.33483,0.03955,-0.05584,0.72385,63.1123,59.35785,0.09538,0.16716,0.00936,-0.02826,0.34413,0.09629,0.16874,0.0101,-0.02827,0.35877,1.84396,0.90299,3.75414,0.09538,0.61191,-0.10205,1.32286,0.09538,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,102,15,65,102,102,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+102 ","Setting
+In a lab 
+     102 ","Tablet
+Computers 
+      102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.188584Z,22,Gray,2,,brookcuny,Secondary,Gray.2,181,98,83,adultHbaby,as.numeric.ignore.,98,,,,,4.08163265306122,1.79158093744537,4,4.1,1,1,7,6,-0.133888710556514,2.06217877364574,0.180977004273168,babyHadult,as.numeric.ignore.,83,,,,,2.62650602409639,1.55163834242873,2,2.46268656716418,1,1,7,6,0.698024726069154,2.63140947901735,0.170314434428319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.08163265306122,2.62650602409639,5.78602012255622,3.16169016166387e-08,179,0.958859899322846,1.95139335860683, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 5.786, df = 179, p-value = 3.162e-08
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.9588599 1.9513934
+sample estimates:
+mean of x mean of y 
+ 4.081633  2.626506 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.78602012255622,3.72916503607569,7.82803566546852,181,98,83,0.86311,0.02431,0.55629,1.16772,80.5962,72.91725,0.45835,0,0.85949,0.02411,0.55395,1.16282,80.4965,72.83239,0,0.39694,0.00394,0.2685,0.505,0,0.42001,0.00562,0.27524,0.556,4.78512,2.74284,8.31463,0,1.56551,1.00899,2.11802,0,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,181,15,91,181,181,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+181 ","Setting
+Online (at home) 
+             181 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            181 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      181 ","analysis.type
+Secondary 
+      181 ","subset
+all 
+181 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.292434Z,22,Gray,2,,carleton,Secondary,Gray.2,121,66,55,adultHbaby,as.numeric.ignore.,66,,,,,3.65151515151515,1.73198351602055,4,3.62962962962963,1,1,7,6,-0.0607474527593138,2.17963460204231,0.213192433338596,babyHadult,as.numeric.ignore.,55,,,,,2.67272727272727,1.49138942742747,3,2.55555555555556,1,1,7,6,0.506233854500128,2.55364786862905,0.201098909370146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.65151515151515,2.67272727272727,3.29459978349773,0.00129874940915447,119,0.390522873862815,1.56705288371294, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.2946, df = 119, p-value = 0.001299
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.3905229 1.5670529
+sample estimates:
+mean of x mean of y 
+ 3.651515  2.672727 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.29459978349773,1.28390511250114,5.29203943914556,121,66,55,0.60151,0.03483,0.23441,0.96619,72.62494,66.47023,0.3294,0.00164,0.59771,0.03439,0.23293,0.96009,72.49832,66.37227,0.00164,0.28912,0.007,0.11689,0.43647,0.00159,0.2976,0.00847,0.11743,0.46786,2.9773,1.52985,5.76886,0.00164,1.09102,0.42517,1.75247,0.00164,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,121,15,78,121,121,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+121 ","Setting
+Online (at home) 
+             121 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            121 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      121 ","analysis.type
+Secondary 
+      121 ","subset
+all 
+121 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.394610Z,22,Gray,2,,cas,Secondary,Gray.2,48,21,27,adultHbaby,as.numeric.ignore.,21,,,,,3.14285714285714,1.76877681706071,3,3.05882352941176,2,1,6,5,0.167788591113905,1.59288797147683,0.385978745317323,babyHadult,as.numeric.ignore.,27,,,,,2.37037037037037,1.59682733877447,2,2.17391304347826,1,1,6,5,0.991152738826906,2.84046378078088,0.307309564630264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.14285714285714,2.37037037037037,1.58623963614623,0.119536152702562,46,-0.207778244935068,1.75275178990861, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.5862, df = 46, p-value = 0.1195
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2077782  1.7527518
+sample estimates:
+mean of x mean of y 
+ 3.142857  2.370370 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.58623963614623,-0.408578578895226,3.56430135267215,48,21,27,0.46153,0.08687,-0.11888,1.03706,67.779,62.792,0.25584,0.12424,0.45396,0.08405,-0.11693,1.02006,67.50718,62.58946,0.12424,0.22773,0.01913,-0.06013,0.4652,0.12681,0.2318,0.02222,-0.06021,0.50393,2.3097,0.80604,6.56017,0.12424,0.83712,-0.21562,1.88102,0.12424,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate2_Simplified_Chinese_Mainland_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,cas,1,1,1,1,1,1,48,15,42,48,48,0,0,< table of extent 0 >,"SubjectPool
+No 
+48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.526094Z,22,Gray,2,,csunorthonline,Secondary,Gray.2,88,45,43,adultHbaby,as.numeric.ignore.,45,,,,,4.04444444444444,1.82103311781022,4,4.08108108108108,1,1,7,6,-0.386156441210984,2.1185407264683,0.271463589380136,babyHadult,as.numeric.ignore.,43,,,,,3,1.74574312188794,3,2.85714285714286,2,1,7,6,0.434700866976361,2.099609375,0.266223330255889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.04444444444444,3,2.74428298909676,0.00738091190992721,86,0.287858171863715,1.80103071702517, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.7443, df = 86, p-value = 0.007381
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2878582 1.8010307
+sample estimates:
+mean of x mean of y 
+ 4.044444  3.000000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.74428298909676,0.734344760272968,4.73892546709729,88,45,43,0.58523,0.04742,0.1566,1.0106,72.08049,66.04982,0.321,0.00864,0.58012,0.0466,0.15523,1.00176,71.90817,65.91717,0.00864,0.28376,0.00972,0.07894,0.45504,0.00858,0.29177,0.01176,0.0791,0.49104,2.8907,1.3285,6.25281,0.00864,1.0615,0.28405,1.83303,0.00864,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,88,15,61,88,88,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 88 ","Setting
+Online (at home) 
+              88 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.628515Z,22,Gray,2,,fmkbelgrade,Secondary,Gray.2,103,54,49,adultHbaby,as.numeric.ignore.,54,,,,,3.12962962962963,1.5906127488617,3,3.09090909090909,1,1,7,6,0.0697344400771672,2.07168098096278,0.216454978504271,babyHadult,as.numeric.ignore.,49,,,,,2.87755102040816,1.62829989382106,3,2.73170731707317,1,1,7,6,0.637933103973329,2.83362110216044,0.232614270545866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.12962962962963,2.87755102040816,0.794246251142227,0.428914327798948,101,-0.3775197698397,0.881676988282633, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.79425, df = 101, p-value = 0.4289
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3775198  0.8816770
+sample estimates:
+mean of x mean of y 
+ 3.129630  2.877551 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.794246251142227,-1.17072582656016,2.75530296430188,103,54,49,0.1567,0.03905,-0.23098,0.54362,56.22608,54.4115,0.08823,0.42962,0.15554,0.03847,-0.22926,0.53957,56.1801,54.37879,0.42962,0.07878,0.00968,-0.11571,0.26441,0.43168,0.07895,0.01,-0.11623,0.27084,1.32874,0.65773,2.68052,0.42962,0.28423,-0.41896,0.98601,0.42962,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,103,15,66,103,103,0,0,< table of extent 0 >,"SubjectPool
+ No 
+103 ","Setting
+In a lab 
+     103 ","Tablet
+Computers 
+      103 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      103 ","analysis.type
+Secondary 
+      103 ","subset
+all 
+103 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.731876Z,22,Gray,2,,georgefox,Secondary,Gray.2,139,71,68,adultHbaby,as.numeric.ignore.,71,,,,,3.92957746478873,1.63291101727622,4,3.87719298245614,1,1,7,6,0.153514681065781,2.45080331859538,0.193790884476608,babyHadult,as.numeric.ignore.,68,,,,,3.07352941176471,1.57703837743352,3,2.96428571428571,1,1,7,6,0.384195077131774,2.61582816179017,0.191243994288562,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.92957746478873,3.07352941176471,3.14177431210312,0.0020582578386409,137,0.317251827985127,1.39484427806293, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.1418, df = 137, p-value = 0.002058
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.3172518 1.3948443
+sample estimates:
+mean of x mean of y 
+ 3.929577  3.073529 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.14177431210312,1.1413440299874,5.13112717652059,139,71,68,0.53309,0.02981,0.19366,0.87064,70.30136,64.68946,0.29379,0.00244,0.53016,0.02949,0.1926,0.86586,70.20009,64.61261,0.00244,0.25924,0.00631,0.09705,0.4015,0.0024,0.2653,0.00735,0.09736,0.42543,2.62982,1.42086,4.85087,0.00244,0.96691,0.35126,1.57916,0.00244,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,139,15,88,139,139,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+139 ","Setting
+Online (at home) 
+             139 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.855626Z,22,Gray,2,,grazvienna,Secondary,Gray.2,103,52,51,adultHbaby,as.numeric.ignore.,52,,,,,2.05769230769231,1.34912406642471,1,1.92857142857143,0,1,5,4,0.716982958257998,1.8021097403344,0.187089846094491,babyHadult,as.numeric.ignore.,51,,,,,2.23529411764706,1.42250814119453,2,2.09756097560976,1,1,6,5,0.673071471188486,2.17199026500811,0.19919098194824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.05769230769231,2.23529411764706,-0.650236820416517,0.517015601772913,101,-0.719426273790237,0.364222653880734, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.65024, df = 101, p-value = 0.517
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7194263  0.3642227
+sample estimates:
+mean of x mean of y 
+ 2.057692  2.235294 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.650236820416517,-2.61064156056123,1.31337649773369,103,52,51,-0.12815,0.03892,-0.51449,0.25883,44.90169,46.39002,-0.0722,0.51744,-0.12719,0.03834,-0.51066,0.25691,44.93944,46.41682,0.51744,-0.06457,0.00972,-0.25142,0.12958,0.51938,-0.06466,0.01,-0.25693,0.13032,0.79261,0.3933,1.59915,0.51744,-0.23243,-0.93319,0.46947,0.51744,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,139,15,88,139,139,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+139 ","Setting
+Online (at home) 
+             139 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:32.956641Z,22,Gray,2,,hawaiion,Secondary,Gray.2,123,68,55,adultHbaby,as.numeric.ignore.,68,,,,,3.86764705882353,1.71824634451495,4,3.89285714285714,1,1,7,6,-0.238015251516745,2.09183490857851,0.208367975566664,babyHadult,as.numeric.ignore.,55,,,,,2.50909090909091,1.67633558994045,2,2.26666666666667,1,1,7,6,1.06718129782367,3.27367824343375,0.226037044836018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.86764705882353,2.50909090909091,4.40753949299378,2.27657830648769e-05,121,0.748324468576982,1.96878783088826, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.4075, df = 121, p-value = 2.277e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7483245 1.9687878
+sample estimates:
+mean of x mean of y 
+ 3.867647  2.509091 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.40753949299378,2.36212911422533,6.43604069816801,123,68,55,0.79931,0.03548,0.42837,1.16717,78.79434,71.40293,0.42806,4e-05,0.79434,0.03505,0.42571,1.15992,78.65016,71.28343,4e-05,0.37194,0.00609,0.20995,0.505,4e-05,0.39067,0.00833,0.21312,0.556,4.26218,2.17489,8.30634,4e-05,1.44978,0.77698,2.11702,4e-05,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,123,15,73,123,123,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+123 ","Setting
+Online (at home) 
+             123 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            123 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      123 ","analysis.type
+Secondary 
+      123 ","subset
+all 
+123 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.056189Z,22,Gray,2,,help,Secondary,Gray.2,90,49,41,adultHbaby,as.numeric.ignore.,49,,,,,3.57142857142857,1.69558249578132,4,3.51219512195122,1,1,7,6,0.199860228960749,2.25551354757404,0.242226070825902,babyHadult,as.numeric.ignore.,41,,,,,2.73170731707317,1.58152442668304,2,2.60606060606061,1,1,7,6,0.488321776110533,2.39813224501207,0.246992619233812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.57142857142857,2.73170731707317,2.4121939012281,0.0179334448108415,88,0.147915534585444,1.53152697412536, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.4122, df = 88, p-value = 0.01793
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1479155 1.5315270
+sample estimates:
+mean of x mean of y 
+ 3.571429  2.731707 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.4121939012281,0.413550959058261,4.39756759595866,90,49,41,0.51056,0.04625,0.08753,0.93077,69.51691,64.09569,0.28191,0.01977,0.50619,0.04546,0.08678,0.92282,69.36392,63.98029,0.01977,0.24904,0.00989,0.04404,0.42446,0.01983,0.25439,0.01149,0.04407,0.45312,2.52451,1.17206,5.40993,0.01977,0.92605,0.15876,1.68824,0.01977,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,90,15,64,90,90,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.226535Z,22,Gray,2,,isb,Secondary,Gray.2,183,99,84,adultHbaby,as.numeric.ignore.,99,,,,,3.22222222222222,1.71758940922585,4,3.11111111111111,1,1,7,6,0.174417809077086,2.21663906614731,0.172624230736071,babyHadult,as.numeric.ignore.,84,,,,,2.73809523809524,1.80440590375869,2.5,2.52941176470588,1.5,1,7,6,0.60621855779425,2.213297987541,0.196876824723795,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.22222222222222,2.73809523809524,1.85647352293852,0.0650113966128288,181,-0.0304284653455187,0.998682433599487, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.8565, df = 181, p-value = 0.06501
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.03042847  0.99868243
+sample estimates:
+mean of x mean of y 
+ 3.222222  2.738095 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.85647352293852,-0.11532508430247,3.82319318491378,183,99,84,0.2754,0.02221,-0.01711,0.56715,60.84939,57.71995,0.1544,0.06626,0.27425,0.02203,-0.01704,0.56479,60.80549,57.68831,0.06626,0.1367,0.00529,-0.00857,0.27335,0.0666,0.13756,0.00556,-0.00857,0.28048,1.64792,0.96945,2.79739,0.06626,0.49951,-0.03103,1.02869,0.06626,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,183,15,93,183,183,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+183 ","Setting
+In a lab 
+     183 ","Tablet
+Computers 
+      183 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      183 ","analysis.type
+Secondary 
+      183 ","subset
+all 
+183 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.332542Z,22,Gray,2,,jmu,Secondary,Gray.2,86,40,46,adultHbaby,as.numeric.ignore.,40,,,,,4.05,1.81093544321358,4,4,2,1,7,6,0.0560109977065482,1.79851036867275,0.286334034804072,babyHadult,as.numeric.ignore.,46,,,,,2.52173913043478,1.22454763411333,2,2.42105263157895,1,1,5,4,0.683355536024563,2.60470692953555,0.180549698578521,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.52826086956522,4.05,2.52173913043478,4.51474163146391,2.63255635846245e-05,66.998857815251,0.852602622050723,2.20391911707971,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.5147, df = 66.999, p-value = 2.633e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.8526026 2.2039191
+sample estimates:
+mean of x mean of y 
+ 4.050000  2.521739 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.51474163146391,2.39680997285573,6.60327660815876,86,40,46,0.97605,0.05228,0.51817,1.42758,83.54808,75.49574,0.50991,5e-05,0.96731,0.05135,0.51353,1.41479,83.33059,75.30101,5e-05,0.44189,0.00762,0.25301,0.58456,4e-05,0.47458,0.01205,0.25862,0.66936,5.87299,2.55962,13.32097,5e-05,1.77036,0.93986,2.58934,5e-05,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,86,15,66,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.434492Z,22,Gray,2,,jos,Secondary,Gray.2,95,42,53,adultHbaby,as.numeric.ignore.,42,,,,,4.71428571428571,2.13319540785265,4.5,4.88235294117647,2.5,1,7,6,-0.399520222194639,1.85668923498331,0.329159197555415,babyHadult,as.numeric.ignore.,53,,,,,2.9622641509434,2.15694106897622,2,2.72093023255814,1,1,7,6,0.873314205041661,2.44144415887907,0.296278641638662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.71428571428571,2.9622641509434,3.95101187007771,0.00015143319310175,93,0.87144521640521,2.63259791027943, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.951, df = 93, p-value = 0.0001514
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.8714452 2.6325979
+sample estimates:
+mean of x mean of y 
+ 4.714286  2.962264 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.95101187007771,1.90084597031889,5.98152715475419,95,42,53,0.81622,0.04618,0.39269,1.2357,79.2813,71.80827,0.43617,0.00026,0.80962,0.04544,0.38951,1.2257,79.09208,71.65043,0.00026,0.37912,0.0078,0.19339,0.5271,0.00023,0.39903,0.01087,0.19585,0.58612,4.39497,2.03858,9.40558,0.00026,1.48046,0.71225,2.2413,0.00026,,,,,,,,jos,jos,"University of Jos, Jos, Nigeria","Haruna Karick, Zubairu K. Dagona, Joshua C. Gandi, Evans Binan",ML2_Slate2_NigeriaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Nigeria,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jos,1,1,1,1,1,1,95,15,67,95,95,0,0,< table of extent 0 >,"SubjectPool
+No 
+95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.563980Z,22,Gray,2,,kenyon,Secondary,Gray.2,106,57,49,adultHbaby,as.numeric.ignore.,57,,,,,3.91228070175439,1.80555394897429,4,3.8936170212766,1,1,7,6,-0.0334201899443085,2.1595824368243,0.239151462784301,babyHadult,as.numeric.ignore.,49,,,,,2.59183673469388,1.49886578433687,2,2.48780487804878,1,1,6,5,0.683712722443809,2.14654985183729,0.214123683476696,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.91228070175439,2.59183673469388,4.05622715062884,9.66025011632479e-05,104,0.674895815770687,1.96599211835033, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.0562, df = 104, p-value = 9.66e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6748958 1.9659921
+sample estimates:
+mean of x mean of y 
+ 3.912281  2.591837 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.05622715062884,2.01134146329966,6.08299298054124,106,57,49,0.7902,0.0409,0.39184,1.18504,78.5296,71.1837,0.42367,0.00017,0.78449,0.04031,0.389,1.17648,78.36244,71.04569,0.00017,0.36958,0.0071,0.1935,0.51228,0.00015,0.38794,0.00971,0.19597,0.56581,4.1924,2.03544,8.58,0.00017,1.43327,0.71071,2.14943,0.00017,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,106,15,68,106,106,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+In a lab 
+     106 ","Tablet
+Computers 
+      106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.667152Z,22,Gray,2,,krakowon,Secondary,Gray.2,99,45,54,adultHbaby,as.numeric.ignore.,45,,,,,2.55555555555556,1.45470327426648,3,2.45945945945946,1,1,6,5,0.314320967951006,1.89314540245271,0.216854360556758,babyHadult,as.numeric.ignore.,54,,,,,2.33333333333333,1.44064974859027,2,2.18181818181818,1,1,7,6,0.929952375116582,3.28165289256198,0.196047599006391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.55555555555556,2.33333333333333,0.760837748779705,0.448599582604062,97,-0.357467202493347,0.801911646937791, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.76084, df = 97, p-value = 0.4486
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3574672  0.8019116
+sample estimates:
+mean of x mean of y 
+ 2.555556  2.333333 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.760837748779705,-1.20399348000545,2.72176333014889,99,45,54,0.15357,0.04086,-0.24302,0.54937,56.10256,54.32363,0.08647,0.44926,0.15238,0.04023,-0.24113,0.54511,56.05562,54.29025,0.44926,0.07702,0.01008,-0.12134,0.26637,0.45139,0.07717,0.01042,-0.12194,0.27295,1.32121,0.64353,2.70864,0.44926,0.27855,-0.44079,0.99645,0.44926,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,99,15,68,99,99,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 99 ","Setting
+Online (at home) 
+              99 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             99 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       99 ","analysis.type
+Secondary 
+       99 ","subset
+all 
+ 99 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.769158Z,22,Gray,2,,kwazulu,Secondary,Gray.2,76,32,44,adultHbaby,as.numeric.ignore.,32,,,,,4.4375,1.83052081430748,4.5,4.53846153846154,1,1,7,6,-0.443576240636746,2.4995286441024,0.323593420224984,babyHadult,as.numeric.ignore.,44,,,,,3.13636363636364,2.05268864063479,2.5,2.97222222222222,1.5,1,7,6,0.548792272972877,1.88685310780406,0.309454456018649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.4375,3.13636363636364,2.85343174829018,0.00560548256071326,74,0.392556440790649,2.20971628648208, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.8534, df = 74, p-value = 0.005605
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.3925564 2.2097163
+sample estimates:
+mean of x mean of y 
+ 4.437500  3.136364 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.85343174829018,0.831309840813195,4.85726246544957,76,32,44,0.66294,0.05687,0.19314,1.12849,74.63149,68.03823,0.36076,0.00689,0.6562,0.05572,0.19117,1.11701,74.41511,67.86764,0.00689,0.31484,0.01082,0.09619,0.49168,0.0068,0.3259,0.0137,0.09649,0.53827,3.32822,1.41951,7.74348,0.00689,1.20244,0.35031,2.04685,0.00689,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,76,15,52,76,76,0,0,< table of extent 0 >,"SubjectPool
+No 
+76 ","Setting
+In a lab 
+      76 ","Tablet
+Computers 
+       76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:33.901069Z,22,Gray,2,,louvain,Secondary,Gray.2,102,54,48,adultHbaby,as.numeric.ignore.,54,,,,,3.33333333333333,2.10121258791742,4,3.18181818181818,2,1,7,6,0.229927605463715,1.72189349112426,0.285938815639479,babyHadult,as.numeric.ignore.,48,,,,,3.0625,1.54927917350193,3,2.975,1,1,7,6,0.450054329532171,2.51527259612802,0.223619186967804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,0.270833333333334,3.33333333333333,3.0625,0.746104281547644,0.457412214956943,96.8167977954787,-0.44963169439174,0.991298361058407,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.7461, df = 96.817, p-value = 0.4574
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4496317  0.9912984
+sample estimates:
+mean of x mean of y 
+ 3.333333  3.062500 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.746104281547644,-1.21858653288678,2.70695744637533,102,54,48,0.14801,0.03946,-0.24173,0.53699,55.88314,54.16759,0.08335,0.45797,0.14689,0.03887,-0.23992,0.53295,55.83922,54.13637,0.45797,0.0744,0.00979,-0.12096,0.26129,0.46002,0.07454,0.0101,-0.12156,0.26749,1.30794,0.64503,2.64848,0.45797,0.26845,-0.43846,0.97399,0.45797,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,102,15,74,102,102,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+102 ","Setting
+In a lab 
+     102 ","Tablet
+Computers 
+      102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.008971Z,22,Gray,2,,loyola,Secondary,Gray.2,293,148,145,adultHbaby,as.numeric.ignore.,148,,,,,3.96621621621622,1.86779196113362,4,3.95833333333333,1.5,1,7,6,-0.0576335660736395,1.89648657077129,0.153531553453727,babyHadult,as.numeric.ignore.,145,,,,,2.51724137931035,1.45823070246419,2,2.34188034188034,1,1,7,6,0.916418458128739,3.31466703189676,0.121099468423595,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.44897483690587,3.96621621621622,2.51724137931035,7.41001059929657,1.53117926017913e-12,277.256707226464,1.06403751593923,1.83391215787251,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 7.41, df = 277.26, p-value = 1.531e-12
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.064038 1.833912
+sample estimates:
+mean of x mean of y 
+ 3.966216  2.517241 
+",,,,,,,,,,,,,,,,,,,,,,,,,,7.41001059929657,5.34927441871557,9.45853128818804,293,148,145,0.86584,0.01493,0.62505,1.1052,80.67111,72.9811,0.45962,0,0.86361,0.01486,0.62344,1.10235,80.6098,72.92884,0,0.39842,0.00242,0.29921,0.48492,0,0.42177,0.00345,0.30866,0.52939,4.80886,3.10717,7.42327,0,1.57046,1.13371,2.00462,0,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,293,15,112,293,293,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+293 ","Setting
+In a lab 
+     293 ","Tablet
+Computers 
+      293 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      293 ","analysis.type
+Secondary 
+      293 ","subset
+all 
+293 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.113954Z,22,Gray,2,,lse,Secondary,Gray.2,112,56,56,adultHbaby,as.numeric.ignore.,56,,,,,3.66071428571429,1.9379162728352,4,3.58695652173913,2,1,7,6,0.185103146666178,1.95474235308486,0.258964954900116,babyHadult,as.numeric.ignore.,56,,,,,2.625,1.35596326043015,2,2.54347826086957,1,1,5,4,0.439457540021056,1.92838753149442,0.181198212485091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.03571428571429,3.66071428571429,2.625,3.27692649340514,0.00145025750831551,98.4415264847404,0.408533271816675,1.6628952996119,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.2769, df = 98.442, p-value = 0.00145
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.4085333 1.6628953
+sample estimates:
+mean of x mean of y 
+ 3.660714  2.625000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.27692649340514,1.2564530477998,5.28159485828099,112,56,56,0.61928,0.03743,0.23745,0.99813,73.21343,66.92698,0.33854,0.00179,0.61505,0.03692,0.23582,0.99131,73.07388,66.81844,0.00179,0.29823,0.00748,0.11895,0.44977,0.00173,0.30757,0.00917,0.11951,0.48441,3.07484,1.53831,6.11291,0.00179,1.12325,0.43068,1.8104,0.00179,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,112,15,67,112,112,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+112 ","Setting
+In a lab 
+     112 ","Tablet
+Computers 
+      112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.244825Z,22,Gray,2,,mcdanielonline,Secondary,Gray.2,160,80,80,adultHbaby,as.numeric.ignore.,80,,,,,3.9625,1.70214867934099,4,4,1,1,7,6,-0.22018390581741,2.30623627823999,0.190306007740897,babyHadult,as.numeric.ignore.,80,,,,,2.8375,1.46212737328052,3,2.734375,1,1,7,6,0.504003954654218,2.61564594601303,0.163470809920923,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.9625,2.8375,4.48427584003992,1.40004944102468e-05,158,0.629495561588533,1.62050443841147, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.4843, df = 158, p-value = 1.4e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6294956 1.6205044
+sample estimates:
+mean of x mean of y 
+   3.9625    2.8375 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.48427584003992,2.4563213326123,6.49885643336039,160,80,80,0.70903,0.02657,0.38838,1.02756,76.08459,69.19402,0.38388,2e-05,0.70566,0.02632,0.38653,1.02267,75.97987,69.1101,2e-05,0.33601,0.00495,0.19179,0.45927,2e-05,0.34959,0.00637,0.19419,0.49638,3.6184,2.02272,6.44811,2e-05,1.28603,0.70444,1.86379,2e-05,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,160,15,83,160,160,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+160 ","Setting
+Online (at home) 
+             160 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      160 ","analysis.type
+Secondary 
+      160 ","subset
+all 
+160 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.355808Z,22,Gray,2,,metu,Secondary,Gray.2,126,55,71,adultHbaby,as.numeric.ignore.,55,,,,,3.74545454545455,1.81779457155563,4,3.68888888888889,1,1,7,6,0.215208304484196,2.3265223684269,0.245111370025846,babyHadult,as.numeric.ignore.,71,,,,,2.71830985915493,1.52299609409075,3,2.57894736842105,1,1,7,6,0.508268125993007,2.5285515795714,0.180746382996779,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.74545454545455,2.71830985915493,3.44918340707569,0.0007688937052009,124,0.437727767994079,1.61656160460515, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.4492, df = 124, p-value = 0.0007689
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.4377278 1.6165616
+sample estimates:
+mean of x mean of y 
+ 3.745455  2.718310 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.44918340707569,1.43620737264137,5.44886989007126,126,55,71,0.61957,0.03379,0.25798,0.97877,73.22298,66.93441,0.33869,0.001,0.61582,0.03338,0.25642,0.97284,73.0992,66.83812,0.001,0.29588,0.00666,0.12792,0.43952,0.00096,0.305,0.00813,0.12862,0.47164,3.07645,1.59669,5.90202,0.001,1.12378,0.46793,1.77529,0.001,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,126,15,77,126,126,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+126 ","Setting
+Online (at home) 
+             126 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            126 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      126 ","analysis.type
+Secondary 
+      126 ","subset
+all 
+126 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.465641Z,22,Gray,2,,moralsense,Secondary,Gray.2,840,445,395,adultHbaby,as.numeric.ignore.,445,,,,,3.88539325842697,1.94702074107357,4,3.85714285714286,1,1,7,6,-0.045709333520828,1.96592222280279,0.0922976348945361,babyHadult,as.numeric.ignore.,395,,,,,2.95443037974684,1.73730328604541,3,2.78233438485804,1,1,7,6,0.602229065523292,2.40597409723664,0.087413214939656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.88539325842697,2.95443037974684,7.27404115020593,8.01715849205056e-13,838,0.679755488105334,1.18217026925493, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 7.274, df = 838, p-value = 8.017e-13
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6797555 1.1821703
+sample estimates:
+mean of x mean of y 
+ 3.885393  2.954430 
+",,,,,,,,,,,,,,,,,,,,,,,,,,7.27404115020593,5.28128160694901,9.26258705975903,840,445,395,0.50285,0.00493,0.36509,0.64031,69.24645,63.89177,0.27784,0,0.5024,0.00492,0.36476,0.63974,69.23062,63.87985,0,0.2437,0.00105,0.17948,0.30475,0,0.24871,0.00119,0.18144,0.31475,2.48946,1.93905,3.19441,0,0.91207,0.6622,1.1614,0,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,840,15,120,840,840,0,100,< table of extent 0 >,"SubjectPool
+ No 
+840 ","Setting
+Online (at home) 
+             840 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            840 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      840 ","analysis.type
+Secondary 
+      840 ","subset
+all 
+840 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.600300Z,22,Gray,2,,mturk,Secondary,Gray.2,339,159,180,adultHbaby,as.numeric.ignore.,159,,,,,4.59748427672956,1.89309035691241,5,4.73643410852713,1,1,7,6,-0.432234195346667,2.19672419693581,0.150131830945711,babyHadult,as.numeric.ignore.,180,,,,,2.83888888888889,1.78185732265847,2,2.60416666666667,1,1,7,6,0.778764257204565,2.67895692416624,0.132811803322337,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.59748427672956,2.83888888888889,8.80644882750279,6.91344981712601e-17,337,1.36579155318167,2.15139922249967, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 8.8064, df = 337, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.365792 2.151399
+sample estimates:
+mean of x mean of y 
+ 4.597484  2.838889 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.80644882750279,6.73098122712884,10.8701334754745,339,159,180,0.95844,0.0132,0.73256,1.18304,83.108,75.10257,0.50205,0,0.95631,0.01314,0.73093,1.18041,83.05415,75.05468,0,0.43252,0.00196,0.34425,0.50951,0,0.463,0.00298,0.3589,0.56207,5.68836,3.7762,8.54887,0,1.73842,1.32872,2.1458,0,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,339,15,113,339,339,0,100,< table of extent 0 >,"SubjectPool
+ No 
+339 ","Setting
+Online (at home) 
+             339 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            339 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      339 ","analysis.type
+Secondary 
+      339 ","subset
+all 
+339 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.709141Z,22,Gray,2,,mturk_india,Secondary,Gray.2,358,192,166,adultHbaby,as.numeric.ignore.,192,,,,,3.88541666666667,1.89719987474882,4,3.85714285714286,2,1,7,6,-0.00568089762333143,1.88024816482886,0.136918607299095,babyHadult,as.numeric.ignore.,166,,,,,2.83734939759036,1.84982953143344,2,2.64925373134328,1,1,7,6,0.515919494591117,1.93127475750446,0.143574616328917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.88541666666667,2.83734939759036,5.2730263912526,2.33348553272612e-07,356,0.657175713302945,1.43895882484967, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 5.273, df = 356, p-value = 2.333e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.6571757 1.4389588
+sample estimates:
+mean of x mean of y 
+ 3.885417  2.837349 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.2730263912526,3.2716156178646,7.26729766915832,358,192,166,0.55885,0.01167,0.34674,0.77021,71.18686,65.36406,0.30728,0,0.55767,0.01162,0.34601,0.76859,71.14664,65.33331,0,0.26916,0.00241,0.17085,0.35943,0,0.27595,0.00282,0.17254,0.37623,2.75563,1.87556,4.04309,0,1.01365,0.62891,1.39701,0,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,218,15,103,358,358,0,0,< table of extent 0 >,"SubjectPool
+ No 
+358 ","Setting
+Online (at home) 
+             358 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            358 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      358 ","analysis.type
+Secondary 
+      358 ","subset
+all 
+358 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.813602Z,22,Gray,2,,munich,Secondary,Gray.2,84,43,41,adultHbaby,as.numeric.ignore.,43,,,,,2.13953488372093,1.39012495753572,2,1.94285714285714,1,1,6,5,1.03947105780738,3.02756906757744,0.21199206860787,babyHadult,as.numeric.ignore.,41,,,,,2,1.28452325786651,1,1.81818181818182,0,1,6,5,1.14642924990765,3.55785123966942,0.200608829414421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.13953488372093,2,0.477174499507206,0.63450721057437,82,-0.442179633380477,0.721249400822337, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.47717, df = 82, p-value = 0.6345
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4421796  0.7212494
+sample estimates:
+mean of x mean of y 
+ 2.139535  2.000000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.477174499507206,-1.48559607001343,2.43704379004297,84,43,41,0.10416,0.04771,-0.32428,0.53196,54.14778,52.93558,0.05871,0.63474,0.1032,0.04684,-0.3213,0.52708,54.10987,52.90869,0.63474,0.05262,0.01198,-0.16189,0.25988,0.63673,0.05267,0.01235,-0.16333,0.26598,1.20795,0.55534,2.62443,0.63474,0.18892,-0.58817,0.96486,0.63474,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,84,15,68,84,84,0,100,< table of extent 0 >,"SubjectPool
+No 
+84 ","Setting
+In a classroom 
+            84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:34.932473Z,22,Gray,2,,munichon,Secondary,Gray.2,214,108,106,adultHbaby,as.numeric.ignore.,108,,,,,1.94444444444444,1.28130579811636,1,1.77272727272727,0,1,7,6,1.20201037845531,3.87985770301265,0.123293707909452,babyHadult,as.numeric.ignore.,106,,,,,1.9622641509434,1.12904956491553,2,1.83720930232558,1,1,4,3,0.872019376206934,2.32319095883392,0.109662988030307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,1.94444444444444,1.9622641509434,-0.107866116442019,0.914203911099261,212,-0.343468851642905,0.307829438645001, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.10787, df = 212, p-value = 0.9142
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3434689  0.3078294
+sample estimates:
+mean of x mean of y 
+ 1.944444  1.962264 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.107866116442019,-2.06772982904885,1.85225184315201,214,108,106,-0.01475,0.01869,-0.28271,0.25325,49.41167,49.58398,-0.00832,0.91421,-0.0147,0.01856,-0.28171,0.25235,49.41375,49.58545,0.91421,-0.00741,0.00469,-0.1406,0.1262,0.91441,-0.00741,0.00474,-0.14154,0.12687,0.97361,0.59883,1.58302,0.91421,-0.02675,-0.51277,0.45934,0.91421,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,84,15,68,84,84,0,100,< table of extent 0 >,"SubjectPool
+No 
+84 ","Setting
+In a classroom 
+            84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.039081Z,22,Gray,2,,northumbria,Secondary,Gray.2,79,34,45,adultHbaby,as.numeric.ignore.,34,,,,,4.26470588235294,1.89590984840991,4,4.32142857142857,2,1,7,6,-0.360300821919361,1.97059511939959,0.325145856560048,babyHadult,as.numeric.ignore.,45,,,,,3.02222222222222,1.46921266622156,3,2.94594594594595,1,1,6,5,0.439673665752907,2.30131642305534,0.219017293005007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.26470588235294,3.02222222222222,3.28301030106193,0.00154598754768104,77,0.488876201563421,1.99609111869802, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.283, df = 77, p-value = 0.001546
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.4888762 1.9960911
+sample estimates:
+mean of x mean of y 
+ 4.264706  3.022222 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.28301030106193,1.24585719232969,5.30020570471594,79,34,45,0.746,0.05516,0.2831,1.20437,77.21669,70.10779,0.40216,0.00215,0.73871,0.05408,0.28033,1.1926,76.99591,69.92861,0.00215,0.35041,0.00987,0.14057,0.51702,0.00206,0.36591,0.01316,0.14151,0.57226,3.8694,1.6711,8.8861,0.00215,1.3531,0.51348,2.18449,0.00215,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,79,14,55,79,79,0,100,< table of extent 0 >,"SubjectPool
+No 
+79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.142939Z,22,Gray,2,,osnabruck,Secondary,Gray.2,86,45,41,adultHbaby,as.numeric.ignore.,45,,,,,1.71111111111111,1.16037263259034,1,1.48648648648649,0,1,6,5,1.81574966753784,5.9444036740618,0.172978139046827,babyHadult,as.numeric.ignore.,41,,,,,1.90243902439024,1.22075546381699,1,1.6969696969697,0,1,5,4,1.18933709826938,3.25330144835142,0.190649973130369,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,1.71111111111111,1.90243902439024,-0.745005827704344,0.458347614657336,84,-0.702030680640794,0.319374854082529, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.74501, df = 84, p-value = 0.4583
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7020307  0.3193749
+sample estimates:
+mean of x mean of y 
+ 1.711111  1.902439 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.745005827704344,-2.70598810811038,1.22039044248891,86,45,41,-0.16085,0.04676,-0.58422,0.26348,43.61073,45.47238,-0.09055,0.45907,-0.15941,0.04593,-0.57899,0.26112,43.66746,45.51275,0.45907,-0.08102,0.01161,-0.28316,0.13199,0.46152,-0.0812,0.01205,-0.29112,0.13277,0.74696,0.34657,1.61269,0.45907,-0.29174,-1.05966,0.4779,0.45907,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,86,15,59,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+In a classroom 
+            86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.273455Z,22,Gray,2,,ouhk,Secondary,Gray.2,67,29,38,adultHbaby,as.numeric.ignore.,29,,,,,3.17241379310345,1.25552964114869,4,3.2,1,1,6,5,-0.440356902678328,2.76339599609375,0.233146001304418,babyHadult,as.numeric.ignore.,38,,,,,3.15789473684211,1.79377777088549,3,3,1,1,7,6,0.557394191431236,2.58449483685009,0.290989179185815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.17241379310345,3.15789473684211,0.0371621594602575,0.9704696076792,65,-0.765752006420428,0.794790118943114, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.037162, df = 65, p-value = 0.9705
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7657520  0.7947901
+sample estimates:
+mean of x mean of y 
+ 3.172414  3.157895 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0371621594602575,-1.92295484524401,1.99699386454505,67,29,38,0.00916,0.0608,-0.47415,0.49241,50.36555,50.25849,0.00517,0.97047,0.00906,0.0594,-0.46866,0.4867,50.36132,50.25549,0.97047,0.00461,0.01515,-0.23201,0.24043,0.9707,0.00461,0.01562,-0.23631,0.24523,1.01676,0.42316,2.44275,0.97047,0.01662,-0.86001,0.89313,0.97047,,,,,,,,ouhk,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate2_Traditional_ChineseHong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ouhk,1,1,1,1,1,1,67,14,53,67,67,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 67 ","Setting
+In a lab 
+      67 ","Tablet
+Computers 
+       67 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       67 ","analysis.type
+Secondary 
+       67 ","subset
+all 
+ 67 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.377825Z,22,Gray,2,,padua,Secondary,Gray.2,79,35,44,adultHbaby,as.numeric.ignore.,35,,,,,4.17142857142857,1.93247348791972,4,4.20689655172414,2,1,7,6,-0.345172524584269,1.91658976878786,0.326647638093081,babyHadult,as.numeric.ignore.,44,,,,,3.18181818181818,1.67433051212948,3,3.11111111111111,1,1,7,6,0.310653301120526,2.26783508391174,0.252414821989868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.17142857142857,3.18181818181818,2.43699147403654,0.0171180242980707,77,0.181004344399353,1.79821643482143, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.437, df = 77, p-value = 0.01712
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1810043 1.7982164
+sample estimates:
+mean of x mean of y 
+ 4.171429  3.181818 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.43699147403654,0.432093686065448,4.42664917568285,79,35,44,0.55196,0.05323,0.09787,1.0026,70.95119,65.18405,0.30368,0.01917,0.54657,0.05219,0.09691,0.9928,70.76614,65.04295,0.01917,0.26759,0.01105,0.04918,0.4504,0.01924,0.27427,0.01316,0.04922,0.4852,2.72139,1.19424,6.16272,0.01917,1.00114,0.17751,1.81852,0.01917,,,,,,,,padua,padua,"Department FISPPA, Applied Psychology, University of Padua, 35131 Padua, Italy","Elisa Maria Galliani, Anna Dalla Rosa",ML2_Slate2_Italian_r.csv,DO.BR.FL_5,DO.BR.FL_6,Italy,Italian,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,padua,1,1,1,1,1,1,79,15,59,79,79,0,100,< table of extent 0 >,"SubjectPool
+No 
+79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.478750Z,22,Gray,2,,pascal,Secondary,Gray.2,176,84,92,adultHbaby,as.numeric.ignore.,84,,,,,3.08333333333333,1.73697100525379,3,2.94117647058824,1,1,7,6,0.384733807692331,2.32155868892943,0.189519074083787,babyHadult,as.numeric.ignore.,92,,,,,2.82608695652174,1.71360872123666,3,2.66216216216216,2,1,7,6,0.496039585056359,2.32762810657132,0.178656059215877,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.08333333333333,2.82608695652174,0.988302040399658,0.324377060674564,174,-0.256488241823808,0.770980995446996, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.9883, df = 174, p-value = 0.3244
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2564882  0.7709810
+sample estimates:
+mean of x mean of y 
+ 3.083333  2.826087 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.988302040399658,-0.97582177802688,2.94959550459689,176,84,92,0.14915,0.02284,-0.14726,0.44513,55.92809,54.19955,0.08399,0.32505,0.1485,0.02264,-0.14663,0.44321,55.90269,54.18149,0.32505,0.07471,0.00565,-0.07378,0.21822,0.32622,0.07485,0.00578,-0.07391,0.22179,1.31065,0.76559,2.24201,0.32505,0.27052,-0.26711,0.80737,0.32505,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,176,15,93,176,176,0,100,< table of extent 0 >,"SubjectPool
+ No 
+176 ","Setting
+Online (at home) 
+             176 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            176 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      176 ","analysis.type
+Secondary 
+      176 ","subset
+all 
+176 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.606999Z,22,Gray,2,,psualtoona,Secondary,Gray.2,177,85,92,adultHbaby,as.numeric.ignore.,85,,,,,4.14117647058824,1.90958073917805,4,4.17391304347826,1,1,7,6,-0.202881909293938,2.04561268334724,0.207123111995791,babyHadult,as.numeric.ignore.,92,,,,,2.51086956521739,1.76967474019847,2,2.22972972972973,1,1,7,6,1.05256717644662,3.16895315431425,0.184501345762045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.14117647058824,2.51086956521739,5.89526087023541,1.88247328423036e-08,175,1.08451358153415,2.17610022920754, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 5.8953, df = 175, p-value = 1.882e-08
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.084514 2.176100
+sample estimates:
+mean of x mean of y 
+ 4.141176  2.510870 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.89526087023541,3.83272908170606,7.94240456897676,177,85,92,0.88692,0.02486,0.57662,1.19491,81.244,73.47195,0.46944,0,0.88312,0.02464,0.57415,1.18978,81.14135,73.38366,0,0.40705,0.00395,0.27828,0.51474,0,0.43207,0.00575,0.28582,0.56916,4.99632,2.84589,8.73491,0,1.6087,1.04588,2.16733,0,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,177,15,97,177,177,0,100,< table of extent 0 >,"SubjectPool
+ No 
+177 ","Setting
+In a lab 
+     177 ","Tablet
+Computers 
+      177 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      177 ","analysis.type
+Secondary 
+      177 ","subset
+all 
+177 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.711700Z,22,Gray,2,,puc,Secondary,Gray.2,81,42,39,adultHbaby,as.numeric.ignore.,42,,,,,2.83333333333333,1.57598852705163,2.5,2.70588235294118,1.5,1,7,6,0.505222240747938,2.50866412551129,0.24318030922589,babyHadult,as.numeric.ignore.,39,,,,,2.43589743589744,1.56935910141808,2,2.3030303030303,1,1,6,5,0.699288429841313,2.11996742353162,0.251298575567288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.83333333333333,2.43589743589744,1.13633701236115,0.259250889617932,79,-0.298727614795863,1.09359940966766, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.1363, df = 79, p-value = 0.2593
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2987276  1.0935994
+sample estimates:
+mean of x mean of y 
+ 2.833333  2.435897 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.13633701236115,-0.835156747208743,3.10070569697914,81,42,39,0.25269,0.04984,-0.18572,0.68952,59.97472,57.09058,0.14181,0.26113,0.25029,0.0489,-0.18395,0.68295,59.8817,57.02376,0.26113,0.12682,0.0121,-0.09355,0.32939,0.26355,0.1275,0.01282,-0.09382,0.34214,1.58144,0.71401,3.49261,0.26113,0.45833,-0.33685,1.25065,0.26113,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,81,15,60,81,81,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 81 ","Setting
+Online (at home) 
+              81 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.831100Z,22,Gray,2,,queensland2,Secondary,Gray.2,139,64,75,adultHbaby,as.numeric.ignore.,64,,,,,3.421875,1.59169159790995,3,3.38461538461538,1,1,7,6,0.143574909815129,2.25464958602959,0.198961449738744,babyHadult,as.numeric.ignore.,75,,,,,2.92,1.63376534091931,3,2.75409836065574,1,1,7,6,0.672119982458764,2.6439522004816,0.188650971874489,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.421875,2.92,1.82665393973901,0.0699286442105835,137,-0.0414262066965214,1.04517620669652, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.8267, df = 137, p-value = 0.06993
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.04142621  1.04517621
+sample estimates:
+mean of x mean of y 
+ 3.421875  2.920000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.82665393973901,-0.14847823231704,3.79520173717409,139,64,75,0.31084,0.02931,-0.02527,0.64584,62.20405,58.69866,0.17397,0.07159,0.30914,0.02899,-0.02513,0.64229,62.13923,58.65171,0.07159,0.1542,0.00691,-0.01268,0.30844,0.07207,0.15543,0.00735,-0.01269,0.31882,1.75735,0.95521,3.22656,0.07159,0.56381,-0.04583,1.17142,0.07159,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,139,15,83,139,139,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+139 ","Setting
+In a lab 
+     139 ","Tablet
+Computers 
+      139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:35.979790Z,22,Gray,2,,radboud,Secondary,Gray.2,30,15,15,adultHbaby,as.numeric.ignore.,15,,,,,3.06666666666667,1.90737915425729,2,3,1,1,6,5,0.349569878028053,1.55476823551986,0.49248317995611,babyHadult,as.numeric.ignore.,15,,,,,2.6,1.2983506020002,3,2.46153846153846,1,1,6,5,0.989119348798477,4.25007181844298,0.33523268393901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.06666666666667,2.6,0.783323500617058,0.440013011647559,28,-0.753676310512951,1.68700964384628, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.78332, df = 28, p-value = 0.44
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7536763  1.6870096
+sample estimates:
+mean of x mean of y 
+ 3.066667  2.600000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.783323500617058,-1.19414089523163,2.74700999976099,30,15,15,0.28603,0.1347,-0.43604,1.00307,61.25722,58.01406,0.16028,0.44231,0.2783,0.12751,-0.42425,0.97596,60.96085,57.80029,0.44231,0.14644,0.03302,-0.22014,0.46075,0.44984,0.1475,0.03704,-0.2238,0.49826,1.68001,0.45344,6.16792,0.44231,0.5188,-0.79089,1.81936,0.44231,,,,,,,,radboud,radboud,"Behavioral Science Institute, Radboud University Nijmegen, Nijmegen, Netherlands","Fred Hasselman, Lysandra Podesta, Ingrid Voermans, Koen Neijenhuijs, Marije van der Hulst",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,,,,,,Slate2,radboud,1,1,1,1,1,1,30,12,25,30,30,0,100,< table of extent 0 >,"SubjectPool
+   
+30 ","Setting
+   
+30 ","Tablet
+   
+30 ","Pencil
+   
+30 ","analysis.type
+Secondary 
+       30 ","subset
+all 
+ 30 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.100405Z,22,Gray,2,,ritonline,Secondary,Gray.2,86,50,36,adultHbaby,as.numeric.ignore.,50,,,,,4.04,1.88398188820966,4,4.05,1,1,7,6,-0.0581855921677934,2.19409996369235,0.266435273757137,babyHadult,as.numeric.ignore.,36,,,,,3.13888888888889,1.64147630029935,3,3.03333333333333,1,1,7,6,0.560877009650995,2.28507338826699,0.273579383383225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.04,3.13888888888889,2.30703900930373,0.0235138263439755,84,0.124375971675566,1.67784625054666, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.307, df = 84, p-value = 0.02351
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.124376 1.677846
+sample estimates:
+mean of x mean of y 
+ 4.040000  3.138889 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.30703900930373,0.309706202219248,4.29106081500609,86,50,36,0.50428,0.04926,0.0677,0.93795,69.29661,63.92956,0.27859,0.02563,0.49976,0.04838,0.06709,0.92955,69.13778,63.80995,0.02563,0.2441,0.0104,0.03377,0.42402,0.02579,0.24913,0.01205,0.03379,0.45258,2.49591,1.13064,5.48077,0.02563,0.91465,0.12279,1.70125,0.02563,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,86,15,65,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.201007Z,22,Gray,2,,rotterdam,Secondary,Gray.2,77,31,46,adultHbaby,as.numeric.ignore.,31,,,,,2.93548387096774,1.80620197967942,2,2.72,1,1,7,6,0.753024574512267,2.63227282622913,0.324403452081681,babyHadult,as.numeric.ignore.,46,,,,,2.52173913043478,1.48681808548446,2,2.36842105263158,1,1,6,5,0.695619075631213,2.44385727908455,0.219219366970308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.93548387096774,2.52173913043478,1.09763968727782,0.275873401614172,75,-0.337159038162309,1.16464851922823, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 1.0976, df = 75, p-value = 0.2759
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.337159  1.164649
+sample estimates:
+mean of x mean of y 
+ 2.935484  2.521739 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.09763968727782,-0.873778444110857,3.06180801944769,77,31,46,0.25506,0.05442,-0.20304,0.71148,60.06623,57.15634,0.14313,0.27773,0.2525,0.05333,-0.20101,0.70434,59.96737,57.0853,0.27773,0.12574,0.01275,-0.10039,0.33333,0.28034,0.12641,0.01351,-0.10072,0.34657,1.58825,0.69192,3.63455,0.27773,0.46263,-0.36828,1.29048,0.27773,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,77,15,58,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+In a lab 
+      77 ","Tablet
+Computers 
+       77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.324728Z,22,Gray,2,,salford,Secondary,Gray.2,103,54,49,adultHbaby,as.numeric.ignore.,54,,,,,4.18518518518519,1.60275793054576,4,4.22727272727273,1,1,7,6,-0.249700006301976,2.5342165929992,0.218107728390902,babyHadult,as.numeric.ignore.,49,,,,,3.26530612244898,1.65548973373543,4,3.21951219512195,1,1,6,5,0.0435221224893364,1.79299532169158,0.236498533390776,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.18518518518519,3.26530612244898,2.86381010618647,0.00509126550305829,101,0.282688554965597,1.55706957050681, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.8638, df = 101, p-value = 0.005091
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2826886 1.5570696
+sample estimates:
+mean of x mean of y 
+ 4.185185  3.265306 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.86381010618647,0.857733641760768,4.85625232797078,103,54,49,0.56503,0.04048,0.16923,0.95813,71.39717,65.52498,0.3105,0.00598,0.56082,0.03988,0.16797,0.951,71.25396,65.41537,0.00598,0.27405,0.00839,0.08504,0.43508,0.00591,0.28124,0.01,0.08524,0.46615,2.78666,1.35927,5.68515,0.00598,1.02484,0.30695,1.73786,0.00598,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,103,15,66,103,103,0,100,< table of extent 0 >,"SubjectPool
+ No 
+103 ","Setting
+In a classroom 
+           103 ","Tablet
+Computers 
+      103 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      103 ","analysis.type
+Secondary 
+      103 ","subset
+all 
+103 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.435236Z,22,Gray,2,,seznam,Secondary,Gray.2,84,39,45,adultHbaby,as.numeric.ignore.,39,,,,,2.28205128205128,1.3945140249284,2,2.15151515151515,1,1,6,5,0.782494383349953,2.56874948530711,0.223300956267085,babyHadult,as.numeric.ignore.,45,,,,,2.84444444444444,1.56605403882665,3,2.7027027027027,1,1,7,6,0.619532965628182,3.11362596994428,0.233453552483632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.28205128205128,2.84444444444444,-1.72638926739978,0.0880433061234998,82,-1.21043886997596,0.0856525451896382, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -1.7264, df = 82, p-value = 0.08804
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.21043887  0.08565255
+sample estimates:
+mean of x mean of y 
+ 2.282051  2.844444 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.72638926739978,-3.69886245858461,0.256415871613722,84,39,45,-0.37769,0.04871,-0.80922,0.0561,35.28291,39.47077,-0.21058,0.09081,-0.37423,0.04782,-0.8018,0.05558,35.41171,39.56512,0.09081,-0.18727,0.01122,-0.37814,0.02831,0.09187,-0.18951,0.01235,-0.39789,0.02831,0.50406,0.23044,1.10711,0.09081,-0.68506,-1.46777,0.10175,0.09081,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,84,15,61,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.537857Z,22,Gray,2,,seznamon,Secondary,Gray.2,118,54,64,adultHbaby,as.numeric.ignore.,54,,,,,2.7962962962963,1.43250183087413,3,2.75,1,1,6,5,0.0513152878750557,1.72694242793769,0.194938807846905,babyHadult,as.numeric.ignore.,64,,,,,3.140625,1.46782624615071,3,3.09615384615385,1,1,7,6,0.179889475982136,2.43464911049139,0.183478280768839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.7962962962963,3.140625,-1.28355448152348,0.201856047182831,116,-0.875655105321751,0.186997697914343, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -1.2836, df = 116, p-value = 0.2019
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8756551  0.1869977
+sample estimates:
+mean of x mean of y 
+ 2.796296  3.140625 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.28355448152348,-3.24770558369869,0.686086128264377,118,54,64,-0.23717,0.03438,-0.60011,0.12677,40.62606,43.34066,-0.13319,0.20342,-0.23564,0.03394,-0.59622,0.12595,40.68568,43.38341,0.20342,-0.11834,0.00831,-0.2887,0.06357,0.20486,-0.11889,0.0087,-0.29715,0.06366,0.65039,0.33673,1.25853,0.20342,-0.43019,-1.08848,0.22994,0.20342,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,118,15,79,118,118,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+118 ","Setting
+Online (at home) 
+             118 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            118 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      118 ","analysis.type
+Secondary 
+      118 ","subset
+all 
+118 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.668924Z,22,Gray,2,,simmons,Secondary,Gray.2,95,51,44,adultHbaby,as.numeric.ignore.,51,,,,,4.13725490196078,1.67355439520964,4,4.19512195121951,1,1,7,6,-0.322317293458129,2.55433687046646,0.234344488914959,babyHadult,as.numeric.ignore.,44,,,,,2.59090909090909,1.48352474396686,2,2.41666666666667,1,1,7,6,0.9449978668032,3.4997466966755,0.223649770133916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.13725490196078,2.59090909090909,4.73111789954353,7.94551985279998e-06,93,0.897294913907746,2.19539670819564, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.7311, df = 93, p-value = 7.946e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.8972949 2.1953967
+sample estimates:
+mean of x mean of y 
+ 4.137255  2.590909 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.73111789954353,2.64547027313513,6.79395988980212,95,51,44,0.97345,0.04732,0.54432,1.39789,83.48354,75.43787,0.50876,2e-05,0.96558,0.04656,0.53992,1.38659,83.28727,75.26232,2e-05,0.44045,0.00691,0.26455,0.57593,2e-05,0.47278,0.01087,0.27099,0.65635,5.84534,2.68394,12.62267,2e-05,1.76565,0.98728,2.53549,2e-05,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,95,15,68,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.777831Z,22,Gray,2,,swps,Secondary,Gray.2,89,46,43,adultHbaby,as.numeric.ignore.,46,,,,,2.43478260869565,1.37682684964851,2.5,2.42105263157895,1.5,1,4,3,0.0598519381081104,1.1853379345173,0.203002043998761,babyHadult,as.numeric.ignore.,43,,,,,2.58139534883721,1.38413731323255,2,2.51428571428571,1,1,5,4,0.292566002545261,1.56736175615624,0.211078961411976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.43478260869565,2.58139534883721,-0.50072261946394,0.617830780762629,87,-0.728589038323972,0.435363558040857, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = -0.50072, df = 87, p-value = 0.6178
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7285890  0.4353636
+sample estimates:
+mean of x mean of y 
+ 2.434783  2.581395 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.50072261946394,-2.46065931624502,1.4620836613381,89,46,43,-0.10621,0.04506,-0.52196,0.31014,45.77065,47.00659,-0.05987,0.61808,-0.1053,0.04428,-0.51744,0.30746,45.80708,47.03242,0.61808,-0.05361,0.0113,-0.25508,0.15486,0.62002,-0.05366,0.01163,-0.26084,0.15612,0.82477,0.38801,1.7551,0.61808,-0.19265,-0.94672,0.56253,0.61808,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,swps,1,1,1,1,1,1,89,15,61,89,89,0,100,< table of extent 0 >,"SubjectPool
+No 
+89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:36.881098Z,22,Gray,2,,tamu,Secondary,Gray.2,85,45,40,adultHbaby,as.numeric.ignore.,45,,,,,3.82222222222222,1.70945085399441,4,3.78378378378378,1,1,7,6,0.0590207374563141,2.33732716454811,0.254829887581771,babyHadult,as.numeric.ignore.,40,,,,,2.825,1.75247078325256,2,2.65625,1,1,7,6,0.704887476985857,2.53511221141393,0.277089960398868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.82222222222222,2.825,2.65291461792913,0.00955981838556849,83,0.249578525552795,1.74486591889165, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.6529, df = 83, p-value = 0.00956
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2495785 1.7448659
+sample estimates:
+mean of x mean of y 
+ 3.822222  2.825000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.65291461792913,0.644286975806162,4.64620287289324,85,45,40,0.5765,0.04918,0.14001,1.00965,71.78601,65.82326,0.31647,0.01104,0.57127,0.04829,0.13874,1.0005,71.60921,65.68752,0.01104,0.27958,0.01012,0.07054,0.45432,0.011,0.28723,0.0122,0.07066,0.49013,2.84524,1.2891,6.24203,0.01104,1.04565,0.25395,1.8313,0.01104,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,85,15,62,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.011326Z,22,Gray,2,,tamucc,Secondary,Gray.2,89,46,43,adultHbaby,as.numeric.ignore.,46,,,,,4.23913043478261,1.91119256089775,4,4.28947368421053,1.5,1,7,6,-0.172336149403408,1.97106415936785,0.281789969767452,babyHadult,as.numeric.ignore.,43,,,,,3.06976744186047,1.69586821193395,3,2.97142857142857,1,1,7,6,0.364059889846315,2.05387358625493,0.258617477792438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.23913043478261,3.06976744186047,3.04496713049876,0.00307872039413595,87,0.406059000036306,1.93266698580798, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.045, df = 87, p-value = 0.003079
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.406059 1.932667
+sample estimates:
+mean of x mean of y 
+ 4.239130  3.069767 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.04496713049876,1.02529173090927,5.04800931764621,89,46,43,0.6459,0.04734,0.21749,1.07078,74.08275,67.60636,0.35213,0.00386,0.64031,0.04652,0.2156,1.06153,73.9016,67.46431,0.00386,0.31034,0.00928,0.10926,0.47597,0.00378,0.32092,0.01163,0.1097,0.51776,3.22693,1.4836,6.97399,0.00386,1.17153,0.39447,1.94219,0.00386,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,89,15,61,89,89,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.118851Z,22,Gray,2,,tanzania,Secondary,Gray.2,67,35,32,adultHbaby,as.numeric.ignore.,35,,,,,3.82857142857143,2.3198087432032,4,3.79310344827586,2,1,7,6,0.124957053210266,1.55097454315912,0.39211924589492,babyHadult,as.numeric.ignore.,32,,,,,3.5625,2.06253054718337,4,3.46153846153846,1.5,1,7,6,0.178421318721729,1.91541160351295,0.36460733407944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.82857142857143,3.5625,0.494284673221578,0.62277154956925,65,-0.808979782053118,1.34112263919598, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 0.49428, df = 65, p-value = 0.6228
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8089798  1.3411226
+sample estimates:
+mean of x mean of y 
+ 3.828571  3.562500 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.494284673221578,-1.46940703763977,2.45418842694333,67,35,32,0.12089,0.05993,-0.35939,0.60026,54.81126,53.40621,0.06812,0.62309,0.11949,0.05855,-0.35523,0.5933,54.7558,53.36685,0.62309,0.06119,0.01504,-0.1793,0.29121,0.62567,0.06127,0.01562,-0.18126,0.29989,1.24518,0.52107,2.97054,0.62309,0.21928,-0.65187,1.08874,0.62309,,,,,,,,tanzania,tanzania,Open University of Tanzania,Winfrida Malingumu,ML2_Slate2_TanzaniaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Tanzania,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tanzania,1,1,1,1,1,1,67,15,50,67,67,0,0,< table of extent 0 >,"SubjectPool
+No 
+67 ","Setting
+In a lab 
+      67 ","Tablet
+Computers 
+       67 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       67 ","analysis.type
+Secondary 
+       67 ","subset
+all 
+ 67 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.225756Z,22,Gray,2,,tilburg,Secondary,Gray.2,95,47,48,adultHbaby,as.numeric.ignore.,47,,,,,4.17021276595745,2.067545792944,5,4.20512820512821,1,1,7,6,-0.334757244335103,1.63785040218668,0.301582549509285,babyHadult,as.numeric.ignore.,48,,,,,2.52083333333333,1.44383625129977,2,2.35,1,1,6,5,1.00815343196677,3.18994928567679,0.208399812088416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.64937943262411,4.17021276595745,2.52083333333333,4.49934392012138,2.2239874899422e-05,82.0982290478879,0.920143705015489,2.37861516023274,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.4993, df = 82.098, p-value = 2.224e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.9201437 2.3786152
+sample estimates:
+mean of x mean of y 
+ 4.170213  2.520833 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.49934392012138,2.41016680541564,6.5640198951246,95,47,48,0.9233,0.0466,0.49458,1.34698,82.20738,74.30798,0.48616,5e-05,0.91583,0.04585,0.49058,1.33609,82.01222,74.1375,5e-05,0.42281,0.00717,0.24247,0.56268,4e-05,0.4511,0.01087,0.24739,0.63675,5.33706,2.45242,11.50932,5e-05,1.67468,0.89707,2.44316,5e-05,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,95,15,65,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.357251Z,22,Gray,2,,tilburgcaf,Secondary,Gray.2,81,38,43,adultHbaby,as.numeric.ignore.,38,,,,,3.63157894736842,1.90902625003654,4,3.625,2,1,7,6,-0.027809071592099,1.69509147383759,0.309684951256859,babyHadult,as.numeric.ignore.,43,,,,,2.37209302325581,1.52788767684192,2,2.2,1,1,6,5,0.812806034884441,2.30192156742724,0.233000686347198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.63157894736842,2.37209302325581,3.29470283583394,0.00147644522437571,79,0.49858451741646,2.02038733080875, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.2947, df = 79, p-value = 0.001476
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.4985845 2.0203873
+sample estimates:
+mean of x mean of y 
+ 3.631579  2.372093 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.29470283583394,1.25896462133145,5.31089604720356,81,38,43,0.73356,0.05289,0.2803,1.18245,76.839,69.80156,0.39603,0.00204,0.72657,0.05189,0.27763,1.17119,76.62549,69.62907,0.00204,0.34757,0.00966,0.14024,0.51293,0.00196,0.36268,0.01282,0.14118,0.5667,3.78302,1.66266,8.53977,0.00204,1.33052,0.50842,2.14473,0.00204,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,81,15,63,81,81,0,100,< table of extent 0 >,"SubjectPool
+No 
+81 ","Setting
+Other (please indicate) 
+                     81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.463169Z,22,Gray,2,,ulatina,Secondary,Gray.2,210,118,92,adultHbaby,as.numeric.ignore.,118,,,,,3.42372881355932,1.90548815855952,4,3.3125,1,1,7,6,0.132754539118019,2.02905357688085,0.175414403347571,babyHadult,as.numeric.ignore.,92,,,,,2.60869565217391,1.61691961742434,2,2.45945945945946,1,1,7,6,0.634626089573508,2.71648487996307,0.168575523302312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.42372881355932,2.60869565217391,3.28295564141221,0.00120495692489296,208,0.325600833415442,1.30446548935538, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 3.283, df = 208, p-value = 0.001205
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.3256008 1.3044655
+sample estimates:
+mean of x mean of y 
+ 3.423729  2.608696 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.28295564141221,1.29394570228658,5.26426764832483,210,118,92,0.4566,0.01984,0.17997,0.73217,67.60222,62.66023,0.2532,0.00138,0.45496,0.0197,0.17932,0.72953,67.54294,62.61609,0.00138,0.22195,0.00432,0.08936,0.34288,0.00136,0.22571,0.00483,0.0896,0.35736,2.28917,1.386,3.77353,0.00138,0.82819,0.32642,1.32801,0.00138,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,210,15,99,210,210,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+210 ","Setting
+In a lab 
+     210 ","Tablet
+Computers 
+      210 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      210 ","analysis.type
+Secondary 
+      210 ","subset
+all 
+210 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.565804Z,22,Gray,2,,umich,Secondary,Gray.2,86,35,51,adultHbaby,as.numeric.ignore.,35,,,,,4.14285714285714,1.98735498387499,5,4.17241379310345,2,1,7,6,-0.154554820778621,1.76579900407424,0.335924304055575,babyHadult,as.numeric.ignore.,51,,,,,2.49019607843137,1.33225446547734,2,2.34146341463415,1,1,6,5,0.687518746558907,2.66985067276632,0.18655293948653,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.65266106442577,4.14285714285714,2.49019607843137,4.30101819784616,7.06926234024216e-05,54.669524599367,0.882504625939827,2.42281750291171,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.301, df = 54.67, p-value = 7.069e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.8825046 2.4228175
+sample estimates:
+mean of x mean of y 
+ 4.142857  2.490196 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.30101819784616,2.16552948385126,6.40268328758095,86,35,51,0.94406,0.05336,0.47533,1.40537,82.74315,74.77908,0.49558,1e-04,0.93561,0.05241,0.47107,1.39279,82.52629,74.58785,1e-04,0.42483,0.0079,0.22995,0.57269,8e-05,0.45357,0.01205,0.23413,0.65151,5.54193,2.36825,12.79517,1e-04,1.71234,0.86215,2.54907,1e-04,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,86,15,68,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.665311Z,22,Gray,2,,uned,Secondary,Gray.2,86,50,36,adultHbaby,as.numeric.ignore.,50,,,,,2.86,1.85175041294358,2,2.65,1,1,7,6,0.596438853828594,2.23178289137815,0.26187705481148,babyHadult,as.numeric.ignore.,36,,,,,2,1.54919333848297,1,1.73333333333333,0,1,7,6,1.54311222381166,4.53061224489796,0.258198889747161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,2.86,2,2.271473202283,0.0256751243008209,84,0.107094655626918,1.61290534437308, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 2.2715, df = 84, p-value = 0.02568
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1070947 1.6129053
+sample estimates:
+mean of x mean of y 
+     2.86      2.00 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.271473202283,0.275169777940845,4.25465912010082,86,50,36,0.4965,0.04921,0.06015,0.92999,69.02297,63.72357,0.27447,0.02786,0.49206,0.04833,0.05961,0.92166,68.86599,63.60557,0.02786,0.24056,0.01044,0.03001,0.42106,0.02804,0.24537,0.01205,0.03002,0.44898,2.46097,1.11527,5.40224,0.02786,0.90055,0.10909,1.68681,0.02786,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,86,15,61,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.800890Z,22,Gray,2,,unswonline,Secondary,Gray.2,97,47,50,adultHbaby,as.numeric.ignore.,47,,,,,4.06382978723404,1.69915906719035,4,4.12820512820513,1,1,7,6,-0.369289726399962,2.19250925067457,0.24784782288929,babyHadult,as.numeric.ignore.,50,,,,,2.7,1.56817845715001,2,2.525,1,1,7,6,0.82751407275393,2.91071090373788,0.221773924232286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.06382978723404,2.7,4.110977951426,8.36561500806552e-05,95,0.705216560476675,2.02244301399141, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.111, df = 95, p-value = 8.366e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.7052166 2.0224430
+sample estimates:
+mean of x mean of y 
+  4.06383   2.70000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.110977951426,2.05595993922922,6.14606692063576,97,47,50,0.83521,0.04487,0.4177,1.24867,79.8201,72.26006,0.4452,0.00015,0.8286,0.04416,0.4144,1.23879,79.6335,72.10319,0.00015,0.38862,0.00751,0.2064,0.53338,0.00014,0.41018,0.01064,0.2094,0.59486,4.549,2.13321,9.62963,0.00015,1.51491,0.75763,2.26484,0.00015,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,97,15,69,97,97,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 97 ","Setting
+Online (at home) 
+              97 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:37.913841Z,22,Gray,2,,vcu,Secondary,Gray.2,96,51,45,adultHbaby,as.numeric.ignore.,51,,,,,3.72549019607843,1.82294740870437,4,3.68292682926829,1,1,7,6,-0.0670530936712639,2.17333624143133,0.255263695063919,babyHadult,as.numeric.ignore.,45,,,,,2.02222222222222,1.25206899477496,2,1.83783783783784,1,1,5,4,1.08197959870556,3.06986163513657,0.186647425655775,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.70326797385621,3.72549019607843,2.02222222222222,5.38629202634124,5.82368265399259e-07,88.8848406961311,1.07492892623452,2.3316070214779,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 5.3863, df = 88.885, p-value = 5.824e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.074929 2.331607
+sample estimates:
+mean of x mean of y 
+ 3.725490  2.022222 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.38629202634124,3.2597496751118,7.48661835037526,96,51,45,1.10163,0.04815,0.6667,1.53119,86.46878,78.20005,0.564,0,1.09281,0.04738,0.66136,1.51894,86.2762,78.01605,0,0.48564,0.00615,0.31869,0.61118,0,0.53034,0.01075,0.33019,0.7108,7.37524,3.35099,16.07519,0,1.99813,1.20925,2.77728,0,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,96,15,62,96,96,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 96 ","Setting
+In a lab 
+      96 ","Tablet
+Computers 
+       96 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       96 ","analysis.type
+Secondary 
+       96 ","subset
+all 
+ 96 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:38.017149Z,22,Gray,2,,vuw,Secondary,Gray.2,100,53,47,adultHbaby,as.numeric.ignore.,53,,,,,4.07547169811321,1.92002660842714,4,4.09302325581395,2,1,7,6,-0.141057123449049,2.05516375782752,0.26373593773004,babyHadult,as.numeric.ignore.,47,,,,,2.5531914893617,1.41126693987288,2,2.43589743589744,1,1,6,5,0.547231997208245,2.25371558367342,0.205854440185818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.07547169811321,2.5531914893617,4.46847790995917,2.11585123698269e-05,98,0.846229976036504,2.19833044146651, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 4.4685, df = 98, p-value = 2.116e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.84623 2.19833
+sample estimates:
+mean of x mean of y 
+ 4.075472  2.553191 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.46847790995917,2.4009611846424,6.5152279096261,100,53,47,0.89531,0.04415,0.48106,1.3054,81.46889,73.66589,0.47332,5e-05,0.88844,0.04348,0.47737,1.29538,81.28477,73.50705,5e-05,0.41141,0.00697,0.2357,0.54976,4e-05,0.43731,0.01031,0.24022,0.61803,5.07289,2.39299,10.67313,5e-05,1.62391,0.87254,2.36773,5e-05,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,100,15,70,100,100,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+100 ","Setting
+Online (at home) 
+             100 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            100 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      100 ","analysis.type
+Secondary 
+      100 ","subset
+all 
+100 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:38.154169Z,22,Gray,2,,westernkentucky,Secondary,Gray.2,162,90,72,adultHbaby,as.numeric.ignore.,90,,,,,4.07777777777778,1.94432494728227,4,4.09722222222222,2,1,7,6,-0.174546700461444,1.87955457266255,0.20494984482996,babyHadult,as.numeric.ignore.,72,,,,,2.47222222222222,1.38373064038238,2,2.32758620689655,1,1,6,5,0.748557517828993,2.53393202755799,0.16307421985833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,1.60555555555556,4.07777777777778,2.47222222222222,6.13014503930043,6.74427349902039e-09,157.987020268489,1.08825587661769,2.12285523449342,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 6.1301, df = 157.99, p-value = 6.744e-09
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.088256 2.122855
+sample estimates:
+mean of x mean of y 
+ 4.077778  2.472222 
+",,,,,,,,,,,,,,,,,,,,,,,,,,6.13014503930043,4.04836667154039,8.19449477602785,162,90,72,0.96926,0.0279,0.6401,1.29566,83.37925,75.34451,0.50689,0,0.96471,0.02764,0.6371,1.28958,83.26551,75.2429,0,0.43611,0.00407,0.30482,0.54371,0,0.46742,0.00629,0.31483,0.60941,5.80109,3.19318,10.48634,0,1.75805,1.16102,2.35007,0,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,162,15,95,162,162,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+162 ","Setting
+In a lab 
+     162 ","Tablet
+Computers 
+      162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      162 ","analysis.type
+Secondary 
+      162 ","subset
+all 
+162 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:07:38.258500Z,22,Gray,2,,yale,Secondary,Gray.2,282,123,159,adultHbaby,as.numeric.ignore.,123,,,,,3.65040650406504,1.62452383862239,4,3.63636363636364,1,1,7,6,0.115045018639464,2.1818845645581,0.146478381607919,babyHadult,as.numeric.ignore.,159,,,,,2.71698113207547,1.38313565729367,2,2.62790697674419,1,1,6,5,0.530872005095787,2.29576231957245,0.109689792628005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,3.65040650406504,2.71698113207547,5.20609747615317,3.73850662948405e-07,280,0.580488804102647,1.28636193987649, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  adultHbaby and babyHadult
+t = 5.2061, df = 280, p-value = 3.739e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.5804888 1.2863619
+sample estimates:
+mean of x mean of y 
+ 3.650407  2.716981 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.20609747615317,3.1948624202515,7.20844698396373,282,123,159,0.62515,0.01511,0.38364,0.8656,73.40644,67.07732,0.34155,0,0.62348,0.01503,0.38261,0.86328,73.35142,67.03443,0,0.29708,0.00296,0.18754,0.39564,0,0.30631,0.00358,0.18979,0.41847,3.10775,2.00541,4.80673,0,1.1339,0.69585,1.57002,0,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,282,15,108,282,282,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+282 ","Setting
+Online (at home) 
+             282 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            282 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      282 ","analysis.type
+Secondary 
+      282 ","subset
+all 
+282 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

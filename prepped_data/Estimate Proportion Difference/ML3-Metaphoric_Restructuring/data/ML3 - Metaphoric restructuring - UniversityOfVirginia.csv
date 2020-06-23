@@ -1,0 +1,105 @@
+"","Participant_ID","referrer","SRCondition","SRMeetingResponse","SRTFCorrect","age","year","Genderfactor","ethnicity","AttentionCheck"
+"3422","10","UniversityOfVirginia","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3426","103","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Pass"
+"3427","104","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","African-American","Pass"
+"3428","105","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3429","106","UniversityOfVirginia","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3434","110","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","Asian-American","Pass"
+"3435","111","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","19","Sophomore","Male","White, non-Hispanic or latino","Pass"
+"3436","112","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","First-year","Male","White, non-Hispanic or latino","Fail"
+"3439","115","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Male","Asian-American","Pass"
+"3440","116","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3441","117","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","21","Junior","Female","Other","Pass"
+"3442","118","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3446","121","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","White, non-Hispanic or latino","Pass"
+"3447","122","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Pass"
+"3448","123","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Male","White, non-Hispanic or latino","Fail"
+"3449","124","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3452","127","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3453","128","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","20","Junior","Female","Afghan","Pass"
+"3454","129","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3455","13","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Sophomore","Female","Asian-American","Pass"
+"3456","130","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","First-year","Female","White, non-Hispanic or latino","Pass"
+"3459","133","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","First-year","Female","White, non-Hispanic or latino","Pass"
+"3460","134","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","First-year","Male","Latino or Hispanic","Pass"
+"3461","135","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3462","136","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Male","African-American","Pass"
+"3465","139","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","First-year","Male","Asian-American","Pass"
+"3467","140","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","Sophomore",NA,"White, non-Hispanic or latino","Pass"
+"3469","142","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","20","Junior","Female","White, non-Hispanic or latino","Pass"
+"3472","145","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3473","146","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","Multiracial","Pass"
+"3475","148","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","Asian-American","Pass"
+"3479","151","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3480","152","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Fail"
+"3481","153","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","22","Senior","Female","Multiracial","Fail"
+"3486","158","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","White, non-Hispanic or latino","Fail"
+"3488","16","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3492","164","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3494","166","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3497","169","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Fail"
+"3498","169","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3500","170","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3501","171","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Male","Asian-American","Fail"
+"3502","172","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","20","Junior","Male","Latino or Hispanic","Pass"
+"3505","175","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3506","176","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3507","177","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","First-year","Female","Asian-American","Pass"
+"3512","181","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3513","182","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Sophomore","Female","White, non-Hispanic or latino","Pass"
+"3514","183","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","Sophomore","Male","Asian-American","Fail"
+"3515","184","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","White, non-Hispanic or latino","Pass"
+"3518","187","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3519","188","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","20","Junior","Male","White, non-Hispanic or latino","Pass"
+"3520","189","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","Native Hawaiian and other Pacific Islander","Pass"
+"3521","19","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","23","Other","Female","White, non-Hispanic or latino","Pass"
+"3522","190","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","19","First-year","Male","White, non-Hispanic or latino","Pass"
+"3525","193","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","Asian-American","Pass"
+"3532","20","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Male","Asian-American","Pass"
+"3535","202","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","Latino or Hispanic","Pass"
+"3542","25","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3543","26","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Sophomore","Male","White, non-Hispanic or latino","Pass"
+"3544","27","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3545","28","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female",NA,"Pass"
+"3548","31","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3549","32","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Junior","Female","White, non-Hispanic or latino","Pass"
+"3551","34","UniversityOfVirginia","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3554","37","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","Junior","Female","Asian-American","Fail"
+"3555","38","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3556","39","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","Sophomore","Male","Asian-American","Pass"
+"3557","40","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3560","43","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3562","45","UniversityOfVirginia","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3563","46","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","20","Junior","Female","White, non-Hispanic or latino","Pass"
+"3567","50","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","Multiracial","Pass"
+"3568","51","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","African-American","Pass"
+"3569","52","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3572","55","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3573","56","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3574","57","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","20","Junior","Male","Asian-American","Pass"
+"3575","58","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3578","61","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","First-year","Male","White, non-Hispanic or latino","Fail"
+"3579","62","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Male","Asian-American","Fail"
+"3580","63","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","20","Junior","Female","White, non-Hispanic or latino","Pass"
+"3584","67","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Sophomore","Female","Asian-American","Fail"
+"3585","68","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3587","7","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3591","73","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3592","74","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3593","75","UniversityOfVirginia","object-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3594","76","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","First-year","Male","White, non-Hispanic or latino","Fail"
+"3597","79","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","18","First-year","Male","Asian-American","Pass"
+"3598","8","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","21","Senior","Female","White, non-Hispanic or latino","Fail"
+"3599","80","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes","19","Sophomore","Male","White, non-Hispanic or latino","Fail"
+"3600","81","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","17","First-year","Male","African-American","Pass"
+"3601","82","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","Other","Fail"
+"3604","85","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3606","88","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3608","9","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes",NA,NA,NA,NA,NA
+"3610","91","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","20","Junior","Male","White, non-Hispanic or latino","Pass"
+"3611","92","UniversityOfVirginia","ego-centric","Ego-Consistent","Yes",NA,NA,NA,NA,NA
+"3612","93","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"
+"3613","93","UniversityOfVirginia","object-centric","Ego-Consistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Fail"
+"3614","94","UniversityOfVirginia","object-centric","Ego-Inconsistent","Yes","20","Junior","Male","White, non-Hispanic or latino","Pass"
+"3617","97","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","19","Sophomore","Female","White, non-Hispanic or latino","Pass"
+"3618","98","UniversityOfVirginia","ego-centric","Ego-Inconsistent","Yes","18","First-year","Female","White, non-Hispanic or latino","Pass"

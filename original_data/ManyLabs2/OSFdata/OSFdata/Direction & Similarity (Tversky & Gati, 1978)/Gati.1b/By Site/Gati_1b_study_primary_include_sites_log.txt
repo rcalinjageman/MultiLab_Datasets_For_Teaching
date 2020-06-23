@@ -1,0 +1,75 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.1B~~~~~~~
+	# 82 Gati.1b - START
+
+ListIT = FALSE
+
+	# 
+	# 82 Gati.1b - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - badaniaon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - brookcuny >> ES r is close to 0:  -0.02
+	# 
+	# 82 Gati.1b - carleton >> ES r is close to 0:  0.02
+	# 
+	# 82 Gati.1b - cas not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - georgefox >> ES r is close to 0:  0
+	# 
+	# 82 Gati.1b - hawaiion >> ES r is close to 0:  0.03
+	# 
+	# 82 Gati.1b - jmu >> ES r is close to 0:  0.05
+	# 
+	# 82 Gati.1b - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - louvain >> ES r is close to 0:  -0.04
+	# 
+	# 82 Gati.1b - mcdanielonline >> ES r is close to 0:  -0.04
+	# 
+	# 82 Gati.1b - metu >> ES r is close to 0:  0.03
+	# 
+	# 82 Gati.1b - moralsense >> ES r is close to 0:  0.05
+	# 
+	# 82 Gati.1b - mturk_india >> ES r is close to 0:  -0.02
+	# 
+	# 82 Gati.1b - munich not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - munichon >> ES r is close to 0:  -0.02
+	# 
+	# 82 Gati.1b - osnabruck >> ES r is close to 0:  -0.01
+	# 
+	# 82 Gati.1b - ouhk not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - padua not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - puc >> ES r is close to 0:  0
+	# 
+	# 82 Gati.1b - radboud not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - rotterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - simmons >> ES r is close to 0:  0.04
+	# 
+	# 82 Gati.1b - tamu not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - tanzania not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 82 Gati.1b - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 82 Gati.1b - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 82 Gati.1b - vcu >> ES r is close to 0:  0.04
+	# 
+	# 82 Gati.1b - westernkentucky >> ES r is close to 0:  0.02
+	# 
+	# 82 Gati.1b - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

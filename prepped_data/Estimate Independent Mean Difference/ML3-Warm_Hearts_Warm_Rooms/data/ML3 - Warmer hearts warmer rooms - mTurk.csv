@@ -1,0 +1,576 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"1020","10","mTurk","Agentic",72,NA,NA,NA,NA,NA,NA
+"1022","101","mTurk","Communal",75,NA,NA,NA,NA,NA,NA
+"1023","102","mTurk","Agentic",70,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1024","103","mTurk","Communal",74,"50","Other","Male","Latino or Hispanic","Pass",NA
+"1025","104","mTurk","Agentic",70,"30",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1026","105","mTurk","Agentic",73,"29","Other","Male","Asian-American","Pass",NA
+"1027","106","mTurk","Communal",86,"23","Senior","Male","Other","Pass",NA
+"1028","107","mTurk","Agentic",73,"42","Other","Female","Other","Pass",NA
+"1029","108","mTurk","Communal",70,"50","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1030","109","mTurk","Agentic",75,"31","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1032","110","mTurk","Communal",69,"62","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1033","111","mTurk","Communal",70,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1034","112","mTurk","Communal",60,"24","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1035","113","mTurk","Communal",74,"46",NA,"Female","African-American","Pass",NA
+"1036","114","mTurk","Agentic",72,"51","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1037","115","mTurk","Communal",71,"46","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1038","116","mTurk","Communal",70,"53",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1040","118","mTurk","Agentic",72,"33","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1041","119","mTurk","Communal",75,"30",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1043","120","mTurk","Agentic",72,"24",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1044","121","mTurk","Communal",70,"51","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1045","122","mTurk","Agentic",74,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1046","123","mTurk","Agentic",69,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1047","124","mTurk","Agentic",82,"33","Other","Male","Other","Pass",NA
+"1048","125","mTurk","Communal",70,"34","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1049","126","mTurk","Agentic",68,"47","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1050","127","mTurk","Agentic",74,"26",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1052","129","mTurk","Communal",65,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1054","130","mTurk","Communal",73,"26",NA,"Male","Asian-American","Pass",NA
+"1056","132","mTurk","Agentic",70,NA,NA,NA,NA,"Fail",NA
+"1057","133","mTurk","Agentic",82,"26","Other","Female","Asian-American","Pass",NA
+"1060","136","mTurk","Agentic",71,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1061","137","mTurk","Communal",65,NA,NA,NA,NA,NA,NA
+"1062","138","mTurk","Communal",73,"27",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1063","139","mTurk","Agentic",70,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1065","140","mTurk","Communal",70,"58","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1066","141","mTurk","Agentic",70,"29","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1067","142","mTurk","Communal",70,"42",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1068","143","mTurk","Agentic",60,"36","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1069","144","mTurk","Agentic",70,"24","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"1070","145","mTurk","Agentic",72,"36","Senior","Male","African-American","Pass",NA
+"1071","146","mTurk","Agentic",68,"44","Junior","Female","African-American","Pass",NA
+"1073","148","mTurk","Communal",72,"31","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1075","15","mTurk","Agentic",70,"32","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1076","150","mTurk","Agentic",60,"56","Other","Male","African-American","Pass",NA
+"1079","153","mTurk","Communal",72,"54",NA,"Female","White, non-Hispanic or latino","Fail",NA
+"1080","154","mTurk","Communal",70,"60","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1081","155","mTurk","Agentic",73,"54",NA,"Male","White, non-Hispanic or latino","Fail",NA
+"1082","156","mTurk","Agentic",69,"27","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1083","157","mTurk","Agentic",67,"27","Other","Female","African-American","Pass",NA
+"1084","158","mTurk","Communal",71,"29",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1085","159","mTurk","Agentic",75,"29","Other","Male","Latino or Hispanic","Pass",NA
+"1086","16","mTurk","Communal",78,"50","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1088","161","mTurk","Agentic",60,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1089","162","mTurk","Agentic",72,"34","Other","Female","African-American","Pass",NA
+"1090","163","mTurk","Agentic",72,"50",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1091","164","mTurk","Communal",77,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1092","165","mTurk","Agentic",78,"24","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1093","166","mTurk","Communal",72,"35","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1095","168","mTurk","Communal",65,NA,NA,NA,NA,NA,NA
+"1097","17","mTurk","Agentic",62,"35","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1098","170","mTurk","Agentic",70,"38","Other","Male","African-American","Pass",NA
+"1099","171","mTurk","Agentic",73,"22","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1102","174","mTurk","Communal",73,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1103","175","mTurk","Agentic",73,"64","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1104","176","mTurk","Agentic",78,"35",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1105","177","mTurk","Agentic",75,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1106","178","mTurk","Communal",70,"26","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1107","179","mTurk","Agentic",72,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1108","18","mTurk","Communal",78,"63","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1109","180","mTurk","Communal",76,NA,NA,NA,NA,NA,NA
+"1110","181","mTurk","Communal",69,"46",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1111","182","mTurk","Communal",74,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1112","183","mTurk","Agentic",69,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1113","184","mTurk","Communal",80,"61","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1114","185","mTurk","Agentic",70,"41","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1115","186","mTurk","Agentic",72,"33","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1116","187","mTurk","Agentic",70,"59",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1117","188","mTurk","Communal",56,"27","Senior","Male","African-American","Pass",NA
+"1118","189","mTurk","Communal",65,"31",NA,"Male","Asian-American","Pass",NA
+"1119","19","mTurk","Agentic",76,NA,NA,NA,NA,NA,NA
+"1120","190","mTurk","Agentic",70,"53",NA,"Female","African-American","Pass",NA
+"1121","191","mTurk","Agentic",72,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1123","193","mTurk","Agentic",70,"37","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1125","195","mTurk","Agentic",65,"21","Sophomore","Male","African-American","Pass",NA
+"1126","196","mTurk","Agentic",66,"22","Other","Female","African-American","Pass",NA
+"1127","197","mTurk","Communal",75,"25","Other","Male","African-American","Pass",NA
+"1128","198","mTurk","Agentic",71,"38","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1130","2","mTurk","Communal",65,"50","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1131","20","mTurk","Communal",70,"22",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1132","200","mTurk","Agentic",70,"23","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"1133","201","mTurk","Communal",70,"22","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"1134","202","mTurk","Agentic",65,"39","Other","Female","Latino or Hispanic","Pass",NA
+"1135","203","mTurk","Communal",65,"27","Other","Female","African-American","Pass",NA
+"1136","204","mTurk","Communal",70,"36","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1137","205","mTurk","Communal",75,"31",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1138","206","mTurk","Communal",76,"32","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1139","207","mTurk","Communal",72,"36","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1140","208","mTurk","Communal",68,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1141","209","mTurk","Communal",70,"57","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1142","21","mTurk","Communal",72,NA,NA,NA,NA,NA,NA
+"1144","211","mTurk","Agentic",70,"40",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1145","212","mTurk","Communal",73,"35","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1146","213","mTurk","Agentic",65,NA,NA,NA,NA,NA,NA
+"1148","215","mTurk","Agentic",70,"26","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1149","216","mTurk","Agentic",68,"58","Other","Female","Latino or Hispanic","Pass",NA
+"1150","217","mTurk","Communal",70,"41","Other","Female","Other","Pass",NA
+"1151","218","mTurk","Agentic",72,"32","Other","Male","Latino or Hispanic","Pass",NA
+"1152","219","mTurk","Communal",59,NA,NA,NA,NA,NA,NA
+"1153","22","mTurk","Agentic",72,"55","Other","Female","White, non-Hispanic or latino","Fail",NA
+"1154","220","mTurk","Communal",65,NA,NA,NA,NA,"Pass",NA
+"1155","221","mTurk","Communal",69,"40",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1156","222","mTurk","Communal",70,"21","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1157","223","mTurk","Agentic",65,"57",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1158","224","mTurk","Communal",77,"28",NA,"Male","African-American","Pass",NA
+"1159","225","mTurk","Communal",70,"44","Other","Male","African-American","Pass",NA
+"1160","226","mTurk","Agentic",75,"40","Other","Female","African-American","Pass",NA
+"1161","227","mTurk","Communal",65,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1162","228","mTurk","Communal",70,"39","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1163","229","mTurk","Agentic",71,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1164","23","mTurk","Communal",70,"31","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1165","230","mTurk","Communal",80,NA,NA,NA,NA,NA,NA
+"1166","231","mTurk","Agentic",70,"36",NA,"Male","Latino or Hispanic","Pass",NA
+"1167","232","mTurk","Agentic",72,"36","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1168","233","mTurk","Agentic",75,"32",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1169","234","mTurk","Communal",72,"27",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1170","235","mTurk","Agentic",62,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1171","236","mTurk","Communal",77,"49",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1172","237","mTurk","Communal",72,"41","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1173","238","mTurk","Agentic",68,"35",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1176","240","mTurk","Communal",75,NA,NA,NA,NA,NA,NA
+"1177","241","mTurk","Communal",68,"60",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1179","243","mTurk","Agentic",87,"27","Other","Female","Other","Pass",NA
+"1181","245","mTurk","Agentic",72,"26","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1182","246","mTurk","Communal",75,NA,NA,NA,NA,NA,NA
+"1183","247","mTurk","Agentic",71,"29","Other","Female","Native American and Alaska Native","Pass",NA
+"1184","248","mTurk","Agentic",70,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1185","249","mTurk","Communal",72,"31",NA,"Male","Asian-American","Pass",NA
+"1186","25","mTurk","Agentic",70,"48",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1188","251","mTurk","Agentic",82,"39","Other","Female","Asian-American","Pass",NA
+"1189","252","mTurk","Communal",67,"29","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1191","254","mTurk","Communal",70,"39",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1192","255","mTurk","Agentic",72,"35",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1193","256","mTurk","Agentic",72,"37",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1194","257","mTurk","Communal",76,"27","Other",NA,"White, non-Hispanic or latino","Pass",NA
+"1195","258","mTurk","Communal",72,"23","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1196","259","mTurk","Communal",73,"36",NA,"Male","Asian-American","Pass",NA
+"1197","26","mTurk","Communal",75,"59","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1200","262","mTurk","Agentic",75,"57","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1201","263","mTurk","Communal",75,"23",NA,"Male","Multiracial","Pass",NA
+"1202","264","mTurk","Communal",70,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1203","265","mTurk","Communal",70,"59","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1205","267","mTurk","Communal",73,NA,NA,NA,NA,NA,NA
+"1206","268","mTurk","Agentic",76,"21","Senior","Female","Multiracial","Pass",NA
+"1207","269","mTurk","Communal",65,"33",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1208","27","mTurk","Communal",72,"32","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1210","271","mTurk","Communal",72,"30",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1211","272","mTurk","Agentic",76,"37","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1212","273","mTurk","Agentic",65,NA,NA,NA,NA,NA,NA
+"1213","274","mTurk","Communal",72,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1214","275","mTurk","Communal",70,"31","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1215","276","mTurk","Agentic",68,"33","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1216","277","mTurk","Communal",70,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1217","278","mTurk","Agentic",72,"31","Other","Male","Asian-American","Pass",NA
+"1218","279","mTurk","Communal",74,"38",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1219","28","mTurk","Communal",70,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1220","280","mTurk","Agentic",75,"29","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1221","281","mTurk","Agentic",70,"67",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1222","282","mTurk","Agentic",74,"39","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1223","283","mTurk","Communal",75,"57",NA,"Female","Asian-American","Pass",NA
+"1224","284","mTurk","Communal",69,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1225","285","mTurk","Communal",69,"19","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1226","286","mTurk","Communal",76,"34","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1227","287","mTurk","Agentic",70,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1228","288","mTurk","Communal",73,"22","Sophomore","Female","Latino or Hispanic","Pass",NA
+"1229","289","mTurk","Agentic",70,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1230","29","mTurk","Agentic",68,"54",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1231","290","mTurk","Agentic",72,NA,NA,NA,NA,NA,NA
+"1232","291","mTurk","Communal",68,"48",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1233","292","mTurk","Communal",78,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1234","293","mTurk","Agentic",72,NA,NA,NA,NA,NA,NA
+"1235","294","mTurk","Agentic",70,"23",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1236","295","mTurk","Communal",71,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1238","297","mTurk","Agentic",74,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1239","298","mTurk","Communal",68,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1240","299","mTurk","Agentic",75,"28","Other","Female","Other","Pass",NA
+"1241","3","mTurk","Agentic",79,"68","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1242","30","mTurk","Communal",70,"50",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1243","300","mTurk","Agentic",68,"40",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1244","301","mTurk","Agentic",68,"51","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1245","302","mTurk","Communal",78,"31","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1246","303","mTurk","Agentic",70,"34",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1247","304","mTurk","Agentic",55,"23","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1249","306","mTurk","Communal",72,"32",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1251","308","mTurk","Agentic",73,"41","Other","Female","Asian-American","Pass",NA
+"1252","309","mTurk","Communal",78,"36",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1253","31","mTurk","Communal",76,"25","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"1254","310","mTurk","Agentic",70,"26","Other","Female","Latino or Hispanic","Pass",NA
+"1255","311","mTurk","Agentic",78,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1256","312","mTurk","Communal",65,"31","Sophomore","Male","White, non-Hispanic or latino","Fail",NA
+"1257","313","mTurk","Communal",76,"27",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1258","314","mTurk","Communal",75,"30","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1259","315","mTurk","Communal",65,"31",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1260","316","mTurk","Communal",70,"28",NA,"Male","Asian-American","Pass",NA
+"1261","317","mTurk","Communal",70,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"1262","318","mTurk","Communal",72,"19","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"1264","32","mTurk","Communal",67,"44","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1265","320","mTurk","Communal",68,NA,NA,NA,NA,NA,NA
+"1266","321","mTurk","Communal",75,"25","Other","Male","African-American","Pass",NA
+"1267","322","mTurk","Agentic",63,"26","Junior","Female","Multiracial","Pass",NA
+"1268","323","mTurk","Agentic",88,"36","Other","Male","Asian-American","Pass",NA
+"1269","324","mTurk","Communal",68,"39","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1270","325","mTurk","Communal",70,"27","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1271","326","mTurk","Agentic",70,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1272","327","mTurk","Communal",75,"22","Sophomore","Male","Asian-American","Pass",NA
+"1273","328","mTurk","Communal",70,"20","Junior","Male","Multiracial","Pass",NA
+"1275","33","mTurk","Communal",64,"31",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1276","330","mTurk","Communal",69,"35",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1277","331","mTurk","Communal",70,"29",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1278","332","mTurk","Communal",72,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1279","333","mTurk","Agentic",70,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1280","334","mTurk","Communal",74,"32","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1281","335","mTurk","Agentic",70,"37","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1282","336","mTurk","Agentic",70,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1284","338","mTurk","Agentic",72,"33",NA,"Male","Asian-American","Pass",NA
+"1285","339","mTurk","Agentic",78,"35","Other","Male","Latino or Hispanic","Pass",NA
+"1287","340","mTurk","Agentic",68,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1288","341","mTurk","Communal",68,"34",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1290","343","mTurk","Communal",70,"30","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1292","345","mTurk","Agentic",72,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1293","346","mTurk","Communal",80,"33","Other","Female","Latino or Hispanic","Pass",NA
+"1294","347","mTurk","Communal",75,"24","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1295","348","mTurk","Agentic",68,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1296","349","mTurk","Communal",70,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1297","35","mTurk","Agentic",73,NA,NA,NA,NA,NA,NA
+"1299","351","mTurk","Agentic",73,"22","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1300","352","mTurk","Communal",73,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1301","353","mTurk","Agentic",75,"32",NA,"Male","Latino or Hispanic","Pass",NA
+"1302","354","mTurk","Agentic",72,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1303","355","mTurk","Agentic",78,"35","Other","Male","African-American","Pass",NA
+"1305","357","mTurk","Agentic",68,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1306","358","mTurk","Agentic",62,"62",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1307","359","mTurk","Agentic",74,NA,NA,NA,NA,NA,NA
+"1308","36","mTurk","Communal",70,"28","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1309","360","mTurk","Agentic",69,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1310","361","mTurk","Agentic",73,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1311","362","mTurk","Communal",60,NA,NA,NA,NA,NA,NA
+"1312","363","mTurk","Communal",74,"23",NA,"Male","White, non-Hispanic or latino","Fail",NA
+"1313","364","mTurk","Communal",71,"25","Other","Female","Asian-American","Pass",NA
+"1316","367","mTurk","Communal",76,"18","First-year","Male","African-American","Fail",NA
+"1317","368","mTurk","Agentic",75,"35","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1320","370","mTurk","Agentic",78,"32","Other","Male","African-American","Pass",NA
+"1321","371","mTurk","Agentic",71,"39",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1323","373","mTurk","Agentic",73,"26","Other","Male","Latino or Hispanic","Pass",NA
+"1325","375","mTurk","Communal",72,"55",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1326","376","mTurk","Agentic",67,"43","Other","Female","Asian-American","Pass",NA
+"1327","377","mTurk","Communal",68,NA,NA,NA,NA,NA,NA
+"1328","378","mTurk","Agentic",73,"54",NA,"Female","Multiracial","Pass",NA
+"1329","379","mTurk","Agentic",72,"30","Other","Male","Latino or Hispanic","Pass",NA
+"1330","38","mTurk","Communal",64,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1331","380","mTurk","Communal",77,NA,NA,NA,NA,NA,NA
+"1332","381","mTurk","Communal",65,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1333","382","mTurk","Agentic",72,"32",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1334","383","mTurk","Communal",83,NA,NA,NA,NA,"Pass",NA
+"1335","384","mTurk","Communal",73,"38","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1336","385","mTurk","Agentic",68,"42","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1337","386","mTurk","Communal",71,"28","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1338","387","mTurk","Communal",65,"31",NA,"Male","Asian-American","Pass",NA
+"1340","389","mTurk","Agentic",74,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1341","39","mTurk","Communal",70,"30","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1342","390","mTurk","Agentic",83,"33","Sophomore","Male","Latino or Hispanic",NA,NA
+"1343","391","mTurk","Communal",74,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1344","392","mTurk","Communal",72,"26","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1345","393","mTurk","Communal",68,"42",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1347","395","mTurk","Agentic",70,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1348","396","mTurk","Agentic",55,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1349","397","mTurk","Agentic",72,"39","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1350","398","mTurk","Agentic",80,"36",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1351","399","mTurk","Agentic",68,"50",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1352","4","mTurk","Agentic",75,NA,NA,NA,NA,NA,NA
+"1353","40","mTurk","Communal",80,"53","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1354","400","mTurk","Communal",70,NA,NA,NA,NA,NA,NA
+"1356","402","mTurk","Communal",75,"19","Sophomore","Male","Latino or Hispanic","Pass",NA
+"1357","403","mTurk","Communal",72,"33","Junior","Female","Latino or Hispanic","Fail",NA
+"1358","404","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1359","405","mTurk","Communal",62,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1360","406","mTurk","Communal",68,"32","Other","Female","Native Hawaiian and other Pacific Islander","Pass",NA
+"1361","407","mTurk","Agentic",91,"29","Other","Male","Other","Pass",NA
+"1364","41","mTurk","Agentic",72,"63","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1366","411","mTurk","Communal",70,"51","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1367","412","mTurk","Agentic",80,"26",NA,"Female","Asian-American","Pass",NA
+"1369","414","mTurk","Communal",92,"28",NA,"Female","Asian-American","Pass",NA
+"1373","418","mTurk","Agentic",70,"29",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1374","419","mTurk","Communal",72,"41","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1375","42","mTurk","Agentic",68,"40","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1377","421","mTurk","Agentic",75,"34","Sophomore","Female","African-American","Pass",NA
+"1378","422","mTurk","Communal",75,NA,NA,NA,NA,NA,NA
+"1379","423","mTurk","Agentic",75,"64",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1380","424","mTurk","Agentic",77,NA,NA,NA,NA,NA,NA
+"1381","425","mTurk","Agentic",70,"43",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1382","426","mTurk","Agentic",73,"27","Senior","Male","Asian-American","Pass",NA
+"1385","429","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1386","43","mTurk","Communal",74,"33","Other","Male","Asian-American","Pass",NA
+"1387","430","mTurk","Agentic",75,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1388","431","mTurk","Agentic",90,"42",NA,"Female","Asian-American","Pass",NA
+"1389","432","mTurk","Agentic",85,"26",NA,"Female","Asian-American","Pass",NA
+"1391","434","mTurk","Communal",70,"30","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"1392","435","mTurk","Communal",60,"36",NA,"Male","African-American","Pass",NA
+"1393","436","mTurk","Communal",70,"40",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1395","438","mTurk","Agentic",68,"61","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1396","439","mTurk","Communal",90,"21","Senior","Male","Other","Pass",NA
+"1397","44","mTurk","Agentic",68,"24","Other","Male","Latino or Hispanic","Pass",NA
+"1400","442","mTurk","Communal",74,NA,NA,NA,NA,NA,NA
+"1402","444","mTurk","Communal",74,"31",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1403","445","mTurk","Agentic",82,"61","Other","Female","Other","Pass",NA
+"1405","447","mTurk","Communal",70,"47","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1406","448","mTurk","Communal",78,"27",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1407","449","mTurk","Agentic",72,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1408","45","mTurk","Communal",82,"19","Sophomore","Male","Asian-American","Pass",NA
+"1409","450","mTurk","Agentic",73,NA,NA,NA,NA,NA,NA
+"1410","451","mTurk","Agentic",68,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1411","452","mTurk","Agentic",70,"34",NA,"Male","Asian-American","Pass",NA
+"1412","453","mTurk","Communal",65,"42",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1413","454","mTurk","Communal",67,"61","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1414","455","mTurk","Agentic",75,"35",NA,"Male","African-American","Pass",NA
+"1415","456","mTurk","Agentic",55,"46","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1416","457","mTurk","Agentic",80,"25","Junior","Male","Asian-American","Pass",NA
+"1417","458","mTurk","Communal",72,"28",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1418","459","mTurk","Agentic",72,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1419","46","mTurk","Agentic",77,"37",NA,"Male","Asian-American","Pass",NA
+"1421","461","mTurk","Agentic",86,"39","First-year","Male","Other","Pass",NA
+"1422","462","mTurk","Communal",70,NA,NA,NA,NA,NA,NA
+"1424","464","mTurk","Agentic",70,"29",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1427","467","mTurk","Communal",79,"23","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1429","469","mTurk","Agentic",70,"28","Senior",NA,"Latino or Hispanic","Pass",NA
+"1430","47","mTurk","Communal",68,"33","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1431","470","mTurk","Communal",60,"22",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1433","472","mTurk","Communal",72,"34","Other","Female","Asian-American","Pass",NA
+"1434","473","mTurk","Communal",75,"18","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1435","474","mTurk","Agentic",70,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1437","476","mTurk","Communal",58,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1438","477","mTurk","Agentic",70,"61",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1439","478","mTurk","Agentic",70,"25",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1440","479","mTurk","Communal",67,"39","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1441","48","mTurk","Agentic",72,NA,NA,NA,NA,NA,NA
+"1442","480","mTurk","Agentic",72,"31",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1444","482","mTurk","Communal",75,"26",NA,"Male","Asian-American","Pass",NA
+"1445","483","mTurk","Communal",70,"47","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"1447","485","mTurk","Agentic",65,"24",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1448","486","mTurk","Communal",70,"46","Other","Male","African-American","Pass",NA
+"1449","487","mTurk","Communal",93,"24","Senior","Male","Asian-American","Pass",NA
+"1450","488","mTurk","Communal",72,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1451","489","mTurk","Agentic",86,"26","Other","Female","Other","Pass",NA
+"1452","49","mTurk","Communal",72,"28","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1453","490","mTurk","Communal",70,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1456","493","mTurk","Agentic",67,"27","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1459","496","mTurk","Communal",72,"30",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1462","499","mTurk","Agentic",72,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1463","5","mTurk","Communal",74,"42","Other","Male","Native American and Alaska Native","Pass",NA
+"1464","50","mTurk","Agentic",70,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1466","501","mTurk","Communal",62,"24","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1467","502","mTurk","Agentic",73,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1468","503","mTurk","Communal",70,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1469","504","mTurk","Communal",75,"43","Sophomore","Male","White, non-Hispanic or latino","Pass",NA
+"1472","507","mTurk","Agentic",65,"27","Sophomore","Male","White, non-Hispanic or latino","Fail",NA
+"1475","51","mTurk","Communal",75,"43","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1477","511","mTurk","Agentic",70,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1480","514","mTurk","Communal",68,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1481","515","mTurk","Agentic",69,"38","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1482","516","mTurk","Communal",70,"60",NA,"Male","Latino or Hispanic","Pass",NA
+"1483","517","mTurk","Communal",65,NA,NA,NA,NA,NA,NA
+"1484","518","mTurk","Agentic",64,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1485","519","mTurk","Communal",69,"36","Senior","Female","White, non-Hispanic or latino","Pass",NA
+"1486","52","mTurk","Agentic",75,"49","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1487","520","mTurk","Communal",66,"46","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1488","521","mTurk","Communal",70,"33","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1489","522","mTurk","Communal",64,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1490","523","mTurk","Communal",71,"41","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1491","524","mTurk","Communal",67,"37","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1492","525","mTurk","Communal",72,"50","Other","Female","Native American and Alaska Native","Pass",NA
+"1494","527","mTurk","Communal",68,"39",NA,"Female","Asian-American","Pass",NA
+"1497","53","mTurk","Agentic",70,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1498","530","mTurk","Agentic",68,"26","Sophomore","Male","Native American and Alaska Native","Pass",NA
+"1499","531","mTurk","Agentic",75,NA,NA,NA,NA,NA,NA
+"1500","532","mTurk","Agentic",68,"44","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1503","535","mTurk","Communal",74,"29","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1504","536","mTurk","Agentic",70,"34",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1506","538","mTurk","Communal",65,"24","Sophomore","Male","Latino or Hispanic","Pass",NA
+"1507","539","mTurk","Communal",70,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1510","541","mTurk","Communal",70,"60",NA,"Male","Latino or Hispanic","Pass",NA
+"1511","542","mTurk","Agentic",75,"28","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1512","543","mTurk","Communal",75,NA,NA,NA,NA,"Pass",NA
+"1513","544","mTurk","Communal",93,"43",NA,"Male","African-American","Pass",NA
+"1514","545","mTurk","Agentic",75,"43","Other",NA,"Asian-American","Pass",NA
+"1515","546","mTurk","Communal",70,"24","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"1517","548","mTurk","Communal",75,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1518","549","mTurk","Communal",69,NA,NA,NA,NA,NA,NA
+"1519","55","mTurk","Agentic",68,"27","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1520","550","mTurk","Agentic",68,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"1522","552","mTurk","Agentic",70,"32","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1523","553","mTurk","Communal",72,"25",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1525","555","mTurk","Communal",68,"38","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1526","556","mTurk","Agentic",65,"58",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1527","557","mTurk","Agentic",78,NA,NA,NA,NA,NA,NA
+"1528","558","mTurk","Agentic",76,"24","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1530","56","mTurk","Communal",72,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1531","560","mTurk","Communal",75,"72","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1532","561","mTurk","Communal",69,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1534","563","mTurk","Communal",70,"36","Other","Female","Asian-American","Pass",NA
+"1535","564","mTurk","Communal",70,"28",NA,"Male","African-American","Pass",NA
+"1536","565","mTurk","Communal",64,"61","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1538","567","mTurk","Agentic",68,NA,NA,NA,NA,NA,NA
+"1544","572","mTurk","Agentic",68,"46","Other","Male","Native American and Alaska Native","Pass",NA
+"1551","579","mTurk","Communal",69,"34",NA,"Female","White, non-Hispanic or latino","Fail",NA
+"1552","58","mTurk","Agentic",72,"29","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1553","580","mTurk","Communal",71,"38","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1554","581","mTurk","Agentic",68,"34",NA,"Female","Asian-American","Pass",NA
+"1555","582","mTurk","Communal",72,"42",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1556","583","mTurk","Communal",73,"25","Other","Female","African-American","Pass",NA
+"1558","585","mTurk","Agentic",80,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1559","586","mTurk","Communal",75,"41","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1560","587","mTurk","Agentic",68,"25",NA,"Female","African-American","Pass",NA
+"1561","588","mTurk","Agentic",74,"24",NA,NA,"White, non-Hispanic or latino","Pass",NA
+"1562","589","mTurk","Agentic",70,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1566","592","mTurk","Agentic",70,"31","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"1567","593","mTurk","Communal",72,NA,NA,NA,NA,NA,NA
+"1568","594","mTurk","Communal",71,"47","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1571","597","mTurk","Communal",73,"29","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1572","598","mTurk","Communal",70,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1573","599","mTurk","Agentic",72,"36","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1575","60","mTurk","Communal",70,"26","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1576","600","mTurk","Communal",64,"44","Junior","Female","African-American","Pass",NA
+"1578","602","mTurk","Agentic",75,"39",NA,"Female","African-American","Pass",NA
+"1581","605","mTurk","Agentic",78,"28","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1582","606","mTurk","Communal",66,"39","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1583","607","mTurk","Communal",65,NA,NA,NA,NA,NA,NA
+"1584","608","mTurk","Agentic",70,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1585","609","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1587","610","mTurk","Agentic",90,"19","First-year","Male","Latino or Hispanic","Pass",NA
+"1589","612","mTurk","Communal",72,"31","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"1590","613","mTurk","Communal",55,"44","Junior","Female","African-American","Pass",NA
+"1591","614","mTurk","Communal",68,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1593","616","mTurk","Agentic",77,"56",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1594","617","mTurk","Agentic",68,"47","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1595","618","mTurk","Agentic",52,"26","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1597","62","mTurk","Communal",73,"29","Other","Female","African-American","Pass",NA
+"1598","620","mTurk","Communal",65,"32","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1599","621","mTurk","Communal",72,"31",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1600","622","mTurk","Agentic",65,"27","Other",NA,"White, non-Hispanic or latino","Pass",NA
+"1602","624","mTurk","Agentic",72,"23","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1603","625","mTurk","Agentic",76,"25",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1604","626","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1605","627","mTurk","Agentic",70,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1606","628","mTurk","Agentic",70,"39",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1607","629","mTurk","Communal",75,"28","Junior","Female","African-American","Pass",NA
+"1608","63","mTurk","Communal",68,"65",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1609","630","mTurk","Agentic",84,"26",NA,"Male","Latino or Hispanic","Pass",NA
+"1610","631","mTurk","Communal",80,NA,NA,NA,NA,NA,NA
+"1612","633","mTurk","Agentic",70,"29","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1613","634","mTurk","Agentic",72,"29","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1614","635","mTurk","Communal",70,"31","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1616","637","mTurk","Agentic",77,"23","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1617","638","mTurk","Agentic",69,"57","Other","Female","Multiracial","Pass",NA
+"1618","639","mTurk","Communal",72,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1619","64","mTurk","Communal",70,"35","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1621","641","mTurk","Agentic",65,"21",NA,"Female","Latino or Hispanic","Pass",NA
+"1624","644","mTurk","Agentic",75,NA,"Junior","Male","White, non-Hispanic or latino","Pass",NA
+"1625","645","mTurk","Agentic",68,"55",NA,"Female","Other","Pass",NA
+"1626","646","mTurk","Agentic",70,"27","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1627","647","mTurk","Communal",76,"50","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1628","648","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1629","649","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1630","65","mTurk","Agentic",75,"59",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1631","650","mTurk","Communal",68,"34","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1632","651","mTurk","Communal",70,"45",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1633","652","mTurk","Communal",68,"37","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1634","653","mTurk","Agentic",66,NA,NA,NA,NA,NA,NA
+"1635","654","mTurk","Communal",71,NA,NA,NA,NA,NA,NA
+"1636","655","mTurk","Communal",70,"26",NA,"Male","Asian-American","Pass",NA
+"1637","656","mTurk","Agentic",76,"49",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1638","657","mTurk","Communal",75,"27","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1639","658","mTurk","Agentic",70,"43","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1640","659","mTurk","Communal",70,"23","Other","Male","Asian-American","Pass",NA
+"1641","66","mTurk","Communal",69,"29","Other","Female","Asian-American","Pass",NA
+"1642","660","mTurk","Communal",71,"43","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1643","661","mTurk","Communal",74,NA,NA,NA,NA,NA,NA
+"1644","662","mTurk","Communal",75,"28","Other","Female","African-American","Pass",NA
+"1645","663","mTurk","Communal",73,"25",NA,"Male","White, non-Hispanic or latino","Fail",NA
+"1646","664","mTurk","Agentic",75,"20","Junior","Female","White, non-Hispanic or latino","Pass",NA
+"1648","666","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1649","667","mTurk","Agentic",70,"38","Other","Male","African-American","Pass",NA
+"1650","668","mTurk","Agentic",68,"44","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1651","669","mTurk","Agentic",60,"36","Senior","Female","Asian-American","Fail",NA
+"1653","670","mTurk","Agentic",70,NA,NA,NA,NA,NA,NA
+"1654","671","mTurk","Agentic",68,"48","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1655","672","mTurk","Communal",66,"49",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1657","674","mTurk","Agentic",72,"69","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1658","675","mTurk","Communal",74,"35",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1660","677","mTurk","Agentic",75,"30",NA,"Male","Multiracial","Pass",NA
+"1661","678","mTurk","Communal",79,"50","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1664","680","mTurk","Communal",72,"24","Senior","Male","White, non-Hispanic or latino","Pass",NA
+"1665","681","mTurk","Agentic",77,"50","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1667","683","mTurk","Agentic",68,"34",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1668","684","mTurk","Communal",60,"59",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1669","685","mTurk","Communal",69,"24","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1670","686","mTurk","Communal",70,"35","Other","Female","Asian-American","Pass",NA
+"1671","687","mTurk","Agentic",70,"38",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1673","689","mTurk","Agentic",80,"35",NA,"Male","Asian-American","Pass",NA
+"1674","69","mTurk","Agentic",74,"33",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1675","690","mTurk","Agentic",72,"59","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1676","691","mTurk","Agentic",65,"36",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1677","692","mTurk","Agentic",70,"52",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1678","693","mTurk","Communal",70,"49","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1679","694","mTurk","Communal",68,"20","Junior","Female","African-American","Pass",NA
+"1680","695","mTurk","Agentic",91,"28",NA,"Female","Asian-American","Pass",NA
+"1681","696","mTurk","Agentic",72,"32",NA,"Male",NA,"Pass",NA
+"1682","697","mTurk","Communal",70,"36",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1683","698","mTurk","Agentic",73,NA,NA,NA,NA,NA,NA
+"1684","699","mTurk","Communal",70,"22","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1685","7","mTurk","Communal",78,"46","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1686","70","mTurk","Communal",73,"41","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1688","701","mTurk","Agentic",65,"33","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1689","702","mTurk","Agentic",72,"33","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1690","703","mTurk","Agentic",68,"39","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1691","704","mTurk","Agentic",72,"41","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1692","705","mTurk","Agentic",72,"26",NA,"Male","Asian-American","Pass",NA
+"1695","708","mTurk","Communal",69,"24",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1696","709","mTurk","Communal",72,"30",NA,"Female","Asian-American","Pass",NA
+"1697","71","mTurk","Agentic",72,"38",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1698","710","mTurk","Communal",70,"44","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1699","711","mTurk","Communal",73,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1700","712","mTurk","Communal",60,"22","Other","Female","Latino or Hispanic","Pass",NA
+"1701","713","mTurk","Agentic",72,"36",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1702","714","mTurk","Communal",70,NA,NA,NA,NA,NA,NA
+"1703","715","mTurk","Communal",68,"32","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1704","716","mTurk","Agentic",70,"31","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1705","717","mTurk","Communal",66,"33",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1706","718","mTurk","Agentic",70,"45","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1707","719","mTurk","Agentic",72,NA,NA,NA,NA,NA,NA
+"1708","72","mTurk","Communal",72,"37",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1711","722","mTurk","Agentic",72,"21","Junior","Male","White, non-Hispanic or latino","Pass",NA
+"1712","723","mTurk","Agentic",75,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1713","724","mTurk","Agentic",73,"24","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1714","725","mTurk","Communal",68,"26",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1717","728","mTurk","Agentic",70,"26","Other","Female","Asian-American","Pass",NA
+"1719","73","mTurk","Communal",75,"42",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1720","730","mTurk","Communal",55,"29","Other","Male","Asian-American",NA,NA
+"1721","731","mTurk","Communal",75,"33",NA,"Male","Asian-American","Pass",NA
+"1722","732","mTurk","Agentic",73,"55","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1723","733","mTurk","Agentic",72,"32","Other","Male","Latino or Hispanic","Pass",NA
+"1724","734","mTurk","Agentic",68,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1728","74","mTurk","Communal",68,"28","Other","Male","White, non-Hispanic or latino","Fail",NA
+"1729","75","mTurk","Agentic",70,"34","Other","Female","African-American","Pass",NA
+"1730","76","mTurk","Agentic",73,NA,NA,NA,NA,NA,NA
+"1731","77","mTurk","Communal",72,"52",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1733","79","mTurk","Agentic",74,"28","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1734","8","mTurk","Communal",75,"46","Other","Male","Other","Pass",NA
+"1735","80","mTurk","Communal",72,"37",NA,"Male","White, non-Hispanic or latino","Pass",NA
+"1736","81","mTurk","Communal",68,"38","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"1737","82","mTurk","Agentic",68,"44","Other","Male","Latino or Hispanic","Pass",NA
+"1738","83","mTurk","Communal",72,NA,NA,NA,NA,NA,NA
+"1739","84","mTurk","Communal",68,NA,NA,NA,NA,NA,NA
+"1740","85","mTurk","Communal",71,"30",NA,"Female","Other","Pass",NA
+"1741","86","mTurk","Agentic",67,"25","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1742","87","mTurk","Communal",71,"42","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1744","89","mTurk","Agentic",70,"35","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1745","9","mTurk","Communal",70,"53","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1746","90","mTurk","Agentic",70,"25",NA,"Female","White, non-Hispanic or latino","Pass",NA
+"1749","93","mTurk","Agentic",67,"58","Other","Male","White, non-Hispanic or latino","Pass",NA
+"1750","94","mTurk","Communal",65,"32","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1751","95","mTurk","Communal",70,"30","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1752","96","mTurk","Communal",70,NA,NA,NA,NA,NA,NA
+"1753","97","mTurk","Communal",71,"28","Other","Female","White, non-Hispanic or latino","Pass",NA
+"1754","98","mTurk","Communal",75,NA,NA,NA,NA,NA,NA
+"1755","99","mTurk","Agentic",70,"25","Other","Male","White, non-Hispanic or latino","Pass",NA

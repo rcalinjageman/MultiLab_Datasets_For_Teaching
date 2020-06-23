@@ -1,0 +1,17 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~BAUER.5~~~~~~~
+	# 21 Bauer.5 - START
+
+	# 
+	# 21 Bauer.5 - all: var.equal set to: TRUE
+	# 
+	# 21 Bauer.5 - all >> ES r is close to 0:  0
+	# 
+	# 21 Bauer.5 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

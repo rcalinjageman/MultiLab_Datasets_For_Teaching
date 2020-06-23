@@ -1,0 +1,55 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~RISEN.2~~~~~~~
+	# 51 Risen.2 - START
+
+	# 
+	# 51 Risen.2 - aus2 >> ES r is close to 0:  0.03
+	# 
+	# 51 Risen.2 - hawaiion >> ES r is close to 0:  0.01
+	# 
+	# 51 Risen.2 - help >> ES r is close to 0:  0.04
+	# 
+	# 51 Risen.2 - jmu >> ES r is close to 0:  0.04
+	# 
+	# 51 Risen.2 - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 51 Risen.2 - louvain >> ES r is close to 0:  0.02
+	# 
+	# 51 Risen.2 - loyola >> ES r is close to 0:  0.04
+	# 
+	# 51 Risen.2 - lse >> ES r is close to 0:  0.04
+	# 
+	# 51 Risen.2 - puc >> ES r is close to 0:  0.01
+	# 
+	# 51 Risen.2 - queensland2 >> ES r is close to 0:  0.02
+	# 
+	# 51 Risen.2 - ritonline >> ES r is close to 0:  0.01
+	# 
+	# 51 Risen.2 - rotterdam >> ES r is close to 0:  0.04
+ListIT = FALSE
+
+	# 
+	# 51 Risen.2 - simmons >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 51 Risen.2 - simmons not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 51 Risen.2 - tamu >> ES r is close to 0:  0.02
+	# 
+	# 51 Risen.2 - tilburg >> ES r is close to 0:  0.03
+	# 
+	# 51 Risen.2 - uned >> ES r is close to 0:  0.03
+	# 
+	# 51 Risen.2 - vcu >> ES r is close to 0:  0.02
+	# 
+	# 51 Risen.2 - vuw >> ES r is close to 0:  0
+	# 
+	# 51 Risen.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,13 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ROSS.1~~~~~~~
+	# 43 Ross.1 - START
+
+	# 
+	# 43 Ross.1 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,17 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ALTER.3~~~~~~~
+	# 10 Alter.3 - START
+
+	# 
+	# 10 Alter.3 - all: var.equal set to: TRUE
+	# 
+	# 10 Alter.3 - all >> ES r is close to 0:  -0.02
+	# 
+	# 10 Alter.3 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

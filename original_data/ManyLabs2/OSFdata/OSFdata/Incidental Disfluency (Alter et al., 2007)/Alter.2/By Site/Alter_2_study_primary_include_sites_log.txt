@@ -1,0 +1,237 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ALTER.2~~~~~~
+	# 9 Alter.2 - START
+
+	# 
+	# 9 Alter.2 - aus: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - badaniaon: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - bc: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - bilgi: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - bilgi >> ES r is close to 0:  -0.01
+	# 
+	# 9 Alter.2 - brasilia: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - cas: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - castab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - doshisha: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - eindhoven: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - eindhoven >> ES r is close to 0:  0.05
+	# 
+	# 9 Alter.2 - eindhoventab not included in results >> Cases in source file (13) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - eindhoventab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - eindhoventab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - elte: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - eltetab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - eltetab >> ES r is close to 0:  -0.03
+	# 
+	# 9 Alter.2 - fmkbelgrade not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - fmkbelgrade not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - fmkbelgrade not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - grazvienna: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - hawaiion: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - hawaiion >> ES r is close to 0:  0
+	# 
+	# 9 Alter.2 - henan not included in results >> Cases in source file (18) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - henan not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - henan not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - hkust: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - hkust >> ES r is close to 0:  0.01
+	# 
+	# 9 Alter.2 - hkusttab not included in results >> Cases in source file (28) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - hkusttab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - hkusttab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - hunancomp: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ithaca: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ithaca >> ES r is close to 0:  0.01
+	# 
+	# 9 Alter.2 - johannesburg: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - johannesburg >> ES r is close to 0:  0.04
+	# 
+	# 9 Alter.2 - johannesburgother not included in results >> Cases in source file (22) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - johannesburgother not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - johannesburgother not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - koc: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - lausanne: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - leuven: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - leuven >> ES r is close to 0:  0.05
+	# 
+	# 9 Alter.2 - lundon: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - marian: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - marian >> ES r is close to 0:  -0.03
+	# 
+	# 9 Alter.2 - marianipad not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - marianipad not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - marianipad not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - mariantab not included in results >> Cases in source file (27) < Nmin.raw (30)
+	# 
+	# 9 Alter.2 - mariantab not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 9 Alter.2 - mariantab not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - mturk: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - mturk_india: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - mturk_india >> ES r is close to 0:  -0.02
+	# 
+	# 9 Alter.2 - navarra: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ntnu: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ntnu >> ES r is close to 0:  0.01
+	# 
+	# 9 Alter.2 - ntnutab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - occid: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - occid >> ES r is close to 0:  -0.02
+	# 
+	# 9 Alter.2 - occidtab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - occidtab >> ES r is close to 0:  0
+	# 
+	# 9 Alter.2 - ouhktab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - plu: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - plu >> ES r is close to 0:  -0.02
+	# 
+	# 9 Alter.2 - poitiers: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - potsdam: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - pscio: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - psuabington: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - psuabingtontab >> ES r is close to 0:  0.03
+	# 
+	# 9 Alter.2 - psumain: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - psumain >> ES r is close to 0:  0.05
+	# 
+	# 9 Alter.2 - purkyne: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - sandiegosu >> ES r is close to 0:  -0.02
+	# 
+	# 9 Alter.2 - santiagoon: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - swps: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tamu: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tamu >> ES r is close to 0:  -0.05
+	# 
+	# 9 Alter.2 - tilburg: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tilburgcaf: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tilburgcomm: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - toronto: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tufts: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - tufts >> ES r is close to 0:  -0.02
+	# 
+	# 9 Alter.2 - ubc: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ubctab: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ucron: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - udd: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - ufl: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - uiuc: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - uiuc >> ES r is close to 0:  0.02
+	# 
+	# 9 Alter.2 - umich: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - unam: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - unibelgrade: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - uniporto not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 9 Alter.2 - uva: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - vuamsterdam: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - vuamsterdam >> ES r is close to 0:  -0.05
+	# 
+	# 9 Alter.2 - vuw: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - vuw >> ES r is close to 0:  0.01
+	# 
+	# 9 Alter.2 - washlee: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - wilfredlaur >> ES r is close to 0:  -0.04
+	# 
+	# 9 Alter.2 - williampat: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - winchester: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - wpi: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - wroclaw: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - zhejiang: var.equal set to: TRUE
+	# 
+	# 9 Alter.2 - zhejiang >> ES r is close to 0:  0.04
+	# 
+	# 9 Alter.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~

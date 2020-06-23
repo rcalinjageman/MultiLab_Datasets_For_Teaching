@@ -1,0 +1,344 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:10:42.298578Z,25,Shafir,2,,1,Order,Shafir.1,520,259,261,Award,Condition,259,,,,,,,,,,,,,,,,Deny,Condition,261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0192680365094158,,,-0.878757668717956,0.189766341483568,520,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.87876, N = 520, p-value = 0.1898
+sample estimates:
+      (p-π) 
+-0.01926804 
+",,,,,,,,,,,,,,,,,-0.0192680365094158,-0.878757668717956,0.189766341483568,520,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,520,1,118,520,520,0,74.6153846153846,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 217 301 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      12                     240                     261                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             257 
+Unable to verify (completed online) but likely mostly computers 
+                                                            261 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       518 ","analysis.type
+Order 
+  520 ","subset
+all 
+520 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.375667Z,25,Shafir,2,,2,Order,Shafir.1,464,227,237,Award,Condition,227,,,,,,,,,,,,,,,,Deny,Condition,237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0194055651592037,,,-0.836017332463193,0.201572576199777,464,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.83602, N = 464, p-value = 0.2016
+sample estimates:
+      (p-π) 
+-0.01940557 
+",,,,,,,,,,,,,,,,,-0.0194055651592037,-0.836017332463193,0.201572576199777,464,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,464,1,117,464,464,0,77.801724137931,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 182 281 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      18                     192                     246                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             217 
+Unable to verify (completed online) but likely mostly computers 
+                                                            246 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       463 ","analysis.type
+Order 
+  464 ","subset
+all 
+464 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.477633Z,25,Shafir,2,,3,Order,Shafir.1,553,274,279,Award,Condition,274,,,,,,,,,,,,,,,,Deny,Condition,279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0243243596787275,,,-1.1440209508578,0.126307474215155,553,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -1.144, N = 553, p-value = 0.1263
+sample estimates:
+      (p-π) 
+-0.02432436 
+",,,,,,,,,,,,,,,,,-0.0243243596787275,-1.1440209508578,0.126307474215155,553,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,553,1,119,553,553,0,79.3851717902351,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 230 321 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      21                     237                     288                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             263 
+Unable to verify (completed online) but likely mostly computers 
+                                                            288 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       551 ","analysis.type
+Order 
+  553 ","subset
+all 
+553 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.564394Z,25,Shafir,2,,4,Order,Shafir.1,524,263,261,Award,Condition,263,,,,,,,,,,,,,,,,Deny,Condition,261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0112975831475897,,,-0.517226997469358,0.302498853996461,524,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.51723, N = 524, p-value = 0.3025
+sample estimates:
+      (p-π) 
+-0.01129758 
+",,,,,,,,,,,,,,,,,-0.0112975831475897,-0.517226997469358,0.302498853996461,524,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,524,1,119,524,524,0,77.2900763358779,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 215 306 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      22                     219                     278                       2 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             243 
+Unable to verify (completed online) but likely mostly computers 
+                                                            278 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       521 ","analysis.type
+Order 
+  524 ","subset
+all 
+524 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.648245Z,25,Shafir,2,,5,Order,Shafir.1,541,260,281,Award,Condition,260,,,,,,,,,,,,,,,,Deny,Condition,281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0522926361894334,,,-2.43259138500939,0.00749560400398652,541,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.4326, N = 541, p-value = 0.007496
+sample estimates:
+      (p-π) 
+-0.05229264 
+",,,,,,,,,,,,,,,,,-0.0522926361894334,-2.43259138500939,0.00749560400398652,541,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,541,1,120,541,541,0,75.9704251386322,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 220 319 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      25                     247                     263                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             276 
+Unable to verify (completed online) but likely mostly computers 
+                                                            263 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       539 ","analysis.type
+Order 
+  541 ","subset
+all 
+541 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.769130Z,25,Shafir,2,,6,Order,Shafir.1,499,230,269,Award,Condition,230,,,,,,,,,,,,,,,,Deny,Condition,269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0450379828673024,,,-2.01214465730171,0.0221023451788209,499,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.0121, N = 499, p-value = 0.0221
+sample estimates:
+      (p-π) 
+-0.04503798 
+",,,,,,,,,,,,,,,,,-0.0450379828673024,-2.01214465730171,0.0221023451788209,499,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,499,1,119,499,499,0,75.5511022044088,< table of extent 0 >,"SubjectPool
+     No Yes 
+  4 187 308 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      4                      20                     225                     242                       8 ","Tablet
+                                                                                                                      Computers 
+                                                              4                                                             253 
+Unable to verify (completed online) but likely mostly computers 
+                                                            242 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        4                                                                       495 ","analysis.type
+Order 
+  499 ","subset
+all 
+499 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.846452Z,25,Shafir,2,,7,Order,Shafir.1,678,331,347,Award,Condition,331,,,,,,,,,,,,,,,,Deny,Condition,347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0710796903976249,,,-3.70160753100652,0.000107118913036275,678,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -3.7016, N = 678, p-value = 0.0001071
+sample estimates:
+      (p-π) 
+-0.07107969 
+",,,,,,,,,,,,,,,,,-0.0710796903976249,-3.70160753100652,0.000107118913036275,678,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,535,1,121,678,678,0,60.3244837758112,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 341 336 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      15                     250                     406                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             271 
+Unable to verify (completed online) but likely mostly computers 
+                                                            406 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       677 ","analysis.type
+Order 
+  678 ","subset
+all 
+678 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:42.924888Z,25,Shafir,2,,8,Order,Shafir.1,505,251,254,Award,Condition,251,,,,,,,,,,,,,,,,Deny,Condition,254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.00109012767826333,,,-0.0489951454424815,0.480461582335454,505,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.048995, N = 505, p-value = 0.4805
+sample estimates:
+       (p-π) 
+-0.001090128 
+",,,,,,,,,,,,,,,,,-0.00109012767826333,-0.0489951454424815,0.480461582335454,505,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,505,1,119,505,505,0,76.2376237623763,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 209 294 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      20                     230                     250                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             253 
+Unable to verify (completed online) but likely mostly computers 
+                                                            250 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       503 ","analysis.type
+Order 
+  505 ","subset
+all 
+505 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.026095Z,25,Shafir,2,,9,Order,Shafir.1,479,262,217,Award,Condition,262,,,,,,,,,,,,,,,,Deny,Condition,217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0563109016076265,,,-2.46484851420509,0.00685355943757871,479,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.4648, N = 479, p-value = 0.006854
+sample estimates:
+     (p-π) 
+-0.0563109 
+",,,,,,,,,,,,,,,,,-0.0563109016076265,-2.46484851420509,0.00685355943757871,479,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,58,58,26,55,11,479,1,119,479,479,0,79.5407098121086,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 195 281 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      11                     205                     252                       8 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             224 
+Unable to verify (completed online) but likely mostly computers 
+                                                            252 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       476 ","analysis.type
+Order 
+  479 ","subset
+all 
+479 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.102339Z,25,Shafir,2,,10,Order,Shafir.1,506,241,265,Award,Condition,241,,,,,,,,,,,,,,,,Deny,Condition,265,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0489469975730056,,,-2.20207096809742,0.0138301479239213,506,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.2021, N = 506, p-value = 0.01383
+sample estimates:
+    (p-π) 
+-0.048947 
+",,,,,,,,,,,,,,,,,-0.0489469975730056,-2.20207096809742,0.0138301479239213,506,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,54,11,506,1,118,506,506,0,75.6916996047431,< table of extent 0 >,"SubjectPool
+ No Yes 
+206 300 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     14                     223                     261                       8 ","Tablet
+                                                      Computers Unable to verify (completed online) but likely mostly computers 
+                                                            245                                                             261 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      506 ","analysis.type
+Order 
+  506 ","subset
+all 
+506 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.179280Z,25,Shafir,2,,11,Order,Shafir.1,526,254,272,Award,Condition,254,,,,,,,,,,,,,,,,Deny,Condition,272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0120715609078277,,,-0.553715011634083,0.289886950012756,526,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.55372, N = 526, p-value = 0.2899
+sample estimates:
+      (p-π) 
+-0.01207156 
+",,,,,,,,,,,,,,,,,-0.0120715609078277,-0.553715011634083,0.289886950012756,526,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,55,11,526,1,116,526,526,0,76.8060836501901,< table of extent 0 >,"SubjectPool
+     No Yes 
+  3 231 292 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      3                      21                     249                     250                       3 ","Tablet
+                                                                                                                      Computers 
+                                                              3                                                             273 
+Unable to verify (completed online) but likely mostly computers 
+                                                            250 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        3                                                                       523 ","analysis.type
+Order 
+  526 ","subset
+all 
+526 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.287951Z,25,Shafir,2,,12,Order,Shafir.1,497,245,252,Award,Condition,245,,,,,,,,,,,,,,,,Deny,Condition,252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.00674603174603178,,,-0.300785274415347,0.381789119023004,497,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -0.30079, N = 497, p-value = 0.3818
+sample estimates:
+       (p-π) 
+-0.006746032 
+",,,,,,,,,,,,,,,,,-0.00674603174603178,-0.300785274415347,0.381789119023004,497,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,60,60,26,55,11,497,1,120,497,497,0,76.2575452716298,< table of extent 0 >,"SubjectPool
+     No Yes 
+  1 205 291 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      1                      14                     203                     273                       6 ","Tablet
+                                                                                                                      Computers 
+                                                              1                                                             223 
+Unable to verify (completed online) but likely mostly computers 
+                                                            273 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        1                                                                       496 ","analysis.type
+Order 
+  497 ","subset
+all 
+497 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.388057Z,25,Shafir,2,,13,Order,Shafir.1,536,270,266,Award,Condition,270,,,,,,,,,,,,,,,,Deny,Condition,266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0334725703146756,,,-1.54989205871945,0.0605837130109611,536,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -1.5499, N = 536, p-value = 0.06058
+sample estimates:
+      (p-π) 
+-0.03347257 
+",,,,,,,,,,,,,,,,,-0.0334725703146756,-1.54989205871945,0.0605837130109611,536,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,54,11,536,1,120,536,536,0,79.2910447761194,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 212 322 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      22                     217                     288                       7 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             246 
+Unable to verify (completed online) but likely mostly computers 
+                                                            288 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       534 ","analysis.type
+Order 
+  536 ","subset
+all 
+536 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.463578Z,25,Shafir,2,,14,Order,Shafir.1,508,246,262,Award,Condition,246,,,,,,,,,,,,,,,,Deny,Condition,262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0538850617513809,,,-2.42901522351316,0.00756994830557933,508,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.429, N = 508, p-value = 0.00757
+sample estimates:
+      (p-π) 
+-0.05388506 
+",,,,,,,,,,,,,,,,,-0.0538850617513809,-2.42901522351316,0.00756994830557933,508,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,54,11,508,1,118,508,508,0,75.3937007874016,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 201 305 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      17                     231                     253                       5 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             253 
+Unable to verify (completed online) but likely mostly computers 
+                                                            253 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       506 ","analysis.type
+Order 
+  508 ","subset
+all 
+508 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:10:43.566898Z,25,Shafir,2,,15,Order,Shafir.1,565,273,292,Award,Condition,273,,,,,,,,,,,,,,,,Deny,Condition,292,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z,-0.0502910331677455,,,-2.39080842365071,0.00840566120451136,565,,,Z test,,Z,,"
+	Z test
+
+data:  
+Z = -2.3908, N = 565, p-value = 0.008406
+sample estimates:
+      (p-π) 
+-0.05029103 
+",,,,,,,,,,,,,,,,,-0.0502910331677455,-2.39080842365071,0.00840566120451136,565,,,Z test,,Z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,59,59,26,55,11,565,1,119,565,565,0,77.8761061946903,< table of extent 0 >,"SubjectPool
+     No Yes 
+  2 227 336 ","Setting
+                                 In a classroom                In a lab        Online (at home) Other (please indicate) 
+                      2                      16                     259                     284                       4 ","Tablet
+                                                                                                                      Computers 
+                                                              2                                                             279 
+Unable to verify (completed online) but likely mostly computers 
+                                                            284 ","Pencil
+                                                                          No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                        2                                                                       563 ","analysis.type
+Order 
+  565 ","subset
+all 
+565 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

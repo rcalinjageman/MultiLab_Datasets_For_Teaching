@@ -1,0 +1,15 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.global.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~GATI.1A~~~~~~~
+	# 81 Gati.1a - START
+
+	# 
+	# 81 Gati.1a - all >> ES r is extreme hi/lo:  0.97
+	# 
+	# 81 Gati.1a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

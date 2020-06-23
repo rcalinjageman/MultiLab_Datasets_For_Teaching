@@ -1,0 +1,83 @@
+SHA-1 hash of file is d1c8f13248bfb11ad32425c5c19c02dc8a92d745
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ALTER.4~~~~~~~
+	# 11 Alter.4 - START
+
+	# 
+	# 11 Alter.4 - aus: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - bc: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - ithaca: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - ithaca >> ES r is close to 0:  0.01
+	# 
+	# 11 Alter.4 - occid: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - occid >> ES r is close to 0:  -0.02
+	# 
+	# 11 Alter.4 - occidtab: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - occidtab >> ES r is close to 0:  0
+	# 
+	# 11 Alter.4 - plu: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - plu >> ES r is close to 0:  -0.02
+	# 
+	# 11 Alter.4 - psuabington: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - psuabingtontab: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - psuabingtontab >> ES r is close to 0:  0.03
+	# 
+	# 11 Alter.4 - psumain: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - psumain >> ES r is close to 0:  0.05
+	# 
+	# 11 Alter.4 - sandiegosu: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - sandiegosu >> ES r is close to 0:  -0.02
+	# 
+	# 11 Alter.4 - tamu: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - tamu >> ES r is close to 0:  -0.05
+	# 
+	# 11 Alter.4 - toronto: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - tufts: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - tufts >> ES r is close to 0:  -0.02
+	# 
+	# 11 Alter.4 - ubc: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - ubctab: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - ufl: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - uiuc: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - uiuc >> ES r is close to 0:  0.02
+	# 
+	# 11 Alter.4 - umich: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - uva: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - washlee: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - wilfredlaur: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - wilfredlaur >> ES r is close to 0:  -0.04
+	# 
+	# 11 Alter.4 - williampat: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - winchester: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - wpi: var.equal set to: TRUE
+	# 
+	# 11 Alter.4 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

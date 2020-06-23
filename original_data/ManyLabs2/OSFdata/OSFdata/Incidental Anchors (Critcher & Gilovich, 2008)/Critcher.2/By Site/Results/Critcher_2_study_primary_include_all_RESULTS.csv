@@ -1,0 +1,261 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:53:15.861761Z,9,Critcher,1,,bc,Secondary,Critcher.2,78,39,39,P97,as.numeric.ignore.,39,,,,,52.0512820512821,18.6504532440321,60,52.7272727272727,10,15,80,65,-0.450472974111415,2.18926217472832,2.98646264559496,P17,as.numeric.ignore.,39,,,,,52.0512820512821,18.6504532440321,60,52.7272727272727,10,15,80,65,-0.450472974111415,2.18926217472832,2.98646264559496,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,52.0512820512821,52.0512820512821,0,1,76,-8.41182125417804,8.41182125417804, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 76, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -8.411821  8.411821
+sample estimates:
+mean of x mean of y 
+ 52.05128  52.05128 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.9599639845625,1.9599639845625,78,39,39,0,0.05128,-0.44384,0.44384,50,50,0,1,0,0.05027,-0.43945,0.43945,50,50,1,0,0.01299,-0.21935,0.21935,1,0,0.01333,-0.22297,0.22297,1,0.44707,2.2368,1,0,-0.80504,0.80504,1,,,,,,,,bc,bc,"Boston College, Chestnut Hill, MA","Jordan Theriault, Liane Young",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,bc,1,1,1,1,1,1,39,12,37,39,39,0,100,"Execution
+legal 
+   39 ","SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:15.975744Z,9,Critcher,1,,plu,Secondary,Critcher.2,96,48,48,P97,as.numeric.ignore.,48,,,,,57.7916666666667,16.7076977205289,63.5,58.8,11.5,15,85,70,-0.644510487698397,2.5800889871858,2.41154844412157,P17,as.numeric.ignore.,48,,,,,57.7916666666667,16.7076977205289,63.5,58.8,11.5,15,85,70,-0.644510487698397,2.5800889871858,2.41154844412157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,57.7916666666667,57.7916666666667,0,1,94,-6.77151753369637,6.77151753369637, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 94, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -6.771518  6.771518
+sample estimates:
+mean of x mean of y 
+ 57.79167  57.79167 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996399353199,1.95996399353199,96,48,48,0,0.04167,-0.40008,0.40008,50,50,0,1,0,0.041,-0.39688,0.39688,50,50,1,0,0.01053,-0.19815,0.19815,1,0,0.01075,-0.2008,0.2008,1,0.48401,2.06609,1,0,-0.72566,0.72566,1,,,,,,,,plu,plu,"Pacific Lutheran University, Tacoma, WA",Jon Grahe,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,plu,1,1,1,1,1,1,48,13,47,48,48,0,100,"Execution
+legal 
+   48 ","SubjectPool
+Yes 
+ 48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.141779Z,9,Critcher,1,,sandiegosu,Secondary,Critcher.2,186,93,93,P97,as.numeric.ignore.,93,,,,,56.0107526881721,20.808910415689,60,57.16,15,5,97,92,-0.527726428615201,2.50924133235039,2.15778349210424,P17,as.numeric.ignore.,93,,,,,56.0107526881721,20.808910415689,60,57.16,15,5,97,92,-0.527726428615201,2.50924133235039,2.15778349210424,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,56.0107526881721,56.0107526881721,0,1,184,-6.02055961919535,6.02055961919535, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 184, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -6.02056  6.02056
+sample estimates:
+mean of x mean of y 
+ 56.01075  56.01075 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996398457455,1.95996398457455,186,93,93,0,0.02151,-0.28742,0.28742,50,50,0,1,0,0.02133,-0.28625,0.28625,50,50,1,0,0.00541,-0.14301,0.14301,1,0,0.00546,-0.14399,0.14399,1,0.59373,1.68426,1,0,-0.52133,0.52133,1,,,,,,,,sandiegosu,sandiegosu,"Department of Psychology, San Diego State University, San Diego, CA 92182",Thierry Devos,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,sandiegosu,1,1,1,1,1,1,93,13,89,93,93,0,100,"Execution
+legal 
+   93 ","SubjectPool
+Yes 
+ 93 ","Setting
+In a lab 
+      93 ","Tablet
+Computers 
+       93 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               93 ","analysis.type
+Secondary 
+       93 ","subset
+all 
+ 93 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.252591Z,9,Critcher,1,,tufts,Secondary,Critcher.2,92,46,46,P97,as.numeric.ignore.,46,,,,,54.5,19.2038769233946,60,55.3947368421053,15,5,90,85,-0.458982259827582,2.31448090008795,2.83145717934319,P17,as.numeric.ignore.,46,,,,,54.5,19.2038769233946,60,55.3947368421053,15,5,90,85,-0.458982259827582,2.31448090008795,2.83145717934319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,54.5,54.5,0,1,90,-7.95521134991067,7.95521134991067, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 90, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -7.955211  7.955211
+sample estimates:
+mean of x mean of y 
+     54.5      54.5 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996398474099,1.95996399707141,92,46,46,0,0.04348,-0.40868,0.40868,50,50,0,1,0,0.04275,-0.40527,0.40527,50,50,1,0,0.01099,-0.20233,0.20233,1,0,0.01124,-0.20516,0.20516,1,0.47651,2.09859,1,0,-0.74126,0.74126,1,,,,,,,,tufts,tufts,Tufts,Satia Marotta,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,tufts,1,1,1,1,1,1,46,12,45,46,46,0,100,"Execution
+legal 
+   46 ","SubjectPool
+Yes 
+ 46 ","Setting
+In a lab 
+      46 ","Tablet
+Computers 
+       46 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.365368Z,9,Critcher,1,,ufl,Secondary,Critcher.2,100,50,50,P97,as.numeric.ignore.,50,,,,,48.88,21.635798000121,50,49.2,20,5,90,85,-0.0539663059966693,2.02700812560838,3.05976389645358,P17,as.numeric.ignore.,50,,,,,48.88,21.635798000121,50,49.2,20,5,90,85,-0.0539663059966693,2.02700812560838,3.05976389645358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,48.88,48.88,0,1,98,-8.58710739671197,8.58710739671197, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 98, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -8.587107  8.587107
+sample estimates:
+mean of x mean of y 
+    48.88     48.88 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996399105716,1.95996399105716,100,50,50,0,0.04,-0.39199,0.39199,50,50,0,1,0,0.03939,-0.38899,0.38899,50,50,1,0,0.0101,-0.19422,0.19422,1,0,0.01031,-0.19672,0.19672,1,0.49115,2.03602,1,0,-0.711,0.711,1,,,,,,,,ufl,ufl,"University of Florida, Florida",Richard A. Klein,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,ufl,1,1,1,1,1,1,50,12,48,50,50,0,100,"Execution
+legal 
+   50 ","SubjectPool
+Yes 
+ 50 ","Setting
+In a lab 
+      50 ","Tablet
+Computers 
+       50 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               50 ","analysis.type
+Secondary 
+       50 ","subset
+all 
+ 50 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.512664Z,9,Critcher,1,,uiuc,Secondary,Critcher.2,194,97,97,P97,as.numeric.ignore.,97,,,,,53.0515463917526,20.8098389860525,60,53.3037974683544,15,7,100,93,-0.156179180535878,2.34903394076608,2.11291902115365,P17,as.numeric.ignore.,97,,,,,53.0515463917526,20.8098389860525,60,53.3037974683544,15,7,100,93,-0.156179180535878,2.34903394076608,2.11291902115365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,53.0515463917526,53.0515463917526,0,1,192,-5.89375491034633,5.89375491034633, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 192, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -5.893755  5.893755
+sample estimates:
+mean of x mean of y 
+ 53.05155  53.05155 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996398456375,1.95996398456375,194,97,97,0,0.02062,-0.28143,0.28143,50,50,0,1,0,0.02046,-0.28033,0.28033,50,50,1,0,0.00518,-0.14005,0.14005,1,0,0.00524,-0.14098,0.14098,1,0.60022,1.66607,1,0,-0.51047,0.51047,1,,,,,,,,uiuc,uiuc,"University of Illinois at Urbana-Champaign, Champaign, IL","Erika Salomon, Marie Heffernan",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uiuc,1,1,1,1,1,1,97,13,90,97,97,0,100,"Execution
+legal 
+   97 ","SubjectPool
+Yes 
+ 97 ","Setting
+In a lab 
+      97 ","Tablet
+Computers 
+       97 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.629026Z,9,Critcher,1,,uva,Secondary,Critcher.2,78,39,39,P97,as.numeric.ignore.,39,,,,,50.5641025641026,18.4230903056533,55,51.1212121212121,15,15,80,65,-0.357453155131618,1.88963671517914,2.95005543802866,P17,as.numeric.ignore.,39,,,,,50.5641025641026,18.4230903056533,55,51.1212121212121,15,15,80,65,-0.357453155131618,1.88963671517914,2.95005543802866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,50.5641025641026,50.5641025641026,0,1,76,-8.30927487782768,8.30927487782768, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 76, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -8.309275  8.309275
+sample estimates:
+mean of x mean of y 
+  50.5641   50.5641 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.9599639845625,1.9599639845625,78,39,39,0,0.05128,-0.44384,0.44384,50,50,0,1,0,0.05027,-0.43945,0.43945,50,50,1,0,0.01299,-0.21935,0.21935,1,0,0.01333,-0.22297,0.22297,1,0.44707,2.2368,1,0,-0.80504,0.80504,1,,,,,,,,uva,uva,"University of Virginia, VA",Charles Ebersole,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,uva,1,1,1,1,1,1,39,12,38,39,39,0,100,"Execution
+legal 
+   39 ","SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.739077Z,9,Critcher,1,,washlee,Secondary,Critcher.2,98,49,49,P97,as.numeric.ignore.,49,,,,,55.0816326530612,21.2640509768383,60,55.5365853658537,20,15,87,72,-0.126038591748283,1.72325199291751,3.03772156811976,P17,as.numeric.ignore.,49,,,,,55.0816326530612,21.2640509768383,60,55.5365853658537,20,15,87,72,-0.126038591748283,1.72325199291751,3.03772156811976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,55.0816326530612,55.0816326530612,0,1,96,-8.52746687759503,8.52746687759503, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 96, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -8.527467  8.527467
+sample estimates:
+mean of x mean of y 
+ 55.08163  55.08163 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996399218593,1.95996399218593,98,49,49,0,0.04082,-0.39597,0.39597,50,50,0,1,0,0.04018,-0.39287,0.39287,50,50,1,0,0.01031,-0.19615,0.19615,1,0,0.01053,-0.19873,0.19873,1,0.48762,2.05077,1,0,-0.71821,0.71821,1,,,,,,,,washlee,washlee,"Department of Psychology, Washington and Lee University, Lexington, VA 24450",Julie A. Woodzicka,ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,washlee,1,1,1,1,1,1,49,13,48,49,49,0,100,"Execution
+legal 
+   49 ","SubjectPool
+No 
+49 ","Setting
+In a lab 
+      49 ","Tablet
+Computers 
+       49 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               49 ","analysis.type
+Secondary 
+       49 ","subset
+all 
+ 49 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:16.886802Z,9,Critcher,1,,wilfredlaur,Secondary,Critcher.2,96,48,48,P97,as.numeric.ignore.,48,,,,,50.8125,19.1773983215393,58.5,51.525,11.5,3,80,77,-0.435526399461251,2.24850344021156,2.76801902082435,P17,as.numeric.ignore.,48,,,,,50.8125,19.1773983215393,58.5,51.525,11.5,3,80,77,-0.435526399461251,2.24850344021156,2.76801902082435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,50.8125,50.8125,0,1,94,-7.7724705795594,7.7724705795594, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 94, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -7.772471  7.772471
+sample estimates:
+mean of x mean of y 
+  50.8125   50.8125 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.95996399353199,1.95996399353199,96,48,48,0,0.04167,-0.40008,0.40008,50,50,0,1,0,0.041,-0.39688,0.39688,50,50,1,0,0.01053,-0.19815,0.19815,1,0,0.01075,-0.2008,0.2008,1,0.48401,2.06609,1,0,-0.72566,0.72566,1,,,,,,,,wilfredlaur,wilfredlaur,"Wilfrid Laurier University, Waterloo, Ontario, Canada","Grant Packard, Tripat Gill",ML2_Slate1_CanadaEng_Inlab_execution_illegal_DEPLOY__pencilpapercritcher_wilfredlaur_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",illegal,Slate1,wilfredlaur,1,1,1,1,1,1,48,13,47,48,48,0,100,"Execution
+illegal 
+     48 ","SubjectPool
+Yes 
+ 48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:53:17.008861Z,9,Critcher,1,,wpi,Secondary,Critcher.2,76,38,38,P97,as.numeric.ignore.,38,,,,,50.6842105263158,22.8036332609614,60,51.125,15,0,95,95,-0.296744698791967,2.37377123455937,3.69923779453789,P17,as.numeric.ignore.,38,,,,,50.6842105263158,22.8036332609614,60,51.125,15,0,95,95,-0.296744698791967,2.37377123455937,3.69923779453789,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,50.6842105263158,50.6842105263158,0,1,74,-10.4240157225834,10.4240157225834, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  P97 and P17
+t = 0, df = 74, p-value = 1
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -10.42402  10.42402
+sample estimates:
+mean of x mean of y 
+ 50.68421  50.68421 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0,-1.9599639845695,1.9599639845695,76,38,38,0,0.05263,-0.44965,0.44965,50,50,0,1,0,0.05157,-0.44507,0.44507,50,50,1,0,0.01333,-0.22215,0.22215,1,0,0.0137,-0.22591,0.22591,1,0.44239,2.26046,1,0,-0.81557,0.81557,1,,,,,,,,wpi,wpi,"Social Science and Policy Studies Department, Worcester Polytechnic Institute, Worcester, MA 01609","Jeanine L. M. Skorinko, Melissa-Sue John",ML2_Slate1_USEng_Inlab_execution_legal_DEPLOY__pencilpaper_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"Yes, participants completed the Critcher task on pencil and paper",legal,Slate1,wpi,1,1,1,1,1,1,38,13,38,38,38,0,100,"Execution
+legal 
+   38 ","SubjectPool
+Yes 
+ 38 ","Setting
+In a lab 
+      38 ","Tablet
+Computers 
+       38 ","Pencil
+Yes, participants completed the Critcher task on pencil and paper 
+                                                               38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

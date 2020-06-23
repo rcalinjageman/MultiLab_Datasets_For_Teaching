@@ -1,0 +1,116 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"2676","10","UCDavis","Communal",68,"21","Senior","Male","Asian-American","Fail",77
+"2677","100","UCDavis","Agentic",75,"18","First-year","Female","Asian-American","Fail",73
+"2679","102","UCDavis","Agentic",72,"21","Senior","Female","Latino or Hispanic","Pass",73
+"2681","104","UCDavis","Communal",72,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"2682","105","UCDavis","Agentic",80,"18","First-year","Female","Other","Pass",72
+"2683","106","UCDavis","Agentic",75,"19","Sophomore","Female","Latino or Hispanic","Fail",72
+"2684","107","UCDavis","Communal",68,"20","Junior","Female","Other","Fail",72
+"2685","108","UCDavis","Communal",72,"25","Senior","Male","Other","Fail",72
+"2686","109","UCDavis","Agentic",78,"21","Senior","Female","White, non-Hispanic or latino","Pass",72
+"2688","110","UCDavis","Communal",70,"19","Sophomore","Female","Asian-American","Pass",72
+"2689","111","UCDavis","Communal",65,"19","Sophomore","Female","Latino or Hispanic","Pass",72
+"2690","112","UCDavis","Agentic",72,"22","Junior","Male","Latino or Hispanic","Fail",72
+"2691","113","UCDavis","Agentic",74,"23","Senior","Male","White, non-Hispanic or latino","Fail",72
+"2692","114","UCDavis","Communal",73,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"2693","115","UCDavis","Agentic",67,"19","Sophomore","Male","Native American and Alaska Native","Pass",72
+"2695","117","UCDavis","Agentic",73,"19","Sophomore","Female","Asian-American","Fail",72
+"2697","119","UCDavis","Communal",79,"19","Sophomore","Female","Asian-American","Pass",72
+"2698","12","UCDavis","Communal",70,"50","Junior","Female","Other","Pass",75
+"2699","120","UCDavis","Communal",76,"18","First-year","Female","Multiracial","Pass",72
+"2700","13","UCDavis","Communal",74,"18","First-year","Female","Multiracial","Pass",75
+"2702","15","UCDavis","Agentic",80,"18","First-year","Female","Asian-American","Fail",75
+"2703","16","UCDavis","Agentic",78,"19","Sophomore","Female","Asian-American","Pass",75
+"2704","17","UCDavis","Communal",75,"18","First-year","Female","Other","Fail",75
+"2706","19","UCDavis","Communal",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"2708","20","UCDavis","Agentic",70,"19","Sophomore","Female","Multiracial","Pass",72
+"2709","21","UCDavis","Communal",70,"20","Junior","Female","Multiracial","Fail",73
+"2710","22","UCDavis","Communal",70,"19","Sophomore","Female","Asian-American","Fail",73
+"2711","23","UCDavis","Agentic",73,"20","Junior","Female","Multiracial","Pass",72
+"2712","24","UCDavis","Agentic",75,"20","Junior","Female","Asian-American","Pass",72
+"2713","247712","UCDavis","Agentic",80,NA,"Senior","Male","Asian-American","Fail",NA
+"2716","27","UCDavis","Communal",77,"19","Sophomore","Male","Asian-American","Fail",73
+"2717","28","UCDavis","Communal",65,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",73
+"2718","29","UCDavis","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",73
+"2720","30","UCDavis","Communal",88,"18","Junior","Female","Asian-American","Fail",73
+"2721","31","UCDavis","Agentic",70,"20","Junior","Female","Asian-American","Pass",73
+"2722","32","UCDavis","Agentic",77,"26","Junior","Male","Latino or Hispanic","Pass",73
+"2723","33","UCDavis","Agentic",75,"20","Junior","Female","Other","Fail",72
+"2724","34","UCDavis","Communal",72,"22","Other","Female","Multiracial","Pass",72
+"2725","35","UCDavis","Communal",75,"31","Senior","Female","White, non-Hispanic or latino","Pass",72
+"2726","36","UCDavis","Communal",75,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"2727","37","UCDavis","Agentic",71,"18","First-year","Male","Asian-American","Fail",72
+"2728","38","UCDavis","Communal",70,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"2729","39","UCDavis","Communal",73,"19","Sophomore","Male","Latino or Hispanic","Fail",72
+"2731","40","UCDavis","Communal",70,"20","Sophomore","Female","Latino or Hispanic","Pass",72
+"2732","41","UCDavis","Agentic",75,"21","Senior","Male","Asian-American","Fail",72
+"2733","42","UCDavis","Agentic",70,"19","Sophomore","Female","Other","Fail",73
+"2734","43","UCDavis","Agentic",70,"24","Senior","Female","Other","Fail",73
+"2736","45","UCDavis","Communal",72,"20","Sophomore","Female","Multiracial","Pass",71
+"2737","46","UCDavis","Communal",60,"19","First-year","Female","Latino or Hispanic","Pass",72
+"2738","47","UCDavis","Agentic",73,"18","First-year","Female","Asian-American","Pass",72
+"2739","48","UCDavis","Agentic",65,"19","Sophomore","Male","Multiracial","Pass",72
+"2740","49","UCDavis","Agentic",72,"20","Senior","Male","Asian-American",NA,72
+"2742","50","UCDavis","Communal",70,"20","Junior","Female","Asian-American","Pass",72
+"2743","51","UCDavis","Communal",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"2744","52","UCDavis","Agentic",74,"18","First-year","Male","Asian-American","Fail",72
+"2745","53","UCDavis","Communal",74,"20","Junior","Female","Other","Pass",72
+"2746","54","UCDavis","Agentic",75,"19","Junior","Male","Latino or Hispanic","Pass",70
+"2747","55","UCDavis","Communal",57,"18","First-year","Female","Latino or Hispanic","Fail",72
+"2748","56","UCDavis","Communal",70,"19","Junior","Female","Latino or Hispanic","Pass",72
+"2749","57","UCDavis","Agentic",72,"19","Sophomore","Female","Asian-American","Pass",72
+"2750","58","UCDavis","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"2751","59","UCDavis","Communal",78,"19","Sophomore","Female","Asian-American","Fail",72
+"2753","60","UCDavis","Communal",70,"18","First-year","Female","Multiracial","Pass",72
+"2754","61","UCDavis","Communal",68,"21","Junior","Male","Asian-American","Fail",72
+"2755","62","UCDavis","Agentic",70,"21","Junior","Female","Asian-American","Pass",72
+"2756","63","UCDavis","Communal",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"2758","65","UCDavis","Agentic",75,"18","First-year","Female","Multiracial","Pass",72
+"2759","66","UCDavis","Communal",78,"21","Senior","Female","Latino or Hispanic","Fail",72
+"2760","67","UCDavis","Agentic",68,"21","Senior","Female","Asian-American","Pass",72
+"2761","68","UCDavis","Communal",72,"23","Senior","Female","Latino or Hispanic","Fail",72
+"2762","69","UCDavis","Communal",70,"22","Senior","Female","Other","Fail",72
+"2764","70","UCDavis","Communal",68,"19","Junior","Female","Asian-American","Pass",72
+"2765","71","UCDavis","Agentic",68,"20","Junior","Female","Asian-American","Pass",72
+"2766","72","UCDavis","Communal",70,"19","Sophomore","Male","Asian-American","Fail",72
+"2767","73","UCDavis","Agentic",71,"18","First-year","Female","Asian-American","Fail",72
+"2768","74","UCDavis","Communal",76,"19","Sophomore","Female","Asian-American","Pass",72
+"2769","75","UCDavis","Communal",62,"21","Senior","Female","Asian-American","Fail",72
+"2770","76","UCDavis","Communal",70,"we","Other","Male","Asian-American","Fail",72
+"2771","77","UCDavis","Communal",75,"22","Other","Female","Latino or Hispanic","Pass",72
+"2772","78","UCDavis","Agentic",79,"19","Sophomore","Female","Latino or Hispanic","Pass",72
+"2773","79","UCDavis","Communal",74,"20","Junior","Male","Asian-American","Fail",72
+"2775","80","UCDavis","Agentic",70,"21","Senior","Female","Asian-American","Pass",72
+"2776","81","UCDavis","Communal",75,NA,"Senior","Female",NA,"Pass",72
+"2777","82","UCDavis","Agentic",75,"19","Sophomore","Female","Asian-American","Pass",72
+"2779","84","UCDavis","Communal",78,"19","First-year","Male","White, non-Hispanic or latino","Fail",72
+"2780","85","UCDavis","Communal",65,"21","Senior","Male","Asian-American","Pass",72
+"2781","86","UCDavis","Communal",75,"19","Sophomore","Female","Latino or Hispanic","Pass",72
+"2782","87","UCDavis","Agentic",70,"19","Sophomore","Female","Asian-American","Pass",72
+"2784","89","UCDavis","Communal",65,"19","Sophomore","Female","Other","Fail",72
+"2786","90","UCDavis","Agentic",68,"21","Senior","Female","Asian-American","Pass",72
+"2787","91","UCDavis","Agentic",70,"21","Senior","Female","Asian-American","Pass",72
+"2788","912044691","UCDavis","Communal",73,"18","First-year","Female","Asian-American","Fail",NA
+"2789","912290173","UCDavis","Agentic",80,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"2791","93","UCDavis","Agentic",80,"18","First-year","Female","Latino or Hispanic","Pass",72
+"2794","96","UCDavis","Agentic",73,"20","Junior","Male","Asian-American","Fail",72
+"2795","97","UCDavis","Agentic",75,"19","Sophomore","Male","Asian-American","Fail",73
+"2796","98","UCDavis","Agentic",75,"20","Sophomore","Male","Latino or Hispanic","Pass",73
+"2797","99","UCDavis","Communal",73,"21","Junior","Female","Multiracial","Pass",73
+"2798","997562295","UCDavis","Agentic",70,"21","Senior","Female","Latino or Hispanic","Fail",NA
+"2799","998047502","UCDavis","Agentic",66,"20","Junior","Female","Asian-American","Fail",NA
+"2800","998284488","UCDavis","Agentic",78,"20","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"2801","998809465","UCDavis","Agentic",77,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",NA
+"2802","998815611","UCDavis","Communal",75,"19","Sophomore","Female","Latino or Hispanic","Pass",NA
+"2803","999041730","UCDavis","Communal",70,"19","Sophomore","Female","Asian-American","Pass",NA
+"2804","999688562","UCDavis","Agentic",78,"18","First-year","Female","Other","Pass",NA
+"2805",NA,"UCDavis","Communal",75,"20","Junior","Female","Multiracial","Pass",NA
+"2806",NA,"UCDavis","Agentic",80,"21","Sophomore","Female","Asian-American","Pass",NA
+"2807",NA,"UCDavis","Communal",70,"19","Sophomore","Female","Asian-American","Fail",NA
+"2808",NA,"UCDavis","Communal",80,NA,NA,NA,NA,"Pass",NA
+"2809",NA,"UCDavis","Agentic",78,NA,NA,NA,NA,NA,NA
+"2810",NA,"UCDavis","Communal",76,"18","First-year","Female","Latino or Hispanic","Fail",NA
+"2811",NA,"UCDavis","Communal",68,"20","Junior","Female","Other","Pass",NA
+"2812",NA,"UCDavis","Communal",73,NA,NA,NA,NA,NA,NA
+"2813",NA,"UCDavis","Agentic",65,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"2814",NA,"UCDavis","Communal",59,NA,NA,NA,NA,NA,NA

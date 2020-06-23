@@ -1,0 +1,84 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"278","10","IthacaCollege","Agentic",60,"18","First-year","Female","African-American","Pass",76
+"280","101","IthacaCollege","Communal",66,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",72
+"281","102","IthacaCollege","Communal",65,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"282","103","IthacaCollege","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"285","106","IthacaCollege","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"286","107","IthacaCollege","Communal",60,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"291","111","IthacaCollege","Communal",58,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",72
+"292","112","IthacaCollege","Agentic",65,"18","First-year","Male","White, non-Hispanic or latino","Pass",72
+"293","113","IthacaCollege","Agentic",68,"19","Sophomore","Female","Native American and Alaska Native","Pass",72
+"298","118","IthacaCollege","Communal",65,"21","Senior","Female","White, non-Hispanic or latino","Pass",72
+"299","119","IthacaCollege","Communal",70,"21","Junior","Male","White, non-Hispanic or latino","Pass",72
+"300","12","IthacaCollege","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"304","123","IthacaCollege","Communal",66,"18","First-year","Female","Asian-American","Pass",72
+"309","128","IthacaCollege","Agentic",65,"19","Sophomore","Male","Multiracial","Pass",72
+"310","129","IthacaCollege","Agentic",75,"19","Sophomore","Female","Other","Fail",72
+"311","13","IthacaCollege","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"313","131","IthacaCollege","Agentic",67,"21","Senior","Male","White, non-Hispanic or latino","Pass",72
+"314","132","IthacaCollege","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"317","14","IthacaCollege","Agentic",72,"21","Senior","Female","White, non-Hispanic or latino","Pass",76
+"319","16","IthacaCollege","Agentic",70,"21","Senior","Female","White, non-Hispanic or latino","Pass",76
+"320","17","IthacaCollege","Communal",64,"18","First-year","Female","White, non-Hispanic or latino","Fail",76
+"321","18","IthacaCollege","Communal",73,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"323","20","IthacaCollege","Communal",68,"18","First-year","Female","Asian-American","Pass",76
+"324","21","IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",76
+"325","22","IthacaCollege","Communal",69,"18","First-year","Female","Latino or Hispanic","Pass",76
+"326","23","IthacaCollege","Communal",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",76
+"328","25","IthacaCollege","Agentic",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"329","26","IthacaCollege","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",76
+"331","28","IthacaCollege","Communal",55,"18","First-year","Female","Other","Fail",76
+"332","29","IthacaCollege","Communal",68,"18","First-year","Male","White, non-Hispanic or latino","Fail",72
+"334","31","IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"335","32","IthacaCollege","Communal",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"336","33","IthacaCollege","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"338","35","IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"339","36","IthacaCollege","Agentic",60,"20","Senior","Female","White, non-Hispanic or latino","Pass",72
+"340","37","IthacaCollege","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"341","38","IthacaCollege","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"342","39","IthacaCollege","Agentic",75,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"344","41","IthacaCollege","Communal",60,"20","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"345","42","IthacaCollege","Communal",65,"19","Sophomore","Male","African-American","Pass",72
+"346","43","IthacaCollege","Agentic",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"347","44","IthacaCollege","Agentic",73,NA,"First-year","Female","White, non-Hispanic or latino","Pass",72
+"348","45","IthacaCollege","Communal",65,"18","First-year","Female","Asian-American","Pass",72
+"350","47","IthacaCollege","Communal",70,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"352","49","IthacaCollege","Agentic",65,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"353","50","IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"354","51","IthacaCollege","Agentic",68,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"356","53","IthacaCollege","Agentic",76,"19","First-year","Female","White, non-Hispanic or latino","Pass",72
+"357","54","IthacaCollege","Communal",68,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"359","56","IthacaCollege","Communal",68,"21","Junior","Male","White, non-Hispanic or latino","Pass",72
+"361","58","IthacaCollege","Communal",69,"21","Senior","Female","White, non-Hispanic or latino","Pass",72
+"362","59","IthacaCollege","Agentic",60,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"364","61","IthacaCollege","Agentic",70,"19","First-year","Female","White, non-Hispanic or latino","Fail",72
+"366","63","IthacaCollege","Communal",60,"22","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"368","65","IthacaCollege","Agentic",70,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"371","68","IthacaCollege","Communal",60,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",72
+"373","7","IthacaCollege","Communal",70,"20","Junior","Female","White, non-Hispanic or latino","Fail",76
+"374","70","IthacaCollege","Communal",67,"21","Junior","Female","White, non-Hispanic or latino","Pass",72
+"375","71","IthacaCollege","Agentic",68,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"378","74","IthacaCollege","Agentic",65,"20","Junior","Female","White, non-Hispanic or latino","Pass",72
+"381","77","IthacaCollege","Agentic",65,"19","Sophomore","Male","White, non-Hispanic or latino","Fail",72
+"382","78","IthacaCollege","Agentic",70,"21","Sophomore","Male","White, non-Hispanic or latino","Fail",72
+"386","81","IthacaCollege","Agentic",68,"21","Senior","Male","White, non-Hispanic or latino","Pass",72
+"388","83","IthacaCollege","Agentic",60,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"389","84","IthacaCollege","Communal",72,"21","Senior","Male","White, non-Hispanic or latino","Pass",72
+"390","85","IthacaCollege","Agentic",60,"18","First-year","Male","African-American","Fail",72
+"391","86","IthacaCollege","Agentic",65,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"392","87","IthacaCollege","Agentic",65,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"393","88","IthacaCollege","Agentic",65,"18","First-year","Female","White, non-Hispanic or latino","Fail",72
+"396","90","IthacaCollege","Agentic",65,"20","Junior","Male","White, non-Hispanic or latino","Pass",72
+"397","91","IthacaCollege","Communal",75,"20","Junior","Female","White, non-Hispanic or latino","Fail",72
+"398","92","IthacaCollege","Communal",58,"19","Sophomore","Female","White, non-Hispanic or latino","Pass",72
+"403","97","IthacaCollege","Communal",60,"18","First-year","Female","White, non-Hispanic or latino","Pass",72
+"404","98","IthacaCollege","Communal",60,"21","Senior","Female","Native American and Alaska Native","Pass",72
+"405","99","IthacaCollege","Agentic",60,"18","First-year","Female","Asian-American","Pass",72
+"406",NA,"IthacaCollege","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"407",NA,"IthacaCollege","Communal",65,"20","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"408",NA,"IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"409",NA,"IthacaCollege","Agentic",75,"18","First-year","Female","Other","Fail",NA
+"410",NA,"IthacaCollege","Communal",55,"19","Sophomore","Female","White, non-Hispanic or latino","Fail",NA
+"411",NA,"IthacaCollege","Communal",65,"20","Junior","Female","White, non-Hispanic or latino","Fail",NA
+"412",NA,"IthacaCollege","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"414",NA,"IthacaCollege","Communal",67,"20","Junior","Male","White, non-Hispanic or latino","Pass",NA

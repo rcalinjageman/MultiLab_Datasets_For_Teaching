@@ -1,0 +1,365 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T15:43:43.541033Z,1,Huang,1,,1,Order,Huang.1,501,257,244,High,as.numeric.ignore.,257,,,,,15.9183280144098,87.4088581964293,1,18.1980687754166,63,-174,173,347,-0.145079619252145,2.31337216924482,5.45241476907447,Low,as.numeric.ignore.,244,,,,,-11.9776213913835,91.9182896078286,-10,-13.8261208439568,74.0350036621095,-181,172.779998779297,353.779998779297,0.18861191449016,2.24168256333178,5.88446550507736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,15.9183280144098,-11.9776213913835,3.48188934802226,0.000541612698509971,499,12.1550724826944,43.6368263288922, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 3.4819, df = 499, p-value = 0.0005416
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 12.15507 43.63683
+sample estimates:
+mean of x mean of y 
+ 15.91833 -11.97762 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.48188934802226,1.50833840572537,5.45199200419707,501,257,244,0.31122,0.00809,0.13482,0.48732,62.21846,58.7091,0.17418,0.00058,0.31076,0.00806,0.13462,0.48659,62.20067,58.69621,0.00058,0.15401,0.00191,0.06737,0.2371,0.00058,0.15525,0.00201,0.06747,0.2417,1.75856,1.27703,2.42031,0.00058,0.5645,0.24454,0.8839,0.00058,,,,,,,,,,,,,,,,,,,,,,,,,63,63,71,30,59,15,501,1,367,501,501,0,71.6566866267465,"Execution
+        illegal   legal 
+      9     245     247 ","SubjectPool
+     No Yes 
+  9 191 301 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     295                     154                      28 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            313                                                              37 
+Unable to verify (completed online) but likely mostly computers 
+                                                            151 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      417                                                                        84 ","analysis.type
+Order 
+  501 ","subset
+all 
+501 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:43.647095Z,1,Huang,1,,2,Order,Huang.1,509,276,233,High,as.numeric.ignore.,276,,,,,13.4409065799437,86.0818632405023,2.1300048828125,15.0211720165906,57.384994506836,-177,174,351,-0.103015343650522,2.41279052719198,5.18151927071019,Low,as.numeric.ignore.,233,,,,,-23.887123435352,86.2174847866137,-16,-28.0295711252141,68,-179,171,350,0.345952636618704,2.42879682801209,5.64829522798977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,13.4409065799437,-23.887123435352,4.87061613095692,1.48922138856954e-06,507,22.2710716601336,52.3849883704577, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 4.8706, df = 507, p-value = 1.489e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 22.27107 52.38499
+sample estimates:
+mean of x mean of y 
+ 13.44091 -23.88712 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.87061613095692,2.88551978509952,6.85101430211132,509,276,233,0.43332,0.0081,0.25671,0.60951,66.76094,62.03517,0.2407,0,0.43268,0.00808,0.25633,0.60861,66.73765,62.01791,0,0.21142,0.0018,0.12711,0.29109,0,0.21466,0.00198,0.1278,0.29976,2.19451,1.59302,3.02082,0,0.78596,0.46563,1.10553,0,,,,,,,,,,,,,,,,,,,,,,,,,64,64,72,30,59,15,509,1,367,509,509,0,74.2632612966601,"Execution
+        illegal   legal 
+     15     267     227 ","SubjectPool
+     No Yes 
+  7 176 326 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     19                     300                     163                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            314                                                              33 
+Unable to verify (completed online) but likely mostly computers 
+                                                            162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      425                                                                        84 ","analysis.type
+Order 
+  509 ","subset
+all 
+509 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:43.757229Z,1,Huang,1,,3,Order,Huang.1,528,275,253,High,as.numeric.ignore.,275,,,,,17.7762197461308,87.8106745445022,10.880004882812,20.8492777554413,59.119995117188,-184,177.030002593994,361.030002593994,-0.26298862965843,2.46047174630589,5.29518291003865,Low,as.numeric.ignore.,253,,,,,-22.4303539108368,88.0831347282744,-14,-24.7205399384035,66,-178,176,354,0.186400787956929,2.39744841674755,5.53773923405077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,17.7762197461308,-22.4303539108368,5.24824100079148,2.23119158203758e-07,526,25.1567351156837,55.2564121982514, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 5.2482, df = 526, p-value = 2.231e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 25.15674 55.25641
+sample estimates:
+mean of x mean of y 
+ 17.77622 -22.43035 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.24824100079148,3.26036293703513,7.23125201681408,528,275,253,0.4572,0.00779,0.28402,0.62995,67.62356,62.67613,0.25352,0,0.45655,0.00776,0.28362,0.62905,67.60012,62.65867,0,0.22307,0.00171,0.14074,0.3007,0,0.22688,0.0019,0.14168,0.31029,2.29163,1.67391,3.1349,0,0.82927,0.51516,1.1426,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,30,59,15,528,1,374,528,528,0,74.6212121212121,"Execution
+        illegal   legal 
+      6     269     253 ","SubjectPool
+     No Yes 
+  7 200 321 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     24                     312                     161                      31 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            313                                                              54 
+Unable to verify (completed online) but likely mostly computers 
+                                                            161 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      436                                                                        92 ","analysis.type
+Order 
+  528 ","subset
+all 
+528 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:43.908636Z,1,Huang,1,,4,Order,Huang.1,526,263,263,High,as.numeric.ignore.,263,,,,,15.1620994248771,86.2606548003219,0,16.6023795322219,61,-182,172,354,-0.0676276456277778,2.3891668500083,5.31905984094558,Low,as.numeric.ignore.,263,,,,,-26.0976035404568,85.0873219491907,-16,-30.8797619715686,62.940002441406,-178,172.230003356934,350.230003356934,0.386310003314757,2.53970675974868,5.24670903787133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,15.1620994248771,-26.0976035404568,5.52242474735781,5.27076292555118e-08,524,26.5823188861326,55.9370870445353, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 5.5224, df = 524, p-value = 5.271e-08
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 26.58232 55.93709
+sample estimates:
+mean of x mean of y 
+  15.1621  -26.0976 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.52242474735781,3.53159736662883,7.50812507148629,526,263,263,0.48158,0.00783,0.30797,0.65474,68.49472,63.32703,0.26654,0,0.48089,0.0078,0.30753,0.6538,68.47022,63.30867,0,0.23452,0.0017,0.15247,0.31166,0,0.23897,0.00191,0.15367,0.32238,2.39525,1.74822,3.27909,0,0.87349,0.5586,1.18757,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,71,29,57,15,526,1,370,526,526,0,73.574144486692,"Execution
+        illegal   legal 
+      9     277     240 ","SubjectPool
+     No Yes 
+ 11 178 337 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     22                     321                     161                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            330                                                              36 
+Unable to verify (completed online) but likely mostly computers 
+                                                            160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      440                                                                        86 ","analysis.type
+Order 
+  526 ","subset
+all 
+526 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.026956Z,1,Huang,1,,5,Order,Huang.1,518,260,258,High,as.numeric.ignore.,260,,,,,6.41489953257174,83.4011859140568,-4.51999664306651,7.40083555069863,63.2050018310545,-178,163.029998779297,341.029998779297,-0.0191069539724827,2.26970302043899,5.17232197963763,Low,as.numeric.ignore.,258,,,,,-29.2177350835283,94.4452574599513,-23.5,-33.3832967097943,79,-184,173,357,0.33546661105183,2.18950810440197,5.87990489846776,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,35.6326346161,6.41489953257174,-29.2177350835283,4.55014168523081,6.71592225494573e-06,507.242271439931,20.2472414358571,51.018027796343,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  High and Low
+t = 4.5501, df = 507.24, p-value = 6.716e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 20.24724 51.01803
+sample estimates:
+mean of x mean of y 
+  6.41490 -29.21774 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.55014168523081,2.56808929466531,6.52779506045286,518,260,258,0.39985,0.00788,0.22567,0.57363,65.53652,61.13097,0.22262,1e-05,0.39927,0.00785,0.22534,0.5728,65.5151,61.11521,1e-05,0.19641,0.00179,0.11234,0.27619,1e-05,0.19899,0.00194,0.11281,0.28356,2.06523,1.5058,2.83051,1e-05,0.72524,0.40932,1.04046,1e-05,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,29,58,15,518,1,373,518,518,0,74.7104247104247,"Execution
+        illegal   legal 
+      7     265     246 ","SubjectPool
+     No Yes 
+ 12 151 355 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     25                     331                     140                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            334                                                              45 
+Unable to verify (completed online) but likely mostly computers 
+                                                            139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      436                                                                        82 ","analysis.type
+Order 
+  518 ","subset
+all 
+518 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.144996Z,1,Huang,1,,6,Order,Huang.1,513,241,272,High,as.numeric.ignore.,241,,,,,9.57470430894141,84.6921659235526,-2,10.7386201059808,53,-184,169.380004882813,353.380004882813,-0.0496276562506246,2.47203601290616,5.4555019883895,Low,as.numeric.ignore.,272,,,,,-29.4506606494445,88.7352691309778,-25.5,-34.032934486304,65.19499206543,-186,172,358,0.388960713502375,2.47679699712068,5.38036599036223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,9.57470430894141,-29.4506606494445,5.07881571728504,5.33169607029964e-07,511,23.9293448677102,54.1213850490615, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 5.0788, df = 511, p-value = 5.332e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 23.92934 54.12139
+sample estimates:
+ mean of x  mean of y 
+  9.574704 -29.450661 
+",,,,,,,,,,,,,,,,,,,,,,,,,,5.07881571728504,3.09185778304699,7.06092126634548,513,241,272,0.44929,0.00802,0.27352,0.62464,67.33893,62.46426,0.24929,0,0.44863,0.008,0.27312,0.62372,67.31513,62.44657,0,0.21921,0.00177,0.13551,0.29815,0,0.22283,0.00196,0.13635,0.30749,2.25901,1.64231,3.10485,0,0.81492,0.49611,1.13296,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,71,30,59,15,513,1,363,513,513,0,73.8791423001949,"Execution
+        illegal   legal 
+     11     242     260 ","SubjectPool
+     No Yes 
+  9 183 321 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     313                     155                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            318                                                              40 
+Unable to verify (completed online) but likely mostly computers 
+                                                            155 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      424                                                                        89 ","analysis.type
+Order 
+  513 ","subset
+all 
+513 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.274188Z,1,Huang,1,,7,Order,Huang.1,508,233,275,High,as.numeric.ignore.,233,,,,,10.9351638008672,83.4758309490976,3,13.3481984674705,54,-185.869995117188,178,363.869995117188,-0.214142860945781,2.61660557724714,5.46868351320166,Low,as.numeric.ignore.,275,,,,,-24.2085443946027,84.2394380101775,-14,-28.6136639623365,61.899993896484,-179,169,348,0.356776490969823,2.56403356714207,5.07982924418475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,10.9351638008672,-24.2085443946027,4.70488340222169,3.28219602677023e-06,506,20.4684127188074,49.8190036721323, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 4.7049, df = 506, p-value = 3.282e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 20.46841 49.81900
+sample estimates:
+mean of x mean of y 
+ 10.93516 -24.20854 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.70488340222169,2.72133345579911,6.68387975815475,508,233,275,0.41893,0.0081,0.24231,0.59514,66.23646,61.64708,0.23294,0,0.4183,0.00808,0.24195,0.59425,66.21375,61.63031,0,0.20473,0.00181,0.1201,0.28483,0,0.20766,0.00198,0.12068,0.29293,2.13795,1.55193,2.94308,0,0.75985,0.4395,1.07946,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,30,59,15,508,1,375,508,508,0,75,"Execution
+        illegal   legal 
+      7     270     231 ","SubjectPool
+     No Yes 
+  8 176 324 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     32                     309                     144                      23 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            327                                                              38 
+Unable to verify (completed online) but likely mostly computers 
+                                                            143 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      424                                                                        84 ","analysis.type
+Order 
+  508 ","subset
+all 
+508 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.403591Z,1,Huang,1,,8,Order,Huang.1,492,255,237,High,as.numeric.ignore.,255,,,,,11.8945029465096,80.11131816674,-4,12.928332445182,48,-185,171,356,-0.0262585761669673,2.65728332807019,5.01676534268636,Low,as.numeric.ignore.,237,,,,,-24.3478889303213,81.1743448684296,-15,-27.1947106165218,64,-177,171.230003356934,348.230003356934,0.275529703398057,2.40115503609219,5.27284031611381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,11.8945029465096,-24.3478889303213,4.98205518238216,8.73710627502226e-07,490,21.9491594967801,50.5356242568817, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 4.9821, df = 490, p-value = 8.737e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 21.94916 50.53562
+sample estimates:
+mean of x mean of y 
+ 11.89450 -24.34789 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.98205518238216,2.99495678823328,6.96419019528938,492,255,237,0.44952,0.00835,0.27023,0.62836,67.34709,62.47033,0.24941,0,0.44883,0.00832,0.26981,0.6274,67.32226,62.45187,0,0.21957,0.00185,0.13408,0.30011,0,0.22321,0.00204,0.13489,0.30964,2.25993,1.63254,3.12589,0,0.81533,0.49014,1.13972,0,,,,,,,,,,,,,,,,,,,,,,,,,63,63,72,29,58,15,492,1,360,492,492,0,75.2032520325203,"Execution
+        illegal   legal 
+      7     268     217 ","SubjectPool
+     No Yes 
+ 10 159 323 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     23                     300                     147                      22 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            305                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            146 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      415                                                                        77 ","analysis.type
+Order 
+  492 ","subset
+all 
+492 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.514601Z,1,Huang,1,,9,Order,Huang.1,459,228,231,High,as.numeric.ignore.,228,,,,,17.3141679596483,80.7995631491767,1.28000640869151,18.2039687115213,46.884994506836,-177.169982910156,169,346.169982910156,0.00911718213422259,2.44436591518853,5.35108179139025,Low,as.numeric.ignore.,231,,,,,-11.6196956221676,92.6377981642981,-8.76998901367199,-13.6426472844304,63.230010986328,-171,175,346,0.135088135346889,2.26182856329022,6.09511963195409,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,28.9338635818158,17.3141679596483,-11.6196956221676,3.56733950674509,0.000399299185985414,450.200305100549,12.9941983574871,44.8735288061445,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  High and Low
+t = 3.5673, df = 450.2, p-value = 0.0003993
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 12.99420 44.87353
+sample estimates:
+mean of x mean of y 
+ 17.31417 -11.61970 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.56733950674509,1.59162682455669,5.53914367299586,459,228,231,0.33303,0.00884,0.14858,0.5171,63.04424,59.30837,0.18617,0.00044,0.33248,0.00881,0.14834,0.51625,63.0236,59.29336,0.00044,0.1646,0.00207,0.07425,0.25083,0.00043,0.16611,0.00219,0.07438,0.2563,1.8295,1.30931,2.55466,0.00044,0.60404,0.2695,0.93792,0.00044,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,459,1,347,459,459,0,72.5490196078431,"Execution
+        illegal   legal 
+     10     241     208 ","SubjectPool
+     No Yes 
+  4 171 284 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     26                     283                     131                      19 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            287                                                              41 
+Unable to verify (completed online) but likely mostly computers 
+                                                            131 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      386                                                                        73 ","analysis.type
+Order 
+  459 ","subset
+all 
+459 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.629665Z,1,Huang,1,,10,Order,Huang.1,590,307,283,High,as.numeric.ignore.,307,,,,,10.0242877550156,82.3736395281934,-1,9.35375019027155,47,-180,176.229999542236,356.229999542236,0.106513791026741,2.60127353488766,4.70131192762022,Low,as.numeric.ignore.,283,,,,,-22.7981967589038,88.240377235909,-18,-26.6936992359582,68,-176,176.280002593994,352.280002593994,0.336511216978245,2.43024618298159,5.24534596835017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,10.0242877550156,-22.7981967589038,4.67278941223268,3.68682639600695e-06,588,19.0269607498784,46.6180082779605, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 4.6728, df = 588, p-value = 3.687e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 19.02696 46.61801
+sample estimates:
+mean of x mean of y 
+ 10.02429 -22.79820 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.67278941223268,2.69276934516919,6.6489054916905,590,307,283,0.38507,0.00692,0.2219,0.54792,64.99073,60.72988,0.2146,0,0.38458,0.0069,0.22162,0.54722,64.97252,60.71652,0,0.18922,0.00158,0.11037,0.26444,0,0.19153,0.0017,0.11082,0.27087,2.01061,1.49554,2.70151,0,0.69844,0.40249,0.99381,0,,,,,,,,,,,,,,,,,,,,,,,,,62,62,70,29,57,15,479,1,358,589,589,0,57.2156196943973,"Execution
+        illegal   legal 
+     13     253     323 ","SubjectPool
+     No Yes 
+ 13 278 298 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     273                     278                      17 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            289                                                              26 
+Unable to verify (completed online) but likely mostly computers 
+                                                            274 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      511                                                                        78 ","analysis.type
+Order 
+  589 ","subset
+all 
+589 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.760735Z,1,Huang,1,,11,Order,Huang.1,448,215,233,High,as.numeric.ignore.,215,,,,,6.00246667196583,82.3030093853152,-0.0999908447269888,6.86578175098219,53.099990844727,-172.169982910156,174,346.169982910156,-0.0723584669102187,2.5778027801239,5.61301865221702,Low,as.numeric.ignore.,233,,,,,-20.7933382024641,91.2409275646432,-20.769989013672,-24.7266196590768,73.230010986328,-177,172,349,0.310399118847103,2.2145305493043,5.97739190648194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.00246667196583,-20.7933382024641,3.25440695886111,0.00122274130943296,446,10.6141407907766,42.9774689580832, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 3.2544, df = 446, p-value = 0.001223
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 10.61414 42.97747
+sample estimates:
+ mean of x  mean of y 
+  6.002467 -20.793338 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.25440695886111,1.28104456227105,5.22416251481363,448,215,233,0.30776,0.00905,0.12115,0.49404,62.08679,58.61374,0.17227,0.00131,0.30724,0.00902,0.12094,0.4932,62.06709,58.59947,0.00131,0.1523,0.00213,0.06055,0.24013,0.00129,0.1535,0.00225,0.06062,0.24492,1.74755,1.24574,2.44999,0.00131,0.55822,0.21973,0.89608,0.00131,,,,,,,,,,,,,,,,,,,,,,,,,61,61,70,29,58,15,448,1,345,448,448,0,72.3214285714286,"Execution
+        illegal   legal 
+     10     221     217 ","SubjectPool
+     No Yes 
+  6 144 298 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     19                     280                     133                      16 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            276                                                              39 
+Unable to verify (completed online) but likely mostly computers 
+                                                            133 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      389                                                                        59 ","analysis.type
+Order 
+  448 ","subset
+all 
+448 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:44.908366Z,1,Huang,1,,12,Order,Huang.1,500,247,253,High,as.numeric.ignore.,247,,,,,11.1374913575266,86.7239823045778,-1.61999511718801,12.4051270605419,64.850006103516,-183.169982910156,173,356.169982910156,-0.0907352092813773,2.4235358097578,5.51811485249838,Low,as.numeric.ignore.,253,,,,,-22.2925681915325,92.7923568160073,-13,-26.0413782277277,80,-182,173,355,0.280381111291981,2.18088687815312,5.83380549006613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,11.1374913575266,-22.2925681915325,4.15970275804057,3.75318688449869e-05,498,17.6401473799758,49.2199717181425, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 4.1597, df = 498, p-value = 3.753e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 17.64015 49.21997
+sample estimates:
+mean of x mean of y 
+ 11.13749 -22.29257 
+",,,,,,,,,,,,,,,,,,,,,,,,,,4.15970275804057,2.18074182221485,6.13455595326791,500,247,253,0.37208,0.00814,0.19507,0.54873,64.50841,60.37639,0.20753,4e-05,0.37152,0.00812,0.19477,0.5479,64.48753,60.36111,4e-05,0.18324,0.00187,0.09726,0.26506,4e-05,0.18534,0.00201,0.09757,0.27155,1.9638,1.42448,2.7055,4e-05,0.67488,0.35381,0.99529,4e-05,,,,,,,,,,,,,,,,,,,,,,,,,63,63,73,30,59,15,499,1,366,499,499,0,70.3406813627255,"Execution
+        illegal   legal 
+      6     249     244 ","SubjectPool
+     No Yes 
+  8 174 317 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     29                     289                     155                      26 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            304                                                              42 
+Unable to verify (completed online) but likely mostly computers 
+                                                            153 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      411                                                                        88 ","analysis.type
+Order 
+  499 ","subset
+all 
+499 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T15:43:45.017202Z,1,Huang,1,,13,Order,Huang.1,499,274,225,High,as.numeric.ignore.,274,,,,,6.14754875923456,84.2650382695318,-1.88499450683599,7.27221939800913,59.115005493164,-182,176,358,-0.0984120501420882,2.41658555528467,5.0906371313937,Low,as.numeric.ignore.,225,,,,,-23.8802232193138,88.9612315272859,-18.769989013672,-28.2908855461596,66,-178,171,349,0.375075117799247,2.42144963891174,5.93074876848572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.14754875923456,-23.8802232193138,3.8624167906311,0.000127120584798669,497,14.7531326624022,45.3024112946946, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  High and Low
+t = 3.8624, df = 497, p-value = 0.0001271
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 14.75313 45.30241
+sample estimates:
+ mean of x  mean of y 
+  6.147549 -23.880223 
+",,,,,,,,,,,,,,,,,,,,,,,,,,3.8624167906311,1.88589190344477,5.83511140304949,499,274,225,0.34749,0.00822,0.16967,0.52497,63.58886,59.70477,0.1941,0.00014,0.34697,0.00819,0.16941,0.52418,63.56915,59.69041,0.00014,0.17071,0.00189,0.08429,0.25321,0.00014,0.1724,0.00202,0.08449,0.25884,1.87813,1.36035,2.59137,0.00014,0.63028,0.30774,0.95219,0.00014,,,,,,,,,,,,,,,,,,,,,,,,,62,62,72,29,59,15,499,1,362,499,499,0,75.5511022044088,"Execution
+        illegal   legal 
+      7     252     240 ","SubjectPool
+     No Yes 
+  6 187 306 ","Setting
+         In a classroom                In a lab        Online (at home) Other (please indicate) 
+                     21                     292                     159                      27 ","Tablet
+                                                      Computers                                                         Tablets 
+                                                            301                                                              39 
+Unable to verify (completed online) but likely mostly computers 
+                                                            159 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing)         Yes, participants completed the Critcher task on pencil and paper 
+                                                                      409                                                                        90 ","analysis.type
+Order 
+  499 ","subset
+all 
+499 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

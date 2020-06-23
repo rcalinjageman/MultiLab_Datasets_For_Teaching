@@ -1,0 +1,1085 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:21:24.466238Z,28,Gati,2,,amity,Secondary,Gati.7,59,35,24,gatiBEFOREnore,Order,35,,,,,,,,,,,,,,,,gatiAFTERnore,Order,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.163116883116883,-0.0795454545454546,-0.217854730005838,0.828320331250292,57,-0.851738817424574,0.684595960281716, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.21785, df = 57, p-value = 0.8283
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8517388  0.6845960
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.16311688                  -0.07954545 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.217854730005838,-2.17727187188508,1.74346837961007,59,35,24,-0.05774,0.07027,-0.57703,0.46206,47.69791,48.37172,-0.03257,0.82835,-0.05697,0.06842,-0.5694,0.45596,47.7283,48.39323,0.82835,-0.02884,0.01721,-0.27709,0.22501,0.82983,-0.02885,0.01786,-0.28453,0.22892,0.90057,0.35112,2.31194,0.82835,-0.10472,-1.04662,0.83809,0.82835,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,59,14,49,59,59,0,0,< table of extent 0 >,"SubjectPool
+No 
+59 ","Setting
+In a lab 
+      59 ","Tablet
+Computers 
+       59 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       59 ","analysis.type
+Secondary 
+       59 ","subset
+all 
+ 59 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:24.684195Z,28,Gati,2,,armstrong,Secondary,Gati.7,38,16,22,gatiBEFOREnore,Order,16,,,,,,,,,,,,,,,,gatiAFTERnore,Order,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,1.13636363636364,0.370661157024793,1.09152782662784,0.282292277705307,36,-0.656997489456762,2.18840244813445, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 1.0915, df = 36, p-value = 0.2823
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6569975  2.1884024
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   1.1363636                    0.3706612 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.09152782662784,-0.891907996572286,3.06009333400299,38,16,22,0.35864,0.10965,-0.29305,1.00544,64.00667,60.00957,0.20019,0.28598,0.35111,0.10509,-0.2869,0.98434,63.72483,59.8039,0.28598,0.17898,0.02532,-0.14704,0.45434,0.29156,0.18093,0.02857,-0.14811,0.49015,1.91649,0.5877,6.1945,0.28598,0.6505,-0.53153,1.82366,0.28598,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,38,14,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+In a lab 
+      38 ","Tablet
+Computers 
+       38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:24.810506Z,28,Gati,2,,aus2,Secondary,Gati.7,84,47,37,gatiBEFOREnore,Order,47,,,,,,,,,,,,,,,,gatiAFTERnore,Order,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.279690522243714,0.33955773955774,-1.46559014499418,0.146584094020574,82,-1.45978479439467,0.221288270791761, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.4656, df = 82, p-value = 0.1466
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.4597848  0.2212883
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.2796905                    0.3395577 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.46559014499418,-3.43390191419037,0.511534542428905,84,47,37,-0.32211,0.04892,-0.75471,0.11243,37.36852,40.99144,-0.18017,0.14913,-0.31915,0.04803,-0.74778,0.11139,37.4805,41.07269,0.14913,-0.15977,0.01144,-0.35457,0.0564,0.15078,-0.16115,0.01235,-0.37066,0.05646,0.55753,0.25439,1.2262,0.14913,-0.58424,-1.36889,0.20392,0.14913,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,84,15,63,84,84,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:24.948565Z,28,Gati,2,,bogota,Secondary,Gati.7,42,21,21,gatiBEFOREnore,Order,21,,,,,,,,,,,,,,,,gatiAFTERnore,Order,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.00865800865800871,0.775757575757576,-1.71380224406838,0.0943058511469761,40,-1.67173489614379,0.137535761944657, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.7138, df = 40, p-value = 0.09431
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.6717349  0.1375358
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 0.008658009                  0.775757576 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.71380224406838,-3.69888214554339,0.291908043393552,42,21,21,-0.52889,0.09857,-1.1415,0.09008,29.84406,35.42087,-0.29158,0.09985,-0.51891,0.09488,-1.11996,0.08839,30.19111,35.68371,0.09985,-0.26154,0.02117,-0.50484,0.04611,0.10229,-0.26776,0.02564,-0.55579,0.04614,0.38316,0.12613,1.1775,0.09985,-0.9593,-2.07045,0.1634,0.09985,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,42,14,32,42,42,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.102016Z,28,Gati,2,,brookcuny,Secondary,Gati.7,76,41,35,gatiBEFOREnore,Order,41,,,,,,,,,,,,,,,,gatiAFTERnore,Order,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.29179600886918,0.116623376623377,0.431060651458242,0.667677373120926,74,-0.634548894723375,0.984894159214981, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.43106, df = 74, p-value = 0.6677
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6345489  0.9848942
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.2917960                    0.1166234 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.431060651458242,-1.53158117735417,2.39079838155207,76,41,35,0.0992,0.05303,-0.35247,0.5502,53.95109,52.79614,0.05592,0.66787,0.09819,0.05195,-0.34888,0.54461,53.91104,52.76775,0.66787,0.05005,0.01327,-0.17529,0.26778,0.66992,0.05009,0.0137,-0.17712,0.27447,1.19714,0.52766,2.71274,0.66787,0.17993,-0.63931,0.99796,0.66787,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,76,15,54,76,76,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 76 ","Setting
+Online (at home) 
+              76 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.224754Z,28,Gati,2,,carleton,Secondary,Gati.7,53,23,30,gatiBEFOREnore,Order,23,,,,,,,,,,,,,,,,gatiAFTERnore,Order,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.206719367588933,0.0442424242424243,-0.401418343964174,0.689789253574626,51,-1.50607837488163,1.00415479121892, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.40142, df = 51, p-value = 0.6898
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.506078  1.004155
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.20671937                   0.04424242 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.401418343964174,-2.36096236681661,1.56204536485453,53,23,30,-0.11125,0.07693,-0.65434,0.43292,45.5708,46.86485,-0.0627,0.69001,-0.10961,0.07467,-0.64467,0.42652,45.63599,46.91109,0.69001,-0.05612,0.01911,-0.31389,0.21368,0.69284,-0.05618,0.02,-0.32486,0.21702,0.81727,0.30518,2.19291,0.69001,-0.20179,-1.18684,0.78523,0.69001,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,53,14,44,53,53,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 53 ","Setting
+Online (at home) 
+              53 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             53 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       53 ","analysis.type
+Secondary 
+       53 ","subset
+all 
+ 53 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.339897Z,28,Gati,2,,csunorthonline,Secondary,Gati.7,35,14,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.206719367588933,0.0442424242424243,-0.401418343964174,0.689789253574626,51,-1.50607837488163,1.00415479121892, Two Sample t-test,two.sided,t,TRUE,"",,,,,,,,,,,,,,,,,,,,,,,,,,-0.401418343964174,-2.36096236681661,1.56204536485453,53,23,30,-0.11125,0.07693,-0.65434,0.43292,45.5708,46.86485,-0.0627,0.69001,-0.10961,0.07467,-0.64467,0.42652,45.63599,46.91109,0.69001,-0.05612,0.01911,-0.31389,0.21368,0.69284,-0.05618,0.02,-0.32486,0.21702,0.81727,0.30518,2.19291,0.69001,-0.20179,-1.18684,0.78523,0.69001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.457474Z,28,Gati,2,,fmkbelgrade,Secondary,Gati.7,47,23,24,gatiBEFOREnore,Order,23,,,,,,,,,,,,,,,,gatiAFTERnore,Order,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.966403162055336,-0.209090909090909,-1.14512294462173,0.258212163471675,45,-2.08931348680617,0.574688980877317, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.1451, df = 45, p-value = 0.2582
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.089313  0.574689
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.9664032                   -0.2090909 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.14512294462173,-3.11297746172497,0.835244830008716,47,23,24,-0.33414,0.08633,-0.90835,0.24372,36.91361,40.66099,-0.18678,0.26147,-0.32854,0.08346,-0.89313,0.23964,37.12509,40.81469,0.26147,-0.16827,0.02053,-0.42094,0.12356,0.26576,-0.16989,0.02273,-0.44883,0.12419,0.54549,0.19252,1.55591,0.26147,-0.60607,-1.64757,0.44206,0.26147,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,47,15,38,47,47,0,0,< table of extent 0 >,"SubjectPool
+No 
+47 ","Setting
+In a lab 
+      47 ","Tablet
+Computers 
+       47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.611274Z,28,Gati,2,,georgefox,Secondary,Gati.7,48,25,23,gatiBEFOREnore,Order,25,,,,,,,,,,,,,,,,gatiAFTERnore,Order,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.0956363636363636,0.0486166007905138,-0.270749364458685,0.787795006576931,46,-1.21670666272633,0.928200733872574, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.27075, df = 46, p-value = 0.7878
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.2167067  0.9282007
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.09563636                   0.04861660 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.270749364458685,-2.23002351207223,1.69145726732617,48,25,23,-0.07823,0.08354,-0.64431,0.48871,46.88239,47.79439,-0.04411,0.78787,-0.07694,0.08083,-0.63375,0.48069,46.9334,47.83052,0.78787,-0.03989,0.02121,-0.31235,0.24198,0.79011,-0.03991,0.02222,-0.32315,0.24688,0.86772,0.31079,2.42641,0.78787,-0.14189,-1.16865,0.88641,0.78787,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,48,15,41,48,48,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 48 ","Setting
+Online (at home) 
+              48 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.711619Z,28,Gati,2,,grazvienna,Secondary,Gati.7,46,33,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.0956363636363636,0.0486166007905138,-0.270749364458685,0.787795006576931,46,-1.21670666272633,0.928200733872574, Two Sample t-test,two.sided,t,TRUE,"",,,,,,,,,,,,,,,,,,,,,,,,,,-0.270749364458685,-2.23002351207223,1.69145726732617,48,25,23,-0.07823,0.08354,-0.64431,0.48871,46.88239,47.79439,-0.04411,0.78787,-0.07694,0.08083,-0.63375,0.48069,46.9334,47.83052,0.78787,-0.03989,0.02121,-0.31235,0.24198,0.79011,-0.03991,0.02222,-0.32315,0.24688,0.86772,0.31079,2.42641,0.78787,-0.14189,-1.16865,0.88641,0.78787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.832915Z,28,Gati,2,,hawaiion,Secondary,Gati.7,54,24,30,gatiBEFOREnore,Order,24,,,,,,,,,,,,,,,,gatiAFTERnore,Order,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.795833333333333,-0.373030303030303,2.31144338547932,0.0248043582285137,52,0.154131241793007,2.18359603093427, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 2.3114, df = 52, p-value = 0.0248
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1541312 2.1835960
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.7958333                   -0.3730303 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.31144338547932,0.291435435842716,4.31031438994849,54,24,30,0.63301,0.07871,0.07981,1.18043,73.6638,67.27823,0.34556,0.02828,0.62384,0.07645,0.07866,1.16332,73.36339,67.04377,0.02828,0.30524,0.01552,0.04038,0.51306,0.0286,0.31529,0.01961,0.0404,0.56688,3.15239,1.15577,8.50845,0.02828,1.14816,0.14476,2.14106,0.02828,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,54,14,41,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:25.950939Z,28,Gati,2,,help,Secondary,Gati.7,39,20,19,gatiBEFOREnore,Order,20,,,,,,,,,,,,,,,,gatiAFTERnore,Order,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.596818181818182,0.491387559808612,0.140744418287743,0.888835317079692,37,-1.41237544296363,1.62323668698277, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.14074, df = 37, p-value = 0.8888
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.412375  1.623237
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.5968182                    0.4913876 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.140744418287743,-1.82042748390489,2.10002152192595,39,20,19,0.04509,0.10266,-0.5832,0.67277,51.79819,51.27172,0.02543,0.88885,0.04417,0.09851,-0.57129,0.65904,51.76151,51.24578,0.88885,0.02313,0.02629,-0.28671,0.32634,0.89035,0.02314,0.02778,-0.29498,0.33873,1.08522,0.34722,3.38808,0.88885,0.08178,-1.0578,1.22026,0.88885,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,39,13,30,39,39,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.108708Z,28,Gati,2,,isb,Secondary,Gati.7,68,35,33,gatiBEFOREnore,Order,35,,,,,,,,,,,,,,,,gatiAFTERnore,Order,33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.673506493506493,0.66473829201102,-2.8659830574875,0.00557219309910854,66,-2.2705224260403,-0.405967144994724, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -2.866, df = 66, p-value = 0.005572
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.2705224 -0.4059671
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.6735065                    0.6647383 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-2.8659830574875,-4.87555106999659,-0.835954480562407,68,35,33,-0.6954,0.06243,-1.18301,-0.20284,24.34011,31.1457,-0.37709,0.00701,-0.68747,0.06101,-1.16951,-0.20052,24.58928,31.34426,0.00701,-0.33268,0.0118,-0.51458,-0.10236,0.00692,-0.34584,0.01538,-0.56894,-0.10272,0.28328,0.11698,0.69218,0.00701,-1.26132,-2.14574,-0.3679,0.00701,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,68,15,54,68,68,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 68 ","Setting
+In a lab 
+      68 ","Tablet
+Computers 
+       68 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       68 ","analysis.type
+Secondary 
+       68 ","subset
+all 
+ 68 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.228210Z,28,Gati,2,,jmu,Secondary,Gati.7,40,23,17,gatiBEFOREnore,Order,23,,,,,,,,,,,,,,,,gatiAFTERnore,Order,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.464822134387352,0.296791443850267,-1.02236534190688,0.313072838155879,38,-2.26969099414906,0.746463837673826, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.0224, df = 38, p-value = 0.3131
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.2696910  0.7464638
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.4648221                    0.2967914 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.02236534190688,-2.98905557852498,0.957557397008762,40,23,17,-0.327,0.10364,-0.95604,0.30627,37.18339,40.85704,-0.18286,0.31617,-0.3205,0.09956,-0.93704,0.30019,37.42934,41.03557,0.31617,-0.16361,0.02429,-0.4363,0.1535,0.32161,-0.1651,0.02703,-0.46766,0.15472,0.5526,0.17657,1.74284,0.31617,-0.59311,-1.73406,0.55551,0.31617,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,40,14,34,40,40,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 40 ","Setting
+Online (at home) 
+              40 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.369584Z,28,Gati,2,,kenyon,Secondary,Gati.7,54,27,27,gatiBEFOREnore,Order,27,,,,,,,,,,,,,,,,gatiAFTERnore,Order,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.00202020202020189,0.0542087542087542,-0.105159729565044,0.91665366215363,52,-1.04804496930856,0.943667864931455, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.10516, df = 52, p-value = 0.9167
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.0480450  0.9436679
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 0.002020202                  0.054208754 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.105159729565044,-2.06472313021655,1.85541223130194,54,27,27,-0.02862,0.07408,-0.56195,0.50498,48.85835,49.19268,-0.01615,0.91666,-0.02821,0.07195,-0.5538,0.49766,48.87489,49.20437,0.91666,-0.01458,0.01886,-0.27526,0.24918,0.91746,-0.01458,0.01961,-0.28255,0.25454,0.94941,0.36086,2.4991,0.91666,-0.05191,-1.01926,0.91593,0.91666,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,54,15,42,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+In a lab 
+      54 ","Tablet
+Computers 
+       54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.489719Z,28,Gati,2,,krakowon,Secondary,Gati.7,55,26,29,gatiBEFOREnore,Order,26,,,,,,,,,,,,,,,,gatiAFTERnore,Order,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.318181818181818,0.557680250783699,-1.40610599136856,0.165528660615871,53,-2.12523931937362,0.373515181442588, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.4061, df = 53, p-value = 0.1655
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.1252393  0.3735152
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.3181818                    0.5576803 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.40610599136856,-3.37767713141106,0.578467140051179,55,26,29,-0.37976,0.07426,-0.91225,0.15623,35.20603,39.41443,-0.21171,0.16924,-0.37436,0.07216,-0.89928,0.15401,35.40666,39.56143,0.16924,-0.18964,0.01721,-0.42087,0.07921,0.17208,-0.19196,0.01923,-0.44875,0.07938,0.50217,0.19116,1.3276,0.16924,-0.68882,-1.65464,0.28338,0.16924,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,55,15,41,55,55,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 55 ","Setting
+Online (at home) 
+              55 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             55 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       55 ","analysis.type
+Secondary 
+       55 ","subset
+all 
+ 55 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.615898Z,28,Gati,2,,kwazulu,Secondary,Gati.7,30,14,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.318181818181818,0.557680250783699,-1.40610599136856,0.165528660615871,53,-2.12523931937362,0.373515181442588, Two Sample t-test,two.sided,t,TRUE,"",,,,,,,,,,,,,,,,,,,,,,,,,,-1.40610599136856,-3.37767713141106,0.578467140051179,55,26,29,-0.37976,0.07426,-0.91225,0.15623,35.20603,39.41443,-0.21171,0.16924,-0.37436,0.07216,-0.89928,0.15401,35.40666,39.56143,0.16924,-0.18964,0.01721,-0.42087,0.07921,0.17208,-0.19196,0.01923,-0.44875,0.07938,0.50217,0.19116,1.3276,0.16924,-0.68882,-1.65464,0.28338,0.16924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.737354Z,28,Gati,2,,louvain,Secondary,Gati.7,42,24,18,gatiBEFOREnore,Order,24,,,,,,,,,,,,,,,,gatiAFTERnore,Order,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.133712121212121,0.527777777777778,-0.903214186043409,0.371819625185972,40,-2.14167142895583,0.818691630976033, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.90321, df = 40, p-value = 0.3718
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.1416714  0.8186916
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.1337121                    0.5277778 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.903214186043409,-2.86751064026223,1.07222746743804,42,24,18,-0.28163,0.09817,-0.8941,0.33433,38.9115,42.10766,-0.15785,0.37411,-0.27631,0.0945,-0.87723,0.32802,39.11539,42.25467,0.37411,-0.14138,0.02342,-0.41293,0.16715,0.3794,-0.14233,0.02564,-0.43914,0.16873,0.60001,0.19756,1.83382,0.37411,-0.51081,-1.62172,0.6064,0.37411,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,42,15,40,42,42,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 42 ","Setting
+In a lab 
+      42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:26.882643Z,28,Gati,2,,loyola,Secondary,Gati.7,150,70,80,gatiBEFOREnore,Order,70,,,,,,,,,,,,,,,,gatiAFTERnore,Order,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0616883116883118,0.109886363636364,-0.131328043932933,0.895694162000619,148,-0.77344493563383,0.677048831737726, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.13133, df = 148, p-value = 0.8957
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7734449  0.6770488
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.06168831                   0.10988636 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.131328043932933,-2.09112739507005,1.82891458062821,150,70,80,-0.02149,0.02679,-0.34224,0.29933,49.1426,49.3937,-0.01213,0.8957,-0.02138,0.02652,-0.3405,0.29781,49.14695,49.39678,0.8957,-0.01079,0.00671,-0.16941,0.14867,0.89605,-0.01079,0.0068,-0.17105,0.14978,0.96177,0.53754,1.72102,0.8957,-0.03899,-0.62076,0.54292,0.8957,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,150,15,93,150,150,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+150 ","Setting
+In a lab 
+     150 ","Tablet
+Computers 
+      150 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      150 ","analysis.type
+Secondary 
+      150 ","subset
+all 
+150 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.003390Z,28,Gati,2,,lse,Secondary,Gati.7,48,20,28,gatiBEFOREnore,Order,20,,,,,,,,,,,,,,,,gatiAFTERnore,Order,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.513636363636364,-0.142857142857143,1.21044172723598,0.232292483881005,46,-0.435217775599747,1.74820478858676, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 1.2104, df = 46, p-value = 0.2323
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4352178  1.7482048
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.5136364                   -0.1428571 
+",,,,,,,,,,,,,,,,,,,,,,,,,,1.21044172723598,-0.771444433654786,3.1794040301239,48,20,28,0.35438,0.08702,-0.22586,0.93083,63.84733,59.89326,0.19787,0.23578,0.34857,0.08419,-0.22215,0.91557,63.62945,59.73436,0.23578,0.17569,0.01998,-0.11301,0.42445,0.23978,0.17754,0.02222,-0.1135,0.45311,1.90175,0.66388,5.41053,0.23578,0.64278,-0.40966,1.68835,0.23578,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,48,13,37,48,48,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.166795Z,28,Gati,2,,mcdanielonline,Secondary,Gati.7,69,40,29,gatiBEFOREnore,Order,40,,,,,,,,,,,,,,,,gatiAFTERnore,Order,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.0700000000000002,0.523510971786834,-1.22897620375888,0.223379711527303,67,-1.55744571215762,0.370423768583953, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.229, df = 67, p-value = 0.2234
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.5574457  0.3704238
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   -0.070000                     0.523511 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.22897620375888,-3.19538539818416,0.746489845586671,69,40,29,-0.29974,0.06013,-0.77933,0.18206,38.21892,41.60748,-0.16785,0.22587,-0.29637,0.05879,-0.77057,0.18002,38.34744,41.7004,0.22587,-0.14848,0.01406,-0.36365,0.09082,0.22854,-0.14958,0.01515,-0.38109,0.09107,0.58062,0.24328,1.39128,0.22587,-0.54366,-1.41354,0.33022,0.22587,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,69,15,52,69,69,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 69 ","Setting
+Online (at home) 
+              69 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.287800Z,28,Gati,2,,metu,Secondary,Gati.7,46,24,22,gatiBEFOREnore,Order,24,,,,,,,,,,,,,,,,gatiAFTERnore,Order,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.284848484848485,0.193801652892562,-0.880951343472095,0.383131043663841,44,-1.57366630890022,0.616366033418131, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.88095, df = 44, p-value = 0.3831
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.573666  0.616366
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.2848485                    0.1938017 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.880951343472095,-2.84454031065398,1.09253584407347,46,24,22,-0.26002,0.08786,-0.8396,0.32248,39.74225,42.70597,-0.14588,0.38511,-0.25557,0.08487,-0.82521,0.31695,39.91427,42.82964,0.38511,-0.13165,0.02146,-0.39412,0.16252,0.38992,-0.13242,0.02326,-0.41667,0.16397,0.62398,0.21808,1.79482,0.38511,-0.47163,-1.52287,0.58491,0.38511,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,46,15,37,46,46,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 46 ","Setting
+Online (at home) 
+              46 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             46 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.484319Z,28,Gati,2,,moralsense,Secondary,Gati.7,388,193,195,gatiBEFOREnore,Order,193,,,,,,,,,,,,,,,,gatiAFTERnore,Order,195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.0564766839378239,-0.0477389277389278,-0.0433904548853694,0.965412722863794,386,-0.404667085444398,0.387191573046606, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.04339, df = 386, p-value = 0.9654
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4046671  0.3871916
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.05647668                  -0.04773893 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0433904548853694,-2.00332873475085,1.9166040118487,388,193,195,-0.00441,0.01031,-0.20341,0.1946,49.82424,49.87572,-0.00249,0.96541,-0.0044,0.01027,-0.20301,0.19423,49.82458,49.87596,0.96541,-0.00221,0.00258,-0.10144,0.09709,0.96546,-0.00221,0.0026,-0.10179,0.0974,0.99204,0.69146,1.42329,0.96541,-0.00799,-0.36894,0.35297,0.96541,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,388,15,116,388,388,0,100,< table of extent 0 >,"SubjectPool
+ No 
+388 ","Setting
+Online (at home) 
+             388 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            388 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      388 ","analysis.type
+Secondary 
+      388 ","subset
+all 
+388 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.660665Z,28,Gati,2,,mturk,Secondary,Gati.7,144,77,67,gatiBEFOREnore,Order,77,,,,,,,,,,,,,,,,gatiAFTERnore,Order,67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.1271546635183,0.154545454545455,-0.792767113516203,0.429236051960548,142,-0.984135777669002,0.420735541541494, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.79277, df = 142, p-value = 0.4292
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9841358  0.4207355
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.1271547                    0.1545455 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.792767113516203,-2.75350317711403,1.17075205664429,144,77,67,-0.13245,0.02797,-0.46003,0.1956,44.73151,46.26918,-0.07462,0.42974,-0.13175,0.02768,-0.45759,0.19456,44.75923,46.28886,0.42974,-0.06638,0.00693,-0.22514,0.09778,0.4312,-0.06648,0.00709,-0.22906,0.09809,0.78644,0.43414,1.42586,0.42974,-0.24023,-0.8344,0.35477,0.42974,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,144,15,83,144,144,0,100,< table of extent 0 >,"SubjectPool
+ No 
+144 ","Setting
+Online (at home) 
+             144 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            144 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      144 ","analysis.type
+Secondary 
+      144 ","subset
+all 
+144 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.802168Z,28,Gati,2,,mturk_india,Secondary,Gati.7,145,106,39,gatiBEFOREnore,Order,106,,,,,,,,,,,,,,,,gatiAFTERnore,Order,39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.274785591766724,-0.0240093240093241,0.911650483488887,0.363487009041646,143,-0.349069139026269,0.946658970578365, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.91165, df = 143, p-value = 0.3635
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3490691  0.9466590
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.27478559                  -0.02400932 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.911650483488887,-1.05274224978021,2.87286720154298,145,106,39,0.17074,0.03518,-0.19716,0.53804,56.77846,54.80472,0.09609,0.36417,0.16984,0.03481,-0.19613,0.53521,56.74319,54.7796,0.36417,0.07602,0.00686,-0.0877,0.23359,0.36563,0.07616,0.00704,-0.08792,0.23799,1.36299,0.69935,2.65354,0.36417,0.30968,-0.35761,0.9759,0.36417,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,83,15,62,145,145,0,0,< table of extent 0 >,"SubjectPool
+ No 
+145 ","Setting
+Online (at home) 
+             145 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            145 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      145 ","analysis.type
+Secondary 
+      145 ","subset
+all 
+145 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:27.942481Z,28,Gati,2,,munichon,Secondary,Gati.7,122,59,63,gatiBEFOREnore,Order,59,,,,,,,,,,,,,,,,gatiAFTERnore,Order,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.137904468412943,0.406060606060606,-1.65546347722814,0.100443484117557,120,-1.19454601755568,0.106615868608579, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.6555, df = 120, p-value = 0.1004
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.1945460  0.1066159
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.1379045                    0.4060606 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.65546347722814,-3.62315453681933,0.319044172360567,122,59,63,-0.29992,0.03319,-0.6564,0.0578,38.21197,41.60245,-0.16795,0.10233,-0.29804,0.03278,-0.65229,0.05744,38.28363,41.65427,0.10233,-0.14943,0.0079,-0.31402,0.02911,0.10314,-0.15055,0.0084,-0.325,0.02912,0.58043,0.30404,1.11053,0.10233,-0.54399,-1.19058,0.10484,0.10233,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,83,15,62,145,145,0,0,< table of extent 0 >,"SubjectPool
+ No 
+145 ","Setting
+Online (at home) 
+             145 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            145 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      145 ","analysis.type
+Secondary 
+      145 ","subset
+all 
+145 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.093952Z,28,Gati,2,,northumbria,Secondary,Gati.7,34,18,16,gatiBEFOREnore,Order,18,,,,,,,,,,,,,,,,gatiAFTERnore,Order,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.616666666666667,-0.125568181818182,0.59698098181193,0.554720798846303,32,-1.79031301755947,3.27478271452917, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.59698, df = 32, p-value = 0.5547
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.790313  3.274783
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.6166667                   -0.1255682 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.59698098181193,-1.37300967223449,2.55773094390154,34,18,16,0.20512,0.11867,-0.47176,0.87882,58.126,55.76605,0.11532,0.55575,0.20027,0.11313,-0.46061,0.85806,57.93663,55.63076,0.55575,0.10495,0.02964,-0.23587,0.41199,0.56166,0.10534,0.03226,-0.24039,0.43801,1.4507,0.425,4.92339,0.55575,0.37204,-0.85567,1.594,0.55575,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,34,12,30,34,34,0,100,< table of extent 0 >,"SubjectPool
+No 
+34 ","Setting
+In a lab 
+      34 ","Tablet
+Computers 
+       34 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       34 ","analysis.type
+Secondary 
+       34 ","subset
+all 
+ 34 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.218973Z,28,Gati,2,,osnabruck,Secondary,Gati.7,47,26,21,gatiBEFOREnore,Order,26,,,,,,,,,,,,,,,,gatiAFTERnore,Order,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.244055944055944,0.923809523809524,-1.04569060311044,0.301288582014262,45,-1.98902611649931,0.629518956992148, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.0457, df = 45, p-value = 0.3013
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.989026  0.629519
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.2440559                    0.9238095 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.04569060311044,-3.01173221636888,0.931803810436286,47,26,21,-0.3068,0.08708,-0.88363,0.27339,37.94977,41.41273,-0.17175,0.30405,-0.30166,0.08419,-0.86882,0.2688,38.14562,41.55446,0.30405,-0.15402,0.02072,-0.40958,0.13758,0.30858,-0.15526,0.02273,-0.4351,0.13846,0.57323,0.20135,1.64192,0.30405,-0.55647,-1.60272,0.49587,0.30405,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,47,15,41,47,47,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 47 ","Setting
+In a classroom 
+            47 ","Tablet
+Computers 
+       47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.391402Z,28,Gati,2,,pascal,Secondary,Gati.7,83,41,42,gatiBEFOREnore,Order,41,,,,,,,,,,,,,,,,gatiAFTERnore,Order,42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.375831485587583,0.0101731601731603,-0.804790721700908,0.423296423618843,81,-1.34032499731471,0.56831570579322, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.80479, df = 81, p-value = 0.4233
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.3403250  0.5683157
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.37583149                   0.01017316 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.804790721700908,-2.76618606439384,1.16154588592792,83,41,42,-0.17669,0.04839,-0.6073,0.25501,42.9877,45.02868,-0.09943,0.4242,-0.17505,0.04749,-0.60166,0.25264,43.05216,45.07462,0.4242,-0.08907,0.012,-0.29379,0.128,0.42677,-0.0893,0.0125,-0.30271,0.12871,0.7258,0.33236,1.5881,0.4242,-0.32048,-1.10152,0.46254,0.4242,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,83,15,58,83,83,0,100,< table of extent 0 >,"SubjectPool
+No 
+83 ","Setting
+Online (at home) 
+              83 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.517308Z,28,Gati,2,,psualtoona,Secondary,Gati.7,85,40,45,gatiBEFOREnore,Order,40,,,,,,,,,,,,,,,,gatiAFTERnore,Order,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.156363636363636,0.0547474747474748,0.202897944743757,0.839711366818757,83,-0.894502644444556,1.09773496767688, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.2029, df = 83, p-value = 0.8397
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8945026  1.0977350
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.15636364                   0.05474747 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.202897944743757,-1.75791838187038,2.16249414044407,85,40,45,0.04409,0.04723,-0.38201,0.46992,51.75841,51.24359,0.02487,0.83973,0.04369,0.04638,-0.37855,0.46567,51.74248,51.23232,0.83973,0.02227,0.01189,-0.18946,0.23095,0.84068,0.02227,0.0122,-0.19178,0.23519,1.08326,0.50013,2.34515,0.83973,0.07997,-0.69289,0.85235,0.83973,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,85,15,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+No 
+85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.666350Z,28,Gati,2,,puc,Secondary,Gati.7,38,20,18,gatiBEFOREnore,Order,20,,,,,,,,,,,,,,,,gatiAFTERnore,Order,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.341818181818182,0.0954545454545456,-0.653637548196803,0.517498908755731,36,-1.79403412725761,0.919488672712154, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.65364, df = 36, p-value = 0.5175
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.7940341  0.9194887
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.34181818                   0.09545455 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.653637548196803,-2.61486995189753,1.31658946826688,38,20,18,-0.21236,0.10615,-0.84955,0.42775,41.59122,44.03181,-0.11936,0.51867,-0.20791,0.10174,-0.83173,0.41878,41.76507,44.1561,0.51867,-0.1083,0.0264,-0.39952,0.21433,0.52415,-0.10873,0.02857,-0.42308,0.21771,0.68033,0.21418,2.17245,0.51867,-0.38518,-1.54092,0.77585,0.51867,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,38,13,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+Online (at home) 
+              38 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.790261Z,28,Gati,2,,queensland2,Secondary,Gati.7,61,39,22,gatiBEFOREnore,Order,39,,,,,,,,,,,,,,,,gatiAFTERnore,Order,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.468997668997669,-1.00702479338843,0.999782738659115,0.321498548092125,59,-0.538796616971218,1.61485086575274, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.99978, df = 59, p-value = 0.3215
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5387966  1.6148509
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.4689977                   -1.0070248 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.999782738659115,-0.972623101936167,2.96380186238549,61,39,22,0.26658,0.07168,-0.25934,0.79026,60.51036,57.47577,0.14952,0.32346,0.26318,0.06986,-0.25603,0.78017,60.37927,57.38144,0.32346,0.12907,0.01612,-0.12562,0.35999,0.32695,0.1298,0.01724,-0.12629,0.37687,1.62178,0.62476,4.19282,0.32346,0.48352,-0.47039,1.43337,0.32346,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,61,14,51,61,61,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 61 ","Setting
+In a lab 
+      61 ","Tablet
+Computers 
+       61 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       61 ","analysis.type
+Secondary 
+       61 ","subset
+all 
+ 61 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:28.929479Z,28,Gati,2,,ritonline,Secondary,Gati.7,45,21,24,gatiBEFOREnore,Order,21,,,,,,,,,,,,,,,,gatiAFTERnore,Order,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.385281385281385,-0.0272727272727273,-0.58456056376866,0.561897958487402,43,-1.59311296132908,0.877095645311762, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.58456, df = 43, p-value = 0.5619
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.5931130  0.8770956
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.38528139                  -0.02727273 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.58456056376866,-2.54501605312518,1.38264618950599,45,21,24,-0.17467,0.08962,-0.76047,0.41314,43.06691,45.08512,-0.0983,0.56264,-0.17161,0.08651,-0.74713,0.4059,43.18735,45.17092,0.56264,-0.08879,0.02237,-0.36182,0.20632,0.56697,-0.08903,0.02381,-0.37897,0.20932,0.72846,0.25175,2.11565,0.56264,-0.31682,-1.37934,0.74936,0.56264,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,45,13,43,45,45,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 45 ","Setting
+Online (at home) 
+              45 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             45 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       45 ","analysis.type
+Secondary 
+       45 ","subset
+all 
+ 45 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.099857Z,28,Gati,2,,salford,Secondary,Gati.7,42,23,19,gatiBEFOREnore,Order,23,,,,,,,,,,,,,,,,gatiAFTERnore,Order,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.470355731225297,0.146411483253588,0.502213981401673,0.618270604863667,40,-0.979714693540808,1.62760318948423, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.50221, df = 40, p-value = 0.6183
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.9797147  1.6276032
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.4703557                    0.1464115 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.502213981401673,-1.46393701238797,2.46212632525245,42,23,19,0.15569,0.0964,-0.45384,0.7633,56.1863,54.3832,0.08766,0.6188,0.15276,0.0928,-0.44528,0.7489,56.07049,54.30082,0.6188,0.07916,0.02409,-0.22551,0.36278,0.62304,0.07932,0.02564,-0.22945,0.38008,1.32631,0.43903,3.99271,0.6188,0.2824,-0.82318,1.38447,0.6188,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,42,14,34,42,42,0,100,< table of extent 0 >,"SubjectPool
+No 
+42 ","Setting
+In a classroom 
+            42 ","Tablet
+Computers 
+       42 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       42 ","analysis.type
+Secondary 
+       42 ","subset
+all 
+ 42 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.220904Z,28,Gati,2,,seznam,Secondary,Gati.7,39,22,17,gatiBEFOREnore,Order,22,,,,,,,,,,,,,,,,gatiAFTERnore,Order,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.00702479338842962,0.0219251336898397,-0.0475253644706984,0.962350121799887,37,-1.26319872673549,1.20529887257895, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.047525, df = 37, p-value = 0.9624
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.263199  1.205299
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                -0.007024793                  0.021925134 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.0475253644706984,-2.00719908362435,1.91278829955233,39,22,17,-0.01535,0.10428,-0.64817,0.61768,49.38777,49.56708,-0.00866,0.96235,-0.01503,0.10007,-0.63494,0.60507,49.40026,49.57591,0.96235,-0.00781,0.02631,-0.31336,0.29998,0.96286,-0.00781,0.02778,-0.32427,0.3095,0.97255,0.30862,3.06592,0.96235,-0.02784,-1.17564,1.12035,0.96235,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,39,13,34,39,39,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 39 ","Setting
+In a lab 
+      39 ","Tablet
+Computers 
+       39 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       39 ","analysis.type
+Secondary 
+       39 ","subset
+all 
+ 39 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.341341Z,28,Gati,2,,seznamon,Secondary,Gati.7,54,27,27,gatiBEFOREnore,Order,27,,,,,,,,,,,,,,,,gatiAFTERnore,Order,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0208754208754207,-0.25016835016835,0.557687345923489,0.579450956953989,52,-0.704214357318842,1.24630189940638, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.55769, df = 52, p-value = 0.5795
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7042144  1.2463019
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.02087542                  -0.25016835 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.557687345923489,-1.40785789829287,2.51789862458316,54,27,27,0.15178,0.07429,-0.38317,0.68529,56.03211,54.27352,0.08547,0.57999,0.14958,0.07215,-0.37762,0.67535,55.94534,54.21182,0.57999,0.07711,0.01864,-0.19162,0.32965,0.58348,0.07726,0.01961,-0.19402,0.34244,1.31693,0.49908,3.46589,0.57999,0.2753,-0.69499,1.24297,0.57999,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,54,15,43,54,54,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 54 ","Setting
+Online (at home) 
+              54 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             54 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       54 ","analysis.type
+Secondary 
+       54 ","subset
+all 
+ 54 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.458125Z,28,Gati,2,,simmons,Secondary,Gati.7,40,21,19,gatiBEFOREnore,Order,21,,,,,,,,,,,,,,,,gatiAFTERnore,Order,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0216450216450215,-0.454545454545454,0.770261156403389,0.445907487372178,38,-0.775329495830043,1.72771044821099, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.77026, df = 38, p-value = 0.4459
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.7753295  1.7277104
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.02164502                  -0.45454545 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.770261156403389,-1.20230037897486,2.73279695217428,40,21,19,0.24388,0.10099,-0.38068,0.86527,59.63393,56.84586,0.13692,0.44757,0.23904,0.09702,-0.37311,0.84808,59.44618,56.71116,0.44757,0.12399,0.02486,-0.19143,0.40528,0.45307,0.12463,0.02703,-0.19382,0.42995,1.55637,0.50134,4.80388,0.44757,0.44235,-0.69047,1.56942,0.44757,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,40,14,35,40,40,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 40 ","Setting
+In a lab 
+      40 ","Tablet
+Computers 
+       40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.588213Z,28,Gati,2,,swps,Secondary,Gati.7,43,14,29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0216450216450215,-0.454545454545454,0.770261156403389,0.445907487372178,38,-0.775329495830043,1.72771044821099, Two Sample t-test,two.sided,t,TRUE,"",,,,,,,,,,,,,,,,,,,,,,,,,,0.770261156403389,-1.20230037897486,2.73279695217428,40,21,19,0.24388,0.10099,-0.38068,0.86527,59.63393,56.84586,0.13692,0.44757,0.23904,0.09702,-0.37311,0.84808,59.44618,56.71116,0.44757,0.12399,0.02486,-0.19143,0.40528,0.45307,0.12463,0.02703,-0.19382,0.42995,1.55637,0.50134,4.80388,0.44757,0.44235,-0.69047,1.56942,0.44757,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.729045Z,28,Gati,2,,tamucc,Secondary,Gati.7,38,22,16,gatiBEFOREnore,Order,22,,,,,,,,,,,,,,,,gatiAFTERnore,Order,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.386363636363636,0.323295454545455,0.0948479932313235,0.924961546674471,36,-1.28549172799714,1.41162809163351, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.094848, df = 36, p-value = 0.925
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.285492  1.411628
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.3863636                    0.3232955 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.0948479932313235,-1.86589378375701,2.05427732229392,38,22,16,0.03116,0.10797,-0.61307,0.67496,51.24305,50.87904,0.01758,0.92497,0.03051,0.10348,-0.6002,0.6608,51.21698,50.8606,0.92497,0.01581,0.02701,-0.29695,0.32392,0.92601,0.01581,0.02857,-0.30618,0.33602,1.05815,0.32891,3.4016,0.92497,0.05652,-1.11198,1.22425,0.92497,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,38,13,32,38,38,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 38 ","Setting
+In a lab 
+      38 ","Tablet
+Computers 
+       38 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       38 ","analysis.type
+Secondary 
+       38 ","subset
+all 
+ 38 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:29.873154Z,28,Gati,2,,tilburg,Secondary,Gati.7,50,23,27,gatiBEFOREnore,Order,23,,,,,,,,,,,,,,,,gatiAFTERnore,Order,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.590909090909091,0.0629629629629629,-1.08431217475585,0.283642790248205,48,-1.86634380247187,0.558599694727767, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -1.0843, df = 48, p-value = 0.2836
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.8663438  0.5585997
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.59090909                   0.06296296 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-1.08431217475585,-3.0506115962698,0.893121891398009,50,23,27,-0.30768,0.08146,-0.86562,0.25343,37.91645,41.38861,-0.17223,0.28642,-0.30284,0.07892,-0.85202,0.24944,38.10046,41.52179,0.28642,-0.15462,0.01944,-0.40298,0.12785,0.29058,-0.15587,0.02128,-0.4272,0.12856,0.57232,0.20803,1.58354,0.28642,-0.55806,-1.57006,0.45966,0.28642,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,50,15,38,50,50,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 50 ","Setting
+In a lab 
+      50 ","Tablet
+Computers 
+       50 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       50 ","analysis.type
+Secondary 
+       50 ","subset
+all 
+ 50 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.026072Z,28,Gati,2,,tilburgcaf,Secondary,Gati.7,40,18,22,gatiBEFOREnore,Order,18,,,,,,,,,,,,,,,,gatiAFTERnore,Order,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.316666666666667,-0.105371900826447,0.503035647825334,0.617842561065522,38,-1.27639456875151,2.12047170373774, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.50304, df = 38, p-value = 0.6178
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.276395  2.120472
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                   0.3166667                   -0.1053719 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.503035647825334,-1.46345453031451,2.46295037551071,40,18,22,0.15988,0.10133,-0.46512,0.78278,56.35103,54.50041,0.09001,0.6184,0.1567,0.09734,-0.45588,0.76723,56.22589,54.41137,0.6184,0.08133,0.0253,-0.23098,0.37103,0.62287,0.08151,0.02703,-0.23523,0.38961,1.3364,0.43015,4.13629,0.6184,0.28998,-0.84363,1.4198,0.6184,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,40,15,35,40,40,0,100,< table of extent 0 >,"SubjectPool
+No 
+40 ","Setting
+Other (please indicate) 
+                     40 ","Tablet
+Computers 
+       40 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       40 ","analysis.type
+Secondary 
+       40 ","subset
+all 
+ 40 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.162353Z,28,Gati,2,,ulatina,Secondary,Gati.7,90,42,48,gatiBEFOREnore,Order,42,,,,,,,,,,,,,,,,gatiAFTERnore,Order,48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.291125541125541,0.0962121212121211,0.384987115793018,0.701175881208205,88,-0.811222754580725,1.20104959440756, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.38499, df = 88, p-value = 0.7012
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8112228  1.2010496
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.29112554                   0.09621212 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.384987115793018,-1.57689087555018,2.34468259349658,90,42,48,0.08134,0.04468,-0.33318,0.4954,53.24156,52.29339,0.04587,0.70129,0.08065,0.04392,-0.33033,0.49117,53.21391,52.27381,0.70129,0.04101,0.0112,-0.16577,0.24248,0.70288,0.04103,0.01149,-0.16732,0.24741,1.15898,0.54645,2.45608,0.70129,0.14754,-0.60432,0.89856,0.70129,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,90,15,60,90,90,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.276580Z,28,Gati,2,,umich,Secondary,Gati.7,33,15,18,gatiBEFOREnore,Order,15,,,,,,,,,,,,,,,,gatiAFTERnore,Order,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.581212121212121,0.058080808080808,0.694355998921186,0.49263030670331,31,-1.01344840825081,2.05971103451344, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.69436, df = 31, p-value = 0.4926
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.013448  2.059711
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.58121212                   0.05808081 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.694355998921186,-1.27868659565726,2.65632874688318,33,15,18,0.24275,0.12312,-0.44703,0.92866,59.59,56.81434,0.13629,0.49419,0.23683,0.11718,-0.43613,0.90601,59.3605,56.64971,0.49419,0.12375,0.0303,-0.22383,0.4306,0.50074,0.12439,0.03333,-0.22769,0.46063,1.55317,0.44449,5.38924,0.49419,0.4403,-0.81083,1.6844,0.49419,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,33,11,32,33,33,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 33 ","Setting
+In a lab 
+      33 ","Tablet
+Computers 
+       33 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       33 ","analysis.type
+Secondary 
+       33 ","subset
+all 
+ 33 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.393962Z,28,Gati,2,,uned,Secondary,Gati.7,37,19,18,gatiBEFOREnore,Order,19,,,,,,,,,,,,,,,,gatiAFTERnore,Order,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.79043062200957,-0.634848484848485,-0.176899679588422,0.860606916499279,35,-1.94104908023136,1.62988480590919, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.1769, df = 35, p-value = 0.8606
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.941049  1.629885
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.7904306                   -0.6348485 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.176899679588422,-2.13604017553461,1.78475753871133,37,19,18,-0.05819,0.10823,-0.70258,0.58704,47.68004,48.35908,-0.03282,0.86064,-0.05693,0.10361,-0.68742,0.57437,47.73006,48.39448,0.86064,-0.02989,0.02773,-0.3396,0.28882,0.86261,-0.0299,0.02941,-0.35364,0.29728,0.89984,0.27961,2.90018,0.86064,-0.10554,-1.27434,1.06477,0.86064,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,37,15,34,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+Online (at home) 
+              37 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.544990Z,28,Gati,2,,unswonline,Secondary,Gati.7,47,27,20,gatiBEFOREnore,Order,27,,,,,,,,,,,,,,,,gatiAFTERnore,Order,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.28956228956229,0.171818181818182,-0.706145344907552,0.483737869291191,45,-1.77735313575102,0.854592192990076, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.70615, df = 45, p-value = 0.4837
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.7773531  0.8545922
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  -0.2895623                    0.1718182 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.706145344907552,-2.66760972374011,1.26310153010694,47,27,20,-0.20833,0.0875,-0.787,0.37264,41.74867,44.14438,-0.11711,0.48489,-0.20484,0.08459,-0.77381,0.3664,41.88502,44.24183,0.48489,-0.10469,0.02127,-0.36952,0.18504,0.48941,-0.10507,0.02273,-0.38787,0.1872,0.68532,0.23992,1.96579,0.48489,-0.37786,-1.42746,0.6759,0.48489,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,47,14,41,47,47,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 47 ","Setting
+Online (at home) 
+              47 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.669101Z,28,Gati,2,,vcu,Secondary,Gati.7,37,18,19,gatiBEFOREnore,Order,18,,,,,,,,,,,,,,,,gatiAFTERnore,Order,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0116161616161618,-0.14066985645933,0.198531184511141,0.843778221010385,35,-1.40493560137937,1.70950763753036, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.19853, df = 35, p-value = 0.8438
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.404936  1.709508
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.01161616                  -0.14066986 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.198531184511141,-1.76339259295226,2.15763080525586,37,18,19,0.0653,0.10824,-0.58001,0.70968,52.60326,51.84144,0.03683,0.84382,0.06389,0.10362,-0.56749,0.69437,52.54715,51.80172,0.84382,0.03354,0.02772,-0.28565,0.34263,0.84603,0.03355,0.02941,-0.29382,0.35707,1.12574,0.34923,3.62272,0.84382,0.11844,-1.05203,1.28722,0.84382,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,37,14,31,37,37,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 37 ","Setting
+In a lab 
+      37 ","Tablet
+Computers 
+       37 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       37 ","analysis.type
+Secondary 
+       37 ","subset
+all 
+ 37 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.790305Z,28,Gati,2,,vuw,Secondary,Gati.7,41,20,21,gatiBEFOREnore,Order,20,,,,,,,,,,,,,,,,gatiAFTERnore,Order,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,-0.0513636363636365,0.0679653679653681,-0.179580309786192,0.858411856444405,39,-1.46338333768367,1.22472532902566, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.17958, df = 39, p-value = 0.8584
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.463383  1.224725
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 -0.05136364                   0.06796537 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.179580309786192,-2.13879991062022,1.7819330824721,41,20,21,-0.05611,0.09766,-0.66825,0.55675,47.76278,48.41763,-0.03165,0.85844,-0.05502,0.09391,-0.65531,0.54597,47.80604,48.44824,0.85844,-0.02874,0.02496,-0.32401,0.27439,0.86024,-0.02875,0.02632,-0.33612,0.2816,0.90324,0.29758,2.74513,0.85844,-0.10177,-1.21207,1.00983,0.85844,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,41,15,35,41,41,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 41 ","Setting
+Online (at home) 
+              41 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             41 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       41 ","analysis.type
+Secondary 
+       41 ","subset
+all 
+ 41 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:30.916505Z,28,Gati,2,,westernkentucky,Secondary,Gati.7,83,46,37,gatiBEFOREnore,Order,46,,,,,,,,,,,,,,,,gatiAFTERnore,Order,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.00375494071146245,-0.271007371007371,0.655840966287892,0.513785071025206,81,-0.558809913759358,1.10833453719702, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = 0.65584, df = 81, p-value = 0.5138
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5588099  1.1083345
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                 0.003754941                 -0.271007371 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.655840966287892,-1.30873111786096,2.61638116293609,83,46,37,0.14483,0.04889,-0.28901,0.57778,55.75774,54.07844,0.08157,0.51433,0.14348,0.04799,-0.28632,0.57241,55.70463,54.04069,0.51433,0.07268,0.01207,-0.1439,0.27915,0.51676,0.07281,0.0125,-0.14491,0.28676,1.30043,0.59203,2.85186,0.51433,0.26269,-0.5242,1.04797,0.51433,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,83,15,68,83,83,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 83 ","Setting
+In a lab 
+      83 ","Tablet
+Computers 
+       83 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       83 ","analysis.type
+Secondary 
+       83 ","subset
+all 
+ 83 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:21:31.087119Z,28,Gati,2,,yale,Secondary,Gati.7,127,64,63,gatiBEFOREnore,Order,64,,,,,,,,,,,,,,,,gatiAFTERnore,Order,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,0.0289772727272726,0.0841269841269841,-0.182380463895065,0.855579608330488,125,-0.653613610042563,0.54331418724314, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Asymmetry by Order
+t = -0.18238, df = 125, p-value = 0.8556
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6536136  0.5433142
+sample estimates:
+mean in group gatiBEFOREnore  mean in group gatiAFTERnore 
+                  0.02897727                   0.08412698 
+",,,,,,,,,,,,,,,,,,,,,,,,,,-0.182380463895065,-2.14211022386703,1.77807798906209,127,64,63,-0.03237,0.0315,-0.38017,0.31557,48.70892,49.08699,-0.01826,0.85559,-0.03217,0.03112,-0.37789,0.31367,48.71668,49.09247,0.85559,-0.01631,0.00793,-0.18817,0.15706,0.85616,-0.01631,0.00806,-0.19044,0.15837,0.94298,0.5018,1.77247,0.85559,-0.05871,-0.68956,0.57238,0.85559,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,127,15,85,127,127,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+127 ","Setting
+Online (at home) 
+             127 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            127 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      127 ","analysis.type
+Secondary 
+      127 ","subset
+all 
+127 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

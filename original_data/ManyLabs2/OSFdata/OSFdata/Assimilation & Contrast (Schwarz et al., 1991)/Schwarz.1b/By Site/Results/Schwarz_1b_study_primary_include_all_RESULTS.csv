@@ -1,0 +1,1417 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:09:51.759721Z,24,Schwarz,2,,amity,Secondary,Schwarz.1b,154,79,75,r1,schw2.1,79,,,,,7.40506329113924,2.60433065046828,8,7.66153846153846,2,1,11,10,-0.87954362239614,3.17095443247005,0.293010090485266,r1,schw2.2,79,,,,,7.24050632911392,2.52279449183566,7,7.46153846153846,2,1,11,10,-0.678444064374572,3.1045241927799,0.283836555928712,r2,schw1.1,75,,,,,,7.42666666666667,2.13828254733846,7,7.52459016393443,2,1,11,10,-0.415936464510662,3.00979397230098,0.246907600861868,r2,schw1.2,75,,,,,,7.26666666666667,2.51123601166961,7,7.42622950819672,2,1,11,10,-0.469692542572378,2.53459591836735,0.289972557467227,Z.f,0.558668917673135,,,5.50002438574647,3.79738727129819e-08,79,0.385133040988178,0.694045595980433,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 5.5, n1 = 79, p-value = 3.797e-08
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3851330 0.6940456
+sample estimates:
+      cor 
+0.5586689 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,308,154,154,1.34718,0.01894,0.83465,1.92809,91.10387,82.96035,0.65921,0,,,,,,,,0.55867,0.00154,0.38513,0.69405,0,0.6309,0.00328,0.40607,0.85572,11.51341,4.54436,33.02176,0,2.44351,1.51389,3.49717,0,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,154,15,90,154,154,0,0,< table of extent 0 >,"SubjectPool
+ No 
+154 ","Setting
+In a lab 
+     154 ","Tablet
+Computers 
+      154 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      154 ","analysis.type
+Secondary 
+      154 ","subset
+all 
+154 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:51.905762Z,24,Schwarz,2,,amityon,Secondary,Schwarz.1b,46,26,20,r1,schw2.1,26,,,,,7.80769230769231,2.57711824748855,8,8,2,2,11,9,-0.326564682030494,2.44518294191572,0.505414470491545,r1,schw2.2,26,,,,,6.03846153846154,2.521599004295,6,6.04545454545455,1.5,1,11,10,-0.166245139061646,2.49377734250987,0.494526251090629,r2,schw1.1,20,,,,,,7.1,2.31471266831158,7,7.125,2,3,11,8,-0.176600235001346,2.34697642822129,0.517585487472461,r2,schw1.2,20,,,,,,7.7,3.18053289146398,8,8,3,1,11,10,-0.554664160316874,2.12744160663374,0.711188774998742,Z.f,0.35819143844542,,,1.79752369626015,0.0722525196972896,26,-0.0338581945345303,0.654705509687572,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.7975, n1 = 26, p-value = 0.07225
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.03385819  0.65470551
+sample estimates:
+      cor 
+0.3581914 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,92,46,46,0.76729,0.05043,-0.06776,1.73229,77.85467,70.62833,0.41257,0.00095,,,,,,,,0.35819,0.00835,-0.03386,0.65471,0.00064,0.37481,0.01124,-0.03387,0.78349,4.02175,0.88436,23.15077,0.00095,1.39172,-0.12289,3.14203,0.00095,,,,,,,,amityon,amityon,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amityon,1,1,1,1,1,1,46,15,37,46,46,0,0,< table of extent 0 >,"SubjectPool
+No 
+46 ","Setting
+Online (at home) 
+              46 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             46 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.009490Z,24,Schwarz,2,,armstrong,Secondary,Schwarz.1b,77,38,39,r1,schw2.1,38,,,,,7.78947368421053,3.06821450619827,9,8.09375,2,1,11,10,-0.817083101810747,2.56322422953198,0.497730117529505,r1,schw2.2,38,,,,,8.26315789473684,1.96845680435504,8,8.4375,1,3,11,8,-0.847030786877921,3.45814654531105,0.319325860236994,r2,schw1.1,39,,,,,,7.61538461538462,2.2782193487041,8,7.63636363636364,2,4,11,7,-0.0297767837103648,2.00391049963371,0.364807058271015,r2,schw1.2,39,,,,,,6.64102564102564,3.46780060350087,7,6.75757575757576,3,1,11,10,-0.322244222578033,1.87510234280892,0.555292508402762,Z.f,0.515088495479118,,,3.36998457186265,0.000751723923545944,38,0.233924343487744,0.716748330238662,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.37, n1 = 38, p-value = 0.0007517
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2339243 0.7167483
+sample estimates:
+      cor 
+0.5150885 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,154,77,77,1.20188,0.03559,0.4812,2.05569,88.52953,80.22981,0.6046,0,,,,,,,,0.51509,0.00353,0.23392,0.71675,0,0.56963,0.00662,0.23834,0.90093,8.84606,2.3936,41.62101,0,2.17997,0.8728,3.7286,0,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,77,15,58,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+In a lab 
+      77 ","Tablet
+Computers 
+       77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.140280Z,24,Schwarz,2,,aus2,Secondary,Schwarz.1b,106,52,54,r1,schw2.1,52,,,,,6.57692307692308,3.15200623224074,7,6.71428571428571,2.5,1,11,10,-0.291434883124323,2.02098071038019,0.437104618881771,r1,schw2.2,52,,,,,6.90384615384615,2.45156704894545,7,7.11904761904762,1.5,1,11,10,-0.71021303472167,3.0366856715763,0.339971180777337,r2,schw1.1,54,,,,,,7.2037037037037,2.27686999346819,7,7.29545454545455,2,1,11,10,-0.370079732238999,2.63473393645924,0.309842760813952,r2,schw1.2,54,,,,,,6.57407407407407,3.18961671472645,7.5,6.70454545454545,2.5,1,11,10,-0.42013278373822,2.03724910896965,0.434051857007345,Z.f,0.0885182705161939,,,0.621253906371252,0.534432576232823,52,-0.188946361989153,0.352893850930146,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.62125, n1 = 52, p-value = 0.5344
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1889464  0.3528939
+sample estimates:
+       cor 
+0.08851827 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,212,106,106,0.17773,0.01911,-0.38482,0.75432,57.05341,55.00062,0.10001,0.19992,,,,,,,,0.08852,0.00467,-0.18895,0.35289,0.20088,0.08875,0.00478,-0.19124,0.36875,1.3804,0.49758,3.9282,0.19992,0.32237,-0.69799,1.36818,0.19992,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,106,15,72,106,106,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+In a lab 
+     106 ","Tablet
+Computers 
+      106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.258750Z,24,Schwarz,2,,badaniaon,Secondary,Schwarz.1b,41,16,25,r1,schw2.1,16,,,,,7.125,3.46169515314872,8,7.28571428571429,2,1,11,10,-0.616513215264729,2.16346881099348,0.86542378828718,r1,schw2.2,16,,,,,7.875,1.92786583212283,8,8,1,3,11,8,-0.855830117049288,3.73860322950391,0.481966458030709,r2,schw1.1,25,,,,,,6.8,2.64575131106459,7,6.85714285714286,2,1,11,10,-0.192879187452615,2.47789115646259,0.529150262212918,r2,schw1.2,25,,,,,,7.52,3.15066130624456,8,7.76190476190476,2,1,11,10,-0.720879715571802,2.25139076757651,0.630132261248912,Z.f,0.551919065970819,,,2.23954072345519,0.0251207546906915,16,0.0773856031583545,0.822576366992605,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.2395, n1 = 16, p-value = 0.02512
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.0773856 0.8225764
+sample estimates:
+      cor 
+0.5519191 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,82,41,41,1.32371,0.07101,0.15524,2.89306,90.72002,82.53644,0.65073,0,,,,,,,,0.55192,0.00597,0.07739,0.82258,0,0.62114,0.01266,0.07754,1.16473,11.03358,1.32521,190.07763,0,2.40094,0.28157,5.24743,0,,,,,,,,badaniaon,badaniaon,badania.net,"Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,badaniaon,1,1,1,1,1,1,41,15,38,41,41,0,100,< table of extent 0 >,"SubjectPool
+No 
+41 ","Setting
+Online (at home) 
+              41 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             41 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       41 ","analysis.type
+Secondary 
+       41 ","subset
+all 
+ 41 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.364270Z,24,Schwarz,2,,bogota,Secondary,Schwarz.1b,100,53,47,r1,schw2.1,53,,,,,6.64150943396226,2.95540144105567,6,6.81395348837209,2,1,11,10,-0.389663420804423,2.26991095921276,0.405955608638174,r1,schw2.2,53,,,,,7.9811320754717,2.38980660657636,8,8.2093023255814,1,1,11,10,-0.771250862758811,3.26147188509596,0.328265183207631,r2,schw1.1,47,,,,,,8.08510638297872,2.50937188775305,8,8.30769230769231,2,2,11,9,-0.689739814623426,2.47498673202339,0.366029509072155,r2,schw1.2,47,,,,,,7,2.67028739700593,7,7.12820512820513,2,1,11,10,-0.263131602357115,2.42898572278406,0.389501448461205,Z.f,0.372048937919242,,,2.76336707790704,0.00572083881825769,53,0.113131961752472,0.583649483705763,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.7634, n1 = 53, p-value = 0.005721
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1131320 0.5836495
+sample estimates:
+      cor 
+0.3720489 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,200,100,100,0.80165,0.02333,0.22773,1.43755,78.8621,71.45916,0.42918,0,,,,,,,,0.37205,0.00373,0.11313,0.58365,0,0.3908,0.00508,0.11362,0.66798,4.2803,1.51142,13.56411,0,1.45402,0.41305,2.60743,0,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,100,15,64,100,100,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+100 ","Setting
+In a lab 
+     100 ","Tablet
+Computers 
+      100 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      100 ","analysis.type
+Secondary 
+      100 ","subset
+all 
+100 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.509163Z,24,Schwarz,2,,brookcuny,Secondary,Schwarz.1b,167,85,82,r1,schw2.1,85,,,,,6.78823529411765,2.82882323526207,7,6.92753623188406,2,1,11,10,-0.313262869368953,2.2900667160849,0.306828959756726,r1,schw2.2,85,,,,,7.2,2.46306042692149,8,7.39130434782609,1,1,11,10,-0.635886236289203,2.55868918029716,0.267156413023547,r2,schw1.1,82,,,,,,7.09756097560976,2.36543920228208,7.5,7.27272727272727,1.5,1,11,10,-0.691432648080894,2.98750020287252,0.261219060945277,r2,schw1.2,82,,,,,,6.76829268292683,2.97437110476058,7,6.93939393939394,2,1,11,10,-0.331316232645738,2.30639334287898,0.328464340211638,Z.f,0.337618920570398,,,3.18208655342349,0.00146218114416574,85,0.134147374803642,0.51377450164663,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.1821, n1 = 85, p-value = 0.001462
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1341474 0.5137745
+sample estimates:
+      cor 
+0.3376189 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,334,167,167,0.71736,0.01356,0.27074,1.19771,76.34237,69.40101,0.38802,0,,,,,,,,0.33762,0.00236,0.13415,0.51377,0,0.3514,0.00302,0.13496,0.56784,3.6735,1.63407,8.77944,0,1.30115,0.49107,2.17241,0,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,167,15,85,167,167,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+167 ","Setting
+Online (at home) 
+             167 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            167 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      167 ","analysis.type
+Secondary 
+      167 ","subset
+all 
+167 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.645969Z,24,Schwarz,2,,carleton,Secondary,Schwarz.1b,112,62,50,r1,schw2.1,62,,,,,8.12903225806452,2.57658988618005,9,8.42,2,1,11,10,-0.851117059022089,3.21350615111715,0.327227242772272,r1,schw2.2,62,,,,,7.96774193548387,2.0563196627134,8,8.12,1,3,11,8,-0.663437404528655,2.74663907741765,0.261152858317591,r2,schw1.1,50,,,,,,7.72,2.12890697259396,8,7.85,1,3,11,8,-0.526359617538135,2.88456583394929,0.301072911367303,r2,schw1.2,50,,,,,,7.82,2.54502315453963,8,8.025,2,1,11,10,-0.554416475772106,2.52459688489984,0.35992062617035,Z.f,0.474195660752636,,,3.95939497690518,7.51398782925516e-05,62,0.254579612210604,0.647298480117386,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.9594, n1 = 62, p-value = 7.514e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2545796 0.6472985
+sample estimates:
+      cor 
+0.4741957 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,224,112,112,1.0772,0.02314,0.52651,1.69842,85.93054,77.68799,0.55376,0,,,,,,,,0.4742,0.00269,0.25458,0.6473,0,0.51547,0.00452,0.2603,0.77063,7.05567,2.59861,21.77126,0,1.95383,0.95498,3.08059,0,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,112,15,73,112,112,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+112 ","Setting
+Online (at home) 
+             112 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.750781Z,24,Schwarz,2,,cas,Secondary,Schwarz.1b,46,26,20,r1,schw2.1,26,,,,,7.69230769230769,1.99537927761578,8,7.77272727272727,1,3,11,8,-0.366404577885907,2.97421937894312,0.391326072060828,r1,schw2.2,26,,,,,7.03846153846154,2.19965032186062,7.5,7.22727272727273,1.5,2,11,9,-0.71657412462425,3.14289782909254,0.431386919778768,r2,schw1.1,20,,,,,,7.5,2.13984751055328,8,7.625,1,3,11,8,-0.644795474411379,2.5743162901308,0.478484449508082,r2,schw1.2,20,,,,,,8.35,2.66112362496905,8.5,8.6875,2,1,11,10,-1.05772962919043,3.88715471324167,0.595045332196145,Z.f,0.422020964821255,,,2.15883578318029,0.0308629093091688,26,0.041443884139482,0.6956539139085,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.1588, n1 = 26, p-value = 0.03086
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.04144388 0.69565391
+sample estimates:
+     cor 
+0.422021 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,92,46,46,0.93101,0.05348,0.08296,1.93674,82.40762,74.48352,0.48967,0.00012,,,,,,,,0.42202,0.00742,0.04144,0.69565,5e-05,0.45015,0.01124,0.04147,0.85883,5.41227,1.16238,33.54384,0.00012,1.68867,0.15047,3.51285,0.00012,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate2_Simplified_Chinese_Mainland_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,cas,1,1,1,1,1,1,46,15,40,46,46,0,0,< table of extent 0 >,"SubjectPool
+No 
+46 ","Setting
+In a lab 
+      46 ","Tablet
+Computers 
+       46 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       46 ","analysis.type
+Secondary 
+       46 ","subset
+all 
+ 46 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.886332Z,24,Schwarz,2,,csunorthonline,Secondary,Schwarz.1b,87,37,50,r1,schw2.1,37,,,,,7.02702702702703,2.92960450958531,7,7.2258064516129,2,1,11,10,-0.57126166895188,2.60096298874508,0.481624014581033,r1,schw2.2,37,,,,,7.83783783783784,2.21752506579236,8,7.87096774193548,2,4,11,7,-0.0715895825924195,1.68604687372531,0.36455887514051,r2,schw1.1,50,,,,,,8.14,1.91673617146972,8.5,8.25,1.5,4,11,7,-0.517431039110102,2.58397509708984,0.271067428918356,r2,schw1.2,50,,,,,,7.78,3.0658753785395,9,8.125,2,1,11,10,-0.674220174750905,2.37673990006627,0.43358025408763,Z.f,0.462482523867586,,,2.91818546346213,0.00352074874980279,37,0.162870128703602,0.684001722992465,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.9182, n1 = 37, p-value = 0.003521
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1628701 0.6840017
+sample estimates:
+      cor 
+0.4624825 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,174,87,87,1.04324,0.02941,0.33015,1.87531,85.15811,76.96459,0.53929,0,,,,,,,,0.46248,0.00357,0.16287,0.684,0,0.50046,0.00585,0.16433,0.8366,6.63412,1.81998,30.00728,0,1.89223,0.59882,3.40144,0,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,87,15,60,87,87,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+Online (at home) 
+              87 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:52.997296Z,24,Schwarz,2,,fmkbelgrade,Secondary,Schwarz.1b,95,47,48,r1,schw2.1,47,,,,,7.93617021276596,3.31271762415004,9,8.33333333333333,2,1,11,10,-0.882688867450661,2.45443274384438,0.483209528081571,r1,schw2.2,47,,,,,8.21276595744681,1.9103399448535,9,8.33333333333333,1,4,11,7,-0.685882279581966,2.6776304413827,0.278651719814144,r2,schw1.1,48,,,,,,7.95833333333333,2.16311766073517,8,8.175,1,1,11,10,-1.13125022405283,4.61800152520253,0.312219140928571,r2,schw1.2,48,,,,,,6.625,3.44330988711783,7,6.75,3,1,11,10,-0.294182800691517,1.74160808189128,0.496998972557695,Z.f,0.287311016841271,,,1.96100655204952,0.0498782585855766,47,0.000157172964501972,0.530692419575994,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.961, n1 = 47, p-value = 0.04988
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.000157173 0.530692420
+sample estimates:
+     cor 
+0.287311 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,190,95,95,0.59992,0.02307,0.00031,1.25228,72.57189,66.42917,0.32858,0.00011,,,,,,,,0.28731,0.00445,0.00016,0.53069,8e-05,0.29563,0.00535,0.00016,0.59111,2.96871,1.00057,9.69275,0.00011,1.08813,0.00057,2.27138,0.00011,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,95,15,62,95,95,0,0,< table of extent 0 >,"SubjectPool
+No 
+95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.128263Z,24,Schwarz,2,,georgefox,Secondary,Schwarz.1b,130,71,59,r1,schw2.1,71,,,,,7.09859154929578,2.90396246324355,7,7.33333333333333,2,1,11,10,-0.405180370162146,2.50379516807974,0.344636938746089,r1,schw2.2,71,,,,,7.88732394366197,1.79323566911601,8,8,1,4,11,7,-0.428662341425188,2.26917877249623,0.212817920092586,r2,schw1.1,59,,,,,,7.66101694915254,2.20977584673451,8,7.75510204081633,1,3,11,8,-0.46360778329926,2.4389421185349,0.287688310998094,r2,schw1.2,59,,,,,,7.01694915254237,3.38603381770049,8,7.22448979591837,2,1,11,10,-0.514587790176415,2.0458742597762,0.440824055270668,Z.f,0.394455892377091,,,3.43921504908155,0.000583403597933074,71,0.177485830063435,0.57485669570585,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.4392, n1 = 71, p-value = 0.0005834
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1774858 0.5748567
+sample estimates:
+      cor 
+0.3944559 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,260,130,130,0.85853,0.01829,0.3607,1.40508,80.46988,72.80975,0.45619,0,,,,,,,,0.39446,0.00275,0.17749,0.57486,0,0.41707,0.00389,0.17939,0.65475,4.74548,1.92367,12.78836,0,1.55719,0.65423,2.54854,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,130,15,87,130,130,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+130 ","Setting
+Online (at home) 
+             130 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            130 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      130 ","analysis.type
+Secondary 
+      130 ","subset
+all 
+130 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.239583Z,24,Schwarz,2,,grazvienna,Secondary,Schwarz.1b,89,46,43,r1,schw2.1,46,,,,,8.04347826086957,2.6243011492089,9,8.3421052631579,2,1,11,10,-0.935370421246925,3.37618846527376,0.386932094978904,r1,schw2.2,46,,,,,8.1304347826087,1.88100086422302,8,8.23684210526316,1,2,11,9,-0.777829099143899,4.11537418707669,0.277338446950093,r2,schw1.1,43,,,,,,7.69767441860465,2.29424625780949,8,7.88571428571429,2,2,11,9,-0.641002780502786,2.73708679855778,0.349869274306876,r2,schw1.2,43,,,,,,7.46511627906977,3.38307297057756,9,7.8,2,1,11,10,-0.732365037386244,2.1173267807126,0.515913791343956,Z.f,0.557047052062468,,,4.1216217183393,3.76214606241376e-05,46,0.318205994187994,0.729394889501274,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 4.1216, n1 = 46, p-value = 3.762e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3182060 0.7293949
+sample estimates:
+      cor 
+0.5570471 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,178,89,89,1.3415,0.03277,0.67131,2.13244,91.01217,82.85847,0.65717,0,,,,,,,,0.55705,0.00269,0.31821,0.72939,0,0.62854,0.00571,0.32965,0.92743,11.39552,3.37911,47.83825,0,2.43322,1.21761,3.86783,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,130,15,87,130,130,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+130 ","Setting
+Online (at home) 
+             130 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            130 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      130 ","analysis.type
+Secondary 
+      130 ","subset
+all 
+130 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.354249Z,24,Schwarz,2,,hawaiion,Secondary,Schwarz.1b,117,71,46,r1,schw2.1,71,,,,,7.59154929577465,2.74942832909333,7,7.80701754385965,2,1,11,10,-0.398562990780647,2.35631265183706,0.326297111148653,r1,schw2.2,71,,,,,7.54929577464789,2.19602714265275,8,7.70175438596491,2,2,11,9,-0.482355240112358,2.66504250744428,0.260620473379614,r2,schw1.1,46,,,,,,7.32608695652174,2.46805679590768,7.5,7.5,1.5,1,11,10,-0.748360998254526,3.17423886691632,0.363895121890016,r2,schw1.2,46,,,,,,6.19565217391304,3.06680844032715,6,6.21052631578947,3,1,11,10,-0.0278604809545013,1.98957297237073,0.452176235594184,Z.f,0.399693926425114,,,3.49049431323798,0.000482127873687732,71,0.183501745846517,0.579005361061129,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.4905, n1 = 71, p-value = 0.0004821
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1835017 0.5790054
+sample estimates:
+      cor 
+0.3996939 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,234,117,117,0.87208,0.02043,0.37334,1.42031,80.84167,73.12676,0.46254,0,,,,,,,,0.39969,0.00303,0.1835,0.57901,0,0.42328,0.00433,0.1856,0.66097,4.86357,1.9683,13.14647,0,1.58177,0.67717,2.57615,0,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,117,15,70,117,117,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+117 ","Setting
+Online (at home) 
+             117 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            117 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      117 ","analysis.type
+Secondary 
+      117 ","subset
+all 
+117 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.471736Z,24,Schwarz,2,,help,Secondary,Schwarz.1b,89,41,48,r1,schw2.1,41,,,,,6.97560975609756,2.05533214928936,6,6.87878787878788,1,2,11,9,0.31298048830412,2.73814997146499,0.320988953685114,r1,schw2.2,41,,,,,7.51219512195122,1.79055789098694,8,7.60606060606061,1,3,11,8,-0.562438350515651,2.91092383125802,0.27963816171476,r2,schw1.1,48,,,,,,7.54166666666667,1.64973670798517,8,7.625,1,2,11,9,-0.849985043634626,4.67380704304555,0.238118983111812,r2,schw1.2,48,,,,,,6.25,2.82466341433016,6,6.325,2,1,11,10,-0.206076024806381,2.35424,0.407705045658401,Z.f,-0.0168999702994816,,,-0.104188333361222,0.917019892212062,41,-0.322871713234323,0.292270069076837,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -0.10419, n1 = 41, p-value = 0.917
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3228717  0.2922701
+sample estimates:
+        cor 
+-0.01689997 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,178,89,89,-0.0338,0.02261,-0.68228,0.61123,48.65164,49.04648,-0.01907,0.82236,,,,,,,,-0.0169,0.00565,-0.32287,0.29227,0.82334,-0.0169,0.00571,-0.33485,0.30105,0.94053,0.2901,3.03025,0.82236,-0.06132,-1.23753,1.10865,0.82236,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,89,15,64,89,89,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.586769Z,24,Schwarz,2,,isb,Secondary,Schwarz.1b,131,59,72,r1,schw2.1,59,,,,,7.01694915254237,3.17583290961344,7,7.22448979591837,2,1,11,10,-0.43254423735024,2.28651861445981,0.413458227959635,r1,schw2.2,59,,,,,7.38983050847458,2.94792123808451,8,7.6530612244898,2,1,11,10,-0.667902744260198,2.57838633379529,0.383786655643465,r2,schw1.1,72,,,,,,7.91666666666667,2.3361820303378,8,8.06896551724138,2,1,11,10,-0.552952581465658,2.95283912591051,0.275321692623002,r2,schw1.2,72,,,,,,7.11111111111111,3.16919839491845,7.5,7.36206896551724,2.5,1,11,10,-0.482034820844545,2.1529410359478,0.37349361266206,Z.f,0.317881215294137,,,2.46416864458724,0.0137331478027027,59,0.0672754095604958,0.53075781724566,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.4642, n1 = 59, p-value = 0.01373
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.06727541 0.53075782
+sample estimates:
+      cor 
+0.3178812 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,262,131,131,0.67054,0.01705,0.13486,1.25249,74.87442,68.2302,0.3646,0,,,,,,,,0.31788,0.0031,0.06728,0.53076,0,0.32929,0.00386,0.06738,0.5912,3.37444,1.27711,9.69652,0,1.21623,0.2446,2.27177,0,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,131,15,79,131,131,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+131 ","Setting
+In a lab 
+     131 ","Tablet
+Computers 
+      131 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      131 ","analysis.type
+Secondary 
+      131 ","subset
+all 
+131 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.677411Z,24,Schwarz,2,,jmu,Secondary,Schwarz.1b,86,48,38,r1,schw2.1,48,,,,,6.6875,2.90382176640782,6,6.825,2,1,11,10,-0.317879967981508,2.21622458816382,0.419130569628562,r1,schw2.2,48,,,,,8,2.26912674176935,8,8.1,2,4,11,7,-0.474807177789677,2.11624889010314,0.327520233796478,r2,schw1.1,38,,,,,,8.42105263157895,1.92608802452955,8,8.5625,1,4,11,7,-0.476165538611579,2.73892035831232,0.312452736562126,r2,schw1.2,38,,,,,,7.55263157894737,3.12528803793457,8,7.84375,2,1,11,10,-0.680633789012159,2.47310343473108,0.506988666956718,Z.f,0.258323204065521,,,1.77305128446624,0.076220209247154,48,-0.0278560917703309,0.505364837854947,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.7731, n1 = 48, p-value = 0.07622
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.02785609  0.50536484
+sample estimates:
+      cor 
+0.2583232 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,172,86,86,0.5348,0.02506,-0.05573,1.17131,70.36053,64.73439,0.29469,9e-04,,,,,,,,0.25832,0.00509,-0.02786,0.50536,0.00074,0.26431,0.00592,-0.02786,0.55649,2.63799,0.90385,8.36888,9e-04,0.97002,-0.10109,2.12452,9e-04,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,86,15,66,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.795547Z,24,Schwarz,2,,jos,Secondary,Schwarz.1b,86,45,41,r1,schw2.1,45,,,,,7.53333333333333,2.26233989890596,8,7.78378378378378,1,1,11,10,-1.12179848206536,4.29073663355091,0.337249720144248,r1,schw2.2,45,,,,,8.55555555555556,1.51590890160979,8,8.5945945945946,1,5,11,6,-0.0873207986220546,2.48640260838063,0.225978356779769,r2,schw1.1,41,,,,,,8.19512195121951,2.12390574408473,9,8.42424242424242,1,1,11,10,-1.30484631367859,5.25652699366151,0.331698349950531,r2,schw1.2,41,,,,,,7.5609756097561,2.51046589787439,8,7.78787878787879,1,1,11,10,-0.826245368775019,3.10172454746523,0.3920689033641,Z.f,-0.0751058953515741,,,-0.487660162767815,0.625790573563021,45,-0.360688032932184,0.223352064546585,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -0.48766, n1 = 45, p-value = 0.6258
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3606880  0.2233521
+sample estimates:
+       cor 
+-0.0751059 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,172,86,86,-0.15064,0.02352,-0.77344,0.45828,44.01309,45.75862,-0.08483,0.32742,,,,,,,,-0.07511,0.00578,-0.36069,0.22335,0.32935,-0.07525,0.00592,-0.37768,0.22718,0.76092,0.24589,2.29614,0.32742,-0.27323,-1.40286,0.83123,0.32742,,,,,,,,jos,jos,"University of Jos, Jos, Nigeria","Haruna Karick, Zubairu K. Dagona, Joshua C. Gandi, Evans Binan",ML2_Slate2_NigeriaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Nigeria,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jos,1,1,1,1,1,1,86,15,65,86,86,0,0,< table of extent 0 >,"SubjectPool
+No 
+86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.886371Z,24,Schwarz,2,,kenyon,Secondary,Schwarz.1b,98,49,49,r1,schw2.1,49,,,,,7.18367346938776,2.44671096736479,7,7.26829268292683,2,2,11,9,-0.292648469063923,2.25533640963972,0.349530138194969,r1,schw2.2,49,,,,,8.16326530612245,1.77185094810848,8,8.29268292682927,1,3,11,8,-0.749323143864948,3.55855960414542,0.253121564015497,r2,schw1.1,49,,,,,,8.38775510204082,1.60489260454052,8,8.4390243902439,1,4,11,7,-0.191841903817568,2.97748140812468,0.229270372077217,r2,schw1.2,49,,,,,,6.89795918367347,2.60003924617161,7,6.92682926829268,2,2,11,9,0.0339934828761221,1.99562995134686,0.371434178024516,Z.f,0.502333801928099,,,3.74671330827314,0.000179166654898699,49,0.257511951054922,0.68655181930288,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.7467, n1 = 49, p-value = 0.0001792
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2575120 0.6865518
+sample estimates:
+      cor 
+0.5023338 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,196,98,98,1.1619,0.02744,0.533,1.88852,87.73627,79.43448,0.58869,0,,,,,,,,0.50233,0.00287,0.25751,0.68655,0,0.55242,0.00518,0.26344,0.8414,8.22732,2.62939,30.73458,0,2.10746,0.96675,3.42539,0,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,98,15,65,98,98,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 98 ","Setting
+In a lab 
+      98 ","Tablet
+Computers 
+       98 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       98 ","analysis.type
+Secondary 
+       98 ","subset
+all 
+ 98 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:53.988785Z,24,Schwarz,2,,krakowon,Secondary,Schwarz.1b,92,41,51,r1,schw2.1,41,,,,,6.87804878048781,3.47271595405685,8,7.09090909090909,2,1,11,10,-0.534519089423208,1.92129046103732,0.542347114515638,r1,schw2.2,41,,,,,6.92682926829268,2.35998139719828,8,7.09090909090909,1,1,11,10,-0.651023767150877,2.73345619407974,0.368567172787584,r2,schw1.1,51,,,,,,7.25490196078431,2.1894578073569,8,7.36585365853659,1,1,11,10,-0.594932049638226,3.08624858338073,0.30658541624615,r2,schw1.2,51,,,,,,6.58823529411765,3.82191821256413,7,6.73170731707317,3,1,11,10,-0.400614987092238,1.63329688911547,0.535175595583748,Z.f,0.627274162681616,,,4.54261361434916,5.55610340313706e-06,41,0.396054848158786,0.783687644681983,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 4.5426, n1 = 41, p-value = 5.556e-06
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3960548 0.7836876
+sample estimates:
+      cor 
+0.6272742 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,184,92,92,1.61088,0.03604,0.86265,2.52332,94.63967,87.26613,0.74532,0,,,,,,,,0.62727,0.00201,0.39605,0.78369,0,0.73691,0.00552,0.41896,1.05486,18.57482,4.78113,97.20309,0,2.92181,1.56468,4.5768,0,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,92,15,65,92,92,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 92 ","Setting
+Online (at home) 
+              92 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             92 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       92 ","analysis.type
+Secondary 
+       92 ","subset
+all 
+ 92 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.129591Z,24,Schwarz,2,,kwazulu,Secondary,Schwarz.1b,76,37,39,r1,schw2.1,37,,,,,6.18918918918919,3.78474891166169,6,6.2258064516129,4,1,11,10,-0.176574137950453,1.62673552602086,0.622208888282235,r1,schw2.2,37,,,,,6.81081081081081,3.01696902571142,7,6.96774193548387,2,1,11,10,-0.376123076103422,2.25540573210227,0.495986652558588,r2,schw1.1,39,,,,,,6.66666666666667,2.59892015362386,7,6.75757575757576,2,1,11,10,-0.311169129636563,2.68310001686625,0.416160286086623,r2,schw1.2,39,,,,,,6.05128205128205,3.4178226213461,6,6.06060606060606,3,1,11,10,0.0318531558853162,1.67824258749287,0.547289626389415,Z.f,0.212434382664079,,,1.25784948245649,0.208446196345733,37,-0.11983305105467,0.501905805786097,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.2578, n1 = 37, p-value = 0.2084
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1198331  0.5019058
+sample estimates:
+      cor 
+0.2124344 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,152,76,76,0.43479,0.02774,-0.24141,1.16058,66.81436,62.07476,0.2415,0.00995,,,,,,,,0.21243,0.00604,-0.11983,0.50191,0.00934,0.21572,0.00671,-0.12041,0.55185,2.20037,0.64542,8.20759,0.00995,0.78863,-0.43786,2.10506,0.00995,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,76,15,52,76,76,0,0,< table of extent 0 >,"SubjectPool
+No 
+76 ","Setting
+In a lab 
+      76 ","Tablet
+Computers 
+       76 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       76 ","analysis.type
+Secondary 
+       76 ","subset
+all 
+ 76 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.230310Z,24,Schwarz,2,,louvain,Secondary,Schwarz.1b,93,44,49,r1,schw2.1,44,,,,,7.43181818181818,2.6448521941621,8,7.72222222222222,2,1,11,10,-0.971699516078669,3.37639650221669,0.398726470635631,r1,schw2.2,44,,,,,7.93181818181818,2.05049883066181,9,8.16666666666667,1,2,11,9,-1.16786888325847,3.81111832309412,0.309124329743987,r2,schw1.1,49,,,,,,8.30612244897959,1.4024395654337,8,8.31707317073171,1,4,11,7,-0.283165288632441,4.19429037813116,0.200348509347672,r2,schw1.2,49,,,,,,7.51020408163265,2.15176719019887,8,7.5609756097561,2,3,11,8,-0.261303023552974,2.02870918045974,0.307395312885552,Z.f,0.438658902923786,,,3.01311146281857,0.00258583923245026,44,0.163006777497528,0.650787700384724,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.0131, n1 = 44, p-value = 0.002586
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1630068 0.6507877
+sample estimates:
+      cor 
+0.4386589 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,186,93,93,0.97626,0.02677,0.33043,1.71427,83.55317,75.50031,0.51001,0,,,,,,,,0.43866,0.00353,0.16301,0.65079,0,0.47057,0.00546,0.16447,0.77666,5.87518,1.82092,22.40625,0,1.77074,0.59934,3.10934,0,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,93,15,67,93,93,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 93 ","Setting
+In a lab 
+      93 ","Tablet
+Computers 
+       93 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       93 ","analysis.type
+Secondary 
+       93 ","subset
+all 
+ 93 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.353169Z,24,Schwarz,2,,loyola,Secondary,Schwarz.1b,286,144,142,r1,schw2.1,144,,,,,6.75,3.13004836978645,7,6.93103448275862,2,1,11,10,-0.423575138845347,2.16169086932399,0.260837364148871,r1,schw2.2,144,,,,,7.57638888888889,2.14045240989762,8,7.69827586206897,1,1,11,10,-0.530573108190025,2.95042667457772,0.178371034158135,r2,schw1.1,142,,,,,,7.47887323943662,2.07216715918163,8,7.67543859649123,1,1,11,10,-0.817008843308487,3.40360546775365,0.173892405125983,r2,schw1.2,142,,,,,,6.32394366197183,3.30816590306375,6,6.40350877192982,3,1,11,10,-0.136914278585402,1.78829152915555,0.277615115600383,Z.f,0.426643470055578,,,5.41215888807778,6.22693978602484e-08,144,0.282804042532396,0.551715914347339,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 5.4122, n1 = 144, p-value = 6.227e-08
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2828040 0.5517159
+sample estimates:
+      cor 
+0.4266435 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,572,286,286,0.94346,0.00856,0.58968,1.32301,82.7278,74.76552,0.49531,0,,,,,,,,0.42664,0.00117,0.2828,0.55172,0,0.45579,0.00176,0.29073,0.62084,5.53589,2.9141,11.01957,0,1.71125,1.06956,2.39967,0,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,286,15,112,286,286,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+286 ","Setting
+In a lab 
+     286 ","Tablet
+Computers 
+      286 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      286 ","analysis.type
+Secondary 
+      286 ","subset
+all 
+286 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.466450Z,24,Schwarz,2,,lse,Secondary,Schwarz.1b,106,53,53,r1,schw2.1,53,,,,,6.07547169811321,3.14305740790332,6,6.11627906976744,3,1,11,10,-0.0965009023140181,1.8178501215417,0.431732138072704,r1,schw2.2,53,,,,,7.60377358490566,1.79035474183094,8,7.7906976744186,1,3,11,8,-0.932299314131872,3.45663337705304,0.245924137006107,r2,schw1.1,53,,,,,,8.0377358490566,1.61676629002919,8,8.13953488372093,1,3,11,8,-0.612796367917778,3.26733466909154,0.222079929371639,r2,schw1.2,53,,,,,,5.84905660377359,3.24272099902283,6,5.81395348837209,2,1,11,10,-0.157271208643913,2.0326376440095,0.445421985154032,Z.f,0.0430085911439748,,,0.304304384999012,0.76089600473051,53,-0.229958478030743,0.309702129475612,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.3043, n1 = 53, p-value = 0.7609
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2299585  0.3097021
+sample estimates:
+       cor 
+0.04300859 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,212,106,106,0.0861,0.01899,-0.47258,0.65143,53.43053,52.42725,0.04854,0.53282,,,,,,,,0.04301,0.00472,-0.22996,0.3097,0.53451,0.04304,0.00478,-0.23415,0.32022,1.16902,0.42436,3.25948,0.53282,0.15616,-0.85717,1.18157,0.53282,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,106,15,64,106,106,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+In a lab 
+     106 ","Tablet
+Computers 
+      106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.566535Z,24,Schwarz,2,,mcdanielonline,Secondary,Schwarz.1b,148,83,65,r1,schw2.1,83,,,,,7.08433734939759,2.96814313012447,7,7.26865671641791,2,1,11,10,-0.378099561081913,2.12861601418958,0.325796034221596,r1,schw2.2,83,,,,,7.46987951807229,2.2970678520702,8,7.67164179104478,1,2,11,9,-0.762772135202188,2.95012819944359,0.252135952928593,r2,schw1.1,65,,,,,,7.73846153846154,2.29997909689498,8,7.9433962264151,2,1,11,10,-0.779395114471379,3.25613410201702,0.285277296844096,r2,schw1.2,65,,,,,,6.76923076923077,3.1611372101727,7,6.92452830188679,3,1,11,10,-0.348665914806405,1.96947449716732,0.392090814863842,Z.f,0.385833080960764,,,3.63937949187926,0.000273295795608641,83,0.185588468834139,0.555309485703352,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.6394, n1 = 83, p-value = 0.0002733
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1855885 0.5553095
+sample estimates:
+      cor 
+0.3858331 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,296,148,148,0.83643,0.01593,0.37774,1.33545,79.85441,72.28895,0.44578,0,,,,,,,,0.38583,0.00246,0.18559,0.55531,0,0.40689,0.00341,0.18776,0.62603,4.55908,1.98406,11.27107,0,1.51712,0.68514,2.42224,0,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,148,15,82,148,148,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+148 ","Setting
+Online (at home) 
+             148 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            148 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      148 ","analysis.type
+Secondary 
+      148 ","subset
+all 
+148 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.730527Z,24,Schwarz,2,,metu,Secondary,Schwarz.1b,118,64,54,r1,schw2.1,64,,,,,6.484375,2.91679421489818,7,6.61538461538462,2,1,11,10,-0.417205762826196,2.1419759650049,0.364599276862273,r1,schw2.2,64,,,,,6.671875,1.95224484136466,7,6.88461538461539,1,1,10,9,-0.977005045092946,3.78185540730073,0.244030605170582,r2,schw1.1,54,,,,,,6.33333333333333,3.08373701250028,7,6.40909090909091,2,1,11,10,-0.332522499407226,2.10034013605442,0.419643454531126,r2,schw1.2,54,,,,,,5.75925925925926,3.68031574314654,6,5.70454545454545,4,1,11,10,-0.0243693486827581,1.5681971832209,0.500827536835606,Z.f,0.307107284124844,,,2.47856952929266,0.0131910398687627,64,0.0663032198821099,0.514106740674065,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.4786, n1 = 64, p-value = 0.01319
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.06630322 0.51410674
+sample estimates:
+      cor 
+0.3071073 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,236,118,118,0.6454,0.01879,0.1329,1.19877,74.06672,67.59378,0.35188,0,,,,,,,,0.30711,0.00349,0.0663,0.51411,0,0.31735,0.00429,0.0664,0.5683,3.22403,1.27259,8.79622,0,1.17063,0.24105,2.17432,0,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,118,15,76,118,118,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+118 ","Setting
+Online (at home) 
+             118 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            118 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      118 ","analysis.type
+Secondary 
+      118 ","subset
+all 
+118 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.831486Z,24,Schwarz,2,,moralsense,Secondary,Schwarz.1b,808,430,378,r1,schw2.1,430,,,,,6.88604651162791,3.0829315352402,7,7.09883720930233,2,1,11,10,-0.447639316247543,2.18478073124501,0.148672160411239,r1,schw2.2,430,,,,,7.34418604651163,2.53141587896031,8,7.53779069767442,2,1,11,10,-0.629571083967969,2.69156308062476,0.122075713755681,r2,schw1.1,378,,,,,,7.26455026455026,2.50492616702395,8,7.45723684210526,2,1,11,10,-0.650325857153976,2.78181609924206,0.128839499659833,r2,schw1.2,378,,,,,,6.80687830687831,3.04906913498629,7,6.98684210526316,2,1,11,10,-0.405494663075582,2.12956389368689,0.156827193931467,Z.f,0.469494602281483,,,10.5266818564226,0,430,0.392348257925621,0.540081844921281,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 10.527, n1 = 430, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3923483 0.5400818
+sample estimates:
+      cor 
+0.4694946 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,1616,808,808,1.06349,0.00318,0.8531,1.28345,85.62192,77.39739,0.54795,0,,,,,,,,0.46949,0.00038,0.39235,0.54008,0,0.50942,0.00062,0.41457,0.60427,6.88228,4.69902,10.25651,0,1.92895,1.54735,2.32791,0,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,808,15,120,808,808,0,100,< table of extent 0 >,"SubjectPool
+ No 
+808 ","Setting
+Online (at home) 
+             808 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            808 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      808 ","analysis.type
+Secondary 
+      808 ","subset
+all 
+808 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:54.933140Z,24,Schwarz,2,,mturk,Secondary,Schwarz.1b,339,172,167,r1,schw2.1,172,,,,,8.72674418604651,2.27387524634288,9,9.02898550724638,2,1,11,10,-1.25245696033894,4.58610773164225,0.173381362090995,r1,schw2.2,172,,,,,7.56976744186047,2.37944756316132,8,7.7536231884058,2,1,11,10,-0.636789732993352,2.87462048200728,0.181431175781751,r2,schw1.1,167,,,,,,7.55688622754491,2.54975734829231,8,7.79259259259259,1,1,11,10,-0.891874484288653,3.08984689962585,0.197306147343322,r2,schw1.2,167,,,,,,7.8622754491018,2.90598917829947,8,8.20740740740741,2,1,11,10,-0.787730602848225,2.67070265316617,0.224872193966092,Z.f,0.495866436802993,,,7.06952762769595,1.55453427908014e-12,172,0.373980910528813,0.600913838074559,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 7.0695, n1 = 172, p-value = 1.555e-12
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3739809 0.6009138
+sample estimates:
+      cor 
+0.4958664 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,678,339,339,1.14202,0.00783,0.80648,1.50357,87.32781,79.03204,0.58064,0,,,,,,,,0.49587,0.00084,0.37398,0.60091,0,0.54381,0.00148,0.39304,0.69458,7.93595,4.31803,15.28974,0,2.0714,1.4628,2.72718,0,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,339,15,112,339,339,0,100,< table of extent 0 >,"SubjectPool
+ No 
+339 ","Setting
+Online (at home) 
+             339 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            339 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      339 ","analysis.type
+Secondary 
+      339 ","subset
+all 
+339 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.096598Z,24,Schwarz,2,,mturk_india,Secondary,Schwarz.1b,361,176,185,r1,schw2.1,176,,,,,8.67613636363636,2.35012434045189,9,9.04225352112676,1,1,11,10,-1.21055551263647,3.98397458814852,0.177147287453645,r1,schw2.2,176,,,,,8.34090909090909,2.35620209483149,9,8.66197183098592,1,1,11,10,-1.0902261635112,3.77427284350557,0.177605415427397,r2,schw1.1,185,,,,,,8.64324324324324,1.84516709219514,9,8.80536912751678,1,1,11,10,-0.832007214365919,4.20865418975892,0.135659382638818,r2,schw1.2,185,,,,,,8.89189189189189,2.30764070869428,10,9.25503355704698,1,1,11,10,-1.2966689224245,4.32802054300629,0.169661119157095,Z.f,0.756864821193141,,,13.0060843727517,0,176,0.685714230629855,0.813688040565858,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 13.006, n1 = 176, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.6857142 0.8136880
+sample estimates:
+      cor 
+0.7568648 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,722,361,361,2.31609,0.01299,1.88416,2.79954,98.97233,94.92602,0.89852,0,,,,,,,,0.75686,0.00025,0.68571,0.81369,0,0.98883,0.00139,0.83982,1.13785,66.74776,30.49298,160.42059,0,4.20092,3.4175,5.0778,0,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,219,15,104,361,361,0,0,< table of extent 0 >,"SubjectPool
+ No 
+361 ","Setting
+Online (at home) 
+             361 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            361 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      361 ","analysis.type
+Secondary 
+      361 ","subset
+all 
+361 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.194443Z,24,Schwarz,2,,munich,Secondary,Schwarz.1b,75,29,46,r1,schw2.1,29,,,,,8.10344827586207,2.27321087555226,9,8.2,1,4,11,7,-0.482490296302234,1.82328805589962,0.422124662283429,r1,schw2.2,29,,,,,8.27586206896552,1.57880044256341,9,8.4,1,3,11,8,-1.24101792446896,5.55005936665157,0.293175882095892,r2,schw1.1,46,,,,,,8.21739130434783,1.8124635595204,9,8.26315789473684,1.5,3,11,8,-0.418416753592093,2.90576332179931,0.267233172675156,r2,schw1.2,46,,,,,,7.45652173913044,2.79449078437581,8,7.65789473684211,2,1,11,10,-0.533991856572847,2.38348799196042,0.412025187705203,Z.f,0.469421636921779,,,2.59707467391488,0.00940214814496065,29,0.124301496457521,0.71322075424397,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.5971, n1 = 29, p-value = 0.009402
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1243015 0.7132208
+sample estimates:
+      cor 
+0.4694216 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,150,75,75,1.06327,0.03443,0.25055,2.03504,85.61711,77.39288,0.54786,0,,,,,,,,0.46942,0.00408,0.1243,0.71322,0,0.50933,0.0068,0.12495,0.89371,6.87963,1.57529,40.09126,0,1.92857,0.45444,3.69116,0,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,75,15,65,75,75,0,100,< table of extent 0 >,"SubjectPool
+No 
+75 ","Setting
+In a classroom 
+            75 ","Tablet
+Computers 
+       75 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       75 ","analysis.type
+Secondary 
+       75 ","subset
+all 
+ 75 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.291124Z,24,Schwarz,2,,munichon,Secondary,Schwarz.1b,201,101,100,r1,schw2.1,101,,,,,7.40594059405941,2.91265589392837,8,7.69135802469136,2,1,11,10,-0.616138071016324,2.51750495801827,0.289820093674304,r1,schw2.2,101,,,,,7.51485148514851,2.14295992209905,8,7.66666666666667,1,1,11,10,-0.697579817243659,3.18544915845569,0.213232481961806,r2,schw1.1,100,,,,,,7.47,2.2448819455586,8,7.6875,1,1,11,10,-0.819150910034366,3.22002976972653,0.22448819455586,r2,schw1.2,100,,,,,,7.3,3.0731814857643,8,7.5875,2,1,11,10,-0.635252313012101,2.30486773999828,0.30731814857643,Z.f,0.406765611815821,,,4.27390338951205,1.92080289356245e-05,101,0.229577276351447,0.557856421186112,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 4.2739, n1 = 101, p-value = 1.921e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2295773 0.5578564
+sample estimates:
+      cor 
+0.4067656 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,402,201,201,0.89053,0.01195,0.47175,1.34433,81.34102,73.55553,0.47111,0,,,,,,,,0.40677,0.00174,0.22958,0.55786,0,0.43173,0.00251,0.23374,0.62972,5.02914,2.35295,11.45414,0,1.61525,0.85567,2.43835,0,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,75,15,65,75,75,0,100,< table of extent 0 >,"SubjectPool
+No 
+75 ","Setting
+In a classroom 
+            75 ","Tablet
+Computers 
+       75 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       75 ","analysis.type
+Secondary 
+       75 ","subset
+all 
+ 75 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.410760Z,24,Schwarz,2,,northumbria,Secondary,Schwarz.1b,78,37,41,r1,schw2.1,37,,,,,8.02702702702703,2.94850702792001,9,8.41935483870968,1,1,11,10,-1.14735516134058,3.41493257089676,0.484731569452779,r1,schw2.2,37,,,,,8.32432432432433,2.00075060989695,9,8.48387096774194,1,3,11,8,-0.792807322415889,3.10213820334303,0.328921374117634,r2,schw1.1,41,,,,,,8.36585365853659,1.9073030378125,9,8.57575757575758,1,2,11,9,-1.19182794097061,4.75477279957978,0.297870690476744,r2,schw1.2,41,,,,,,7.36585365853659,3.253890729273,8,7.6969696969697,2,1,11,10,-0.75953120142377,2.41504255322875,0.508172355965025,Z.f,0.488179174229512,,,3.11178662471156,0.00185958854879043,37,0.195006117817683,0.701271512665119,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.1118, n1 = 37, p-value = 0.00186
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1950061 0.7012715
+sample estimates:
+      cor 
+0.4881792 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,156,78,78,1.11872,0.03388,0.39765,1.96739,86.83709,78.55446,0.57109,0,,,,,,,,0.48818,0.00374,0.19501,0.70127,0,0.53367,0.00654,0.19754,0.8698,7.60754,2.057,35.46179,0,2.02914,0.72125,3.56846,0,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,78,15,55,78,78,0,100,< table of extent 0 >,"SubjectPool
+No 
+78 ","Setting
+In a lab 
+      78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.514396Z,24,Schwarz,2,,osnabruck,Secondary,Schwarz.1b,55,33,22,r1,schw2.1,33,,,,,8.51515151515152,2.4124833175746,9,8.85185185185185,1,1,11,10,-1.273239663609,4.47622099155923,0.419959440955612,r1,schw2.2,33,,,,,8,1.71391365010026,8,8.11111111111111,1,4,11,7,-0.718571587136013,3.35377999094613,0.298354070719928,r2,schw1.1,22,,,,,,7.59090909090909,2.23945339651253,8,7.83333333333333,1.5,3,10,7,-0.799538639173694,2.57279562275344,0.477453068381477,r2,schw1.2,22,,,,,,7.63636363636364,2.46007074124873,8,7.72222222222222,2,3,11,8,-0.275965258927639,1.93161905112761,0.524488844319706,Z.f,0.060462590740126,,,0.331571687935255,0.740212700994356,33,-0.288842001419313,0.395560793586282,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.33157, n1 = 33, p-value = 0.7402
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2888420  0.3955608
+sample estimates:
+       cor 
+0.06046259 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,110,55,55,0.12115,0.03683,-0.6034,0.86138,54.82126,53.41331,0.06827,0.5292,,,,,,,,0.06046,0.00911,-0.28884,0.39556,0.5325,0.06054,0.00935,-0.2973,0.41838,1.24575,0.33472,4.77008,0.5292,0.21974,-1.09445,1.56236,0.5292,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,55,15,43,55,55,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 55 ","Setting
+In a classroom 
+            55 ","Tablet
+Computers 
+       55 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       55 ","analysis.type
+Secondary 
+       55 ","subset
+all 
+ 55 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.608326Z,24,Schwarz,2,,ouhk,Secondary,Schwarz.1b,65,36,29,r1,schw2.1,36,,,,,7.27777777777778,2.63613473654257,8,7.46666666666667,2,1,11,10,-0.524292074188618,2.91219480433022,0.439355789423761,r1,schw2.2,36,,,,,7.05555555555556,1.81964587519416,7,7.03333333333333,1,3,11,8,0.0321218683722385,2.55284419069191,0.30327431253236,r2,schw1.1,29,,,,,,7.13793103448276,2.24760408834186,8,7.16,1,3,11,8,-0.174801930331589,2.38285054845943,0.417369601272766,r2,schw1.2,29,,,,,,7.06896551724138,2.99917886956174,7,7.24,2,1,11,10,-0.568708413126633,2.60092678290579,0.556933534436735,Z.f,0.157511374765589,,,0.912430289371341,0.361542250761126,36,-0.180357525292725,0.462132620398802,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.91243, n1 = 36, p-value = 0.3615
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1803575  0.4621326
+sample estimates:
+      cor 
+0.1575114 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,130,65,65,0.319,0.0318,-0.36673,1.04223,62.51386,58.92322,0.17846,0.07596,,,,,,,,0.15751,0.00737,-0.18036,0.46213,0.07581,0.15883,0.00787,-0.18235,0.50002,1.78356,0.51418,6.62205,0.07596,0.57861,-0.66517,1.89041,0.07596,,,,,,,,ouhk,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate2_Traditional_ChineseHong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ouhk,1,1,1,1,1,1,65,14,52,65,65,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 65 ","Setting
+In a lab 
+      65 ","Tablet
+Computers 
+       65 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       65 ","analysis.type
+Secondary 
+       65 ","subset
+all 
+ 65 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.741585Z,24,Schwarz,2,,padua,Secondary,Schwarz.1b,61,29,32,r1,schw2.1,29,,,,,7.6551724137931,3.23237928808934,9,7.92,2,1,11,10,-0.923568164196267,2.67790406035956,0.600237765018249,r1,schw2.2,29,,,,,7.44827586206897,1.74409630501938,7,7.56,1,2,10,8,-0.87798013627445,4.32113458670032,0.323870553173921,r2,schw1.1,32,,,,,,7.5,1.98380540148668,8,7.57692307692308,1.5,4,11,7,-0.21409445496976,2.06181134103736,0.350690562986434,r2,schw1.2,32,,,,,,6.5625,2.8277142256486,7,6.73076923076923,2,1,11,10,-0.544998987464068,2.20939941087748,0.499873976053449,Z.f,0.376825507620435,,,2.02101985964356,0.0432777093080676,29,0.0119734700154341,0.653128469393737,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.021, n1 = 29, p-value = 0.04328
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.01197347 0.65312847
+sample estimates:
+      cor 
+0.3768255 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,122,61,61,0.81363,0.03853,0.02395,1.72501,79.2071,71.74632,0.43493,6e-05,,,,,,,,0.37683,0.00608,0.01197,0.65313,3e-05,0.39635,0.0084,0.01197,0.78074,4.37435,1.0444,22.84695,6e-05,1.47576,0.04344,3.12882,6e-05,,,,,,,,padua,padua,"Department FISPPA, Applied Psychology, University of Padua, 35131 Padua, Italy","Elisa Maria Galliani, Anna Dalla Rosa",ML2_Slate2_Italian_r.csv,DO.BR.FL_5,DO.BR.FL_6,Italy,Italian,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,padua,1,1,1,1,1,1,61,15,48,61,61,0,100,< table of extent 0 >,"SubjectPool
+No 
+61 ","Setting
+In a lab 
+      61 ","Tablet
+Computers 
+       61 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       61 ","analysis.type
+Secondary 
+       61 ","subset
+all 
+ 61 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.832566Z,24,Schwarz,2,,pascal,Secondary,Schwarz.1b,156,70,86,r1,schw2.1,70,,,,,8.42857142857143,2.59638225771117,9,8.85714285714286,1,1,11,10,-1.35905630047384,4.23852543631413,0.310327035518461,r1,schw2.2,70,,,,,7.58571428571429,2.23602168161727,7.5,7.625,1.5,3,11,8,-0.113929489651249,1.89098265168284,0.267255708496096,r2,schw1.1,86,,,,,,7.06976744186047,2.36041221561688,7,7.18571428571429,2,1,11,10,-0.380761069073028,2.56384734774656,0.25452979511324,r2,schw1.2,86,,,,,,7.02325581395349,3.46062471132206,8,7.25714285714286,2,1,11,10,-0.543947658650266,1.90551654733133,0.373168759638206,Z.f,0.178311038946967,,,1.47530931544933,0.140129403113673,70,-0.0591408952694279,0.396665390837862,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.4753, n1 = 70, p-value = 0.1401
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.0591409  0.3966654
+sample estimates:
+     cor 
+0.178311 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,312,156,156,0.36243,0.01328,-0.11849,0.86423,64.14848,60.11315,0.20226,0.00182,,,,,,,,0.17831,0.00301,-0.05914,0.39667,0.00169,0.18024,0.00324,-0.05921,0.41969,1.92972,0.80661,4.79483,0.00182,0.65738,-0.21492,1.56754,0.00182,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,156,15,88,156,156,0,100,< table of extent 0 >,"SubjectPool
+ No 
+156 ","Setting
+Online (at home) 
+             156 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            156 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      156 ","analysis.type
+Secondary 
+      156 ","subset
+all 
+156 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:55.964958Z,24,Schwarz,2,,psualtoona,Secondary,Schwarz.1b,166,82,84,r1,schw2.1,82,,,,,7.23170731707317,3.13600666291103,8,7.5,3,1,11,10,-0.455021365671928,2.16410957172955,0.346314001566151,r1,schw2.2,82,,,,,8.23170731707317,1.8209940338463,8,8.34848484848485,1,4,11,7,-0.544570277725245,2.86378894894229,0.201095150130838,r2,schw1.1,84,,,,,,7.96428571428571,1.83963346644863,8,8.08823529411765,1,3,11,8,-0.542972592478926,2.87343875450678,0.200720466927972,r2,schw1.2,84,,,,,,7.13095238095238,3.25161595379253,8,7.38235294117647,2,1,11,10,-0.511182578956608,2.01965614879207,0.35478038664715,Z.f,0.433665755837831,,,4.12770178553665,3.66406863514523e-05,82,0.239166218172774,0.594705960582149,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 4.1277, n1 = 82, p-value = 3.664e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2391662 0.5947060
+sample estimates:
+      cor 
+0.4336658 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,332,166,166,0.96255,0.01488,0.49263,1.47947,83.21141,75.19465,0.50389,0,,,,,,,,0.43367,0.00199,0.23917,0.59471,0,0.4644,0.00304,0.24389,0.68492,5.73093,2.44374,14.63573,0,1.74588,0.89353,2.68347,0,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,166,15,95,166,166,0,100,< table of extent 0 >,"SubjectPool
+ No 
+166 ","Setting
+In a lab 
+     166 ","Tablet
+Computers 
+      166 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      166 ","analysis.type
+Secondary 
+      166 ","subset
+all 
+166 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.070567Z,24,Schwarz,2,,puc,Secondary,Schwarz.1b,69,33,36,r1,schw2.1,33,,,,,6.48484848484848,3.3552311034526,7,6.59259259259259,2,1,11,10,-0.465241668324648,2.01598909811448,0.584070765678678,r1,schw2.2,33,,,,,7.75757575757576,2.09210275545776,8,7.96296296296296,1,2,11,9,-0.899913375471118,3.50691610739449,0.364188343688543,r2,schw1.1,36,,,,,,7.52777777777778,2.37229377982108,8,7.7,2,2,11,9,-0.699233612378268,2.76428360519285,0.395382296636846,r2,schw1.2,36,,,,,,7.52777777777778,3.40995275301254,8.5,7.83333333333333,2.5,1,11,10,-0.837993601086738,2.40891461702667,0.568325458835423,Z.f,0.542591139519593,,,3.329170499259,0.000871050633674431,33,0.244901520841354,0.74679064829041,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.3292, n1 = 33, p-value = 0.0008711
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2449015 0.7467906
+sample estimates:
+      cor 
+0.5425911 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,138,69,69,1.29189,0.04138,0.50519,2.24579,90.18021,81.9511,0.63902,0,,,,,,,,0.54259,0.00363,0.2449,0.74679,0,0.60782,0.00741,0.24998,0.96566,10.41478,2.50004,58.75681,0,2.34323,0.91631,4.07341,0,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,69,15,53,69,69,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 69 ","Setting
+Online (at home) 
+              69 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             69 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       69 ","analysis.type
+Secondary 
+       69 ","subset
+all 
+ 69 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.170418Z,24,Schwarz,2,,queensland2,Secondary,Schwarz.1b,129,62,67,r1,schw2.1,62,,,,,7.30645161290323,2.60886703427721,7.5,7.46,1.5,1,11,10,-0.501204082299028,2.76044445796628,0.331326444679815,r1,schw2.2,62,,,,,7.62903225806452,1.86630054831672,8,7.74,1,3,11,8,-0.517085026947274,2.61308673256857,0.237020406656748,r2,schw1.1,67,,,,,,7.70149253731343,1.67887882296972,8,7.81818181818182,1,3,11,8,-0.740765360206985,3.52709891779725,0.205107692943778,r2,schw1.2,67,,,,,,6.61194029850746,2.82818725474408,6,6.74545454545455,2,1,11,10,-0.199415053139002,2.15427493625488,0.345518065447669,Z.f,0.256051098792042,,,2.01152185199177,0.0442703645567162,62,0.00671216181203876,0.475414891930952,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.0115, n1 = 62, p-value = 0.04427
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.006712162 0.475414892
+sample estimates:
+      cor 
+0.2560511 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,258,129,129,0.52976,0.01666,0.01342,1.08078,70.18618,64.60206,0.29204,5e-05,,,,,,,,0.25605,0.0034,0.00671,0.47541,4e-05,0.26188,0.00392,0.00671,0.51704,2.614,1.02465,7.1016,5e-05,0.96088,0.02435,1.96032,5e-05,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,129,15,79,129,129,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+129 ","Setting
+In a lab 
+     129 ","Tablet
+Computers 
+      129 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      129 ","analysis.type
+Secondary 
+      129 ","subset
+all 
+129 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.304973Z,24,Schwarz,2,,ritonline,Secondary,Schwarz.1b,86,43,43,r1,schw2.1,43,,,,,7.3953488372093,2.85473320314343,8,7.65714285714286,2,1,11,10,-0.622992900184252,2.73307345094157,0.435342732160391,r1,schw2.2,43,,,,,7.53488372093023,2.70228155109629,8,7.77142857142857,1,1,11,10,-0.910429027432592,2.97528497382157,0.412094073178357,r2,schw1.1,43,,,,,,8.04651162790698,1.8510420279257,8,8.11428571428571,1,3,11,8,-0.410557839063853,2.95309780717021,0.282281262884235,r2,schw1.2,43,,,,,,6.83720930232558,2.94335597703208,7,6.97142857142857,2,1,11,10,-0.3147214683827,2.17289102140319,0.448857578477319,Z.f,0.434897673067013,,,2.94674311828251,0.00321139861889286,43,0.154769644601034,0.650300086896682,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.9467, n1 = 43, p-value = 0.003211
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1547696 0.6503001
+sample estimates:
+      cor 
+0.4348977 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,172,86,86,0.96592,0.02885,0.31331,1.71204,83.2959,75.27002,0.5054,0,,,,,,,,0.4349,0.00385,0.15477,0.6503,0,0.46592,0.00592,0.15602,0.77582,5.76608,1.76525,22.31596,0,1.75199,0.56829,3.1053,0,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,86,15,65,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.412264Z,24,Schwarz,2,,rotterdam,Secondary,Schwarz.1b,75,36,39,r1,schw2.1,36,,,,,8.11111111111111,2.36374736114112,9,8.33333333333333,1.5,1,11,10,-0.924208623439193,3.60049586776859,0.393957893523519,r1,schw2.2,36,,,,,8.08333333333333,1.25071408174919,8,8.1,1,6,10,4,-0.158597722601525,2.11715769062363,0.208452346958198,r2,schw1.1,39,,,,,,8.17948717948718,1.69940848643835,8,8.3030303030303,1,1,11,10,-1.75084784253201,9.39457572713774,0.27212314349407,r2,schw1.2,39,,,,,,7.25641025641026,2.71174782166652,7,7.42424242424242,2,1,11,10,-0.451358820686502,2.47625244256785,0.434227172268426,Z.f,0.383352734722988,,,2.32071191999646,0.0203023969617127,36,0.0627157345650796,0.632258614897562,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.3207, n1 = 36, p-value = 0.0203
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.06271573 0.63225861
+sample estimates:
+      cor 
+0.3833527 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,150,75,75,0.83013,0.03147,0.12568,1.63215,79.6766,72.13939,0.44279,1e-05,,,,,,,,0.38335,0.00488,0.06272,0.63226,0,0.40398,0.0068,0.0628,0.74517,4.50722,1.25603,19.30541,1e-05,1.50568,0.22796,2.96039,1e-05,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,75,15,57,75,75,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 75 ","Setting
+In a lab 
+      75 ","Tablet
+Computers 
+       75 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       75 ","analysis.type
+Secondary 
+       75 ","subset
+all 
+ 75 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.514664Z,24,Schwarz,2,,salford,Secondary,Schwarz.1b,94,47,47,r1,schw2.1,47,,,,,7.10638297872341,3.08737993995184,8,7.33333333333333,2,1,11,10,-0.638417249688724,2.3129225391273,0.450340648691845,r1,schw2.2,47,,,,,7.72340425531915,2.23317017458974,8,7.87179487179487,2,3,11,8,-0.618856889389406,2.24737507957315,0.325741348529884,r2,schw1.1,47,,,,,,7.53191489361702,2.14527857550307,8,7.76923076923077,1,1,10,9,-1.04583394168349,3.6847114567814,0.312921041176371,r2,schw1.2,47,,,,,,7.06382978723404,2.80065407980807,8,7.28205128205128,1,1,11,10,-0.732328748071639,2.86770379372995,0.408517383539748,Z.f,0.341736489679637,,,2.36181699914293,0.0181856167604777,47,0.0605076158204127,0.572701065651118,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.3618, n1 = 47, p-value = 0.01819
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.06050762 0.57270107
+sample estimates:
+      cor 
+0.3417365 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,188,94,94,0.72726,0.02422,0.12124,1.39723,76.64657,69.64608,0.39292,1e-05,,,,,,,,0.34174,0.00417,0.06051,0.5727,0,0.35606,0.00541,0.06058,0.65153,3.74005,1.24595,12.60762,1e-05,1.3191,0.2199,2.5343,1e-05,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,94,15,65,94,94,0,100,< table of extent 0 >,"SubjectPool
+No 
+94 ","Setting
+In a classroom 
+            94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.635935Z,24,Schwarz,2,,seznam,Secondary,Schwarz.1b,58,30,28,r1,schw2.1,30,,,,,8.16666666666667,2.76783661732948,9,8.54166666666667,1.5,1,11,10,-1.009323297632,3.01517145978167,0.505335516933383,r1,schw2.2,30,,,,,7.86666666666667,2.06336406491143,8,7.95833333333333,1,3,11,8,-0.417376285767441,2.82418633291194,0.376717014232515,r2,schw1.1,28,,,,,,8.17857142857143,2.29417251165371,9,8.41666666666667,1,2,11,9,-1.15975533068407,3.78934398050181,0.433557852179726,r2,schw1.2,28,,,,,,7.46428571428571,3.3497611065417,9,7.66666666666667,1.5,1,11,10,-0.702196269249516,1.87164036208412,0.63304534567042,Z.f,0.4870570119761,,,2.7653652511854,0.00568590908969835,30,0.153770079032698,0.720839361633639,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.7654, n1 = 30, p-value = 0.005686
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1537701 0.7208394
+sample estimates:
+     cor 
+0.487057 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,116,58,58,1.11535,0.0456,0.31124,2.08004,86.76499,78.48481,0.5697,0,,,,,,,,0.48706,0.00506,0.15377,0.72084,0,0.53219,0.00885,0.155,0.90939,7.56114,1.75862,43.50045,0,2.02302,0.56453,3.77277,0,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,58,15,50,58,58,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 58 ","Setting
+In a lab 
+      58 ","Tablet
+Computers 
+       58 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       58 ","analysis.type
+Secondary 
+       58 ","subset
+all 
+ 58 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.732990Z,24,Schwarz,2,,seznamon,Secondary,Schwarz.1b,105,54,51,r1,schw2.1,54,,,,,7.48148148148148,3.07602255273488,8,7.75,2,1,11,10,-0.657229011464528,2.24601842781059,0.418593649527434,r1,schw2.2,54,,,,,7.42592592592593,2.46944995672096,8,7.59090909090909,1.5,2,11,9,-0.635067932703349,2.2926062035518,0.336049574405797,r2,schw1.1,51,,,,,,7.70588235294118,2.01289957670082,8,7.92682926829268,1,3,11,8,-0.690855403471467,2.99883147786182,0.281862318840257,r2,schw1.2,51,,,,,,7.35294117647059,3.13575209104141,8,7.65853658536585,2,1,11,10,-0.676589452528844,2.37572000088639,0.439093120153448,Z.f,0.454369998253626,,,3.50068180135548,0.000464069584388049,54,0.212457529431394,0.643803854216036,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.5007, n1 = 54, p-value = 0.0004641
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2124575 0.6438039
+sample estimates:
+    cor 
+0.45437 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,210,105,105,1.02012,0.02412,0.43484,1.68273,84.61652,76.46488,0.5293,0,,,,,,,,0.45437,0.00301,0.21246,0.6438,0,0.49019,0.00483,0.21574,0.76464,6.36173,2.20057,21.16039,0,1.8503,0.78872,3.05213,0,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,105,15,71,105,105,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+105 ","Setting
+Online (at home) 
+             105 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            105 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      105 ","analysis.type
+Secondary 
+      105 ","subset
+all 
+105 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:56.873826Z,24,Schwarz,2,,simmons,Secondary,Schwarz.1b,87,41,46,r1,schw2.1,41,,,,,7.5609756097561,2.86399005312348,8,7.84848484848485,2,1,11,10,-0.571469023484036,2.54406906984572,0.447280100607843,r1,schw2.2,41,,,,,7.92682926829268,2.06627979594293,8,8.15151515151515,1,2,11,9,-0.916641153835594,3.4244037754423,0.322698688846828,r2,schw1.1,46,,,,,,7.80434782608696,2.00687225101252,8,7.8421052631579,2,4,11,7,-0.161990907867714,2.08338162083099,0.295897170442268,r2,schw1.2,46,,,,,,6.69565217391304,3.06136908528333,7,6.81578947368421,2,1,11,10,-0.4225857311841,2.07061876926347,0.451374246446303,Z.f,0.125396696579078,,,0.777087433553612,0.437107187478331,41,-0.189566927039379,0.416961456282263,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.77709, n1 = 41, p-value = 0.4371
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1895669  0.4169615
+sample estimates:
+      cor 
+0.1253967 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,174,87,87,0.25279,0.02349,-0.38614,0.91748,59.97843,57.09325,0.14186,0.10089,,,,,,,,0.1254,0.0056,-0.18957,0.41696,0.10107,0.12606,0.00585,-0.19189,0.44401,1.58171,0.4964,5.28108,0.10089,0.45851,-0.70037,1.66413,0.10089,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,87,15,64,87,87,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 87 ","Setting
+In a lab 
+      87 ","Tablet
+Computers 
+       87 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       87 ","analysis.type
+Secondary 
+       87 ","subset
+all 
+ 87 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.010997Z,24,Schwarz,2,,swps,Secondary,Schwarz.1b,88,54,34,r1,schw2.1,54,,,,,7.07407407407407,3.24968417537651,8,7.31818181818182,3,1,11,10,-0.459726974408373,2.14212363461695,0.44222600304831,r1,schw2.2,54,,,,,7.85185185185185,2.0958846234935,8,8,1,3,11,8,-0.608901048095448,2.69476767051184,0.285213771516907,r2,schw1.1,34,,,,,,7.82352941176471,1.81693361789472,8,7.92857142857143,1,3,11,8,-0.472489403002101,2.8893613348945,0.311601544766805,r2,schw1.2,34,,,,,,7.70588235294118,2.86599088332735,8.5,8.03571428571429,1.5,1,11,10,-0.891059027777778,2.95550311053241,0.49151338152197,Z.f,0.417175901878272,,,3.17270793396115,0.0015102436905774,54,0.168204317095983,0.616114466986736,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.1727, n1 = 54, p-value = 0.00151
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1682043 0.6161145
+sample estimates:
+      cor 
+0.4171759 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,176,88,88,0.91805,0.02767,0.34127,1.56442,82.07049,74.18834,0.48377,0,,,,,,,,0.41718,0.0039,0.1682,0.61611,0,0.44427,0.00578,0.16982,0.71872,5.28656,1.85706,17.0739,0,1.66517,0.619,2.83755,0,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,swps,1,1,1,1,1,1,88,15,60,88,88,0,100,< table of extent 0 >,"SubjectPool
+No 
+88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.117228Z,24,Schwarz,2,,tamu,Secondary,Schwarz.1b,82,41,41,r1,schw2.1,41,,,,,6.58536585365854,3.14623274533288,6,6.72727272727273,2,1,11,10,-0.196309448230505,2.09023725167388,0.491359003615753,r1,schw2.2,41,,,,,7.21951219512195,2.18531685485139,7,7.21212121212121,1,3,11,8,-0.0369372768950845,2.31351910289731,0.341289154140718,r2,schw1.1,41,,,,,,7.63414634146341,2.2108380488061,8,7.72727272727273,1,3,11,8,-0.35697055270664,2.44575276841527,0.345274895008515,r2,schw1.2,41,,,,,,7.34146341463415,3.01338477544406,8,7.60606060606061,2,1,11,10,-0.549178067373487,2.31224456159557,0.470611636398951,Z.f,0.209917742737058,,,1.31354598221992,0.188999037146149,41,-0.10448016525102,0.486170660327743,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.3135, n1 = 41, p-value = 0.189
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1044802  0.4861707
+sample estimates:
+      cor 
+0.2099177 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,164,82,82,0.4294,0.02567,-0.21011,1.11269,66.6185,61.92965,0.23859,0.00812,,,,,,,,0.20992,0.00561,-0.10448,0.48617,0.00758,0.21309,0.00621,-0.10486,0.53103,2.17897,0.68311,7.52477,0.00812,0.77885,-0.3811,2.0182,0.00812,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,82,15,60,82,82,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 82 ","Setting
+In a lab 
+      82 ","Tablet
+Computers 
+       82 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       82 ","analysis.type
+Secondary 
+       82 ","subset
+all 
+ 82 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.258458Z,24,Schwarz,2,,tamucc,Secondary,Schwarz.1b,88,35,53,r1,schw2.1,35,,,,,8.2,2.76320359685041,9,8.51724137931035,2,1,11,10,-0.821831950011302,2.88730202444913,0.467066655311854,r1,schw2.2,35,,,,,7.54285714285714,1.89957978546428,8,7.62068965517241,1,4,11,7,-0.367446297950122,2.26090444981342,0.321087587576285,r2,schw1.1,53,,,,,,7.9622641509434,1.89089177324172,8,8.09302325581395,1,3,11,8,-0.651720455230644,3.41316962171759,0.259733960338419,r2,schw1.2,53,,,,,,6.9622641509434,2.915227027384,8,7.13953488372093,2,1,11,10,-0.470158002709453,2.26974033675753,0.400437228519926,Z.f,0.505425553774613,,,3.14841616173893,0.00164157804547105,35,0.20705326356841,0.717776119538856,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.1484, n1 = 35, p-value = 0.001642
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2070533 0.7177761
+sample estimates:
+      cor 
+0.5054256 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,176,88,88,1.1715,0.0307,0.42328,2.06176,87.93008,79.62708,0.59254,0,,,,,,,,0.50543,0.00317,0.20705,0.71778,0,0.55657,0.00578,0.21009,0.90304,8.37175,2.1549,42.08222,0,2.12486,0.76774,3.73963,0,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,88,15,60,88,88,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.367583Z,24,Schwarz,2,,tanzania,Secondary,Schwarz.1b,60,30,30,r1,schw2.1,30,,,,,7.3,3.76141939459946,8,7.625,3,1,11,10,-0.684789886305382,2.0204967635423,0.686738083553183,r1,schw2.2,30,,,,,7.1,3.10005561685371,7,7.33333333333333,2,1,11,10,-0.285639044473179,2.19198972007124,0.565990130290456,r2,schw1.1,30,,,,,,6.66666666666667,3.20918222834302,7,6.83333333333333,2,1,11,10,-0.290993401321147,2.22805723852041,0.585913832536055,r2,schw1.2,30,,,,,,7.7,3.17479296093896,8,8.04166666666667,3,1,11,10,-0.608421116618482,2.27908179012255,0.579635240038296,Z.f,0.532591793131936,,,3.08524819296796,0.00203382358462445,30,0.213237897278135,0.749122134057389,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.0852, n1 = 30, p-value = 0.002034
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2132379 0.7491221
+sample estimates:
+      cor 
+0.5325918 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,120,60,60,1.25853,0.04692,0.43652,2.26173,89.58997,81.3244,0.62649,0,,,,,,,,0.53259,0.00431,0.21324,0.74912,0,0.59376,0.00855,0.21656,0.97095,9.80329,2.20726,60.48106,0,2.28272,0.79175,4.10233,0,,,,,,,,tanzania,tanzania,Open University of Tanzania,Winfrida Malingumu,ML2_Slate2_TanzaniaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Tanzania,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tanzania,1,1,1,1,1,1,60,14,48,60,60,0,0,< table of extent 0 >,"SubjectPool
+No 
+60 ","Setting
+In a lab 
+      60 ","Tablet
+Computers 
+       60 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       60 ","analysis.type
+Secondary 
+       60 ","subset
+all 
+ 60 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.458323Z,24,Schwarz,2,,tilburg,Secondary,Schwarz.1b,94,37,57,r1,schw2.1,37,,,,,6.97297297297297,2.82337944163931,7,7.16129032258065,2,1,11,10,-0.670326361059708,2.72796630648241,0.464160720984267,r1,schw2.2,37,,,,,8.18918918918919,1.32995066403561,8,8.19354838709677,1,5,11,6,-0.280017725742,3.14809135220987,0.218642542333542,r2,schw1.1,57,,,,,,7.78947368421053,1.50874642981307,8,7.85106382978723,1,4,11,7,-0.487635695376575,2.96656883876876,0.199838346489377,r2,schw1.2,57,,,,,,7.73684210526316,2.48945142974364,8,7.95744680851064,2,1,11,10,-0.691266960171933,2.96032086411586,0.329735897003728,Z.f,-0.0947696634000716,,,-0.554260666377108,0.579400465080464,37,-0.406311964808374,0.236511941518486,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = -0.55426, n1 = 37, p-value = 0.5794
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.4063120  0.2365119
+sample estimates:
+        cor 
+-0.09476966 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,188,94,94,-0.1904,0.02158,-0.88934,0.48684,42.44993,44.6452,-0.1071,0.19659,,,,,,,,-0.09477,0.00525,-0.40631,0.23651,0.19765,-0.09505,0.00541,-0.43119,0.24108,0.70798,0.19927,2.4182,0.19659,-0.34534,-1.61309,0.88302,0.19659,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,94,15,65,94,94,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 94 ","Setting
+In a lab 
+      94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.605464Z,24,Schwarz,2,,tilburgcaf,Secondary,Schwarz.1b,81,41,40,r1,schw2.1,41,,,,,7.53658536585366,2.27043565175948,7,7.6969696969697,1,1,11,10,-0.619059301610604,3.84652995386212,0.354582476861287,r1,schw2.2,41,,,,,8.14634146341463,1.40643122138546,8,8.09090909090909,1,6,11,5,0.17409078729145,2.58441193150287,0.219647654681355,r2,schw1.1,40,,,,,,7.875,1.26465765104987,8,7.96875,1,3,11,8,-1.14944661510022,7.28288239806266,0.199959931883801,r2,schw1.2,40,,,,,,7.075,2.3900166290592,7,7.25,2,1,11,10,-0.534755042665767,2.70796729377397,0.377894809675242,Z.f,0.468027925649752,,,3.12869973860114,0.00175581630028576,41,0.187354462807422,0.678047053386884,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.1287, n1 = 41, p-value = 0.001756
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1873545 0.6780471
+sample estimates:
+      cor 
+0.4680279 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,162,81,81,1.05923,0.03181,0.38146,1.84498,85.52524,77.3068,0.54614,0,,,,,,,,0.46803,0.00379,0.18735,0.67805,0,0.50754,0.00629,0.18959,0.82549,6.82936,1.9975,28.40095,0,1.92123,0.6919,3.34642,0,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,81,15,63,81,81,0,100,< table of extent 0 >,"SubjectPool
+No 
+81 ","Setting
+Other (please indicate) 
+                     81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.696218Z,24,Schwarz,2,,ulatina,Secondary,Schwarz.1b,199,106,93,r1,schw2.1,106,,,,,6.9622641509434,3.52656457220631,8,7.18604651162791,3,1,11,10,-0.428103125096181,1.90080890741239,0.342530231167399,r1,schw2.2,106,,,,,8.42452830188679,2.16442277890851,9,8.65116279069767,1,1,11,10,-1.14528010326928,4.60359799845372,0.210227324531786,r2,schw1.1,93,,,,,,8.08602150537634,2.53521251136731,8,8.38666666666667,2,1,11,10,-0.998414588771894,3.85511285044005,0.262889291016411,r2,schw1.2,93,,,,,,7.27956989247312,3.35366636293271,8,7.58666666666667,3,1,11,10,-0.635640111558699,2.21788524689319,0.347759001860349,Z.f,0.244176240766409,,,2.52920886781913,0.0114319972570345,106,0.05603061955581,0.41557502446928,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 2.5292, n1 = 106, p-value = 0.01143
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.05603062 0.41557502
+sample estimates:
+      cor 
+0.2441762 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,398,199,199,0.5036,0.01071,0.11224,0.91379,69.27273,63.91157,0.27823,0,,,,,,,,0.24418,0.00223,0.05603,0.41558,0,0.24921,0.00253,0.05609,0.44233,2.49284,1.22578,5.24586,0,0.91342,0.20358,1.65744,0,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,199,15,97,199,199,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+199 ","Setting
+In a lab 
+     199 ","Tablet
+Computers 
+      199 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      199 ","analysis.type
+Secondary 
+      199 ","subset
+all 
+199 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.786822Z,24,Schwarz,2,,umich,Secondary,Schwarz.1b,84,46,38,r1,schw2.1,46,,,,,7.15217391304348,2.73225500114911,7,7.3421052631579,2,1,11,10,-0.478640953418275,2.69138328064195,0.402849022083426,r1,schw2.2,46,,,,,8.02173913043478,1.98314150820003,8.5,8.10526315789474,1.5,4,11,7,-0.479760178220538,2.14860415058081,0.292398263300986,r2,schw1.1,38,,,,,,7.81578947368421,1.92922422663696,8,7.875,1,3,11,8,-0.307677282378102,2.72410450386351,0.312961495724943,r2,schw1.2,38,,,,,,5.05263157894737,2.62984295514115,5.5,4.96875,1.5,1,11,10,-0.00362920765864794,2.59761993759138,0.426616861533722,Z.f,0.294663392170456,,,1.99126740472392,0.0464514969310594,46,0.00477369056291832,0.538866670068854,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.9913, n1 = 46, p-value = 0.04645
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.004773691 0.538866670
+sample estimates:
+      cor 
+0.2946634 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,168,84,84,0.61671,0.02623,0.00955,1.27937,73.12863,66.86101,0.33722,2e-04,,,,,,,,0.29466,0.00499,0.00477,0.53887,0.00014,0.30367,0.00606,0.00477,0.60256,3.06052,1.01747,10.18105,2e-04,1.11858,0.01732,2.32053,2e-04,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,84,15,66,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+In a lab 
+      84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:57.922693Z,24,Schwarz,2,,uned,Secondary,Schwarz.1b,81,48,33,r1,schw2.1,48,,,,,7.58333333333333,3.00944140807767,8,7.9,2,1,11,10,-0.781351185074763,2.75466555141903,0.434375451766012,r1,schw2.2,48,,,,,7.39583333333333,2.17078849615421,8,7.625,1,1,11,10,-1.09928243977781,3.92946104476076,0.313326330652094,r2,schw1.1,33,,,,,,7.33333333333333,2.13111864209074,8,7.48148148148148,1,2,11,9,-0.680524054096071,2.98794293409646,0.370980137778645,r2,schw1.2,33,,,,,,7.27272727272727,3.29082747261923,8,7.51851851851852,2,1,11,10,-0.533572276618827,1.9080654893312,0.572859532588169,Z.f,0.455688625701012,,,3.29947333044411,0.000968664311598699,48,0.197069942742302,0.655014096339912,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.2995, n1 = 48, p-value = 0.0009687
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1970699 0.6550141
+sample estimates:
+      cor 
+0.4556886 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,162,81,81,1.02386,0.03136,0.40202,1.73372,84.70491,76.54603,0.53092,0,,,,,,,,0.45569,0.0039,0.19707,0.65501,0,0.49186,0.00629,0.19968,0.78403,6.40498,2.0734,23.21089,0,1.85708,0.72919,3.14462,0,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,81,15,60,81,81,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 81 ","Setting
+Online (at home) 
+              81 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:58.031923Z,24,Schwarz,2,,unswonline,Secondary,Schwarz.1b,93,47,46,r1,schw2.1,47,,,,,7.87234042553192,2.36475038922298,8,8.05128205128205,2,1,11,10,-0.673637319230656,3.04421811599111,0.344934295418653,r1,schw2.2,47,,,,,7.82978723404255,2.10918435642755,8,8.05128205128205,1,1,11,10,-1.08025358071195,4.16200292210475,0.307656158217797,r2,schw1.1,46,,,,,,7.97826086956522,1.83168568913122,8,8,1,4,11,7,-0.252824444459895,2.20482296103137,0.270067321066438,r2,schw1.2,46,,,,,,6.73913043478261,2.55981581463021,7,6.8421052631579,2,1,11,10,-0.34882006106261,2.93393339751929,0.37742425110532,Z.f,0.257061885769958,,,1.74427828421283,0.0811105763954803,47,-0.0325043881497917,0.506815740781044,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.7443, n1 = 47, p-value = 0.08111
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.03250439  0.50681574
+sample estimates:
+      cor 
+0.2570619 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,186,93,93,0.532,0.02315,-0.06504,1.17583,70.26376,64.66092,0.29322,0.00059,,,,,,,,0.25706,0.00471,-0.0325,0.50682,0.00048,0.26296,0.00546,-0.03252,0.55844,2.62464,0.88872,8.43782,0.00059,0.96494,-0.11798,2.13272,0.00059,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,93,15,68,93,93,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 93 ","Setting
+Online (at home) 
+              93 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             93 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       93 ","analysis.type
+Secondary 
+       93 ","subset
+all 
+ 93 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:58.179220Z,24,Schwarz,2,,vcu,Secondary,Schwarz.1b,95,44,51,r1,schw2.1,44,,,,,6.68181818181818,3.18990214381313,7.5,6.83333333333333,1.5,1,11,10,-0.441322246600123,2.22584891005034,0.480895842226294,r1,schw2.2,44,,,,,8.09090909090909,2.04391532407985,8,8.22222222222222,1,3,11,8,-0.570370841608274,2.74119801996427,0.308131828783206,r2,schw1.1,51,,,,,,8.05882352941176,1.89115588681507,8,8.14634146341463,1,4,11,7,-0.336171595671351,2.73321762465374,0.264814792409947,r2,schw1.2,51,,,,,,6.90196078431373,3.09357335106691,7,7.1219512195122,2,1,11,10,-0.533671832746805,2.53130528202779,0.433186915197879,Z.f,0.154349615431269,,,0.996282409691059,0.319112948047249,44,-0.149375650973809,0.431459076612698,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 0.99628, n1 = 44, p-value = 0.3191
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.1493757  0.4314591
+sample estimates:
+      cor 
+0.1543496 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,190,95,95,0.31244,0.02168,-0.30214,0.95653,62.26482,58.74269,0.17485,0.03514,,,,,,,,0.15435,0.00504,-0.14938,0.43146,0.03466,0.15559,0.00535,-0.1505,0.46169,1.76246,0.57809,5.66868,0.03514,0.56671,-0.54802,1.73496,0.03514,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,95,15,62,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:58.296410Z,24,Schwarz,2,,vuw,Secondary,Schwarz.1b,97,45,52,r1,schw2.1,45,,,,,6.66666666666667,3.34392257413628,7,6.81081081081081,3,1,11,10,-0.207356598731722,1.82158437438033,0.498482545817653,r1,schw2.2,45,,,,,8.26666666666667,1.68415071664137,8,8.2972972972973,1,5,11,6,-0.0514514340351297,2.22451306706114,0.251058365784339,r2,schw1.1,52,,,,,,7.44230769230769,2.42060972337154,8,7.71428571428571,1,1,11,10,-1.02186851106842,3.46095138674864,0.335678172134723,r2,schw1.2,52,,,,,,6.40384615384615,3.01147879369702,6,6.5,2,1,11,10,-0.315196434399198,2.37422071068088,0.417616969447964,Z.f,0.520594848464384,,,3.74039454587554,0.000183731620324146,45,0.268017254214895,0.706211064044308,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.7404, n1 = 45, p-value = 0.0001837
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2680173 0.7062111
+sample estimates:
+      cor 
+0.5205948 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,194,97,97,1.21947,0.02843,0.55639,1.99494,88.86674,80.57379,0.61148,0,,,,,,,,0.52059,0.00275,0.26802,0.70621,0,0.57716,0.00524,0.27473,0.87958,9.13284,2.74335,37.27883,0,2.21188,1.00918,3.61843,0,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,97,15,70,97,97,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 97 ","Setting
+Online (at home) 
+              97 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:58.406528Z,24,Schwarz,2,,westernkentucky,Secondary,Schwarz.1b,160,71,89,r1,schw2.1,71,,,,,7.28169014084507,3.11302837668471,8,7.57894736842105,2,1,11,10,-0.539311262129911,2.28511520216952,0.36944849788864,r1,schw2.2,71,,,,,7.84507042253521,2.37033986305728,8,8.03508771929825,1,2,11,9,-0.630835160220634,2.69916649261083,0.281307587316211,r2,schw1.1,89,,,,,,8.40449438202247,1.81357946616125,9,8.49315068493151,1,3,11,8,-0.396807811598744,2.70756202138228,0.192239038935399,r2,schw1.2,89,,,,,,6.53932584269663,3.3099580462024,6,6.65753424657534,3,1,11,10,-0.11782265339402,1.88763874261654,0.350854851188454,Z.f,0.211216287141426,,,1.76835124556863,0.0770022017799228,71,-0.0232322765655093,0.423643888935247,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 1.7684, n1 = 71, p-value = 0.077
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.02323228  0.42364389
+sample estimates:
+      cor 
+0.2112163 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,320,160,160,0.43218,0.01312,-0.04648,0.93537,66.71958,62.00452,0.24009,0.00019,,,,,,,,0.21122,0.00286,-0.02323,0.42364,0.00016,0.21444,0.00315,-0.02324,0.45212,2.18998,0.91916,5.45525,0.00019,0.78389,-0.0843,1.69658,0.00019,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,160,15,95,160,160,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+160 ","Setting
+In a lab 
+     160 ","Tablet
+Computers 
+      160 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      160 ","analysis.type
+Secondary 
+      160 ","subset
+all 
+160 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:09:58.545028Z,24,Schwarz,2,,yale,Secondary,Schwarz.1b,270,140,130,r1,schw2.1,140,,,,,6.38571428571429,2.67034261883241,6,6.41964285714286,2,1,11,10,-0.0261482874017838,2.42693721017496,0.22568514258891,r1,schw2.2,140,,,,,8.17857142857143,1.78429542809406,8,8.32142857142857,1,3,11,8,-0.720484969245497,3.50797047257981,0.150800487274634,r2,schw1.1,130,,,,,,8.24615384615385,1.74347749472068,8.5,8.49038461538462,0.5,2,11,9,-1.37661492786158,5.32988926216746,0.15291309182261,r2,schw1.2,130,,,,,,6.52307692307692,2.8070105608299,6,6.65384615384615,2,1,11,10,-0.31582567592776,2.29562785981338,0.246191112265539,Z.f,0.281382765255513,,,3.38480141065748,0.00071229767896619,140,0.121134315918846,0.427336963425253,Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.,two.sided,Z.f,,"
+	Fisher r-to-Z transformed test for difference between 1 observed correlation and a hypothesized value.
+
+data:  r1 ( pearson )
+Fisher.z = 3.3848, n1 = 140, p-value = 0.0007123
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.1211343 0.4273370
+sample estimates:
+      cor 
+0.2813828 
+",,,,,,,,,,,,,,,,,,,,,,,,,,,fisherZ - 1 corr,fisherZ - 1 corr,540,270,270,0.58646,0.00806,0.24407,0.94534,72.12172,66.08158,0.32163,0,,,,,,,,0.28138,0.00157,0.12113,0.42734,0,0.28918,0.00186,0.12173,0.45663,2.89714,1.55688,5.55476,0,1.06372,0.44269,1.71466,0,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,270,15,105,270,270,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+270 ","Setting
+Online (at home) 
+             270 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            270 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      270 ","analysis.type
+Secondary 
+      270 ","subset
+all 
+270 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

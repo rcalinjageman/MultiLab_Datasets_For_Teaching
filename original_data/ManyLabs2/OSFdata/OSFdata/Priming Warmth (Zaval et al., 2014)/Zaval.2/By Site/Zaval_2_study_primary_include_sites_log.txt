@@ -1,0 +1,141 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~ZAVAL.2~~~~~~~
+	# 76 Zaval.2 - START
+
+	# 
+	# 76 Zaval.2 - amity: var.equal set to: FALSE
+ListIT = FALSE
+
+	# 
+	# 76 Zaval.2 - amityon not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - armstrong: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - aus2: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - brookcuny: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - carleton: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - csunorthonline: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - georgefox: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - georgefox >> ES r is close to 0:  0
+	# 
+	# 76 Zaval.2 - hawaiion: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - help: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 76 Zaval.2 - help >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 76 Zaval.2 - help not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - isb: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 76 Zaval.2 - isb >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 76 Zaval.2 - isb not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - jmu: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - jos not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - kenyon: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - kenyon >> ES r is close to 0:  0.04
+	# 
+	# 76 Zaval.2 - kwazulu: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - loyola: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - lse: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - mcdanielonline: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - mcdanielonline >> ES r is close to 0:  -0.04
+	# 
+	# 76 Zaval.2 - moralsense: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - moralsense >> ES r is close to 0:  -0.04
+	# 
+	# 76 Zaval.2 - mturk: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - mturk_india: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - northumbria: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - psualtoona: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - psualtoona >> ES r is close to 0:  -0.02
+	# 
+	# 76 Zaval.2 - queensland2: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - ritonline: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - rotterdam: var.equal set to: TRUE
+ListIT = FALSE
+
+	# 
+	# 76 Zaval.2 - rotterdam >> stat.test failed:
+	# 
+	# warning: 
+	# 
+	# 76 Zaval.2 - rotterdam not included in results >> Valid cases after varfun (n=) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - salford: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - simmons: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - simmons >> ES r is close to 0:  -0.04
+	# 
+	# 76 Zaval.2 - tamu: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - tamu >> ES r is close to 0:  -0.02
+	# 
+	# 76 Zaval.2 - tamucc: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - tamucc >> ES r is close to 0:  0.01
+	# 
+	# 76 Zaval.2 - tanzania not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 76 Zaval.2 - tanzania not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - tanzaniaon not included in results >> Cases in source file (16) < Nmin.raw (30)
+	# 
+	# 76 Zaval.2 - tanzaniaon not included in results >> Valid cases after varfun (n1=0) < Nmin.cond (15) 
+	# 
+	# 76 Zaval.2 - tanzaniaon not included in results >> Valid cases after varfun (n2=0) < Nmin.cond (15)
+	# 
+	# 76 Zaval.2 - umich: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - umich >> ES r is close to 0:  0.03
+	# 
+	# 76 Zaval.2 - unswonline: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - vcu: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - vcu >> ES r is close to 0:  -0.03
+	# 
+	# 76 Zaval.2 - vuw: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - westernkentucky: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - yale: var.equal set to: TRUE
+	# 
+	# 76 Zaval.2 - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~

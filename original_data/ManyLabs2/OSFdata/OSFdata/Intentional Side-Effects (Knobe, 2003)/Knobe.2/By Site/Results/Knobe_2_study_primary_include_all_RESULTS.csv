@@ -1,0 +1,1417 @@
+results.generated,study.id,study.name,study.slate,study.mean,study.source,analysis.type,analysis.name,stat.N,stat.n1,stat.n2,stat.cond1.name,stat.cond1.column,stat.cond1.n,stat.cond1.count,stat.cond1.prop.cond,stat.cond1.prop.tot,stat.cond1.value,stat.cond1.mean,stat.cond1.sd,stat.cond1.median,stat.cond1.trimmed,stat.cond1.mad,stat.cond1.min,stat.cond1.max,stat.cond1.range,stat.cond1.skew,stat.cond1.kurtosis,stat.cond1.se,stat.cond2.name,stat.cond2.column,stat.cond2.n,stat.cond2.count,stat.cond2.prop.cond,stat.cond2.prop.tot,stat.cond2.value,stat.cond2.mean,stat.cond2.sd,stat.cond2.median,stat.cond2.trimmed,stat.cond2.mad,stat.cond2.min,stat.cond2.max,stat.cond2.range,stat.cond2.skew,stat.cond2.kurtosis,stat.cond2.se,stat.cond3.name,stat.cond3.column,stat.cond3.n,stat.cond3.count,stat.cond3.n.1,stat.cond3.prop.cond,stat.cond3.prop.tot,stat.cond3.value,stat.cond3.mean,stat.cond3.sd,stat.cond3.median,stat.cond3.trimmed,stat.cond3.mad,stat.cond3.min,stat.cond3.max,stat.cond3.range,stat.cond3.skew,stat.cond3.kurtosis,stat.cond3.se,stat.cond4.name,stat.cond4.column,stat.cond4.n,stat.cond4.count,stat.cond4.n.1,stat.cond4.prop.cond,stat.cond4.prop.tot,stat.cond4.value,stat.cond4.mean,stat.cond4.sd,stat.cond4.median,stat.cond4.trimmed,stat.cond4.mad,stat.cond4.min,stat.cond4.max,stat.cond4.range,stat.cond4.skew,stat.cond4.kurtosis,stat.cond4.se,test.type,test.estimate,test.estimate1,test.estimate2,test.statistic,test.p.value,test.parameter,test.conf.low,test.conf.high,test.method,test.alternative,test.estype,test.varequal,test.ConsoleOutput,test.ncp,test.ncp.lo,test.ncp.hi,test.table,test.parameter1,test.parameter2,test.cohensQ,test.cohensQ.l,test.cohensQ.u,test.bootR1,test.bootR2,test.bootCI.l,test.bootCI.u,test.fZ.r,test.fZ.l.r,test.fZ.u.r,ESCI.estimate,ESCI.statistic,ESCI.p.value,ESCI.parameter,ESCI.conf.low,ESCI.conf.high,ESCI.method,ESCI.alternative,ESCI.estype,ESCI.ncp,ESCI.ncp.lo,ESCI.ncp.hi,ESCI.N.total,ESCI.n.1,ESCI.n.2,ESCI.d,ESCI.var.d,ESCI.l.d,ESCI.u.d,ESCI.U3.d,ESCI.cl.d,ESCI.cliffs.d,ESCI.pval.d,ESCI.g,ESCI.var.g,ESCI.l.g,ESCI.u.g,ESCI.U3.g,ESCI.cl.g,ESCI.pval.g,ESCI.r,ESCI.var.r,ESCI.l.r,ESCI.u.r,ESCI.pval.r,ESCI.fisher.z,ESCI.var.z,ESCI.l.z,ESCI.u.z,ESCI.OR,ESCI.l.or,ESCI.u.or,ESCI.pval.or,ESCI.lOR,ESCI.l.lor,ESCI.u.lor,ESCI.pval.lor,ESCI.cohensQ,ESCI.cohensQ.l,ESCI.cohensQ.u,ESCI.bootR1,ESCI.bootR2,ESCI.bootCI.l,ESCI.bootCI.u,source.Source,source.Source.Global,source.Location,source.ReplicationPI,source.Filename,source.StudyOrder,source.IDiffOrder,source.Country,source.Language,source.Weird,source.SubjectPool,source.Setting,source.Tablet,source.Pencil,source.Execution,source.Slate,source.source,source.N.sources.global,source.N.sources.primary,source.N.sources.secondary,source.N.countries,source.N.locations,source.N.languages,source.N.studyorders1,source.N.studyorders2,source.N.IDiffOrderN,source.N.uIDs,source.N.cases.included,source.N.cases.excluded,source.Pct.WEIRD,source.Tbl.Execution,source.Tbl.subjectpool,source.Tbl.setting,source.Tbl.Tablet,source.Tbl.Pencil,source.Tbl.analysistype,source.Tbl.subset,stat.cond5.name,stat.cond5.column,stat.cond5.n,stat.cond5.mean,stat.cond5.sd,stat.cond5.median,stat.cond5.trimmed,stat.cond5.mad,stat.cond5.min,stat.cond5.max,stat.cond5.range,stat.cond5.skew,stat.cond5.kurtosis,stat.cond5.se,stat.cond6.name,stat.cond6.column,stat.cond6.n,stat.cond6.mean,stat.cond6.sd,stat.cond6.median,stat.cond6.trimmed,stat.cond6.mad,stat.cond6.min,stat.cond6.max,stat.cond6.range,stat.cond6.skew,stat.cond6.kurtosis,stat.cond6.se
+2018-11-14T16:12:28.536547Z,27,Knobe,2,,amity,Secondary,Knobe.2,151,67,84,Praise,as.numeric.ignore.,67,,,,,4.29850746268657,1.38186221929876,5,4.41818181818182,1,1,7,6,-0.721109205770419,3.27719670553356,0.1688213395087,Blame,as.numeric.ignore.,84,,,,,4.90476190476191,1.46952207310763,5,5,1,1,7,6,-0.545090372655597,3.22094771090515,0.160338003224384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.90476190476191,4.29850746268657,2.5858065809683,0.0106735186070193,149,0.142968914305943,1.06953996984473, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 2.5858, df = 149, p-value = 0.01067
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1429689 1.0695400
+sample estimates:
+mean of x mean of y 
+ 4.904762  4.298507 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.5858065809683,0.599768175072786,4.56335579312244,151,67,84,0.42355,0.02742,0.09824,0.74747,66.4054,61.77196,0.23544,0.01154,0.42142,0.02715,0.09775,0.7437,66.32748,61.71434,0.01154,0.20724,0.00611,0.04908,0.35017,0.01152,0.21028,0.00676,0.04912,0.36564,2.15597,1.19505,3.87973,0.01154,0.76824,0.17819,1.35577,0.01154,,,,,,,,amity,amity,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amity,1,1,1,1,1,1,151,15,89,151,151,0,0,< table of extent 0 >,"SubjectPool
+ No 
+151 ","Setting
+In a lab 
+     151 ","Tablet
+Computers 
+      151 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      151 ","analysis.type
+Secondary 
+      151 ","subset
+all 
+151 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:28.632617Z,27,Knobe,2,,amityon,Secondary,Knobe.2,47,22,25,Praise,as.numeric.ignore.,22,,,,,3.40909090909091,1.96781461837602,3.5,3.27777777777778,1.5,1,7,6,0.292274597036059,1.95610933344915,0.41953948629281,Blame,as.numeric.ignore.,25,,,,,4.8,1.93649167310371,5,4.85714285714286,2,2,7,5,-0.203791226988629,1.46148148148148,0.387298334620742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.8,3.40909090909091,2.43857260161714,0.0187555722879392,45,0.24210806207468,2.5397101197435, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 2.4386, df = 45, p-value = 0.01876
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.2421081 2.5397101
+sample estimates:
+mean of x mean of y 
+ 4.800000  3.409091 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.43857260161714,0.402536759929721,4.44919048748246,47,22,25,0.71286,0.09086,0.11767,1.30061,76.20333,69.28929,0.38579,0.02241,0.70091,0.08784,0.1157,1.27882,75.83207,68.99184,0.02241,0.34165,0.01696,0.0599,0.55273,0.02261,0.35596,0.02273,0.05997,0.6223,3.64364,1.23792,10.58093,0.02241,1.29298,0.21343,2.35905,0.02241,,,,,,,,amityon,amityon,"Amity University, India","Kakul Hai, Manini Srivastava",ML2_Slate2_IndiaEng_Inlab_DEPLOY__Amity_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,amityon,1,1,1,1,1,1,47,14,39,47,47,0,0,< table of extent 0 >,"SubjectPool
+No 
+47 ","Setting
+Online (at home) 
+              47 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             47 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       47 ","analysis.type
+Secondary 
+       47 ","subset
+all 
+ 47 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:28.761717Z,27,Knobe,2,,armstrong,Secondary,Knobe.2,85,46,39,Praise,as.numeric.ignore.,46,,,,,2.1304347826087,1.34343995692937,2,1.94736842105263,1,1,7,6,1.42809296109606,5.14157752110377,0.198079415226318,Blame,as.numeric.ignore.,39,,,,,6.15384615384615,1.26778840876256,7,6.33333333333333,0,2,7,5,-1.46966245294917,4.41638167871124,0.203008617310638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.15384615384615,2.1304347826087,14.1169692260148,8.96495913684947e-24,83,3.45654724704968,4.59027549542524, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 14.117, df = 83, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.456547 4.590275
+sample estimates:
+mean of x mean of y 
+ 6.153846  2.130435 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.1169692260148,11.1917727453576,17.0014390373831,85,46,39,3.07284,0.10292,2.43611,3.7007,99.89398,98.51032,0.97021,0,3.04499,0.10107,2.41403,3.66716,99.88366,98.43458,0,0.84022,0.00103,0.77553,0.88143,0,1.22193,0.0122,1.03406,1.38212,263.35744,82.98145,822.48317,0,5.57351,4.41862,6.71233,0,,,,,,,,armstrong,armstrong,"Armstrong Atlantic State University, Savannah, GA",Ho Phi Huynh,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,armstrong,1,1,1,1,1,1,85,15,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:28.869365Z,27,Knobe,2,,aus2,Secondary,Knobe.2,177,93,84,Praise,as.numeric.ignore.,93,,,,,2.24731182795699,1.35659351172495,2,2.06666666666667,1,1,7,6,1.12048934202176,3.7480171335472,0.140672194104349,Blame,as.numeric.ignore.,84,,,,,6.04761904761905,1.36129599752803,6.5,6.32352941176471,0.5,1,7,6,-1.90256758097504,6.64452108234527,0.148529570283634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.04761904761905,2.24731182795699,18.5801573113461,2.93028162505029e-43,175,3.3966328286277,4.20398161069642, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 18.58, df = 175, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.396633 4.203982
+sample estimates:
+mean of x mean of y 
+ 6.047619  2.247312 
+",,,,,,,,,,,,,,,,,,,,,,,,,,18.5801573113461,15.8048710307798,21.3274258059361,177,93,84,2.79676,0.04475,2.37901,3.21029,99.74191,97.60134,0.95203,0,2.78475,0.04437,2.3688,3.19651,99.73216,97.55303,0,0.81462,0.00064,0.76683,0.8498,0,1.14061,0.00575,1.0126,1.25543,159.61394,74.81728,337.92291,0,5.07276,4.31505,5.82282,0,,,,,,,,aus2,aus2,"American University of Sharjah, United Arab Emirates",Mark Aveyard,ML2_Slate2_EngUAE_r.csv,DO.BR.FL_5,DO.BR.FL_6,United Arab Emirates,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,aus2,1,1,1,1,1,1,177,15,101,177,177,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+177 ","Setting
+In a lab 
+     177 ","Tablet
+Computers 
+      177 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      177 ","analysis.type
+Secondary 
+      177 ","subset
+all 
+177 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:28.969467Z,27,Knobe,2,,badaniaon,Secondary,Knobe.2,43,20,23,Praise,as.numeric.ignore.,20,,,,,2.5,1.46897744599504,2,2.3125,1,1,6,5,0.817674492608287,2.79892920880428,0.328473342665893,Blame,as.numeric.ignore.,23,,,,,6.26086956521739,0.864312196560091,6,6.36842105263158,1,4,7,3,-0.955211214051046,3.15322919291173,0.180221551228111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.26086956521739,2.5,10.3929155193125,4.67745902359966e-13,41,3.03006114506534,4.49167798536945, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 10.393, df = 41, p-value = 4.677e-13
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.030061 4.491678
+sample estimates:
+mean of x mean of y 
+  6.26087   2.50000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.3929155193125,7.38644268264091,13.3420525769466,43,20,23,3.17755,0.21088,2.25835,4.07923,99.92574,98.76758,0.97535,0,3.11907,0.20319,2.21678,4.00415,99.90929,98.6291,0,0.85138,0.0018,0.75561,0.90155,0,1.26116,0.025,0.98591,1.48044,318.44264,60.11071,1634.18716,0,5.76344,4.09619,7.3989,0,,,,,,,,badaniaon,badaniaon,badania.net,"Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,badaniaon,1,1,1,1,1,1,43,15,40,43,43,0,100,< table of extent 0 >,"SubjectPool
+No 
+43 ","Setting
+Online (at home) 
+              43 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             43 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       43 ","analysis.type
+Secondary 
+       43 ","subset
+all 
+ 43 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.101860Z,27,Knobe,2,,bogota,Secondary,Knobe.2,102,62,40,Praise,as.numeric.ignore.,62,,,,,2.19354838709677,1.44674546774475,2,1.96,1,1,7,6,1.45952244350181,5.02869748325074,0.183736858140533,Blame,as.numeric.ignore.,40,,,,,6.2,1.01779046758035,7,6.34375,0,4,7,3,-0.85120013103112,2.34996568963827,0.160926802918084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.2,2.19354838709677,15.2381053181258,8.0693047278468e-28,100,3.48481944641021,4.52808377939625, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 15.238, df = 100, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.484819 4.528084
+sample estimates:
+mean of x mean of y 
+ 6.200000  2.193548 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.2381053181258,12.3404300060502,18.0986325060084,102,62,40,3.09033,0.08794,2.50268,3.67046,99.90003,98.55627,0.97113,0,3.0671,0.08663,2.48386,3.64286,99.89193,98.49497,0,0.83605,9e-04,0.77693,0.87528,0,1.2079,0.0101,1.03759,1.35522,271.84804,93.63003,778.57905,0,5.60524,4.53935,6.65747,0,,,,,,,,bogota,bogota,"Universidad de los Andes, Bogotá, Colombia",Carolyn Finck and William Jiménez,ML2_Slate2_SpanishColombia_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Colombia,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,bogota,1,1,1,1,1,1,102,15,65,102,102,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+102 ","Setting
+In a lab 
+     102 ","Tablet
+Computers 
+      102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.204473Z,27,Knobe,2,,brookcuny,Secondary,Knobe.2,182,94,88,Praise,as.numeric.ignore.,94,,,,,2.38297872340426,1.49627769674583,2,2.18421052631579,1,1,7,6,0.972938350526176,3.37138905001113,0.154329260672682,Blame,as.numeric.ignore.,88,,,,,6,1.3896166675593,7,6.26388888888889,0,1,7,6,-1.62843044502543,5.27551020408163,0.14813363449167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6,2.38297872340426,16.8670883869767,6.67695425299865e-39,180,3.19387664683291,4.04016590635858, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 16.867, df = 180, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.193877 4.040166
+sample estimates:
+mean of x mean of y 
+ 6.000000  2.382979 
+",,,,,,,,,,,,,,,,,,,,,,,,,,16.8670883869767,14.2318946435842,19.4750965732875,182,94,88,2.5019,0.0392,2.11102,2.88875,99.38236,96.15625,0.92312,0,2.49146,0.03887,2.10222,2.8767,99.36391,96.09427,0,0.78261,0.00083,0.72765,0.8235,0,1.05208,0.00559,0.92371,1.16761,93.49902,46.01529,188.5973,0,4.53795,3.82897,5.23961,0,,,,,,,,brookcuny,brookcuny,"Brooklyn College, New York, NY",Cheryl Carmichael,ML2_Slate2_USEng_Inlab_DEPLOY__brooklyn_cuny_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,brookcuny,1,1,1,1,1,1,182,15,91,182,182,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+182 ","Setting
+Online (at home) 
+             182 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            182 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      182 ","analysis.type
+Secondary 
+      182 ","subset
+all 
+182 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.303081Z,27,Knobe,2,,carleton,Secondary,Knobe.2,121,63,58,Praise,as.numeric.ignore.,63,,,,,2.79365079365079,1.40458615370679,3,2.70588235294118,1,1,6,5,0.300838705399339,2.391549683142,0.176961221793949,Blame,as.numeric.ignore.,58,,,,,5.79310344827586,1.21046055740802,6,5.89583333333333,1,3,7,4,-0.61513302680365,2.20707170234862,0.158941257910638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.79310344827586,2.79365079365079,12.5327905288896,1.72727065395857e-23,119,2.52555852728201,3.47334678196812, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 12.533, df = 119, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.525559 3.473347
+sample estimates:
+mean of x mean of y 
+ 5.793103  2.793651 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.5327905288896,9.99233826974835,15.0405362022068,121,63,58,2.28064,0.05461,1.81834,2.73698,98.8715,94.65901,0.89318,0,2.26623,0.05392,1.80686,2.71969,98.82814,94.5474,0,0.75429,0.00155,0.67546,0.8095,0,0.98283,0.00847,0.82071,1.12558,62.59079,27.06137,143.21311,0,4.13662,3.29811,4.96433,0,,,,,,,,carleton,carleton,"Carleton University, Ottawa, Canada",John M. Zelenski,ML2_Slate2_CanadaEng_online_DEPLOY__carleton_r.csv,DO.BR.FL_5,DO.BR.FL_6,Canada,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,carleton,1,1,1,1,1,1,121,15,78,121,121,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+121 ","Setting
+Online (at home) 
+             121 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            121 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      121 ","analysis.type
+Secondary 
+      121 ","subset
+all 
+121 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.425697Z,27,Knobe,2,,cas,Secondary,Knobe.2,48,20,28,Praise,as.numeric.ignore.,20,,,,,3.05,1.79105966869954,3,2.875,1,1,7,6,0.543745068097647,2.39314288867608,0.400493117097042,Blame,as.numeric.ignore.,28,,,,,5.75,1.07582870727984,6,5.83333333333333,1,3,7,4,-0.579302532361114,2.8112,0.203312515197611,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,2.7,5.75,3.05,6.01142937970026,1.60568028575116e-06,28.7130695830591,1.7809976066504,3.6190023933496,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 6.0114, df = 28.713, p-value = 1.606e-06
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 1.780998 3.619002
+sample estimates:
+mean of x mean of y 
+     5.75      3.05 
+",,,,,,,,,,,,,,,,,,,,,,,,,,6.01142937970026,3.48143403625312,8.47603264539769,48,20,28,1.75997,0.11798,1.01926,2.48153,96.07932,89.33393,0.78668,1e-05,1.73111,0.11414,1.00255,2.44085,95.82843,88.95395,1e-05,0.6633,0.00667,0.45666,0.7808,0,0.79868,0.02222,0.49308,1.04742,24.34255,6.35176,90.10669,1e-05,3.19223,1.84873,4.50099,1e-05,,,,,,,,cas,cas,"Chinese Academy of Science, Beijing, China",Huajian Cai,ML2_Slate2_Simplified_Chinese_Mainland_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,China,Chinese (simplified),0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,cas,1,1,1,1,1,1,48,13,42,48,48,0,0,< table of extent 0 >,"SubjectPool
+No 
+48 ","Setting
+In a lab 
+      48 ","Tablet
+Computers 
+       48 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       48 ","analysis.type
+Secondary 
+       48 ","subset
+all 
+ 48 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.525278Z,27,Knobe,2,,csunorthonline,Secondary,Knobe.2,88,39,49,Praise,as.numeric.ignore.,39,,,,,2.12820512820513,1.30140586289328,2,2,1,1,6,5,0.993807197938459,3.20606434818495,0.208391718176218,Blame,as.numeric.ignore.,49,,,,,5.93877551020408,1.37550238193945,6,6.14634146341463,1,1,7,6,-1.44219329271699,4.97443605605353,0.196500340277064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.93877551020408,2.12820512820513,13.2195576320076,2.01020521150513e-22,86,3.23754340042162,4.38359736357629, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.22, df = 86, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.237543 4.383597
+sample estimates:
+mean of x mean of y 
+ 5.938776  2.128205 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.2195576320076,10.4189368695969,15.9803091439196,88,39,49,2.83679,0.09177,2.23581,3.42923,99.77216,97.75674,0.95513,0,2.81198,0.09017,2.21625,3.39923,99.75381,97.66147,0,0.81865,0.00125,0.74697,0.86491,0,1.15272,0.01176,0.96606,1.31252,171.6361,57.70283,502.66745,0,5.14538,4.05531,6.21993,0,,,,,,,,csunorthonline,csunorthonline,"Department of Psychology, California State University, Northridge, Northridge, CA 91330",Abraham M. Rutchick,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,csunorthonline,1,1,1,1,1,1,88,13,61,88,88,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 88 ","Setting
+Online (at home) 
+              88 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.648242Z,27,Knobe,2,,fmkbelgrade,Secondary,Knobe.2,104,53,51,Praise,as.numeric.ignore.,53,,,,,2.9811320754717,2.11669704635944,2,2.74418604651163,1,1,7,6,0.725087821624289,2.13955290108084,0.290750699996457,Blame,as.numeric.ignore.,51,,,,,6.27450980392157,0.918225056781811,7,6.39024390243903,0,4,7,3,-0.881139205928971,2.51766489994592,0.128577225966706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.29337772844987,6.27450980392157,2.9811320754717,10.3593988064746,7.06684248198355e-16,71.4840262950477,2.65955347406969,3.92720198283006,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 10.359, df = 71.484, p-value = 7.067e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.659553 3.927202
+sample estimates:
+mean of x mean of y 
+ 6.274510  2.981132 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.3593988064746,7.74683584978332,12.9292277400023,104,53,51,2.03202,0.05833,1.51956,2.5361,97.89242,92.46205,0.84924,0,2.01704,0.05747,1.50836,2.51741,97.81545,92.3104,0,0.71603,0.00231,0.60862,0.78807,0,0.89945,0.0099,0.70673,1.06631,39.87216,15.73957,99.48183,0,3.68568,2.75618,4.59998,0,,,,,,,,fmkbelgrade,fmkbelgrade,"University of Belgrade, Belgrade, Serbia","Ljiljana Lazarevic, Goran Knezevic, Boban Petrovic, Janko Medjedovic, Ivan Grahek",ML2_Slate2_Serbian_inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Serbia,Serbian,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,fmkbelgrade,1,1,1,1,1,1,104,15,66,104,104,0,0,< table of extent 0 >,"SubjectPool
+ No 
+104 ","Setting
+In a lab 
+     104 ","Tablet
+Computers 
+      104 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      104 ","analysis.type
+Secondary 
+      104 ","subset
+all 
+104 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.751157Z,27,Knobe,2,,georgefox,Secondary,Knobe.2,140,55,85,Praise,as.numeric.ignore.,55,,,,,2.47272727272727,1.41230761330979,2,2.33333333333333,1,1,6,5,0.672986548139419,2.31839321023762,0.19043551972985,Blame,as.numeric.ignore.,85,,,,,5.50588235294118,1.48503270295692,6,5.71014492753623,1,1,7,6,-1.02073006632514,3.71997968221833,0.161074412064061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.50588235294118,2.47272727272727,12.0298341244231,3.03461591509439e-23,138,2.5346055389987,3.5317046214291, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 12.03, df = 138, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.534606 3.531705
+sample estimates:
+mean of x mean of y 
+ 5.505882  2.472727 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.0298341244231,9.59611342320454,14.4342479147817,140,55,85,2.08177,0.04542,1.66061,2.49786,98.13183,92.94942,0.85899,0,2.07044,0.04493,1.65157,2.48426,98.07942,92.84057,0,0.71546,0.00171,0.63263,0.7756,0,0.89828,0.0073,0.74579,1.03423,43.63737,20.32842,92.8151,0,3.77591,3.01202,4.53061,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,140,15,88,140,140,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+140 ","Setting
+Online (at home) 
+             140 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            140 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      140 ","analysis.type
+Secondary 
+      140 ","subset
+all 
+140 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.840953Z,27,Knobe,2,,grazvienna,Secondary,Knobe.2,104,53,51,Praise,as.numeric.ignore.,53,,,,,1.90566037735849,1.47105601712349,1,1.6046511627907,0,1,7,6,1.95706097222726,6.52978231562413,0.202065084112196,Blame,as.numeric.ignore.,51,,,,,6.29411764705882,1.00586515293172,7,6.48780487804878,0,3,7,4,-1.44757925495372,4.42740941049216,0.140849294086808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.29411764705882,1.90566037735849,17.6916898201281,7.49640066740927e-33,102,3.89644750266535,4.88046703673532, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 17.692, df = 102, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.896448 4.880467
+sample estimates:
+mean of x mean of y 
+ 6.294118  1.905660 
+",,,,,,,,,,,,,,,,,,,,,,,,,,17.6916898201281,14.5557861098586,20.790939353602,104,53,51,3.47027,0.09637,2.85515,4.07819,99.974,99.29332,0.98587,0,3.44469,0.09496,2.83411,4.04813,99.97141,99.25698,0,0.86846,0.00059,0.8216,0.89949,0,1.32676,0.0099,1.16172,1.46954,541.51412,177.44733,1631.12231,0,6.29437,5.17867,7.39702,0,,,,,,,,georgefox,georgefox,"George Fox University, Newberg, OR",Susan L. O’Donnell,ML2_Slate2_USEng_Inlab_DEPLOY__georgefox_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,georgefox,1,1,1,1,1,1,140,15,88,140,140,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+140 ","Setting
+Online (at home) 
+             140 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            140 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      140 ","analysis.type
+Secondary 
+      140 ","subset
+all 
+140 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:29.994406Z,27,Knobe,2,,hawaiion,Secondary,Knobe.2,122,64,58,Praise,as.numeric.ignore.,64,,,,,2.921875,1.74851127152977,3,2.73076923076923,1,1,7,6,0.640972302265941,2.52711595159904,0.218563908941222,Blame,as.numeric.ignore.,58,,,,,5.77586206896552,1.52226866070944,6,6,1,2,7,5,-1.06120777243612,3.03647688541129,0.199883667691903,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.77586206896552,2.921875,9.57036503130957,1.81824663918387e-16,120,2.26355026168904,3.444423876242, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 9.5704, df = 120, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.263550 3.444424
+sample estimates:
+mean of x mean of y 
+ 5.775862  2.921875 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.57036503130957,7.25256192310591,11.8587969525771,122,64,58,1.73502,0.0452,1.31482,2.14989,95.86314,89.00594,0.78012,0,1.72415,0.04464,1.30659,2.13643,95.76599,88.86084,0,0.65793,0.00266,0.55204,0.73456,0,0.78915,0.0084,0.62131,0.93856,23.26564,10.85717,49.37637,0,3.14698,2.38483,3.89947,0,,,,,,,,hawaiion,hawaiion,"University of Hawaii, Honolulu, HI",David Cicero,ML2_Slate2_USEng_DEPLOY__hawaiion_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,hawaiion,1,1,1,1,1,1,122,15,72,122,122,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+122 ","Setting
+Online (at home) 
+             122 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            122 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      122 ","analysis.type
+Secondary 
+      122 ","subset
+all 
+122 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.110602Z,27,Knobe,2,,help,Secondary,Knobe.2,90,42,48,Praise,as.numeric.ignore.,42,,,,,2.52380952380952,1.48550878593087,2,2.38235294117647,1,1,6,5,0.540590078963967,2.11120221606648,0.229218982067254,Blame,as.numeric.ignore.,48,,,,,6.33333333333333,1.19098266835083,7,6.575,0,1,7,6,-2.95853477248451,12.7104,0.171903541043132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.33333333333333,2.52380952380952,13.4923846833851,3.85369817367556e-23,88,3.24842002882429,4.37062759022333, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.492, df = 88, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.248420 4.370628
+sample estimates:
+mean of x mean of y 
+ 6.333333  2.523810 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.4923846833851,10.6793430714361,16.2659787832943,90,42,48,2.85079,0.08979,2.25642,3.43682,99.78194,97.80901,0.95618,0,2.82642,0.08826,2.23714,3.40744,99.76464,97.71732,0,0.82105,0.00119,0.75131,0.86626,0,1.16004,0.01149,0.97595,1.31791,176.04768,59.90133,509.63429,0,5.17075,4.0927,6.23369,0,,,,,,,,help,help,"HELP University, Malaysia",Winnee Cheong,ML2_Slate2_MalaysiaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Malaysia,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,help,1,1,1,1,1,1,90,15,64,90,90,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 90 ","Setting
+In a lab 
+      90 ","Tablet
+Computers 
+       90 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       90 ","analysis.type
+Secondary 
+       90 ","subset
+all 
+ 90 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.226778Z,27,Knobe,2,,isb,Secondary,Knobe.2,187,93,94,Praise,as.numeric.ignore.,93,,,,,3.13978494623656,1.96486197020168,3,2.93333333333333,2,1,7,6,0.538518939455911,2.1749430460469,0.2037466949912,Blame,as.numeric.ignore.,94,,,,,5.80851063829787,1.4830700194803,6,6.05263157894737,1,1,7,6,-1.2587648076068,4.02566662089459,0.152966992778143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,2.66872569206131,5.80851063829787,3.13978494623656,10.4747272689627,3.76078157035775e-20,171.150621399063,2.16581472517241,3.17163665895022,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 10.475, df = 171.15, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.165815 3.171637
+sample estimates:
+mean of x mean of y 
+ 5.808511  3.139785 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.4747272689627,8.21108575817276,12.714839758286,187,93,94,1.532,0.02767,1.20093,1.85963,93.72385,86.06593,0.72132,0,1.52578,0.02744,1.19605,1.85208,93.64675,85.96812,0,0.61015,0.00212,0.51682,0.6829,0,0.70916,0.00543,0.57199,0.83452,16.09867,8.83073,29.16571,0,2.77874,2.17824,3.37299,0,,,,,,,,isb,isb,"Indian School of Business, India","Tanuka Ghoshal, Rishtee Batra",ML2_Slate2_IndiaEng_Inlab_DEPLOY__isb_r.csv,DO.BR.FL_5,DO.BR.FL_6,India,English,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,isb,1,1,1,1,1,1,187,15,95,187,187,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+187 ","Setting
+In a lab 
+     187 ","Tablet
+Computers 
+      187 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      187 ","analysis.type
+Secondary 
+      187 ","subset
+all 
+187 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.358425Z,27,Knobe,2,,jmu,Secondary,Knobe.2,86,45,41,Praise,as.numeric.ignore.,45,,,,,2.4,1.38826248500517,2,2.27027027027027,1,1,5,4,0.492744313662848,1.8877491990032,0.206949952472289,Blame,as.numeric.ignore.,41,,,,,5.85365853658537,1.3885419620911,6,6.06060606060606,1,2,7,5,-1.21026169264093,3.75779806934098,0.216853821759953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.85365853658537,2.4,11.5216621166149,5.64141401905971e-19,84,2.85756583027498,4.04975124289575, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 11.522, df = 84, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.857566 4.049751
+sample estimates:
+mean of x mean of y 
+ 5.853659  2.400000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,11.5216621166149,8.88128495369576,14.1223753921596,86,45,41,2.48752,0.08259,1.91746,3.04901,99.35681,96.07062,0.92141,0,2.46524,0.08112,1.90029,3.02171,99.3154,95.93497,0,0.78259,0.00177,0.6959,0.83883,0,1.05203,0.01205,0.8593,1.21723,91.09091,32.39137,252.21747,0,4.51186,3.47789,5.53029,0,,,,,,,,jmu,jmu,"Department of Psychology, James Madison University, Harrisonburg, VA 22807","Jaime Kurtz, Cheryl Welch",ML2_Slate2_USEng_Inlab_DEPLOY__jmu_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jmu,1,1,1,1,1,1,86,15,66,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.452815Z,27,Knobe,2,,jos,Secondary,Knobe.2,94,46,48,Praise,as.numeric.ignore.,46,,,,,3.89130434782609,1.90003813844255,4,3.86842105263158,1,1,7,6,-0.0981525487721179,2.14460348435957,0.280145339900879,Blame,as.numeric.ignore.,48,,,,,4.85416666666667,1.91288557045992,4.5,5.025,1.5,1,7,6,-0.490306462251386,2.39202408392983,0.276101249758496,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.85416666666667,3.89130434782609,2.44758286778493,0.0162797652790882,92,0.181549578942308,1.74417505873885, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 2.4476, df = 92, p-value = 0.01628
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 0.1815496 1.7441751
+sample estimates:
+mean of x mean of y 
+ 4.854167  3.891304 
+",,,,,,,,,,,,,,,,,,,,,,,,,,2.44758286778493,0.44961135418541,4.43266900025658,94,46,48,0.50501,0.04393,0.09277,0.9146,69.32248,63.94906,0.27898,0.01797,0.50088,0.04321,0.09201,0.90712,69.17736,63.83974,0.01797,0.24725,0.00948,0.04682,0.41951,0.01801,0.25249,0.01099,0.04686,0.44709,2.49925,1.18325,5.2535,0.01797,0.91599,0.16826,1.6589,0.01797,,,,,,,,jos,jos,"University of Jos, Jos, Nigeria","Haruna Karick, Zubairu K. Dagona, Joshua C. Gandi, Evans Binan",ML2_Slate2_NigeriaEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,Nigeria,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,jos,1,1,1,1,1,1,94,15,66,94,94,0,0,< table of extent 0 >,"SubjectPool
+No 
+94 ","Setting
+In a lab 
+      94 ","Tablet
+Computers 
+       94 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       94 ","analysis.type
+Secondary 
+       94 ","subset
+all 
+ 94 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.562155Z,27,Knobe,2,,kenyon,Secondary,Knobe.2,106,47,59,Praise,as.numeric.ignore.,47,,,,,2.76595744680851,1.72214181556934,2,2.56410256410256,1,1,7,6,0.909476056200081,2.94930376567019,0.251200201286191,Blame,as.numeric.ignore.,59,,,,,6.22033898305085,0.966111948431648,7,6.3469387755102,0,3,7,4,-1.14578403097907,3.81415902312139,0.125777062451878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.45438153624234,6.22033898305085,2.76595744680851,12.2962556592036,5.26733633551945e-19,68.5394750784388,2.89387523626762,4.01488783621705,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 12.296, df = 68.539, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.893875 4.014888
+sample estimates:
+mean of x mean of y 
+ 6.220339  2.765957 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.2962556592036,9.43459248129026,15.1132356572262,106,47,59,2.40409,0.06549,1.8446,2.95485,99.18936,95.54297,0.91086,0,2.38671,0.06454,1.83126,2.93349,99.15001,95.42618,0,0.76972,0.00158,0.6791,0.82894,0,1.01965,0.00971,0.82744,1.18472,78.29929,28.38118,212.61972,0,4.36054,3.34573,5.35951,0,,,,,,,,kenyon,kenyon,"Department of Psychology, Kenyon College, Gambier, OH 43022","Katherine S. Corker, Paul Curran",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kenyon,1,1,1,1,1,1,106,15,68,106,106,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+106 ","Setting
+In a lab 
+     106 ","Tablet
+Computers 
+      106 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      106 ","analysis.type
+Secondary 
+      106 ","subset
+all 
+106 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.686440Z,27,Knobe,2,,krakowon,Secondary,Knobe.2,99,53,46,Praise,as.numeric.ignore.,53,,,,,2.60377358490566,1.51072604350345,2,2.44186046511628,1,1,7,6,0.796027907209695,3.01770852869142,0.207514181307606,Blame,as.numeric.ignore.,46,,,,,6.17391304347826,1.10160182010031,7,6.3421052631579,0,2,7,5,-1.55855693489027,5.77767860765143,0.162422327259384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.17391304347826,2.60377358490566,13.2551952982631,1.69116527945329e-23,97,3.03557633812873,4.10470257901647, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.255, df = 97, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.035576 4.104703
+sample estimates:
+mean of x mean of y 
+ 6.173913  2.603774 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.2551952982631,10.5326477778204,15.9403983466506,99,53,46,2.67108,0.07664,2.12245,3.21218,99.62196,97.05366,0.94107,0,2.65037,0.07546,2.106,3.18728,99.59799,96.95415,0,0.80268,0.00129,0.73042,0.85072,0,1.10611,0.01042,0.92962,1.25875,127.07825,46.97924,339.08493,0,4.8448,3.84971,5.82625,0,,,,,,,,krakowon,krakowon,"Jagiellonian University, Kraków, Poland","Maciek Sekerdej, Ewa Szumowska",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,krakowon,1,1,1,1,1,1,99,15,68,99,99,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 99 ","Setting
+Online (at home) 
+              99 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             99 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       99 ","analysis.type
+Secondary 
+       99 ","subset
+all 
+ 99 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.783951Z,27,Knobe,2,,kwazulu,Secondary,Knobe.2,75,40,35,Praise,as.numeric.ignore.,40,,,,,2.475,1.96099791445907,1.5,2.125,0.5,1,7,6,1.13291137575183,2.9891517731146,0.310060994826535,Blame,as.numeric.ignore.,35,,,,,6.08571428571429,1.26889086749549,6,6.31034482758621,1,1,7,6,-2.0901562309351,8.47498158567998,0.214481703089994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.08571428571429,2.475,9.31558379992738,4.77863152061798e-14,73,2.83822988233271,4.38319868909587, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 9.3156, df = 73, p-value = 4.779e-14
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.838230 4.383199
+sample estimates:
+mean of x mean of y 
+ 6.085714  2.475000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.31558379992738,6.82189198862711,11.7682312390464,75,40,35,2.15614,0.08456,1.57896,2.72382,98.44636,93.63231,0.87265,0,2.13391,0.08283,1.56268,2.69574,98.35749,93.43382,0,0.73697,0.00282,0.62395,0.80922,0,0.94381,0.01389,0.73145,1.12476,49.93904,17.53009,139.83403,0,3.9108,2.86392,4.94046,0,,,,,,,,kwazulu,kwazulu,"University of KwaZulu-Natal, KwaZulu-Natal, South Africa",Kevin Durrheim,ML2_Slate2_South_AfricaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,South Africa,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,kwazulu,1,1,1,1,1,1,75,15,51,75,75,0,0,< table of extent 0 >,"SubjectPool
+No 
+75 ","Setting
+In a lab 
+      75 ","Tablet
+Computers 
+       75 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       75 ","analysis.type
+Secondary 
+       75 ","subset
+all 
+ 75 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:30.887455Z,27,Knobe,2,,louvain,Secondary,Knobe.2,102,46,56,Praise,as.numeric.ignore.,46,,,,,2.26086956521739,1.35703570097467,2,2.10526315789474,1,1,6,5,0.866050123267213,2.80950640216074,0.200083998323737,Blame,as.numeric.ignore.,56,,,,,5.32142857142857,1.38966500681597,5.5,5.43478260869565,0.5,2,7,5,-0.589838114237429,2.56381172131122,0.185701797781937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.32142857142857,2.26086956521739,11.1852676588203,2.54275936877574e-19,100,2.51769654781525,3.60342146460711, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 11.185, df = 100, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.517697 3.603421
+sample estimates:
+mean of x mean of y 
+ 5.321429  2.260870 
+",,,,,,,,,,,,,,,,,,,,,,,,,,11.1852676588203,8.66993624901038,13.6652085956018,102,46,56,2.22574,0.06388,1.72521,2.71921,98.6984,94.22369,0.88447,0,2.209,0.06292,1.71224,2.69877,98.64127,94.08559,0,0.7455,0.00195,0.65507,0.807,0,0.96275,0.0101,0.78413,1.11837,56.65824,22.85552,138.67166,0,4.03704,3.12919,4.93211,0,,,,,,,,louvain,louvain,"Université catholique de Louvain, campus in Mons, Belgium","Nicolas Kervyn, Mike Friedman, Fanny Cambier",ML2_Slate2_French_Inlab_DEPLOY__Belgium_r.csv,DO.BR.FL_5,DO.BR.FL_6,Belgium,French,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,louvain,1,1,1,1,1,1,102,15,74,102,102,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+102 ","Setting
+In a lab 
+     102 ","Tablet
+Computers 
+      102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.033789Z,27,Knobe,2,,loyola,Secondary,Knobe.2,293,161,132,Praise,as.numeric.ignore.,161,,,,,2.3416149068323,1.38340878838339,2,2.16279069767442,1,1,7,6,1.04846092867959,3.68029738036363,0.109027886220758,Blame,as.numeric.ignore.,132,,,,,6.26515151515152,0.955976368202987,6.5,6.41509433962264,0.5,1,7,6,-1.97072792978574,9.4321086853375,0.0832070626629085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.92353660831922,6.26515151515152,2.3416149068323,28.6073476742197,1.56750201511458e-85,283.283616398243,3.65357151342072,4.19350170321772,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 28.607, df = 283.28, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.653572 4.193502
+sample estimates:
+mean of x mean of y 
+ 6.265152  2.341615 
+",,,,,,,,,,,,,,,,,,,,,,,,,,28.6073476742197,25.5327952683797,31.6597369598617,293,161,132,3.35901,0.03304,2.998,3.71742,99.96089,99.12298,0.98246,0,3.35035,0.03287,2.99027,3.70783,99.95964,99.10832,0,0.85889,0.00024,0.8315,0.88034,0,1.2891,0.00345,1.19296,1.37728,442.55868,229.93083,847.8023,0,6.09257,5.43778,6.74265,0,,,,,,,,loyola,loyola,"Department of Psychology, Loyola University Chicago, Chicago, IL 60626","Jeffrey R. Huntsinger, Robyn K. Mallett",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,loyola,1,1,1,1,1,1,293,15,112,293,293,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+293 ","Setting
+In a lab 
+     293 ","Tablet
+Computers 
+      293 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      293 ","analysis.type
+Secondary 
+      293 ","subset
+all 
+293 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.148335Z,27,Knobe,2,,lse,Secondary,Knobe.2,112,53,59,Praise,as.numeric.ignore.,53,,,,,2.81132075471698,1.27183398429175,3,2.72093023255814,1,1,6,5,0.584795272641732,2.83714700446277,0.174699833331422,Blame,as.numeric.ignore.,59,,,,,5.50847457627119,1.53547568004109,6,5.71428571428571,1,1,7,6,-1.06805961243676,3.49646386970051,0.19990190662209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.50847457627119,2.81132075471698,10.0577182590478,2.87844067925588e-17,110,2.16570865014882,3.22859899295959, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 10.058, df = 110, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.165709 3.228599
+sample estimates:
+mean of x mean of y 
+ 5.508475  2.811321 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.0577182590478,7.67452725518267,12.4089295138197,112,53,59,1.90346,0.05199,1.45243,2.34844,97.15099,91.0841,0.82168,0,1.89046,0.05128,1.44251,2.33239,97.06515,90.93485,0,0.69214,0.00244,0.59053,0.76374,0,0.85206,0.00917,0.67847,1.00514,31.57927,13.93531,70.78154,0,3.4525,2.63443,4.2596,0,,,,,,,,lse,lse,"Department of Management, London School of Economics and Political Science, London WC2A 2AE, UK",Heather Barry Kappes,ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,lse,1,1,1,1,1,1,112,15,67,112,112,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+112 ","Setting
+In a lab 
+     112 ","Tablet
+Computers 
+      112 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      112 ","analysis.type
+Secondary 
+      112 ","subset
+all 
+112 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.313089Z,27,Knobe,2,,mcdanielonline,Secondary,Knobe.2,161,85,76,Praise,as.numeric.ignore.,85,,,,,2.35294117647059,1.40327747615004,2,2.17391304347826,1,1,6,5,0.888935443394693,2.87506652043973,0.152206812673918,Blame,as.numeric.ignore.,76,,,,,5.93421052631579,1.25788739629364,6,6.09677419354839,1,3,7,4,-0.887159522154754,2.57580137119452,0.144289580073617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.93421052631579,2.35294117647059,16.971349836067,1.59989744121058e-37,159,3.16450854583342,3.99803015385698, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 16.971, df = 159, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.164509 3.998030
+sample estimates:
+mean of x mean of y 
+ 5.934211  2.352941 
+",,,,,,,,,,,,,,,,,,,,,,,,,,16.971349836067,14.2521086970321,19.6613536219982,161,85,76,2.67925,0.04722,2.24997,3.10392,99.63106,97.09217,0.94184,0,2.66659,0.04677,2.23934,3.08925,99.61688,97.03232,0,0.80269,0.00079,0.74895,0.84176,0,1.10614,0.00633,0.97055,1.22718,128.97518,59.20379,278.6294,0,4.85962,4.08099,5.62988,0,,,,,,,,mcdanielonline,mcdanielonline,"Department of Psychology, McDaniel College, Westminster, MD 21157",Wendy L. Morris,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mcdanielonline,1,1,1,1,1,1,161,15,83,161,161,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+161 ","Setting
+Online (at home) 
+             161 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            161 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      161 ","analysis.type
+Secondary 
+      161 ","subset
+all 
+161 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.477738Z,27,Knobe,2,,metu,Secondary,Knobe.2,126,58,68,Praise,as.numeric.ignore.,58,,,,,1.44827586206897,0.882031423100653,1,1.25,0,1,5,4,2.55678730204945,9.98167851415774,0.115816399837531,Blame,as.numeric.ignore.,68,,,,,6.47058823529412,0.953713687680155,7,6.66071428571429,0,3,7,4,-1.99546062884748,6.67196374532282,0.115654772673606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.47058823529412,1.44827586206897,30.4938614452531,1.82088537431636e-59,124,4.69632666500156,5.34829808144875, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 30.494, df = 124, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 4.696327 5.348298
+sample estimates:
+mean of x mean of y 
+ 6.470588  1.448276 
+",,,,,,,,,,,,,,,,,,,,,,,,,,30.4938614452531,26.2112492905128,34.745982552316,126,58,68,5.45041,0.14983,4.68495,6.21043,100,99.99419,0.99988,0,5.41738,0.14802,4.65655,6.17279,100,99.99361,0,0.93933,0.00011,0.92038,0.95229,0,1.73232,0.00813,1.59154,1.85581,19652.34152,4902.74787,78000.25596,0,9.88595,8.49755,11.26447,0,,,,,,,,metu,metu,"Middle East Technical University, Ankara, Turkey","Canay Dogulu, Sinan Alper, Ilker Dalgar",ML2_Slate2_Turkish_online_DEPLOY__metu_rmanuallyrenamerosss21_text.csv,DO.BR.FL_5,DO.BR.FL_6,Turkey,Turkish,0,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,metu,1,1,1,1,1,1,126,15,77,126,126,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+126 ","Setting
+Online (at home) 
+             126 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            126 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      126 ","analysis.type
+Secondary 
+      126 ","subset
+all 
+126 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.616224Z,27,Knobe,2,,moralsense,Secondary,Knobe.2,838,430,408,Praise,as.numeric.ignore.,430,,,,,2.45348837209302,1.62050509223011,2,2.20639534883721,1,1,7,6,1.050864630499,3.29007258083415,0.0781476949018574,Blame,as.numeric.ignore.,408,,,,,6.16911764705882,1.17019799491561,7,6.39329268292683,0,1,7,6,-1.67601698161572,6.09936197115208,0.0579334334730963,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.7156292749658,6.16911764705882,2.45348837209302,38.1953101514609,6.83121982949972e-181,781.355557458172,3.52466871623707,3.90658983369453,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 38.195, df = 781.36, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.524669 3.906590
+sample estimates:
+mean of x mean of y 
+ 6.169118  2.453488 
+",,,,,,,,,,,,,,,,,,,,,,,,,,38.1953101514609,35.4635304385859,40.9084670749619,838,430,408,2.63978,0.00893,2.45098,2.82729,99.5852,96.90217,0.93804,0,2.63741,0.00892,2.44878,2.82476,99.58229,96.89045,0,0.79731,0.00016,0.77505,0.81662,0,1.0912,0.0012,1.03285,1.14658,120.06477,85.24973,168.70359,0,4.78803,4.44558,5.12814,0,,,,,,,,moralsense,moralsense,The Moral Sense Test Website,Fiery Cushman,ML2_Slate2_USEng_Inlab_DEPLOY_nunziato_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,moralsense,1,1,1,1,1,1,838,15,120,838,838,0,100,< table of extent 0 >,"SubjectPool
+ No 
+838 ","Setting
+Online (at home) 
+             838 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            838 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      838 ","analysis.type
+Secondary 
+      838 ","subset
+all 
+838 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.779006Z,27,Knobe,2,,mturk,Secondary,Knobe.2,338,144,194,Praise,as.numeric.ignore.,144,,,,,2.34722222222222,1.42072297386006,2,2.16379310344828,1,1,6,5,0.825417111137616,2.73547218768757,0.118393581155005,Blame,as.numeric.ignore.,194,,,,,6.44329896907217,0.932644267576599,7,6.63461538461539,0,2,7,5,-1.98609636269707,7.25915126258362,0.0669599560994684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,4.09607674684994,6.44329896907217,2.34722222222222,30.1144051611519,4.89065748709249e-82,231.559711073587,3.82808730466899,4.36406618903089,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 30.114, df = 231.56, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.828087 4.364066
+sample estimates:
+mean of x mean of y 
+ 6.443299  2.347222 
+",,,,,,,,,,,,,,,,,,,,,,,,,,30.1144051611519,26.7326835921453,33.4719938169516,338,144,194,3.31246,0.02833,2.94048,3.68178,99.95376,99.04164,0.98083,0,3.30506,0.0282,2.93392,3.67356,99.95252,99.02812,0,0.8542,0.00022,0.82474,0.87709,0,1.27149,0.00299,1.17146,1.36302,406.72458,207.15094,794.73604,0,6.00814,5.33345,6.67801,0,,,,,,,,mturk,mturk,MTurk US Workers,Jesse Chandler,ML2_Slate2_USEng_mTurk_JC_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk,1,1,1,1,1,1,338,15,111,338,338,0,100,< table of extent 0 >,"SubjectPool
+ No 
+338 ","Setting
+Online (at home) 
+             338 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            338 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      338 ","analysis.type
+Secondary 
+      338 ","subset
+all 
+338 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.885229Z,27,Knobe,2,,mturk_india,Secondary,Knobe.2,359,200,159,Praise,as.numeric.ignore.,200,,,,,3.435,1.95830277249043,4,3.34375,2,1,7,6,0.131893650904526,1.75728808019071,0.13847291700444,Blame,as.numeric.ignore.,159,,,,,6.18238993710692,1.1242738636135,7,6.37209302325581,0,2,7,5,-1.24759838940439,3.71817216370975,0.0891607170320151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,2.74738993710692,6.18238993710692,3.435,16.6817026459294,1.19821231086175e-45,327.345312788998,2.42339613722515,3.07138373698868,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 16.682, df = 327.35, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.423396 3.071384
+sample estimates:
+mean of x mean of y 
+  6.18239   3.43500 
+",,,,,,,,,,,,,,,,,,,,,,,,,,16.6817026459294,14.3331247742995,19.0120162956571,359,200,159,1.77245,0.01566,1.52291,2.02005,96.18401,89.49538,0.78991,0,1.76872,0.0156,1.51971,2.0158,96.153,89.44738,0,0.66185,0.00088,0.60437,0.7093,0,0.79609,0.00281,0.7,0.88577,24.90003,15.83551,39.01566,0,3.21487,2.76226,3.66396,0,,,,,,,,mturk_india,mturk_india,MTurk India Workers,Jesse Chandler,ML2_Slate2_IndiaEng_MTurk_r.csv,DO.BR.FL_7USpC7z4VD7snJj,DO.BR.FL_0OPH0oAiaRPdYYB,India,English,0,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,mturk_india,1,1,1,1,1,1,218,15,104,359,359,0,0,< table of extent 0 >,"SubjectPool
+ No 
+359 ","Setting
+Online (at home) 
+             359 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            359 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      359 ","analysis.type
+Secondary 
+      359 ","subset
+all 
+359 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:31.988455Z,27,Knobe,2,,munich,Secondary,Knobe.2,84,52,32,Praise,as.numeric.ignore.,52,,,,,2.55769230769231,1.30479450021174,2,2.45238095238095,1,1,6,5,0.594601261946627,2.50463858014812,0.180942441325263,Blame,as.numeric.ignore.,32,,,,,6.25,1.29515225160547,7,6.53846153846154,0,1,7,6,-2.64756782436548,10.4363905325444,0.228952734944813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.25,2.55769230769231,12.6300473904524,6.26023760329399e-21,82,3.11074406203039,4.27387132258499, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 12.63, df = 82, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.110744 4.273871
+sample estimates:
+mean of x mean of y 
+ 6.250000  2.557692 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.6300473904524,9.85910677874731,15.3602520579653,84,52,32,2.83771,0.09841,2.21514,3.45113,99.77281,97.76019,0.9552,0,2.81168,0.09662,2.19481,3.41947,99.75358,97.66027,0,0.8127,0.00139,0.73649,0.86145,0,1.13493,0.01235,0.94276,1.29892,171.92116,55.57946,523.03976,0,5.14704,4.01781,6.25966,0,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,84,15,68,84,84,0,100,< table of extent 0 >,"SubjectPool
+No 
+84 ","Setting
+In a classroom 
+            84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.135475Z,27,Knobe,2,,munichon,Secondary,Knobe.2,213,105,108,Praise,as.numeric.ignore.,105,,,,,2.40952380952381,1.61540205816503,2,2.16470588235294,1,1,7,6,1.10555242014222,3.54519667604677,0.157647098640446,Blame,as.numeric.ignore.,108,,,,,6.19444444444445,1.12289956220104,7,6.38636363636364,0,2,7,5,-1.34285330420305,4.13984070417651,0.108051060751613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.78492063492064,6.19444444444445,2.40952380952381,19.8036833539366,1.39250554354246e-47,184.984815694154,3.40786147519287,4.1619797946484,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 19.804, df = 184.98, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.407861 4.161980
+sample estimates:
+mean of x mean of y 
+ 6.194444  2.409524 
+",,,,,,,,,,,,,,,,,,,,,,,,,,19.8036833539366,16.9779606314397,22.6020659057282,213,105,108,2.71412,0.03608,2.32685,3.09764,99.66774,97.25188,0.94504,0,2.70446,0.03582,2.31857,3.08662,99.65793,97.20839,0,0.80634,0.00058,0.75985,0.84125,0,1.11649,0.00476,0.99585,1.22543,137.39657,68.06363,275.47683,0,4.92287,4.22044,5.6185,0,,,,,,,,munich,munich,"Munich, Germany","Felix Schönbrodt, Phillip Spachtholz",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,munich,1,1,1,1,1,1,84,15,68,84,84,0,100,< table of extent 0 >,"SubjectPool
+No 
+84 ","Setting
+In a classroom 
+            84 ","Tablet
+Computers 
+       84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.250045Z,27,Knobe,2,,northumbria,Secondary,Knobe.2,79,39,40,Praise,as.numeric.ignore.,39,,,,,2.12820512820513,1.32147220890959,2,1.90909090909091,1,1,6,5,1.49486079962117,4.94274848366853,0.211604905117422,Blame,as.numeric.ignore.,40,,,,,6.175,0.843907274041104,6,6.25,1,4,7,3,-0.596087410876266,2.36003195279024,0.133433455997689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.175,2.12820512820513,16.2641776570008,1.27168054678039e-26,77,3.55133803126853,4.54225171232121, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 16.264, df = 77, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.551338 4.542252
+sample estimates:
+mean of x mean of y 
+ 6.175000  2.128205 
+",,,,,,,,,,,,,,,,,,,,,,,,,,16.2641776570008,13.0159269736416,19.4706143865569,79,39,40,3.66002,0.13542,2.92905,4.38158,99.98739,99.51736,0.99035,0,3.62425,0.13279,2.90042,4.33876,99.98551,99.48074,0,0.88008,0.00065,0.82917,0.91169,0,1.37612,0.01316,1.18547,1.53745,763.97906,202.89806,2827.95718,0,6.63854,5.3127,7.94731,0,,,,,,,,northumbria,northumbria,"Department of Psychology, Northumbria University, Newcastle upon Tyne, UK","Matthew Haigh, Andriy Myachykov, Michael A. Smith, Nick Neave",ML2_Slate2_UKEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,northumbria,1,1,1,1,1,1,79,15,55,79,79,0,100,< table of extent 0 >,"SubjectPool
+No 
+79 ","Setting
+In a lab 
+      79 ","Tablet
+Computers 
+       79 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       79 ","analysis.type
+Secondary 
+       79 ","subset
+all 
+ 79 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.369718Z,27,Knobe,2,,osnabruck,Secondary,Knobe.2,86,45,41,Praise,as.numeric.ignore.,45,,,,,2.4,1.33824851612438,2,2.27027027027027,1,1,7,6,1.02190645510258,4.30983792419284,0.199494310189488,Blame,as.numeric.ignore.,41,,,,,6.26829268292683,0.922615582024888,7,6.39393939393939,0,4,7,3,-0.940971406491514,2.73784903243816,0.144088346221872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.26829268292683,2.4,15.4582203551366,2.74055825545205e-26,84,3.37065944654955,4.36592591930411, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 15.458, df = 84, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.370659 4.365926
+sample estimates:
+mean of x mean of y 
+ 6.268293  2.400000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.4582203551366,12.3904957533762,18.4855308574346,86,45,41,3.33742,0.11137,2.6751,3.99101,99.95772,99.08603,0.98172,0,3.30753,0.10938,2.65114,3.95527,99.95294,99.03265,0,0.86018,8e-04,0.80396,0.89593,0,1.29402,0.01205,1.10971,1.45118,425.55988,128.00782,1392.55285,0,6.05341,4.85209,7.23889,0,,,,,,,,osnabruck,osnabruck,"University of Osnabrück, Osnabrück, Germany","Timo Gnambs, Carrie Kovacs",Slate_2_Deutsch__germany__Revised_Version_2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Germany,German,1,Yes,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,osnabruck,1,1,1,1,1,1,86,15,59,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+In a classroom 
+            86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.494697Z,27,Knobe,2,,ouhk,Secondary,Knobe.2,68,37,31,Praise,as.numeric.ignore.,37,,,,,3.35135135135135,1.39873387620964,3,3.29032258064516,1,1,7,6,0.341191784783547,3.21965221058435,0.229950432758563,Blame,as.numeric.ignore.,31,,,,,6,0.966091783079296,6,6.08,1,4,7,3,-0.450946526407844,2.05612244897959,0.173515206485542,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6,3.35135135135135,8.90747194762479,6.3495089423307e-13,66,2.0549675591889,3.24232973810839, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 8.9075, df = 66, p-value = 6.35e-13
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.054968 3.242330
+sample estimates:
+mean of x mean of y 
+ 6.000000  3.351351 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.90747194762479,6.40769614075995,11.3640341891023,68,37,31,2.16884,0.09387,1.56018,2.76698,98.49525,93.7436,0.87487,0,2.1441,0.09174,1.54238,2.73541,98.39875,93.52538,0,0.73885,0.00308,0.61929,0.8135,0,0.94795,0.01538,0.72385,1.13729,51.10273,16.94297,151.22034,0,3.93384,2.82985,5.01874,0,,,,,,,,ouhk,ouhk,Open University of Hong Kong,"Andrew Tang, Stephanie Szeto, Elsie Li Chen Ong",ML2_Slate2_Traditional_ChineseHong_Kong_r.csv,DO.BR.FL_5,DO.BR.FL_6,"Hong Kong, China",Chinese (traditional),0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ouhk,1,1,1,1,1,1,68,14,53,68,68,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+ 68 ","Setting
+In a lab 
+      68 ","Tablet
+Computers 
+       68 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       68 ","analysis.type
+Secondary 
+       68 ","subset
+all 
+ 68 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.640744Z,27,Knobe,2,,padua,Secondary,Knobe.2,78,31,47,Praise,as.numeric.ignore.,31,,,,,2.29032258064516,1.3464409477606,2,2.16,1,1,5,4,0.622891694042564,2.02441500656442,0.241827933083759,Blame,as.numeric.ignore.,47,,,,,6.23404255319149,0.889864815269268,7,6.30769230769231,0,4,7,3,-0.660424451380466,2.07981728753603,0.129800123713527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.23404255319149,2.29032258064516,15.5927320900759,2.17480764983076e-25,76,3.43998534771889,4.44745459737377, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 15.593, df = 76, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.439985 4.447455
+sample estimates:
+mean of x mean of y 
+ 6.234043  2.290323 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.5927320900759,12.4151119141556,18.7281047007689,78,31,47,3.60778,0.13697,2.87255,4.33323,99.98456,99.46306,0.98926,0,3.57206,0.13427,2.84411,4.29032,99.98229,99.42287,0,0.87284,0.00074,0.81839,0.90659,0,1.3449,0.01333,1.15192,1.50804,694.91149,183.1373,2590.49126,0,6.54378,5.21024,7.8596,0,,,,,,,,padua,padua,"Department FISPPA, Applied Psychology, University of Padua, 35131 Padua, Italy","Elisa Maria Galliani, Anna Dalla Rosa",ML2_Slate2_Italian_r.csv,DO.BR.FL_5,DO.BR.FL_6,Italy,Italian,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,padua,1,1,1,1,1,1,78,15,58,78,78,0,100,< table of extent 0 >,"SubjectPool
+No 
+78 ","Setting
+In a lab 
+      78 ","Tablet
+Computers 
+       78 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       78 ","analysis.type
+Secondary 
+       78 ","subset
+all 
+ 78 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.820767Z,27,Knobe,2,,pascal,Secondary,Knobe.2,176,93,83,Praise,as.numeric.ignore.,93,,,,,2.18279569892473,1.3905444395064,2,1.97333333333333,1,1,7,6,1.25542889587574,4.03020552835601,0.144192741314413,Blame,as.numeric.ignore.,83,,,,,5.95180722891566,1.26783485938777,6,6.14925373134328,1,2,7,5,-1.17359523527786,3.82478595229422,0.139162955129832,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.95180722891566,2.18279569892473,18.7092286641282,1.62506048153696e-43,174,3.37140744237038,4.16661561761149, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 18.709, df = 174, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.371407 4.166616
+sample estimates:
+mean of x mean of y 
+ 5.951807  2.182796 
+",,,,,,,,,,,,,,,,,,,,,,,,,,18.7092286641282,15.9203874055164,21.4699460506304,176,93,83,2.82509,0.04547,2.40397,3.24195,99.76366,97.7122,0.95424,0,2.81289,0.04508,2.3936,3.22796,99.75451,97.66502,0,0.81729,0.00063,0.77003,0.85204,0,1.1486,0.00578,1.0204,1.26354,168.02948,78.28244,357.89978,0,5.12414,4.36032,5.88025,0,,,,,,,,pascal,pascal,"Université Blaise Pascal, Clermont-Ferrand, France",Catherine Verniers,ML2_Slate2_French_Inlab_DEPLOY__france_pascal_r.csv,DO.BR.FL_5,DO.BR.FL_6,France,French,1,No,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,pascal,1,1,1,1,1,1,176,15,93,176,176,0,100,< table of extent 0 >,"SubjectPool
+ No 
+176 ","Setting
+Online (at home) 
+             176 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            176 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      176 ","analysis.type
+Secondary 
+      176 ","subset
+all 
+176 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:32.940150Z,27,Knobe,2,,psualtoona,Secondary,Knobe.2,177,95,82,Praise,as.numeric.ignore.,95,,,,,2.08421052631579,1.38120482323144,2,1.84415584415584,1,1,7,6,1.33387733309282,4.18802540216894,0.141708624843106,Blame,as.numeric.ignore.,82,,,,,5.9390243902439,1.29907432357167,6,6.15151515151515,1,2,7,5,-1.14439936480555,3.37331838946026,0.143458760036669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.9390243902439,2.08421052631579,19.0303273988435,1.76381883562276e-44,175,3.45503573500189,4.25459199285434, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 19.03, df = 175, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.455036 4.254592
+sample estimates:
+mean of x mean of y 
+ 5.939024  2.084211 
+",,,,,,,,,,,,,,,,,,,,,,,,,,19.0303273988435,16.2216192358942,21.8109575394153,177,95,82,2.86856,0.04597,2.44519,3.2877,99.79383,97.87392,0.95748,0,2.85625,0.04557,2.43469,3.27359,99.78566,97.82914,0,0.8211,6e-04,0.77497,0.85502,0,1.16019,0.00575,1.03266,1.27454,181.81597,84.35878,388.86585,0,5.203,4.43508,5.96323,0,,,,,,,,psualtoona,psualtoona,"Psychology Department, Penn State Altoona, Altoona, PA",Brad Pinter,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,psualtoona,1,1,1,1,1,1,177,15,97,177,177,0,100,< table of extent 0 >,"SubjectPool
+ No 
+177 ","Setting
+In a lab 
+     177 ","Tablet
+Computers 
+      177 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      177 ","analysis.type
+Secondary 
+      177 ","subset
+all 
+177 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.044065Z,27,Knobe,2,,puc,Secondary,Knobe.2,81,40,41,Praise,as.numeric.ignore.,40,,,,,2.325,1.9133471812239,1,1.9375,0,1,7,6,1.37324376343603,3.61550063848436,0.302526752366524,Blame,as.numeric.ignore.,41,,,,,6.58536585365854,1.07181177816111,7,6.84848484848485,0,1,7,6,-3.80125259622239,19.2948970208392,0.167388877431937,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,4.26036585365854,6.58536585365854,2.325,12.3221813227991,3.3854333567424e-18,60.9635545221098,3.56899223880203,4.95173946851504,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 12.322, df = 60.964, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.568992 4.951739
+sample estimates:
+mean of x mean of y 
+ 6.585366  2.325000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.3221813227991,9.36530140465075,15.2316993759143,81,40,41,2.73847,0.09568,2.08134,3.38508,99.69137,97.35901,0.94718,0,2.71239,0.09387,2.06151,3.35284,99.666,97.24413,0,0.81103,0.00146,0.72534,0.8637,0,1.13002,0.01282,0.91883,1.30775,143.60082,43.60305,463.98678,0,4.96704,3.77513,6.13986,0,,,,,,,,puc,puc,"School of Psychology, P. Universidad Católica de Chile, Santiago, Chile","Roberto Gonzalez, Patricio Saavedra Morales",ML2_Slate2_SpanishChile_Inlab_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Chile,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,puc,1,1,1,1,1,1,81,15,60,81,81,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 81 ","Setting
+Online (at home) 
+              81 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.211611Z,27,Knobe,2,,queensland2,Secondary,Knobe.2,139,71,68,Praise,as.numeric.ignore.,71,,,,,2.57746478873239,1.36969205956236,2,2.43859649122807,1,1,6,5,0.726884003507603,2.58738965109621,0.162552541366237,Blame,as.numeric.ignore.,68,,,,,6.35294117647059,0.748425329675638,6.5,6.44642857142857,0.5,4,7,3,-0.8868741354693,3.08041391102682,0.0907599025629522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.77547638773819,6.35294117647059,2.57746478873239,20.2793095789637,7.58773019558045e-39,109.344835350476,3.40649900330697,4.14445377216942,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 20.279, df = 109.34, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.406499 4.144454
+sample estimates:
+mean of x mean of y 
+ 6.352941  2.577465 
+",,,,,,,,,,,,,,,,,,,,,,,,,,20.2793095789637,16.9381393951685,23.5854549412161,139,71,68,3.44094,0.07138,2.87402,4.00192,99.97102,99.25151,0.98503,0,3.42207,0.0706,2.85826,3.97997,99.96893,99.22348,0,0.86609,0.00045,0.82269,0.89576,0,1.31722,0.00735,1.16507,1.45034,513.46014,183.62431,1420.37142,0,6.24117,5.21289,7.25867,0,,,,,,,,queensland2,queensland2,"The University of Queensland, Brisbane, St Lucia Queensland 4072, Australia","Morgan Tear, Alexander Saeri, Sean Murphy, Nerisa Dozo",ML2_Slate2_USEng_Inlab_DEPLOY__queensland2_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,queensland2,1,1,1,1,1,1,139,15,83,139,139,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+139 ","Setting
+In a lab 
+     139 ","Tablet
+Computers 
+      139 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      139 ","analysis.type
+Secondary 
+      139 ","subset
+all 
+139 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.325536Z,27,Knobe,2,,ritonline,Secondary,Knobe.2,86,45,41,Praise,as.numeric.ignore.,45,,,,,2.4,1.26849947145866,2,2.27027027027027,1,1,5,4,0.632387780379355,2.39715598965815,0.189096736506942,Blame,as.numeric.ignore.,41,,,,,6.14634146341463,1.25620411577411,6,6.42424242424242,1,1,7,6,-2.2706602105927,8.80810852131703,0.196186122460392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.14634146341463,2.4,13.742637074593,3.36077682396762e-23,84,3.20423220086912,4.28845072596015, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.743, df = 84, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.204232 4.288451
+sample estimates:
+mean of x mean of y 
+ 6.146341  2.400000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.742637074593,10.8683078771354,16.5765116090449,86,45,41,2.96702,0.09779,2.34646,3.57886,99.84965,98.20476,0.9641,0,2.94045,0.09605,2.32545,3.54681,99.83613,98.12012,0,0.83196,0.00111,0.76446,0.87514,0,1.19446,0.01205,1.00687,1.35463,217.36696,70.52772,659.39722,0,5.38159,4.25601,6.49133,0,,,,,,,,ritonline,ritonline,"Rochester Institute of Technology, Rochester, NY",John E. Edlund,ML2_Slate2_USEng_Inlab_DEPLOY__Hearing_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ritonline,1,1,1,1,1,1,86,15,65,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+Online (at home) 
+              86 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.423716Z,27,Knobe,2,,rotterdam,Secondary,Knobe.2,77,34,43,Praise,as.numeric.ignore.,34,,,,,2.82352941176471,1.48672078109069,2,2.67857142857143,1,1,7,6,0.980963993298342,3.46566077003122,0.254970510459019,Blame,as.numeric.ignore.,43,,,,,5.74418604651163,1.55980803543888,6,6.05714285714286,1,1,7,6,-1.66231444708983,5.43881444241942,0.237868495397739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.74418604651163,2.82352941176471,8.32842017038996,2.8279474352679e-12,75,2.22205518883694,3.6192580806569, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 8.3284, df = 75, p-value = 2.828e-12
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.222055 3.619258
+sample estimates:
+mean of x mean of y 
+ 5.744186  2.823529 
+",,,,,,,,,,,,,,,,,,,,,,,,,,8.32842017038996,5.94016213243859,10.6779596832439,77,34,43,1.91132,0.07639,1.36323,2.45053,97.20185,91.1734,0.82347,0,1.89215,0.07486,1.34955,2.42594,97.07643,90.95436,0,0.69316,0.00355,0.56564,0.77667,0,0.85402,0.01351,0.64109,1.03692,32.03273,11.85359,85.1802,0,3.46676,2.47263,4.44477,0,,,,,,,,rotterdam,rotterdam,"Erasmus University Rotterdam, Rotterdam, The Netherlands",Steffen Giessner,ML2_Slate2_NetherlandsEng_Inlab_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,rotterdam,1,1,1,1,1,1,77,15,58,77,77,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 77 ","Setting
+In a lab 
+      77 ","Tablet
+Computers 
+       77 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       77 ","analysis.type
+Secondary 
+       77 ","subset
+all 
+ 77 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.559370Z,27,Knobe,2,,salford,Secondary,Knobe.2,102,35,67,Praise,as.numeric.ignore.,35,,,,,2.45714285714286,1.61505521928649,2,2.24137931034483,1,1,7,6,1.09817066542696,3.47005609655649,0.272994158040295,Blame,as.numeric.ignore.,67,,,,,6.05970149253731,1.25384979303048,7,6.25454545454546,0,2,7,5,-1.27470720809133,3.79039411794306,0.153182132520802,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.05970149253731,2.45714285714286,12.4516506256092,4.73704884711962e-22,100,3.02854849478437,4.17656877600455, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 12.452, df = 100, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.028548 4.176569
+sample estimates:
+mean of x mean of y 
+ 6.059701  2.457143 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.4516506256092,9.82360025629386,15.0433792184006,102,35,67,2.5969,0.07656,2.0488,3.13743,99.52966,96.68424,0.93368,0,2.57738,0.07541,2.03339,3.11384,99.50223,96.58089,0,0.77969,0.00152,0.70079,0.83279,0,1.04457,0.0101,0.86885,1.19717,111.08098,41.1042,296.09158,0,4.71026,3.71611,5.69067,0,,,,,,,,salford,salford,"University of Salford, Manchester, UK",Sharon Coen,ML2_Slate2_UKEng_Inlab_DEPLOY__salford_r.csv,DO.BR.FL_5,DO.BR.FL_6,UK,English,1,No,In a classroom,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,salford,1,1,1,1,1,1,102,15,66,102,102,0,100,< table of extent 0 >,"SubjectPool
+ No 
+102 ","Setting
+In a classroom 
+           102 ","Tablet
+Computers 
+      102 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      102 ","analysis.type
+Secondary 
+      102 ","subset
+all 
+102 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.659682Z,27,Knobe,2,,seznam,Secondary,Knobe.2,85,40,45,Praise,as.numeric.ignore.,40,,,,,3.05,1.81093544321358,2,2.875,1,1,7,6,0.659408162695121,2.28853354329669,0.286334034804072,Blame,as.numeric.ignore.,45,,,,,6.13333333333333,1.14017542509914,6,6.35135135135135,1,2,7,5,-1.75202141385017,6.16365103428041,0.16996731711976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.08333333333333,6.13333333333333,3.05,9.25979920340277,1.92406339024169e-13,64.2549566370863,2.4181789791706,3.74848768749607,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 9.2598, df = 64.255, p-value = 1.924e-13
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.418179 3.748488
+sample estimates:
+mean of x mean of y 
+ 6.133333  3.050000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,9.25979920340277,6.70894423016624,11.7662243657654,85,40,45,2.01222,0.07104,1.4579,2.55688,97.79015,92.26105,0.84522,0,1.99398,0.06976,1.44469,2.53371,97.69228,92.07237,0,0.71283,0.00288,0.59297,0.79069,0,0.89292,0.0122,0.68223,1.07326,38.46534,14.0741,103.30308,0,3.64976,2.64434,4.63767,0,,,,,,,,seznam,seznam,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznam,1,1,1,1,1,1,85,14,61,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.764299Z,27,Knobe,2,,seznamon,Secondary,Knobe.2,118,64,54,Praise,as.numeric.ignore.,64,,,,,2.390625,1.35244854375021,2,2.25,1,1,5,4,0.621789956774359,2.19671675035909,0.169056067968776,Blame,as.numeric.ignore.,54,,,,,5.94444444444445,1.27998624206443,6,6.15909090909091,1,3,7,4,-1.09451307747939,3.169871169057,0.174184065046689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.94444444444445,2.390625,14.5720871203917,5.6594609074167e-28,116,3.07078725135101,4.03685163753788, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 14.572, df = 116, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.070787 4.036852
+sample estimates:
+mean of x mean of y 
+ 5.944444  2.390625 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.5720871203917,11.8440141594975,17.2659532983306,118,64,54,2.69263,0.06486,2.18853,3.1904,99.64554,97.15432,0.94309,0,2.67518,0.06403,2.17435,3.16972,99.62655,97.07303,0,0.80419,0.00107,0.73985,0.84846,0,1.11035,0.0087,0.95014,1.25063,132.14262,52.96119,325.94859,0,4.88388,3.96956,5.78674,0,,,,,,,,seznamon,seznamon,"Department of Psychology, Charles University, Prague, Czech Republic","Štěpán Bahník, Marek Vranka",ML2_Slate2_CzechCzech_Republic_recoded_values_r.csv,DO.BR.FL_5,DO.BR.FL_6,Czech Republic,Czech,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,seznamon,1,1,1,1,1,1,118,15,79,118,118,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+118 ","Setting
+Online (at home) 
+             118 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            118 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      118 ","analysis.type
+Secondary 
+      118 ","subset
+all 
+118 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:33.916189Z,27,Knobe,2,,simmons,Secondary,Knobe.2,96,50,46,Praise,as.numeric.ignore.,50,,,,,2.34,1.40857432627926,2,2.175,1,1,5,4,0.707190008992034,2.16106662565547,0.199202491583467,Blame,as.numeric.ignore.,46,,,,,6.08695652173913,0.96208308619074,6,6.18421052631579,1,4,7,3,-0.628134299959275,2.24755383736996,0.141851412211503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.74695652173913,6.08695652173913,2.34,15.3220019515211,1.97396115301214e-26,86.9488287234014,3.26088794941498,4.23302509406328,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 15.322, df = 86.949, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.260888 4.233025
+sample estimates:
+mean of x mean of y 
+ 6.086957  2.340000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.3220019515211,12.3002775825023,18.3039440783651,96,50,46,3.13031,0.09277,2.51297,3.73952,99.91269,98.65671,0.97313,0,3.10527,0.0913,2.49286,3.70961,99.90495,98.59453,0,0.84503,0.00086,0.78536,0.88369,0,1.23852,0.01075,1.05921,1.39235,292.29177,95.39404,882.48968,0,5.67775,4.55802,6.78275,0,,,,,,,,simmons,simmons,"Simmons College, Boston, MA",Kristin Nicole Dukes,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,simmons,1,1,1,1,1,1,96,15,69,96,96,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 96 ","Setting
+In a lab 
+      96 ","Tablet
+Computers 
+       96 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       96 ","analysis.type
+Secondary 
+       96 ","subset
+all 
+ 96 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.022369Z,27,Knobe,2,,swps,Secondary,Knobe.2,88,42,46,Praise,as.numeric.ignore.,42,,,,,2.54761904761905,1.21379029314207,3,2.5,1,1,5,4,0.177610493897273,1.98391872809033,0.18729190838329,Blame,as.numeric.ignore.,46,,,,,6.10869565217391,1.07967610100983,6.5,6.26315789473684,0.5,3,7,4,-0.966927936927157,3.02285142520424,0.159189556346582,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.10869565217391,2.54761904761905,14.5653281661582,6.13986084726305e-25,86,3.07504663581854,4.04710657329119, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 14.565, df = 86, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.075047 4.047107
+sample estimates:
+mean of x mean of y 
+ 6.108696  2.547619 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.5653281661582,11.6187991607049,17.4718306904562,88,42,46,3.10855,0.10045,2.4797,3.72886,99.906,98.60282,0.97206,0,3.08136,0.0987,2.45801,3.69625,99.89697,98.53287,0,0.84354,0.00096,0.78157,0.88329,0,1.23331,0.01176,1.0494,1.39054,280.98141,89.80827,865.58502,0,5.63829,4.49768,6.76341,0,,,,,,,,swps,swps,"Department of Psychology, SWPS University of Social Sciences and Humanities Campus Sopot, Sopot, Poland","Konrad Bocian, Natalia Frankowska, Olga Bialobrzeska, Marta Wrońska, Małgorzata Osowiecka",ML2_Slate2_Polish_r.csv,DO.BR.FL_5,DO.BR.FL_6,Poland,Polish,1,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,swps,1,1,1,1,1,1,88,15,61,88,88,0,100,< table of extent 0 >,"SubjectPool
+No 
+88 ","Setting
+In a lab 
+      88 ","Tablet
+Computers 
+       88 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       88 ","analysis.type
+Secondary 
+       88 ","subset
+all 
+ 88 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.158429Z,27,Knobe,2,,tamu,Secondary,Knobe.2,85,44,41,Praise,as.numeric.ignore.,44,,,,,2.45454545454545,1.69066583078212,2,2.22222222222222,1,1,7,6,0.984622858600339,2.88350372886103,0.2548774639354,Blame,as.numeric.ignore.,41,,,,,5.87804878048781,1.16608580197213,6,6.03030303030303,1,3,7,4,-0.814532646079844,2.84457559975065,0.182112006378879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.87804878048781,2.45454545454545,10.7910834472586,1.7915442678067e-17,83,2.79249991874276,4.05450673314194, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 10.791, df = 83, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.792500 4.054507
+sample estimates:
+mean of x mean of y 
+ 5.878049  2.454545 
+",,,,,,,,,,,,,,,,,,,,,,,,,,10.7910834472586,8.21646092962079,13.3263074045506,85,44,41,2.34237,0.07939,1.78351,2.89268,99.04192,95.11703,0.90234,0,2.32114,0.07796,1.76735,2.86647,98.98605,94.96321,0,0.7641,0.00206,0.66973,0.82553,0,1.006,0.0122,0.81026,1.17392,70.00709,25.40466,189.9477,0,4.2486,3.23493,5.24675,0,,,,,,,,tamu,tamu,"Department of Psychology, Texas A&M University, College Station, TX 77843","William E. Davis, Joshua A. Hicks",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamu,1,1,1,1,1,1,85,15,62,85,85,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 85 ","Setting
+In a lab 
+      85 ","Tablet
+Computers 
+       85 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       85 ","analysis.type
+Secondary 
+       85 ","subset
+all 
+ 85 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.267188Z,27,Knobe,2,,tamucc,Secondary,Knobe.2,89,47,42,Praise,as.numeric.ignore.,47,,,,,2.65957446808511,1.5361809753083,2,2.51282051282051,1,1,7,6,0.768104209232076,2.89742080069138,0.224075024902573,Blame,as.numeric.ignore.,42,,,,,6.19047619047619,1.17365585262243,7,6.41176470588235,0,2,7,5,-1.74931692804416,6.01691743755848,0.181099029762257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.19047619047619,2.65957446808511,12.0737781128503,2.73500763458981e-20,87,2.94963797550872,4.11216546927345, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 12.074, df = 87, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.949638 4.112165
+sample estimates:
+mean of x mean of y 
+ 6.190476  2.659574 
+",,,,,,,,,,,,,,,,,,,,,,,,,,12.0737781128503,9.39901537198064,14.7093587374486,89,47,42,2.56368,0.08201,1.99574,3.12331,99.48216,96.50686,0.93014,0,2.54152,0.0806,1.97848,3.09631,99.44814,96.38422,0,0.79136,0.00159,0.70981,0.84452,0,1.07506,0.01163,0.88679,1.23673,104.58601,37.33273,288.60492,0,4.65001,3.61987,5.66506,0,,,,,,,,tamucc,tamucc,"Department of Psychology, Counseling, and Special Education, Texas A&M University-Commerce, Commerce, TX 75429",Lacy E. Krueger,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tamucc,1,1,1,1,1,1,89,15,61,89,89,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 89 ","Setting
+In a lab 
+      89 ","Tablet
+Computers 
+       89 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       89 ","analysis.type
+Secondary 
+       89 ","subset
+all 
+ 89 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.367902Z,27,Knobe,2,,tanzania,Secondary,Knobe.2,63,34,29,Praise,as.numeric.ignore.,34,,,,,4.26470588235294,2.30031385907823,4,4.32142857142857,2,1,7,6,-0.192804875471315,1.58363192500538,0.394500572215621,Blame,as.numeric.ignore.,29,,,,,4.41379310344828,2.41301887653664,4,4.48,3,1,7,6,-0.187401131015692,1.49205832839462,0.448086356306082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,4.41379310344828,4.26470588235294,0.250691017655715,0.802895489868484,61,-1.04009907808434,1.33827352027501, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 0.25069, df = 61, p-value = 0.8029
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.040099  1.338274
+sample estimates:
+mean of x mean of y 
+ 4.413793  4.264706 
+",,,,,,,,,,,,,,,,,,,,,,,,,,0.250691017655715,-1.71080040692247,2.21013290049974,63,34,29,0.06337,0.06393,-0.43245,0.55866,52.52633,51.78698,0.03574,0.80294,0.06259,0.06236,-0.42711,0.55177,52.49518,51.76494,0.80294,0.03208,0.0161,-0.21397,0.27229,0.80452,0.03209,0.01667,-0.21733,0.27933,1.1218,0.45641,2.75469,0.80294,0.11494,-0.78437,1.0133,0.80294,,,,,,,,tanzania,tanzania,Open University of Tanzania,Winfrida Malingumu,ML2_Slate2_TanzaniaEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,Tanzania,English,0,No,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tanzania,1,1,1,1,1,1,63,15,48,63,63,0,0,< table of extent 0 >,"SubjectPool
+No 
+63 ","Setting
+In a lab 
+      63 ","Tablet
+Computers 
+       63 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       63 ","analysis.type
+Secondary 
+       63 ","subset
+all 
+ 63 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.521042Z,27,Knobe,2,,tilburg,Secondary,Knobe.2,95,57,38,Praise,as.numeric.ignore.,57,,,,,2,1.19522860933439,2,1.80851063829787,1,1,7,6,2.0258331619361,8.4075,0.158311896715326,Blame,as.numeric.ignore.,38,,,,,6.39473684210526,0.718085806971244,7,6.46875,0,5,7,2,-0.734585144678323,2.28837098692033,0.116488900100706,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.39473684210526,2,20.3306414084672,5.46599980266942e-36,93,3.9654795344145,4.82399414979603, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 20.331, df = 93, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.965480 4.823994
+sample estimates:
+mean of x mean of y 
+ 6.394737  2.000000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,20.3306414084672,16.7974562249051,23.8264599211596,95,57,38,4.25778,0.13927,3.51784,4.9899,99.99897,99.86968,0.99739,0,4.22335,0.13703,3.48939,4.94955,99.9988,99.85884,0,0.90351,0.00036,0.86724,0.92695,0,1.491,0.01087,1.32183,1.63629,2259.20095,590.3149,8524.35603,0,7.72277,6.38066,9.05068,0,,,,,,,,tilburg,tilburg,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburg,1,1,1,1,1,1,95,15,65,95,95,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 95 ","Setting
+In a lab 
+      95 ","Tablet
+Computers 
+       95 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       95 ","analysis.type
+Secondary 
+       95 ","subset
+all 
+ 95 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.634131Z,27,Knobe,2,,tilburgcaf,Secondary,Knobe.2,81,38,43,Praise,as.numeric.ignore.,38,,,,,2.44736842105263,1.24547545292578,2,2.34375,1,1,5,4,0.716899587087581,2.63088118154349,0.202042797957101,Blame,as.numeric.ignore.,43,,,,,6.04651162790698,0.815139145939222,6,6.11428571428571,0,3,7,4,-1.1519581246006,5.76734166666667,0.124307554377872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.59914320685435,6.04651162790698,2.44736842105263,15.1721296417451,1.28749094824662e-22,62.4325023930754,3.12501112202862,4.07327529168007,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 15.172, df = 62.433, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.125011 4.073275
+sample estimates:
+mean of x mean of y 
+ 6.046512  2.447368 
+",,,,,,,,,,,,,,,,,,,,,,,,,,15.1721296417451,11.848923166358,18.4492791343265,81,38,43,3.37803,0.12001,2.63812,4.10767,99.9635,99.15442,0.98309,0,3.34585,0.11774,2.613,4.06855,99.95899,99.10063,0,0.86284,0.00082,0.79995,0.9009,0,1.30436,0.01282,1.09848,1.47699,458.08831,119.70488,1720.71477,0,6.12706,4.78503,7.4505,0,,,,,,,,tilburgcaf,tilburgcaf,"Department of Social Psychology, Tilburg University, P.O. Box 90153, Tilburg, 5000 LE, Netherlands","Hans IJzerman, Mark J. Brandt, A. E. van 't Veer, Mark Verschoor, Marieke de Vries, German Kurapov, Maaike de Bruijn, Esther Maassen",ML2_Slate2_Dutch_Inlab_DEPLOY__netherlands_r.csv,DO.BR.FL_5,DO.BR.FL_6,The Netherlands,Dutch,1,No,Other (please indicate),Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,tilburgcaf,1,1,1,1,1,1,81,15,63,81,81,0,100,< table of extent 0 >,"SubjectPool
+No 
+81 ","Setting
+Other (please indicate) 
+                     81 ","Tablet
+Computers 
+       81 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       81 ","analysis.type
+Secondary 
+       81 ","subset
+all 
+ 81 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.749918Z,27,Knobe,2,,ulatina,Secondary,Knobe.2,208,113,95,Praise,as.numeric.ignore.,113,,,,,1.84070796460177,1.37299445739059,1,1.58241758241758,0,1,7,6,1.64017457124234,5.21028131129413,0.129160453824234,Blame,as.numeric.ignore.,95,,,,,6.22105263157895,1.15941059281532,7,6.44155844155844,0,3,7,4,-1.34374960144642,3.72991750167472,0.118953016940673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.22105263157895,1.84070796460177,24.5855759285086,3.4430702995133e-63,206,4.02907960146424,4.73160973249012, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 24.586, df = 206, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 4.02908 4.73161
+sample estimates:
+mean of x mean of y 
+ 6.221053  1.840708 
+",,,,,,,,,,,,,,,,,,,,,,,,,,24.5855759285086,21.4953079556048,27.6498947271168,208,113,95,3.42224,0.04753,2.99209,3.84879,99.96895,99.22374,0.98447,0,3.40977,0.04718,2.98118,3.83476,99.96749,99.20471,0,0.86361,0.00031,0.83165,0.88755,0,1.30737,0.00488,1.19346,1.41025,496.34181,227.47645,1075.92002,0,6.20726,5.42705,6.98093,0,,,,,,,,ulatina,ulatina,"Universidad Latina de Costa Rica, Costa Rica","Luis Diego Vega Araya, Aaron Ocampo, Fernando Mena",ML2_Slate2_SpanishCosta_Rica_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Costa Rica,Spanish,0,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,ulatina,1,1,1,1,1,1,208,15,97,208,208,0,0,< table of extent 0 >,"SubjectPool
+Yes 
+208 ","Setting
+In a lab 
+     208 ","Tablet
+Computers 
+      208 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      208 ","analysis.type
+Secondary 
+      208 ","subset
+all 
+208 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:34.890163Z,27,Knobe,2,,umich,Secondary,Knobe.2,86,43,43,Praise,as.numeric.ignore.,43,,,,,2.44186046511628,1.50083033496534,2,2.25714285714286,1,1,7,6,1.01111305922331,3.36198272436427,0.228874480394018,Blame,as.numeric.ignore.,43,,,,,6.04651162790698,1.02245010058922,6,6.17142857142857,1,4,7,3,-0.634040892152588,2.15607606470842,0.155922178576284,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6.04651162790698,2.44186046511628,13.0160437239705,7.62215539299471e-22,84,3.05392743287577,4.15537489270563, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.016, df = 84, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.053927 4.155375
+sample estimates:
+mean of x mean of y 
+ 6.046512  2.441860 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.0160437239705,10.2204796719909,15.7712863107877,86,43,43,2.80711,0.09232,2.20421,3.40132,99.75006,97.64238,0.95285,0,2.78197,0.09068,2.18447,3.37086,99.72985,97.54172,0,0.81764,0.00129,0.7445,0.86461,0,1.14965,0.01205,0.9605,1.31131,162.63986,54.48831,477.85992,0,5.09154,3.99799,6.16932,0,,,,,,,,umich,umich,University of Michigan,"Walter Sowden, Neil Lewis Jr., Michael P. Hall",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,umich,1,1,1,1,1,1,86,15,68,86,86,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 86 ","Setting
+In a lab 
+      86 ","Tablet
+Computers 
+       86 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       86 ","analysis.type
+Secondary 
+       86 ","subset
+all 
+ 86 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.008825Z,27,Knobe,2,,uned,Secondary,Knobe.2,84,46,38,Praise,as.numeric.ignore.,46,,,,,1.84782608695652,1.31601066028016,1,1.60526315789474,0,1,6,5,1.52541278078865,4.41031564573449,0.194035186072404,Blame,as.numeric.ignore.,38,,,,,6.63157894736842,0.541322336484687,7,6.6875,0,5,7,2,-1.05611992533338,3.05693279291168,0.0878140787143707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,4.7837528604119,6.63157894736842,1.84782608695652,22.4609224453007,1.58432069943321e-31,62.1503978500245,4.35803012147269,5.20947559935111,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 22.461, df = 62.15, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 4.358030 5.209476
+sample estimates:
+mean of x mean of y 
+ 6.631579  1.847826 
+",,,,,,,,,,,,,,,,,,,,,,,,,,22.4609224453007,18.0403417357098,26.8397017814203,84,46,38,4.92376,0.19236,3.9547,5.88365,99.99996,99.97508,0.9995,0,4.87858,0.18885,3.91842,5.82967,99.99995,99.97194,0,0.92746,0.00024,0.89373,0.94752,0,1.63992,0.01235,1.44015,1.80698,7560.5966,1303.79529,43120.56654,0,8.93071,7.17303,10.67176,0,,,,,,,,uned,uned,"UNED, Spain","Angel Gomez Jimenez, Alexandra Vázquez",ML2_Slate2_SpanishSpain_UNED_r_manually_recode_rosss21.csv,DO.BR.FL_5,DO.BR.FL_6,Spain,Spanish,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,uned,1,1,1,1,1,1,84,15,61,84,84,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 84 ","Setting
+Online (at home) 
+              84 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             84 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       84 ","analysis.type
+Secondary 
+       84 ","subset
+all 
+ 84 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.114847Z,27,Knobe,2,,unswonline,Secondary,Knobe.2,97,40,57,Praise,as.numeric.ignore.,40,,,,,2.325,1.11832062738779,2,2.21875,1,1,5,4,0.558323052552405,2.73307962035529,0.176822016844695,Blame,as.numeric.ignore.,57,,,,,5.92982456140351,1.26575286917097,6,6.12765957446809,1,1,7,6,-1.73319788259932,6.60376371410755,0.167653063126486,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.92982456140351,2.325,14.4747657938565,9.14790235149549e-26,95,3.11041368941379,4.09923543339323, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 14.475, df = 95, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.110414 4.099235
+sample estimates:
+mean of x mean of y 
+ 5.929825  2.325000 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.4747657938565,11.6157643231507,17.2957053848726,97,40,57,2.98559,0.08849,2.39589,3.56744,99.85848,98.26194,0.96524,0,2.96196,0.0871,2.37692,3.5392,99.84715,98.18887,0,0.82948,0.00101,0.76604,0.87119,0,1.18646,0.01064,1.01068,1.33799,224.81077,77.14273,645.88474,0,5.41526,4.34566,6.47062,0,,,,,,,,unswonline,unswonline,"University of New South Wales, Sydney, Australia",Lisa A. Williams,ML2_Slate2_AustraliaEng_online_DEPLOY__unsw_r.csv,DO.BR.FL_5,DO.BR.FL_6,Australia,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,unswonline,1,1,1,1,1,1,97,15,69,97,97,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 97 ","Setting
+Online (at home) 
+              97 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                             97 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       97 ","analysis.type
+Secondary 
+       97 ","subset
+all 
+ 97 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.249343Z,27,Knobe,2,,vcu,Secondary,Knobe.2,96,45,51,Praise,as.numeric.ignore.,45,,,,,2.55555555555556,1.48562132021276,2,2.37837837837838,1,1,7,6,0.921306881522839,3.41085464132922,0.221463350721248,Blame,as.numeric.ignore.,51,,,,,5.96078431372549,1.37055878113601,6,6.21951219512195,1,1,7,6,-1.71781634793363,5.89011214211933,0.191916616521446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.96078431372549,2.55555555555556,11.679173597404,5.30941816690143e-20,94,2.82632122949277,3.9841362868471, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 11.679, df = 94, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.826321 3.984136
+sample estimates:
+mean of x mean of y 
+ 5.960784  2.555556 
+",,,,,,,,,,,,,,,,,,,,,,,,,,11.679173597404,9.08748998571363,14.2336661091266,96,45,51,2.38867,0.07155,1.85861,2.91113,99.15453,95.43947,0.90879,0,2.36956,0.07041,1.84374,2.88784,99.10954,95.30852,0,0.76943,0.00175,0.68386,0.82648,0,1.01892,0.01075,0.83634,1.17693,76.13975,29.11185,196.40896,0,4.33257,3.37115,5.2802,0,,,,,,,,vcu,vcu,"Department of Psychology, Virginia Commonwealth University, Richmond, VA 23284","Jennifer A. Joy-Gaba, Daniel Berry, Jennifer A. Coleman",ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vcu,1,1,1,1,1,1,96,15,62,96,96,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+ 96 ","Setting
+In a lab 
+      96 ","Tablet
+Computers 
+       96 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                       96 ","analysis.type
+Secondary 
+       96 ","subset
+all 
+ 96 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.353859Z,27,Knobe,2,,vuw,Secondary,Knobe.2,100,52,48,Praise,as.numeric.ignore.,52,,,,,2.28846153846154,1.27320097548733,2,2.16666666666667,1,1,5,4,0.539203146221187,2.13413804505405,0.176561207734244,Blame,as.numeric.ignore.,48,,,,,6,1.22039407657021,6,6.2,1,1,7,6,-1.84543246726984,7.50367346938776,0.176148712156309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,6,2.28846153846154,14.8562111912344,7.70881185772041e-27,98,3.21575745867918,4.20731946439775, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 14.856, df = 98, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.215757 4.207319
+sample estimates:
+mean of x mean of y 
+ 6.000000  2.288462 
+",,,,,,,,,,,,,,,,,,,,,,,,,,14.8562111912344,11.9817399553608,17.6931818431448,100,52,48,2.97362,0.08428,2.39827,3.54147,99.85285,98.22526,0.96451,0,2.95081,0.08299,2.37987,3.5143,99.84153,98.15349,0,0.83217,0.00096,0.77091,0.87269,0,1.19515,0.01031,1.02257,1.34425,219.98379,77.47659,616.16653,0,5.39355,4.34998,6.42352,0,,,,,,,,vuw,vuw,"Victoria University of Wellington, New Zealand",Taciano L. Milfont,ML2_Slate2_New_ZealandEng_online_DEPLOY__vuw_r.csv,DO.BR.FL_5,DO.BR.FL_6,New Zealand,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,vuw,1,1,1,1,1,1,100,15,70,100,100,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+100 ","Setting
+Online (at home) 
+             100 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            100 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      100 ","analysis.type
+Secondary 
+      100 ","subset
+all 
+100 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.489262Z,27,Knobe,2,,westernkentucky,Secondary,Knobe.2,162,66,96,Praise,as.numeric.ignore.,66,,,,,2.54545454545455,1.59982516527293,2,2.31481481481482,1,1,7,6,1.0868104122436,3.75076592313894,0.196924864899702,Blame,as.numeric.ignore.,96,,,,,5.72916666666667,1.38015381802302,6,5.88461538461539,1,2,7,5,-0.785136895467042,2.54621793672441,0.140861359196267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,,5.72916666666667,2.54545454545455,13.5138076048071,3.00463505920195e-28,160,2.71844591211361,3.64897833031064, Two Sample t-test,two.sided,t,TRUE,"
+	Two Sample t-test
+
+data:  Blame and Praise
+t = 13.514, df = 160, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.718446 3.648978
+sample estimates:
+mean of x mean of y 
+ 5.729167  2.545455 
+",,,,,,,,,,,,,,,,,,,,,,,,,,13.5138076048071,11.0443472114708,15.9556390861635,162,66,96,2.16087,0.03998,1.766,2.55132,98.46471,93.67391,0.87348,0,2.15072,0.03961,1.75771,2.53934,98.42509,93.58436,0,0.73008,0.00135,0.65771,0.78363,0,0.9289,0.00629,0.78876,1.0547,50.36899,24.61028,102.26567,0,3.91938,3.20316,4.62757,0,,,,,,,,westernkentucky,westernkentucky,"Psychological Sciences Department, Western Kentucky University, Bowling Green, KY 42101;",Aaron Wichman,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,In a lab,Computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,westernkentucky,1,1,1,1,1,1,162,15,95,162,162,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+162 ","Setting
+In a lab 
+     162 ","Tablet
+Computers 
+      162 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      162 ","analysis.type
+Secondary 
+      162 ","subset
+all 
+162 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-11-14T16:12:35.609499Z,27,Knobe,2,,yale,Secondary,Knobe.2,282,130,152,Praise,as.numeric.ignore.,130,,,,,2.52307692307692,1.44251817188121,2,2.33653846153846,1,1,7,6,0.871516036652752,3.10000034687469,0.126517213064453,Blame,as.numeric.ignore.,152,,,,,6.125,1.10574957345924,6,6.31967213114754,1,2,7,5,-1.48681273839973,5.17684110548152,0.0896881336106465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t,3.60192307692308,6.125,2.52307692307692,23.2258586376902,2.81613098498969e-63,239.550442034983,3.29642361858858,3.90742253525758,Welch Two Sample t-test,two.sided,t,FALSE,"
+	Welch Two Sample t-test
+
+data:  Blame and Praise
+t = 23.226, df = 239.55, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 3.296424 3.907423
+sample estimates:
+mean of x mean of y 
+ 6.125000  2.523077 
+",,,,,,,,,,,,,,,,,,,,,,,,,,23.2258586376902,20.3569237586146,26.0707047909699,282,130,152,2.77462,0.02792,2.43189,3.11447,99.72367,97.51158,0.95023,0,2.76718,0.02777,2.42537,3.10612,99.71728,97.4808,0,0.81136,0.00042,0.77251,0.84157,0,1.13099,0.00358,1.02653,1.22652,153.33061,82.34794,284.01296,0,5.0326,4.41095,5.64902,0,,,,,,,,yale,yale,"Yale University, New Haven, CT",Yarrow Dunham,ML2_Slate2_USEng_Inlab_DEPLOY_r.csv,DO.BR.FL_5,DO.BR.FL_6,USA,English,1,Yes,Online (at home),Unable to verify (completed online) but likely mostly computers,"No, the whole study was on the computer (except maybe consent/debriefing)",,Slate2,yale,1,1,1,1,1,1,282,15,108,282,282,0,100,< table of extent 0 >,"SubjectPool
+Yes 
+282 ","Setting
+Online (at home) 
+             282 ","Tablet
+Unable to verify (completed online) but likely mostly computers 
+                                                            282 ","Pencil
+No, the whole study was on the computer (except maybe consent/debriefing) 
+                                                                      282 ","analysis.type
+Secondary 
+      282 ","subset
+all 
+282 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,

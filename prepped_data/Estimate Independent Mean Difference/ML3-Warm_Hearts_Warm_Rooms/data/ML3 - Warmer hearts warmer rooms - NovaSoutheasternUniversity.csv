@@ -1,0 +1,130 @@
+"","Participant_ID","referrer","TempCond","tempestclean","age","year","Genderfactor","ethnicity","AttentionCheck","Temperatureinlab"
+"1756","10","NovaSoutheasternUniversity","Agentic",74,"almost 19","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1757","100","NovaSoutheasternUniversity","Agentic",82,"18","First-year","Male","White, non-Hispanic or latino","Fail",77
+"1758","101","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","Asian-American","Pass",78
+"1759","102","NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","African-American","Fail",78
+"1760","103","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1761","104","NovaSoutheasternUniversity","Agentic",76,"18","First-year","Female","Asian-American","Fail",78
+"1762","105","NovaSoutheasternUniversity","Agentic",75,"18","First-year","Female","Other","Pass",76
+"1763","106","NovaSoutheasternUniversity","Agentic",74,"28","First-year","Male","Latino or Hispanic","Pass",78
+"1765","108","NovaSoutheasternUniversity","Communal",72,"18","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1766","109","NovaSoutheasternUniversity","Communal",70,"18","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1769","111","NovaSoutheasternUniversity","Communal",72,"21","Senior","Female","Asian-American","Fail",78
+"1770","112","NovaSoutheasternUniversity","Communal",77,"18","First-year","Male","Asian-American","Pass",78
+"1771","113","NovaSoutheasternUniversity","Agentic",78,"19","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1772","114","NovaSoutheasternUniversity","Agentic",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1773","115","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",77
+"1774","116","NovaSoutheasternUniversity","Agentic",73,"18","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1775","117","NovaSoutheasternUniversity","Communal",65,"18","First-year","Male","White, non-Hispanic or latino","Pass",77
+"1776","118","NovaSoutheasternUniversity","Agentic",65,"20","Junior","Female","Latino or Hispanic","Pass",77
+"1777","119","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","Latino or Hispanic","Fail",77
+"1778","12","NovaSoutheasternUniversity","Agentic",85,"18","First-year","Female","Other","Fail",78
+"1779","120","NovaSoutheasternUniversity","Communal",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1780","121","NovaSoutheasternUniversity","Communal",80,"19","First-year","Female","Latino or Hispanic","Pass",78
+"1782","123","NovaSoutheasternUniversity","Agentic",75,"18","First-year","Female","Latino or Hispanic","Pass",76
+"1783","124","NovaSoutheasternUniversity","Communal",75,"25","Senior","Female","African-American","Fail",77
+"1784","125","NovaSoutheasternUniversity","Communal",71,"18","First-year","Female","White, non-Hispanic or latino","Fail",77
+"1785","126","NovaSoutheasternUniversity","Communal",73,"18","First-year","Female","African-American","Pass",78
+"1786","127","NovaSoutheasternUniversity","Agentic",77,"13","First-year","Female","Multiracial","Pass",78
+"1787","128","NovaSoutheasternUniversity","Communal",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1788","129","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Fail",77
+"1789","13","NovaSoutheasternUniversity","Agentic",72,"18","First-year","Female","Asian-American","Fail",78
+"1790","130","NovaSoutheasternUniversity","Communal",65,"18","First-year","Male","African-American","Pass",78
+"1791","131","NovaSoutheasternUniversity","Communal",78,"19","Sophomore","Female","Multiracial","Pass",78
+"1792","132","NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1795","135","NovaSoutheasternUniversity","Agentic",75,"19","First-year","Female","Latino or Hispanic","Fail",78
+"1796","136","NovaSoutheasternUniversity","Communal",79,"18","First-year","Female","Asian-American","Pass",78
+"1797","137","NovaSoutheasternUniversity","Communal",74,"18","First-year","Female","Latino or Hispanic","Pass",77
+"1798","138","NovaSoutheasternUniversity","Communal",75,"19","First-year","Female","Native American and Alaska Native","Fail",78
+"1799","14","NovaSoutheasternUniversity","Agentic",60,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1801","16","NovaSoutheasternUniversity","Communal",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1803","18","NovaSoutheasternUniversity","Agentic",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",76
+"1804","19","NovaSoutheasternUniversity","Agentic",78,"18","First-year","Male","White, non-Hispanic or latino","Pass",79
+"1805","20","NovaSoutheasternUniversity","Agentic",80,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1806","21","NovaSoutheasternUniversity","Communal",74,"19","First-year","Female","Latino or Hispanic","Fail",79
+"1807","22","NovaSoutheasternUniversity","Communal",75,"24","First-year","Male","White, non-Hispanic or latino","Pass",78
+"1808","23","NovaSoutheasternUniversity","Communal",75,"18","First-year","Male","White, non-Hispanic or latino","Fail",78
+"1809","24","NovaSoutheasternUniversity","Communal",70,"18","First-year","Female","Latino or Hispanic","Pass",78
+"1811","26","NovaSoutheasternUniversity","Agentic",80,"21","Junior","Male","White, non-Hispanic or latino","Pass",78
+"1812","27","NovaSoutheasternUniversity","Communal",73,"21","Senior","Female","White, non-Hispanic or latino",NA,78
+"1813","28","NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","Multiracial","Fail",78
+"1814","29","NovaSoutheasternUniversity","Communal",80,"19","First-year","Female","Other","Pass",78
+"1815","30","NovaSoutheasternUniversity","Agentic",80,"26","Junior","Male","White, non-Hispanic or latino","Fail",78
+"1816","31","NovaSoutheasternUniversity","Communal",77,"19","Sophomore","Female","Latino or Hispanic","Fail",79
+"1817","32","NovaSoutheasternUniversity","Communal",72,"18","First-year","Male","Multiracial","Pass",79
+"1818","33","NovaSoutheasternUniversity","Agentic",77,"18","First-year","Female","Latino or Hispanic","Fail",79
+"1819","34","NovaSoutheasternUniversity","Communal",78,"24","Junior",NA,"Multiracial","Fail",79
+"1821","36","NovaSoutheasternUniversity","Communal",75,"19","Sophomore","Female","Asian-American","Fail",78
+"1822","37","NovaSoutheasternUniversity","Communal",80,"18","First-year","Female","Asian-American","Pass",76
+"1823","38","NovaSoutheasternUniversity","Agentic",79,"19","Sophomore","Female","African-American","Fail",77
+"1824","39","NovaSoutheasternUniversity","Agentic",76,"49","Junior","Female","Multiracial","Pass",78
+"1825","40","NovaSoutheasternUniversity","Communal",82,"18","First-year","Female","Multiracial","Fail",78
+"1826","41","NovaSoutheasternUniversity","Communal",76,"20","Junior","Female","Multiracial","Pass",78
+"1827","42","NovaSoutheasternUniversity","Agentic",79,"18","First-year","Female","Latino or Hispanic","Fail",79
+"1828","43","NovaSoutheasternUniversity","Agentic",74,"18","First-year","Female","Latino or Hispanic","Pass",77
+"1829","44","NovaSoutheasternUniversity","Communal",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1830","45","NovaSoutheasternUniversity","Agentic",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1831","46","NovaSoutheasternUniversity","Agentic",76,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1832","47","NovaSoutheasternUniversity","Communal",85,"19","First-year","Female","Latino or Hispanic","Fail",79
+"1833","48","NovaSoutheasternUniversity","Communal",70,"18","First-year","Female","Asian-American","Pass",79
+"1834","49","NovaSoutheasternUniversity","Communal",75,"18","Sophomore","Female","African-American","Pass",78
+"1836","51","NovaSoutheasternUniversity","Communal",78,"18","First-year","Female","African-American","Fail",78
+"1837","52","NovaSoutheasternUniversity","Agentic",78,"18","First-year","Female","Other","Fail",78
+"1838","53","NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","Latino or Hispanic","Pass",78
+"1840","55","NovaSoutheasternUniversity","Agentic",76,"18","First-year","Male","Other","Fail",77
+"1841","56","NovaSoutheasternUniversity","Communal",71,"18","Sophomore","Male","Multiracial","Pass",78
+"1842","57","NovaSoutheasternUniversity","Communal",78,"18","First-year","Female","Asian-American","Pass",78
+"1843","58","NovaSoutheasternUniversity","Communal",78,"25","Junior","Female","Multiracial","Fail",78
+"1844","59","NovaSoutheasternUniversity","Communal",78,"26","First-year","Female","African-American","Pass",78
+"1845","60","NovaSoutheasternUniversity","Communal",70,"19","Sophomore","Female","Latino or Hispanic","Pass",78
+"1846","61","NovaSoutheasternUniversity","Agentic",71,"19","First-year","Female","Other","Fail",78
+"1849","64","NovaSoutheasternUniversity","Communal",75,"20","Junior","Female","White, non-Hispanic or latino","Pass",78
+"1850","65","NovaSoutheasternUniversity","Agentic",60,"18","First-year","Female","African-American","Pass",78
+"1851","66","NovaSoutheasternUniversity","Communal",78,"18","First-year","Female","African-American","Pass",78
+"1852","67","NovaSoutheasternUniversity","Communal",85,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1853","68","NovaSoutheasternUniversity","Agentic",75,"21","Junior","Male","White, non-Hispanic or latino","Pass",78
+"1854","69","NovaSoutheasternUniversity","Agentic",76,"18","First-year","Male","Asian-American","Fail",77
+"1855","7","NovaSoutheasternUniversity","Communal",71,"18","First-year","Female","African-American","Fail",78
+"1856","70","NovaSoutheasternUniversity","Communal",80,"18","First-year","Female","Multiracial","Pass",78
+"1857","71","NovaSoutheasternUniversity","Agentic",71,"18","First-year","Male","African-American","Fail",78
+"1859","73","NovaSoutheasternUniversity","Agentic",75,"22","Other","Female","African-American","Pass",78
+"1860","74","NovaSoutheasternUniversity","Agentic",76,"18","First-year","Female","African-American","Fail",78
+"1862","76","NovaSoutheasternUniversity","Communal",74,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1863","77","NovaSoutheasternUniversity","Communal",73,"19","Sophomore","Female","Multiracial","Pass",78
+"1864","78","NovaSoutheasternUniversity","Agentic",80,"19","First-year","Female","Latino or Hispanic","Pass",78
+"1865","79","NovaSoutheasternUniversity","Communal",65,"18","First-year","Female","African-American","Pass",78
+"1866","8","NovaSoutheasternUniversity","Communal",74,"22","Sophomore","Female","Multiracial","Pass",78
+"1867","80","NovaSoutheasternUniversity","Communal",75,"21","Junior","Female","Asian-American","Fail",78
+"1868","81","NovaSoutheasternUniversity","Communal",78,"18","First-year","Female","African-American","Fail",78
+"1869","82","NovaSoutheasternUniversity","Agentic",74,"19","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1870","83","NovaSoutheasternUniversity","Communal",76,"18","First-year","Female","Latino or Hispanic","Pass",78
+"1871","84","NovaSoutheasternUniversity","Communal",80,"18","First-year","Male","African-American","Pass",78
+"1872","85","NovaSoutheasternUniversity","Agentic",75,"18","First-year","Female","Latino or Hispanic","Fail",78
+"1873","86","NovaSoutheasternUniversity","Communal",76,"19","First-year","Female","White, non-Hispanic or latino","Fail",78
+"1874","87","NovaSoutheasternUniversity","Agentic",77,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1877","9","NovaSoutheasternUniversity","Communal",76,"21","Senior","Female","Asian-American","Fail",78
+"1878","90","NovaSoutheasternUniversity","Agentic",75,"18","First-year","Female","Latino or Hispanic","Pass",78
+"1879","91","NovaSoutheasternUniversity","Agentic",75,"19","First-year","Male","White, non-Hispanic or latino","Pass",78
+"1880","92","NovaSoutheasternUniversity","Communal",77,"20","Junior","Female","Latino or Hispanic","Pass",78
+"1881","93","NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","White, non-Hispanic or latino","Pass",78
+"1882","94","NovaSoutheasternUniversity","Communal",80,"19","Sophomore","Male","White, non-Hispanic or latino","Pass",78
+"1883","95","NovaSoutheasternUniversity","Agentic",74,"18","First-year","Male","White, non-Hispanic or latino","Fail",78
+"1884","96","NovaSoutheasternUniversity","Communal",72,"20","Junior","Female","White, non-Hispanic or latino","Pass",78
+"1885","97","NovaSoutheasternUniversity","Agentic",77,"21","Junior","Female","African-American","Pass",78
+"1886","98","NovaSoutheasternUniversity","Agentic",76,"27","Junior","Female","African-American","Fail",78
+"1888",NA,"NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"1889",NA,"NovaSoutheasternUniversity","Communal",78,NA,NA,NA,NA,NA,NA
+"1890",NA,"NovaSoutheasternUniversity","Agentic",78,"18","First-year","Male","White, non-Hispanic or latino","Fail",NA
+"1891",NA,"NovaSoutheasternUniversity","Communal",85,"19","First-year","Male","Latino or Hispanic","Pass",NA
+"1892",NA,"NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","Multiracial","Pass",NA
+"1893",NA,"NovaSoutheasternUniversity","Communal",70,"19","First-year","Male","White, non-Hispanic or latino","Pass",NA
+"1894",NA,"NovaSoutheasternUniversity","Agentic",77,"18","First-year","Female","African-American","Pass",NA
+"1895",NA,"NovaSoutheasternUniversity","Agentic",70,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"1896",NA,"NovaSoutheasternUniversity","Agentic",76,"21","Junior","Male","Latino or Hispanic","Pass",NA
+"1897",NA,"NovaSoutheasternUniversity","Agentic",78,"18","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"1900",NA,"NovaSoutheasternUniversity","Agentic",80,"18","First-year","Male","Latino or Hispanic","Pass",NA
+"1901",NA,"NovaSoutheasternUniversity","Communal",76,"21","Sophomore","Female","Latino or Hispanic","Fail",NA
+"1902",NA,"NovaSoutheasternUniversity","Communal",73,"18","First-year","Female","Latino or Hispanic","Pass",NA
+"1903",NA,"NovaSoutheasternUniversity","Communal",70,"19","First-year","Female","White, non-Hispanic or latino","Pass",NA
+"1904",NA,"NovaSoutheasternUniversity","Communal",70,"20","Junior","Female","African-American","Pass",NA
+"1905",NA,"NovaSoutheasternUniversity","Communal",75,"18","First-year","Female","Latino or Hispanic","Pass",NA

@@ -1,0 +1,23 @@
+SHA-1 hash of file is de3025fc9248d9a03260c71a86f6119eb0c1ecc3
+
+	# 
+	# Analyzing studies in study.secondary.include
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	
+	~~~~~~SAVANI.1A~~~~~~~
+	# 53 Savani.1a - START
+
+	# 
+	# 53 Savani.1a - isb >> ES r is close to 0:  -0.02
+	# 
+	# 53 Savani.1a - kenyon >> ES r is close to 0:  -0.01
+	# 
+	# 53 Savani.1a - krakowon >> ES r is close to 0:  -0.04
+	# 
+	# 53 Savani.1a - seznam >> ES r is close to 0:  -0.02
+	# 
+	# 53 Savani.1a - yale >> ES r is close to 0:  -0.01
+	# 
+	# 53 Savani.1a - COMPLETED
+	~~~~~~~~~~~~~~~~~~~~~~~~~~
