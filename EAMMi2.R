@@ -342,11 +342,8 @@
     
     # Get meta-analysis info for each 
     if(cstudy$type == "eimd") {
-      if(cstudy$reference_group == 2) {
-        meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m1, sd1i = s1, n1i = n1, m2i = m2, sd2i = s2, n2i = n2)
-      } else {
-        meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m2, sd1i = s2, n1i = n2, m2i = m1, sd2i = s1, n2i = n1)
-      }
+      meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m2, sd1i = s2, n1i = n2, m2i = m1, sd2i = s1, n2i = n1)
+      
     }
     
     if(cstudy$type == "epd") {

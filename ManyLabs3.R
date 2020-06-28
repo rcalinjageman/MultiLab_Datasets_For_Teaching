@@ -28,41 +28,41 @@
 # Study definitions ---------------------
   studies <- list()
 
-  studies$NOCpersuasion <- list(iv = "TempCond",
-                               dv = "tempestclean",
-                               iv_levels = c("Agentic", "Communal"),
-                               ylab = "Perceived temperature in the lab",
-                               reference_group = 1,
-                               exclude = NULL,
-                               keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
-                               name = "ML3 - Issue involvement and persuasion",
-                               type = "eimd",
-                               type_path = "/Estimate Independent Mean Difference",
-                               path = "/ML3-Issue_Involvement_Persuasion")
-  
-  studies$warmerhearts <- list(iv = "TempCond",
-                                   dv = "tempestclean",
-                                   iv_levels = c("Agentic", "Communal"),
-                                   ylab = "Perceived temperature in the lab",
-                                   reference_group = 1,
-                                   exclude = NULL,
-                                   keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck", "Temperatureinlab"),
-                                   name = "ML3 - Warmer hearts warmer rooms",
-                                   type = "eimd",
-                                   type_path = "/Estimate Independent Mean Difference",
-                                   path = "/ML3-Warm_Hearts_Warm_Rooms")
-
-  studies$weightembodiment <- list(iv = "ClipboardWeight",
-                                   dv = "IIResponse",
-                                   iv_levels = c("Light Clipboard", "Heavy Clipboard"),
-                                   ylab = "Rated importance of university listening to students (1-7 scale)",
-                                   reference_group = 1,
-                                   exclude = "CBReject",
-                                   keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
-                                   name = "ML3 - Weight as an embodiment of importance",
-                                   type = "eimd",
-                                   type_path = "/Estimate Independent Mean Difference",
-                                   path = "/ML3-Weight_Embodied_Importance")
+  # studies$NOCpersuasion <- list(iv = "TempCond",
+  #                              dv = "tempestclean",
+  #                              iv_levels = c("Agentic", "Communal"),
+  #                              ylab = "Perceived temperature in the lab",
+  #                              reference_group = 1,
+  #                              exclude = NULL,
+  #                              keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
+  #                              name = "ML3 - Issue involvement and persuasion",
+  #                              type = "eimd",
+  #                              type_path = "/Estimate Independent Mean Difference",
+  #                              path = "/ML3-Issue_Involvement_Persuasion")
+  # 
+  # studies$warmerhearts <- list(iv = "TempCond",
+  #                                  dv = "tempestclean",
+  #                                  iv_levels = c("Agentic", "Communal"),
+  #                                  ylab = "Perceived temperature in the lab",
+  #                                  reference_group = 1,
+  #                                  exclude = NULL,
+  #                                  keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck", "Temperatureinlab"),
+  #                                  name = "ML3 - Warmer hearts warmer rooms",
+  #                                  type = "eimd",
+  #                                  type_path = "/Estimate Independent Mean Difference",
+  #                                  path = "/ML3-Warm_Hearts_Warm_Rooms")
+  # 
+  # studies$weightembodiment <- list(iv = "ClipboardWeight",
+  #                                  dv = "IIResponse",
+  #                                  iv_levels = c("Light Clipboard", "Heavy Clipboard"),
+  #                                  ylab = "Rated importance of university listening to students (1-7 scale)",
+  #                                  reference_group = 1,
+  #                                  exclude = "CBReject",
+  #                                  keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
+  #                                  name = "ML3 - Weight as an embodiment of importance",
+  #                                  type = "eimd",
+  #                                  type_path = "/Estimate Independent Mean Difference",
+  #                                  path = "/ML3-Weight_Embodied_Importance")
 
   studies$powerperspective <- list(iv = "PowerCond",
                               dv = "Sincerity",
@@ -76,29 +76,29 @@
                               type_path = "/Estimate Independent Mean Difference",
                               path = "/ML3-Power_Perspective_Taking")
 
-  studies$mindfullSWB <- list(iv = "Conscientiousness",
-                              dv = "Persistence",
-                              ylab = "Time spent on unsolvable anagram",
-                              xlab = "Mean Self-Reported Conscientiousness (1-7 scale)",
-                              keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
-                              name = "ML3 - Correlation of Persistence and Conscientiosness",
-                              type = "ec",
-                              type_path = "/Estimate Correlation",
-                              path = "/ML3_Persistence_correlate_Conscientiousness")
-
-  studies$metaphoricrestructuring <- list(iv = "SRCondition",
-                                          dv = "SRMeetingResponse",
-                                          iv_levels = c("ego-centric", "object-centric"),
-                                          dv_levels = c("Ego-Consistent", "Ego-Inconsistent"),
-                                          ylab = "Proportion responding consistent with ego-centric prime",
-                                          group.level = 1,
-                                          case.level = 1,
-                                          exclude = "SRTFCorrect",
-                                          keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
-                                          name = "ML3 - Metaphoric restructuring",
-                                          type = "epd",
-                                          type_path = "/Estimate Proportion Difference",
-                                          path = "/ML3-Metaphoric_Restructuring")
+  # studies$mindfullSWB <- list(iv = "Conscientiousness",
+  #                             dv = "Persistence",
+  #                             ylab = "Time spent on unsolvable anagram",
+  #                             xlab = "Mean Self-Reported Conscientiousness (1-7 scale)",
+  #                             keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
+  #                             name = "ML3 - Correlation of Persistence and Conscientiosness",
+  #                             type = "ec",
+  #                             type_path = "/Estimate Correlation",
+  #                             path = "/ML3_Persistence_correlate_Conscientiousness")
+  # 
+  # studies$metaphoricrestructuring <- list(iv = "SRCondition",
+  #                                         dv = "SRMeetingResponse",
+  #                                         iv_levels = c("ego-centric", "object-centric"),
+  #                                         dv_levels = c("Ego-Consistent", "Ego-Inconsistent"),
+  #                                         ylab = "Proportion responding consistent with ego-centric prime",
+  #                                         group.level = 1,
+  #                                         case.level = 1,
+  #                                         exclude = "SRTFCorrect",
+  #                                         keeps = c("age", "year", "Genderfactor", "ethnicity", "AttentionCheck"),
+  #                                         name = "ML3 - Metaphoric restructuring",
+  #                                         type = "epd",
+  #                                         type_path = "/Estimate Proportion Difference",
+  #                                         path = "/ML3-Metaphoric_Restructuring")
 
   studies$moralcredit <- list(iv = "CredCond",
                               dv = "mcdv1",
@@ -397,11 +397,7 @@
     
     # Get meta-analysis info for each 
     if(cstudy$type == "eimd") {
-      if(cstudy$reference_group == 2) {
-        meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m1, sd1i = s1, n1i = n1, m2i = m2, sd2i = s2, n2i = n2)
-      } else {
-        meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m2, sd1i = s2, n1i = n2, m2i = m1, sd2i = s1, n2i = n1)
-      }
+      meta_table <- metafor::escalc(measure = "MD", data = meta_table, m1i = m2, sd1i = s2, n1i = n2, m2i = m1, sd2i = s1, n2i = n1)
     }
     
     if(cstudy$type == "epd") {
